@@ -75,7 +75,9 @@ for (const p of raw) {
     name: p.name,
     brand: p.brand || "",
     category: p.category,
-    price: p.price || 0,
+    // La BD prohíbe precio 0: los que no tenían precio en la web vieja
+    // entran a 1€ como marcador inconfundible (y ocultos) hasta revisarlos.
+    price: p.price && p.price > 0 ? p.price : 1,
     specs: p.specs || [],
     features: [],
     description: p.description || "",
