@@ -90,15 +90,15 @@
   .header-inner{ display:flex; align-items:center; justify-content:space-between; }
   .logo{ display:flex; align-items:center; gap:9px; font-family:'Fraunces'; font-weight:700; font-size:24px; color:#fff; }
   .logo .dot{ width:10px; height:10px; border-radius:50%; background:linear-gradient(135deg,var(--ice),var(--flame)); }
-  nav.main-nav{ display:flex; gap:26px; }
-  nav.main-nav a{ color:rgba(255,255,255,.82); font-size:14.5px; font-weight:500; transition:color .15s; position:relative; white-space:nowrap; }
+  nav.main-nav{ display:flex; gap:20px; }
+  nav.main-nav a{ color:rgba(255,255,255,.82); font-size:14px; font-weight:500; transition:color .15s; position:relative; white-space:nowrap; }
   nav.main-nav a:hover{ color:#fff; }
   .header-actions{ display:flex; align-items:center; gap:16px; }
   .phone-pill{ display:flex; align-items:center; gap:7px; color:#fff; font-family:'IBM Plex Mono'; font-size:13.5px; font-weight:600; }
   .phone-pill svg{ width:15px; height:15px; stroke:var(--flame); }
   .nav-toggle{ display:none; background:none; border:none; color:#fff; padding:6px; }
   .nav-toggle svg{ width:26px; height:26px; stroke:#fff; }
-  @media(max-width:920px){
+  @media(max-width:1040px){
     nav.main-nav{ display:none; }
     .phone-pill{ display:none; }
     .nav-toggle{ display:block; flex:none; }
@@ -815,7 +815,7 @@
 .consent-row.error{ color:var(--err); }
 .consent-row a{ color:var(--flame-deep); font-weight:600; }
 
-.consent-row.shake{ animation:consentShake .5s ease; }
+.consent-row.shake, .shake{ animation:consentShake .5s ease; }
 @keyframes consentShake{
   0%,100%{ transform:translateX(0); }
   20%,60%{ transform:translateX(-6px); }
@@ -884,4 +884,46 @@
   .budget-sheet{ box-shadow:none; border-radius:0; max-width:100%; animation:none; }
   .budget-close, .budget-actions, .budget-name-field p{ display:none !important; }
   .budget-name-field input{ border:none; padding:0; font-weight:700; }
+}
+
+/* ============ Artículos del blog (migrados) ============ */
+.article-hero{
+  background:linear-gradient(160deg, #0E2238 0%, #12293F 100%); color:#fff;
+  padding:150px 0 54px; position:relative; overflow:hidden;
+}
+.article-hero .breadcrumb{ font-family:'IBM Plex Mono'; font-size:11px; color:rgba(255,255,255,.55); }
+.article-hero .breadcrumb a{ color:rgba(255,255,255,.75); text-decoration:none; }
+.article-hero .breadcrumb a:hover{ color:#fff; }
+.article-hero h1{ font-size:clamp(26px, 4vw, 40px); line-height:1.2; max-width:820px; margin-top:4px; }
+.article-hero .wrap{ max-width:900px; }
+.article-meta{ margin-top:14px; font-family:'IBM Plex Mono'; font-size:11.5px; color:rgba(255,255,255,.6); }
+
+.article-prose{ padding:50px 0 30px; }
+.article-prose .wrap{ max-width:760px; }
+.article-prose h2{ font-size:25px; margin:36px 0 14px; }
+.article-prose h3{ font-size:19px; margin:28px 0 10px; }
+.article-prose h4{ font-family:'Inter'; font-weight:700; font-size:16px; margin:22px 0 8px; }
+.article-prose p{ font-size:16px; color:#3D4C5C; line-height:1.85; margin-bottom:16px; }
+.article-prose a{ color:var(--flame-deep); font-weight:600; }
+.article-prose ul, .article-prose ol{ margin:14px 0 18px 24px; }
+.article-prose li{ font-size:15.5px; color:#3D4C5C; line-height:1.8; margin-bottom:7px; }
+.article-prose img{
+  max-width:100%; height:auto; border-radius:14px; margin:22px auto; display:block;
+  box-shadow:0 14px 34px rgba(14,34,56,.12);
+}
+.article-prose figure{ margin:22px 0; }
+.article-prose figcaption{ text-align:center; font-size:12.5px; color:var(--muted); margin-top:8px; }
+.article-prose blockquote{
+  border-left:4px solid var(--flame); background:var(--cloud); padding:16px 20px;
+  border-radius:0 12px 12px 0; margin:20px 0; font-style:italic; color:#3D4C5C;
+}
+.article-prose table{ width:100%; border-collapse:collapse; margin:20px 0; font-size:14px; }
+.article-prose th{ background:var(--navy); color:#fff; padding:10px 12px; text-align:left; font-size:12.5px; }
+.article-prose td{ padding:10px 12px; border-bottom:1px solid var(--line); color:#3D4C5C; }
+.article-prose iframe{ max-width:100%; border-radius:14px; }
+
+/* Trampa anti-bots: invisible para personas, rellenable por robots */
+.hp-field{
+  position:absolute !important; left:-9999px !important; top:auto !important;
+  width:1px !important; height:1px !important; overflow:hidden !important;
 }
