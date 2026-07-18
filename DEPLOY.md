@@ -1,51 +1,67 @@
 # Despliegue — Decogas
 
-Guía para publicar la web en producción (Netlify) y configurar el backend (Supabase).
-Todas las rutas del repo llevan espacios y paréntesis; cítalas siempre entre comillas.
+Guía para publicar la web en producción (**GitHub Pages**) y configurar el backend
+(**Supabase**). Todas las rutas del repo llevan espacios y paréntesis; cítalas siempre entre
+comillas.
 
-La **carpeta que se publica** es `"decogas-web (2)\decogas-web"` (no el nivel superior: los
-`.sql` y el `LEEME.txt` de `"decogas-web (2)"` no forman parte del sitio).
+- **Repositorio:** `github.com/queren05/decogas` (privado). El `gh` CLI está autenticado en
+  el PC del equipo.
+- **URL de producción:** `https://queren05.github.io/decogas/` (el sitio se sirve bajo la
+  subruta `/decogas/`).
+- **Carpeta que se publica:** `"decogas-web (2)\decogas-web"` (no el nivel superior: los
+  `.sql`, el `LEEME.txt` y los tests de `"decogas-web (2)"` no forman parte del sitio).
 
-## Publicar en Netlify
+## Publicar: push a `main` → GitHub Actions → Pages
 
-El sitio es estático, sin build. Hay dos formas:
+El despliegue es **automático y continuo**. No hay build ni pasos manuales:
 
-### Opción A — Arrastrar la carpeta (la que describe `LEEME.txt`)
+1. Haz `push` (o merge) a la rama **`main`**.
+2. El workflow `.github/workflows/pages.yml` se dispara, sube como artefacto la carpeta
+   `"decogas-web (2)/decogas-web"` y la publica en GitHub Pages con las acciones oficiales
+   (`configure-pages` → `upload-pages-artifact` → `deploy-pages`).
+3. En un par de minutos el sitio queda actualizado en `https://queren05.github.io/decogas/`.
+   Recarga con `Ctrl + Shift + R` para saltarte la caché del navegador.
 
-1. Si aún no lo hiciste, ejecuta los scripts SQL en Supabase (ver más abajo).
-2. Entra en `https://app.netlify.com/drop` y arrastra **la carpeta `decogas-web` entera**
-   (la que contiene los `.html`), no su carpeta padre.
-3. Recarga con `Ctrl + Shift + R` para saltarte la caché.
+También puedes lanzarlo a mano desde la pestaña **Actions → Desplegar en GitHub Pages →
+Run workflow** (el workflow declara `workflow_dispatch`).
 
-### Opción B — Deploy continuo desde Git
+`config.js` viaja tal cual al navegador: la URL y la anon key de Supabase quedan en el sitio
+publicado (es lo esperado; ver la sección de seguridad).
 
-1. Conecta el repositorio en Netlify.
-2. Configura **Base directory** = `decogas-web (2)/decogas-web` y **Publish directory** =
-   el mismo. **Build command**: vacío (no hay build).
-3. Cada push publica automáticamente.
+> **`netlify.toml` es un vestigio.** El sitio estuvo alojado en Netlify; ese archivo y el
+> `LEEME.txt` (que describe el flujo de arrastrar la carpeta a `app.netlify.com/drop`)
+> **ya no se usan**. El único despliegue vigente es el de GitHub Pages descrito arriba.
 
-En ambos casos, `config.js` viaja tal cual al navegador: la URL y la anon key de Supabase
-quedan en el sitio publicado (es lo esperado; ver la sección de seguridad).
+## URLs absolutas y subruta `/decogas/`
 
-## Qué hace el archivo `_headers`
+Como GitHub Pages sirve el sitio bajo `/decogas/`, todo lo que apunta a una URL absoluta
+lleva ese prefijo. Verificado en el código:
 
-`_headers` está en la raíz publicada y Netlify lo aplica como cabeceras HTTP (si algún día
-se aloja en otro proveedor, hay que replicarlas en su configuración). Define:
+- `robots.txt` → `Sitemap: https://queren05.github.io/decogas/sitemap.xml`.
+- `sitemap.xml` → todas las `<loc>` empiezan por `https://queren05.github.io/decogas/`.
+- `index.html` → `canonical` y `og:url` = `https://queren05.github.io/decogas/`.
 
-- **Cabeceras de seguridad** para todas las rutas (`/*`):
-  - `X-Frame-Options: DENY` y `frame-ancestors 'none'` — impiden incrustar el sitio en
-    iframes (anti-clickjacking).
-  - `X-Content-Type-Options: nosniff`, `Referrer-Policy: strict-origin-when-cross-origin`,
-    `Permissions-Policy` (cámara, micrófono y geolocalización deshabilitados).
-  - **`Content-Security-Policy`** que restringe de dónde se cargan recursos. Puntos clave:
-    - `script-src 'self' https://cdn.jsdelivr.net` — permite el SDK de Supabase por CDN.
-    - `connect-src 'self' https://*.supabase.co https://formsubmit.co` — permite las
-      llamadas REST/Auth a Supabase y el envío de avisos por FormSubmit.
-    - `style-src` con Google Fonts, `img-src 'self' data: https:`, `form-action 'self'
-      mailto:`.
-  - Si añades un nuevo servicio externo (otro dominio de API, otra fuente de scripts),
-    tendrás que ampliar la CSP o el navegador bloqueará la petición.
-- **Caché de estáticos**: `styles.css` (5 min), `hero-bg.jpg` y `favicon.svg` (7 días).
+Si algún día cambia el nombre del repo o se usa dominio propio, hay que actualizar estos tres
+sitios (robots, sitemap y las etiquetas `canonical`/`og:url` de las páginas).
+
+## Cabeceras de seguridad: el archivo `_headers` YA NO se aplica
+
+El archivo `"decogas-web (2)\decogas-web\_headers"` está en formato **Netlify**.
+**GitHub Pages no soporta cabeceras HTTP personalizadas**, por lo que ese archivo se publica
+como un fichero estático inerte y **ninguna de sus cabeceras está activa** en producción.
+
+Esto significa que, actualmente, el sitio **NO** emite las cabeceras de seguridad que definía
+para Netlify (regresión conocida respecto al hosting anterior):
+
+- `Content-Security-Policy` (limitaba `script-src`/`connect-src`/`style-src`/`img-src`…).
+- `X-Frame-Options: DENY` y `frame-ancestors 'none'` (anti-clickjacking).
+- `X-Content-Type-Options: nosniff`, `Referrer-Policy`, `Permissions-Policy`.
+- Las reglas de caché de `styles.css`, `hero-bg.jpg` y `favicon.svg`.
+
+Para recuperarlas habría que ponerlas por delante con un proveedor que sí soporte cabeceras
+(por ejemplo Cloudflare delante de Pages, o volver a un hosting como Netlify). Mientras tanto,
+la única barrera de seguridad real del backend siguen siendo las **políticas RLS de Supabase**
+(ver más abajo), que no dependen de estas cabeceras.
 
 ## Configuración de Supabase (crítica)
 
@@ -77,10 +93,19 @@ políticas y el bucket de Storage. Estos scripts se ejecutan **una sola vez** po
   antiguo).
 - **`setup-supabase-v4.sql`** — crea la tabla **`leads`** y sus políticas. Referenciado en
   `clientes.js:85` (mensaje de error al leer clientes: «¿ejecutaste setup-supabase-v4.sql?»).
-- **`setup-supabase-v5.sql`** — **es el único que está en el repo** (en `"decogas-web (2)"`).
-  Añade la columna `img` a `products` y crea el bucket público de Storage `productos` con sus
-  permisos (lectura pública; subida/actualización/borrado solo para usuarios autenticados).
-  Referenciado en `admin.js:402`.
+- **`setup-supabase-v5.sql`** — en el repo, en `"decogas-web (2)"`. Añade la columna `img` a
+  `products` y crea el bucket público de Storage `productos` con sus permisos (lectura
+  pública; subida/actualización/borrado solo para usuarios autenticados). Referenciado en
+  `admin.js:402`.
+- **`setup-supabase-v6-seguridad.sql`** — en el repo, en `"decogas-web (2)"`. Endurece las
+  políticas (RLS/Storage). **Ojo:** este script usa un marcador `CORREO_DEL_ADMIN` que hay que
+  sustituir por el email real del administrador antes de ejecutarlo. Si se ejecuta sin
+  sustituir, deja el bucket sin nadie que pueda escribir (ver el arreglo siguiente).
+- **`import-antigua/arreglo-storage-admin.sql`** — corrige el caso anterior: recrea las tres
+  políticas de escritura del bucket `productos` (`insert`/`update`/`delete`) restringidas al
+  **email real del administrador** mediante `auth.jwt() ->> 'email'`. La lectura pública del
+  bucket no se toca. Ejecútalo si tras el `v6` nadie (ni el admin) puede subir/cambiar/borrar
+  fotos.
 
 > **Aviso importante — scripts ausentes del repo.** `setup-supabase-v3.sql` y
 > `setup-supabase-v4.sql` **NO están en el repositorio**; solo se mencionan por su nombre en
@@ -109,8 +134,12 @@ Supabase, tras ejecutar los scripts, que se cumple exactamente esto:
   `signInWithPassword` contra usuarios creados a mano en Authentication → Users. Si el
   registro público estuviera abierto, cualquiera podría crearse una cuenta y, al quedar
   autenticado, obtener los permisos de escritura de `products` y de lectura de `leads`.
-- **Bucket `productos` (Storage)** — lectura pública, escritura solo autenticados. Lo deja
-  así `setup-supabase-v5.sql`; verifícalo en Storage → Policies.
+- **Bucket `productos` (Storage)** — lectura pública; la **escritura** está restringida al
+  **email del administrador**, no a cualquier usuario autenticado. `setup-supabase-v5.sql` deja
+  escritura para todo `authenticated`, y `setup-supabase-v6-seguridad.sql` /
+  `import-antigua/arreglo-storage-admin.sql` la endurecen a un único email (comprobando
+  `auth.jwt() ->> 'email'`). Verifícalo en Storage → Policies: solo el email del admin debe
+  poder `insert`/`update`/`delete`.
 
 ### 4. Crear el usuario administrador
 
