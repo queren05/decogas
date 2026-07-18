@@ -1,0 +1,16 @@
+# Cabeceras de seguridad (formato Netlify). Si se aloja en otro
+# proveedor, replicar estas cabeceras en su configuración.
+/*
+  X-Frame-Options: DENY
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=()
+  Content-Security-Policy: default-src 'self'; script-src 'self' https://cdn.jsdelivr.net; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src 'self' data: https:; connect-src 'self' https://*.supabase.co https://formsubmit.co; frame-ancestors 'none'; base-uri 'self'; form-action 'self' mailto:
+
+# Cachear recursos estáticos compartidos (mejora de rendimiento)
+/styles.css
+  Cache-Control: public, max-age=300, must-revalidate
+/hero-bg.jpg
+  Cache-Control: public, max-age=604800
+/favicon.svg
+  Cache-Control: public, max-age=604800

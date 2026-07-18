@@ -1,0 +1,9 @@
+{
+  "name": "decogas-web-tests",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Suite de tests de la web estática de Decogas (node:test nativo, sin dependencias).",
+  "scripts": {
+    "test": "node --test"
+  }
+}

@@ -1,0 +1,7 @@
+CÓMO PUBLICAR:
+1. Si no lo hiciste aún: setup-supabase-v5.sql en Supabase → SQL Editor.
+2. app.netlify.com/drop → arrastra LA CARPETA "decogas-web" ENTERA.
+3. Ctrl + Shift + R.
+
+PRUEBA DEL PRESUPUESTO: entra en la Calculadora, calcula una caldera
+o un aire, y pulsa "Presupuesto al instante" en la recomendación.

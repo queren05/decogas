@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex, nofollow">
+<title>Clientes — Decogas</title>
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=IBM+Plex+Mono:wght@500;600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --navy:#0E2238; --navy-2:#16324B; --flame:#FF6B35; --flame-deep:#E2501C; --ice:#3AA6D9;
+    --gold:#FFB930; --cloud:#F3F6F9; --line:#E2E8EF; --muted:#5B6B7B; --ok:#1E9E5A; --err:#D8433B;
+  }
+  *{ margin:0; padding:0; box-sizing:border-box; }
+  body{ font-family:'Inter',sans-serif; background:var(--cloud); color:var(--navy); min-height:100vh; overflow-x:hidden; }
+  @media(max-width:640px){
+    .wrap{ padding:0 14px; }
+    .filters-card, .lead{ padding:14px; }
+    .admin-topbar h1{ font-size:20px; }
+    .admin-topbar .right{ flex-wrap:wrap; }
+    .stat-card .num{ font-size:26px; }
+  }
+  h1,h2,h3{ font-family:'Fraunces',serif; }
+  button{ font-family:'Inter',sans-serif; cursor:pointer; }
+
+  #loginScreen{
+    position:fixed; inset:0; display:flex; align-items:center; justify-content:center; padding:20px;
+    background:
+      radial-gradient(90% 120% at 85% -10%, rgba(58,166,217,.30), transparent 55%),
+      radial-gradient(70% 90% at 5% 110%, rgba(255,107,53,.22), transparent 55%),
+      linear-gradient(160deg, #0E2238 0%, #081729 100%);
+    overflow:hidden; z-index:50; transition:opacity .5s, visibility .5s;
+  }
+  #loginScreen.hidden{ opacity:0; visibility:hidden; }
+  .orb{ position:absolute; border-radius:50%; filter:blur(60px); opacity:.5; animation:float 9s ease-in-out infinite; }
+  .orb.o1{ width:340px; height:340px; background:var(--ice); top:-90px; right:-60px; }
+  .orb.o2{ width:280px; height:280px; background:var(--flame); bottom:-70px; left:-50px; animation-delay:-3s; }
+  @keyframes float{ 0%,100%{ transform:translateY(0) scale(1); } 50%{ transform:translateY(-26px) scale(1.05); } }
+  .login-card{
+    position:relative; z-index:1; width:100%; max-width:420px; background:rgba(255,255,255,.98);
+    border-radius:20px; padding:40px 36px 34px; box-shadow:0 30px 80px rgba(0,0,0,.35);
+    animation:cardIn .7s cubic-bezier(.2,.9,.3,1.2) both;
+  }
+  @keyframes cardIn{ from{ opacity:0; transform:translateY(26px) scale(.97); } to{ opacity:1; transform:none; } }
+  .login-logo{ display:flex; align-items:center; gap:12px; margin-bottom:8px; }
+  .login-logo .mark{
+    width:44px; height:44px; border-radius:12px; background:var(--navy); color:#fff; display:flex;
+    align-items:center; justify-content:center; font-family:'Fraunces'; font-weight:700; font-size:22px; position:relative; overflow:hidden;
+  }
+  .login-logo .mark::after{ content:""; position:absolute; inset:0;
+    background:radial-gradient(60% 60% at 70% 30%, rgba(58,166,217,.55), transparent 70%),
+               radial-gradient(60% 60% at 25% 80%, rgba(255,107,53,.55), transparent 70%); }
+  .login-logo .mark span{ position:relative; z-index:1; }
+  .login-logo h1{ font-size:24px; }
+  .login-sub{ font-size:13.5px; color:var(--muted); margin-bottom:26px; }
+  .field{ margin-bottom:16px; }
+  .field label{ display:block; font-size:12.5px; font-weight:600; margin-bottom:6px; }
+  .field input{ width:100%; padding:12px 14px; border:1.5px solid var(--line); border-radius:10px; font-size:14.5px; font-family:'Inter'; }
+  .field input:focus{ outline:none; border-color:var(--ice); box-shadow:0 0 0 3px rgba(58,166,217,.15); }
+  .btn{ display:inline-flex; align-items:center; justify-content:center; gap:8px; padding:13px 24px;
+    border-radius:11px; border:none; background:var(--flame); color:#fff; font-weight:600; font-size:14.5px;
+    transition:transform .2s, background .2s; box-shadow:0 6px 18px rgba(255,107,53,.35); text-decoration:none; }
+  .btn:hover{ background:var(--flame-deep); transform:translateY(-2px); }
+  .btn.ghost{ background:transparent; color:var(--muted); border:1.5px solid var(--line); box-shadow:none; }
+  .btn.ghost:hover{ color:var(--navy); border-color:var(--muted); background:#fff; }
+  .btn.small{ padding:9px 16px; font-size:13px; border-radius:9px; }
+  .btn.block{ width:100%; }
+  .msg{ font-size:13.5px; margin-top:12px; display:none; color:var(--err); }
+  .msg.show{ display:block; }
+
+  #panel{ display:none; }
+  .admin-header{ background:linear-gradient(160deg, #0E2238 0%, #12293F 100%); color:#fff; padding:26px 0 74px; position:relative; overflow:hidden; }
+  .admin-header .orb{ opacity:.35; }
+  .wrap{ max-width:960px; margin:0 auto; padding:0 20px; position:relative; z-index:1; }
+  .admin-topbar{ display:flex; align-items:center; justify-content:space-between; gap:14px; flex-wrap:wrap; }
+  .admin-topbar h1{ font-size:24px; }
+  .admin-topbar .right{ display:flex; align-items:center; gap:10px; }
+  .admin-sub{ margin-top:10px; font-size:14px; color:rgba(255,255,255,.75); max-width:560px; line-height:1.55; }
+  .panel-body{ margin-top:-44px; padding-bottom:90px; }
+
+  .stats-row{ display:grid; grid-template-columns:repeat(3, 1fr); gap:14px; margin-bottom:20px; }
+  @media(max-width:640px){
+    .stats-row{ grid-template-columns:repeat(3, 1fr); gap:9px; }
+    .stat-card{ padding:13px 10px; text-align:center; }
+    .stat-card .num{ font-size:24px; }
+    .stat-card .lbl{ font-size:9px; }
+  }
+  .stat-card{ background:#fff; border:1px solid var(--line); border-radius:14px; padding:20px; box-shadow:0 10px 30px rgba(14,34,56,.06); animation:cardIn .5s ease both; }
+  .stat-card .num{ font-family:'Fraunces',serif; font-size:32px; font-weight:700; color:var(--flame-deep); }
+  .stat-card .lbl{ font-family:'IBM Plex Mono'; font-size:10.5px; letter-spacing:.07em; text-transform:uppercase; color:var(--muted); margin-top:4px; }
+
+  .filters-card{ background:#fff; border:1px solid var(--line); border-radius:14px; padding:18px; margin-bottom:20px; box-shadow:0 10px 30px rgba(14,34,56,.06); }
+  .filters-grid{ display:grid; grid-template-columns:1.4fr 1fr 1fr; gap:12px; margin-bottom:14px; }
+  @media(max-width:720px){ .filters-grid{ grid-template-columns:1fr; } }
+  .filters-card input{
+    width:100%; padding:11px 13px; border:1.5px solid var(--line); border-radius:10px;
+    font-family:'Inter'; font-size:14px; background:#fff; color:var(--navy);
+    -webkit-appearance:none; appearance:none; min-height:44px;
+  }
+  .filters-card input[type="date"]{ display:block; text-align:left; }
+  .filters-card input[type="date"]::-webkit-date-and-time-value{ text-align:left; }
+  .filters-card input:focus{ outline:none; border-color:var(--ice); }
+  .filters-card label{ display:block; font-size:11.5px; font-weight:600; color:var(--muted); margin-bottom:5px; }
+  .chips{ display:flex; gap:8px; flex-wrap:wrap; }
+  .chip{ padding:8px 16px; border-radius:999px; border:1.5px solid var(--line); background:#fff; font-weight:600; font-size:13px; color:var(--muted); transition:all .2s; }
+  .chip:hover{ border-color:var(--ice); color:var(--navy); }
+  .chip.active{ background:var(--navy); border-color:var(--navy); color:#fff; }
+
+  .lead{ background:#fff; border:1px solid var(--line); border-radius:13px; padding:16px 18px; margin-bottom:11px;
+    transition:box-shadow .25s, border-color .25s; animation:cardIn .4s ease both; }
+  .lead:hover{ border-color:#CBD6E0; box-shadow:0 6px 16px rgba(14,34,56,.07); }
+  .lead-top{ display:flex; align-items:center; gap:12px; flex-wrap:wrap; }
+  .lead-name{ font-weight:700; font-size:15.5px; flex:1; min-width:0; overflow-wrap:anywhere; }
+  .lead-date{ font-family:'IBM Plex Mono'; font-size:11px; color:var(--muted); white-space:nowrap; }
+  .badge{ font-family:'IBM Plex Mono'; font-size:10.5px; font-weight:600; padding:5px 12px; border-radius:999px; white-space:nowrap; }
+  .badge.caldera{ background:#FFF3E8; color:var(--flame-deep); border:1px solid #FFD9C2; }
+  .badge.aire{ background:#EAF5FB; color:#1E7FAE; border:1px solid #C4E3F2; }
+  .badge.otro{ background:var(--cloud); color:var(--muted); border:1px solid var(--line); }
+  .lead-contact{ display:flex; gap:16px; flex-wrap:wrap; margin-top:8px; font-size:13.5px; }
+  .lead-contact a{ color:var(--navy); text-decoration:none; font-weight:600; display:inline-flex; align-items:center; gap:6px; }
+  .lead-contact a:hover{ color:var(--flame-deep); }
+  .lead-contact svg{ width:14px; height:14px; stroke:currentColor; fill:none; stroke-width:2; stroke-linecap:round; stroke-linejoin:round; }
+  .lead-msg{ margin-top:10px; padding-top:10px; border-top:1px dashed var(--line); font-size:13.5px; color:var(--muted); line-height:1.6; }
+  .lead-del{
+    display:inline-flex; align-items:center; gap:6px; background:#fff; border:1.5px solid #F2C7C4;
+    color:var(--err); font-size:12px; font-weight:600; padding:7px 13px; border-radius:9px; font-family:'Inter';
+    transition:all .2s;
+  }
+  .lead-del:hover{ background:#FDF1F0; border-color:var(--err); }
+  .empty-state{ text-align:center; padding:50px 20px; color:var(--muted); font-size:14.5px; background:#fff; border:1px dashed var(--line); border-radius:14px; }
+  #toast{ position:fixed; bottom:26px; left:50%; transform:translate(-50%, 80px); background:var(--navy); color:#fff;
+    padding:13px 22px; border-radius:12px; font-size:14px; box-shadow:0 14px 34px rgba(0,0,0,.3);
+    transition:transform .4s cubic-bezier(.2,.9,.3,1.2); z-index:100; }
+  #toast.show{ transform:translate(-50%, 0); }
+  #toast.err{ background:var(--err); }
+</style>
+</head>
+<body>
+
+<div id="loginScreen">
+  <div class="orb o1"></div><div class="orb o2"></div>
+  <div class="login-card">
+    <div class="login-logo">
+      <div class="mark"><span>D</span></div>
+      <h1>Clientes Decogas</h1>
+    </div>
+    <p class="login-sub">Solicitudes recibidas desde el formulario de la web.</p>
+    <form id="loginForm">
+      <div class="field">
+        <label for="adminEmail">Email</label>
+        <input type="email" id="adminEmail" autocomplete="username" required>
+      </div>
+      <div class="field">
+        <label for="adminPass">Contraseña</label>
+        <input type="password" id="adminPass" autocomplete="current-password" required>
+      </div>
+      <button type="submit" class="btn block" id="loginBtn">Entrar</button>
+      <p class="msg" id="loginMsg"></p>
+    </form>
+  </div>
+</div>
+
+<div id="panel">
+  <header class="admin-header">
+    <div class="orb o1"></div><div class="orb o2"></div>
+    <div class="wrap">
+      <div class="admin-topbar">
+        <h1>Clientes</h1>
+        <div class="right">
+          <a class="btn ghost small" href="admin.html" style="color:rgba(255,255,255,.8); border-color:rgba(255,255,255,.3);">← Panel de catálogo</a>
+          <button class="btn ghost small" id="logoutBtn" type="button" style="color:rgba(255,255,255,.8); border-color:rgba(255,255,255,.3);">Salir</button>
+        </div>
+      </div>
+      <p class="admin-sub">Cada persona que envía el formulario de la web aparece aquí al instante, y además recibes un aviso por correo con sus datos.</p>
+    </div>
+  </header>
+
+  <div class="panel-body">
+    <div class="wrap">
+      <div class="stats-row">
+        <div class="stat-card"><div class="num" id="statTotal">0</div><div class="lbl">Clientes totales</div></div>
+        <div class="stat-card" style="animation-delay:.07s;"><div class="num" id="statMes">0</div><div class="lbl">Este mes</div></div>
+        <div class="stat-card" style="animation-delay:.14s;"><div class="num" id="statFiltered">0</div><div class="lbl">En el filtro actual</div></div>
+      </div>
+
+      <div class="filters-card">
+        <div class="filters-grid">
+          <div>
+            <label for="qName">Buscar por nombre</label>
+            <input type="text" id="qName" placeholder="Escribe un nombre…" autocomplete="off">
+          </div>
+          <div>
+            <label for="qFrom">Desde</label>
+            <input type="date" id="qFrom">
+          </div>
+          <div>
+            <label for="qTo">Hasta</label>
+            <input type="date" id="qTo">
+          </div>
+        </div>
+        <div class="chips" id="interestChips">
+          <button class="chip active" data-int="" type="button">Todos</button>
+          <button class="chip" data-int="caldera" type="button">Caldera</button>
+          <button class="chip" data-int="aire" type="button">Aire acondicionado</button>
+          <button class="chip" data-int="otro" type="button">Otros</button>
+        </div>
+      </div>
+
+      <div id="leadsList"></div>
+    </div>
+  </div>
+</div>
+
+<div id="toast"></div>
+
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.min.js"></script>
+<script src="utils.js?v=18"></script>
+<script src="config.js?v=18"></script>
+<script src="clientes.js?v=18"></script>
+</body>
+</html>

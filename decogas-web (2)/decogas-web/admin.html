@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex, nofollow">
+<title>Panel de administración — Decogas</title>
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=IBM+Plex+Mono:wght@500;600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --navy:#0E2238; --navy-2:#16324B; --flame:#FF6B35; --flame-deep:#E2501C; --ice:#3AA6D9;
+    --gold:#FFB930; --cloud:#F3F6F9; --line:#E2E8EF; --muted:#5B6B7B; --ok:#1E9E5A; --err:#D8433B;
+  }
+  *{ margin:0; padding:0; box-sizing:border-box; }
+  html{ scroll-behavior:smooth; }
+  body{ font-family:'Inter',sans-serif; background:var(--cloud); color:var(--navy); min-height:100vh; overflow-x:hidden; }
+  @media(max-width:640px){
+    .wrap{ padding:0 14px; }
+    .section-card{ padding:16px 14px; }
+    .admin-topbar{ flex-direction:column; align-items:flex-start; gap:10px; }
+    .admin-topbar h1{ font-size:22px; }
+    .admin-topbar .right{ flex-wrap:wrap; }
+    .prod-row{
+      display:grid; padding:12px 14px; column-gap:12px; row-gap:10px;
+      grid-template-columns:auto 1fr;
+      grid-template-areas:
+        "switch info"
+        "price actions";
+      align-items:center;
+    }
+    .prod-row .switch{ grid-area:switch; }
+    .prod-info{ grid-area:info; }
+    .prod-price{ grid-area:price; font-size:16px; }
+    .prod-actions{ grid-area:actions; justify-self:end; }
+    .section-head{ flex-wrap:wrap; }
+    .section-head h2{ font-size:18px; }
+  }
+  h1,h2,h3{ font-family:'Fraunces',serif; }
+  button{ font-family:'Inter',sans-serif; cursor:pointer; }
+  input,textarea,select{ font-family:'Inter',sans-serif; }
+
+  /* ================= LOGIN ================= */
+  #loginScreen{
+    position:fixed; inset:0; display:flex; align-items:center; justify-content:center; padding:20px;
+    background:
+      radial-gradient(90% 120% at 85% -10%, rgba(58,166,217,.30), transparent 55%),
+      radial-gradient(70% 90% at 5% 110%, rgba(255,107,53,.22), transparent 55%),
+      linear-gradient(160deg, #0E2238 0%, #081729 100%);
+    overflow:hidden; z-index:50; transition:opacity .5s ease, visibility .5s;
+  }
+  #loginScreen.hidden{ opacity:0; visibility:hidden; }
+  .orb{ position:absolute; border-radius:50%; filter:blur(60px); opacity:.5; animation:float 9s ease-in-out infinite; }
+  .orb.o1{ width:340px; height:340px; background:var(--ice); top:-90px; right:-60px; }
+  .orb.o2{ width:280px; height:280px; background:var(--flame); bottom:-70px; left:-50px; animation-delay:-3s; }
+  .orb.o3{ width:170px; height:170px; background:var(--gold); top:55%; right:16%; animation-delay:-6s; opacity:.3; }
+  @keyframes float{ 0%,100%{ transform:translateY(0) scale(1); } 50%{ transform:translateY(-26px) scale(1.05); } }
+
+  .login-card{
+    position:relative; z-index:1; width:100%; max-width:420px; background:rgba(255,255,255,.98);
+    border-radius:20px; padding:40px 36px 34px; box-shadow:0 30px 80px rgba(0,0,0,.35);
+    animation:cardIn .7s cubic-bezier(.2,.9,.3,1.2) both;
+  }
+  @keyframes cardIn{ from{ opacity:0; transform:translateY(26px) scale(.97); } to{ opacity:1; transform:none; } }
+  .login-logo{ display:flex; align-items:center; gap:12px; margin-bottom:8px; }
+  .login-logo .mark{
+    width:44px; height:44px; border-radius:12px; background:var(--navy); color:#fff; display:flex;
+    align-items:center; justify-content:center; font-family:'Fraunces'; font-weight:700; font-size:22px; position:relative; overflow:hidden;
+  }
+  .login-logo .mark::after{
+    content:""; position:absolute; inset:0;
+    background:radial-gradient(60% 60% at 70% 30%, rgba(58,166,217,.55), transparent 70%),
+               radial-gradient(60% 60% at 25% 80%, rgba(255,107,53,.55), transparent 70%);
+  }
+  .login-logo .mark span{ position:relative; z-index:1; }
+  .login-logo h1{ font-size:24px; }
+  .login-sub{ font-size:13.5px; color:var(--muted); margin-bottom:26px; }
+  .mode-pill{
+    display:inline-flex; align-items:center; gap:7px; font-family:'IBM Plex Mono'; font-size:11px;
+    font-weight:600; padding:5px 12px; border-radius:999px; margin-bottom:22px;
+  }
+  .mode-pill .dot{ width:7px; height:7px; border-radius:50%; animation:pulse 1.8s infinite; }
+  @keyframes pulse{ 0%,100%{ opacity:1; } 50%{ opacity:.35; } }
+  .mode-pill.demo{ background:#FFF3E8; color:var(--flame-deep); border:1px solid #FFD9C2; }
+  .mode-pill.demo .dot{ background:var(--flame); }
+  .mode-pill.live{ background:#E7F7EE; color:var(--ok); border:1px solid #BFE8D0; }
+  .mode-pill.live .dot{ background:var(--ok); }
+
+  .field{ margin-bottom:16px; }
+  .field label{ display:block; font-size:12.5px; font-weight:600; margin-bottom:6px; letter-spacing:.02em; }
+  .field input, .field textarea, .field select{
+    width:100%; padding:12px 14px; border:1.5px solid var(--line); border-radius:10px; font-size:14.5px;
+    transition:border-color .25s, box-shadow .25s; background:#fff; color:var(--navy);
+  }
+  .field textarea{ min-height:74px; resize:vertical; line-height:1.5; }
+  .field input:focus, .field textarea:focus, .field select:focus{
+    outline:none; border-color:var(--ice); box-shadow:0 0 0 3px rgba(58,166,217,.15);
+  }
+  .btn{
+    display:inline-flex; align-items:center; justify-content:center; gap:8px; padding:13px 24px;
+    border-radius:11px; border:none; background:var(--flame); color:#fff; font-weight:600; font-size:14.5px;
+    transition:transform .2s, box-shadow .2s, background .2s; box-shadow:0 6px 18px rgba(255,107,53,.35);
+  }
+  .btn:hover{ background:var(--flame-deep); transform:translateY(-2px); box-shadow:0 10px 24px rgba(255,107,53,.4); }
+  .btn:active{ transform:translateY(0); }
+  .btn:disabled{ opacity:.55; cursor:not-allowed; transform:none; }
+  .btn.ghost{ background:transparent; color:var(--muted); border:1.5px solid var(--line); box-shadow:none; }
+  .btn.ghost:hover{ color:var(--navy); border-color:var(--muted); background:#fff; }
+  .btn.small{ padding:9px 16px; font-size:13px; border-radius:9px; }
+  .btn.danger{ background:transparent; color:var(--err); border:1.5px solid #F2C7C4; box-shadow:none; }
+  .btn.danger:hover{ background:#FDF1F0; border-color:var(--err); }
+  .btn.block{ width:100%; }
+  .msg{ font-size:13.5px; margin-top:12px; display:none; }
+  .msg.show{ display:block; animation:cardIn .3s ease both; }
+  .msg.ok{ color:var(--ok); } .msg.err{ color:var(--err); }
+
+  /* ================= PANEL ================= */
+  #panel{ display:none; }
+  .admin-header{
+    background:linear-gradient(160deg, #0E2238 0%, #12293F 100%); color:#fff; padding:26px 0 74px; position:relative; overflow:hidden;
+  }
+  .admin-header .orb{ opacity:.35; }
+  .wrap{ max-width:960px; margin:0 auto; padding:0 20px; position:relative; z-index:1; }
+  .admin-topbar{ display:flex; align-items:center; justify-content:space-between; gap:14px; }
+  .admin-topbar h1{ font-size:24px; }
+  .admin-topbar .right{ display:flex; align-items:center; gap:12px; }
+  .admin-sub{ margin-top:10px; font-size:14px; color:rgba(255,255,255,.75); max-width:560px; line-height:1.55; }
+  .panel-body{ margin-top:-44px; padding-bottom:90px; }
+
+  .section-card{
+    background:#fff; border:1px solid var(--line); border-radius:16px; padding:24px; margin-bottom:26px;
+    box-shadow:0 10px 30px rgba(14,34,56,.06); animation:cardIn .5s ease both;
+  }
+  .section-head{ display:flex; align-items:center; justify-content:space-between; gap:12px; margin-bottom:16px; }
+  .section-head h2{ font-size:20px; display:flex; align-items:center; gap:10px; }
+  .section-head .count{ font-family:'IBM Plex Mono'; font-size:11px; color:var(--muted); background:var(--cloud); padding:4px 10px; border-radius:999px; }
+
+  .prod{ border:1px solid var(--line); border-radius:13px; margin-bottom:12px; overflow:hidden; transition:box-shadow .25s, border-color .25s; background:#fff; }
+  .prod:hover{ border-color:#CBD6E0; box-shadow:0 6px 16px rgba(14,34,56,.07); }
+  .prod.hidden-prod{ background:#FAFBFC; }
+  .prod.hidden-prod .prod-name, .prod.hidden-prod .prod-meta{ opacity:.45; }
+  .prod-row{ display:flex; align-items:center; gap:14px; padding:14px 16px; flex-wrap:wrap; }
+  .prod-info{ flex:1; min-width:0; }
+  .prod-name{ font-weight:600; font-size:14.5px; display:flex; align-items:center; gap:8px; overflow-wrap:break-word; }
+  .best-star{ color:var(--gold); font-size:15px; }
+  .prod-meta{ font-family:'IBM Plex Mono'; font-size:11px; color:var(--muted); margin-top:3px; overflow-wrap:anywhere; }
+  .prod-price{ font-family:'IBM Plex Mono'; font-weight:600; font-size:15px; white-space:nowrap; }
+  .prod-actions{ display:flex; align-items:center; gap:8px; }
+  .icon-btn{
+    width:34px; height:34px; border-radius:9px; border:1.5px solid var(--line); background:#fff; display:inline-flex;
+    align-items:center; justify-content:center; color:var(--muted); transition:all .2s;
+  }
+  .icon-btn:hover{ color:var(--navy); border-color:var(--muted); transform:translateY(-1px); }
+  .icon-btn.del:hover{ color:var(--err); border-color:var(--err); background:#FDF1F0; }
+  .icon-btn svg{ width:16px; height:16px; stroke:currentColor; fill:none; stroke-width:2; stroke-linecap:round; stroke-linejoin:round; }
+
+  /* Switch de visibilidad */
+  .switch{ position:relative; width:46px; height:26px; flex:none; }
+  .switch input{ opacity:0; width:0; height:0; }
+  .switch .track{
+    position:absolute; inset:0; border-radius:999px; background:#CBD6E0; transition:background .25s; cursor:pointer;
+  }
+  .switch .track::after{
+    content:""; position:absolute; width:20px; height:20px; border-radius:50%; background:#fff; top:3px; left:3px;
+    transition:transform .25s cubic-bezier(.2,.9,.3,1.4); box-shadow:0 2px 6px rgba(0,0,0,.25);
+  }
+  .switch input:checked + .track{ background:var(--ok); }
+  .switch input:checked + .track::after{ transform:translateX(20px); }
+  .switch input:focus-visible + .track{ box-shadow:0 0 0 3px rgba(58,166,217,.3); }
+
+  /* Formulario expandible */
+  .prod-form{ max-height:0; overflow:hidden; transition:max-height .45s cubic-bezier(.4,0,.2,1); background:var(--cloud); }
+  .prod-form-inner{ padding:20px 16px; border-top:1px solid var(--line); }
+  .form-grid{ display:grid; grid-template-columns:1fr 1fr; gap:0 18px; }
+  .form-grid .full{ grid-column:1 / -1; }
+  @media(max-width:640px){ .form-grid{ grid-template-columns:1fr; } }
+  .form-hint{ font-size:11.5px; color:var(--muted); margin-top:4px; }
+  .photo-row{ display:flex; align-items:center; gap:10px; flex-wrap:wrap; }
+  .photo-row input[type="text"]{ flex:1; min-width:180px; }
+  .photo-thumb{
+    width:56px; height:56px; border-radius:10px; object-fit:contain; background:#fff;
+    border:1.5px solid var(--line); flex:none; display:flex; align-items:center; justify-content:center;
+    font-size:9px; color:var(--muted); text-align:center; font-family:'IBM Plex Mono';
+  }
+  .upload-btn{ cursor:pointer; }
+  .check-row{ display:flex; align-items:center; gap:9px; margin:4px 0 16px; font-size:13.5px; font-weight:500; }
+  .check-row input{ width:17px; height:17px; accent-color:var(--flame); }
+  .form-foot{ display:flex; align-items:center; justify-content:flex-end; gap:10px; margin-top:6px; }
+
+  .add-btn{
+    width:100%; padding:15px; border:2px dashed #CBD6E0; border-radius:13px; background:transparent; color:var(--muted);
+    font-weight:600; font-size:14px; display:flex; align-items:center; justify-content:center; gap:8px; transition:all .25s;
+  }
+  .add-btn:hover{ border-color:var(--flame); color:var(--flame-deep); background:#FFF8F4; }
+
+  /* Toast */
+  #toast{
+    position:fixed; bottom:26px; left:50%; transform:translate(-50%, 80px); background:var(--navy); color:#fff;
+    padding:13px 22px; border-radius:12px; font-size:14px; font-weight:500; box-shadow:0 14px 34px rgba(0,0,0,.3);
+    transition:transform .4s cubic-bezier(.2,.9,.3,1.2); z-index:100; max-width:90vw;
+  }
+  #toast.show{ transform:translate(-50%, 0); }
+  #toast.err{ background:var(--err); }
+</style>
+</head>
+<body>
+
+<!-- ===================== LOGIN ===================== -->
+<div id="loginScreen">
+  <div class="orb o1"></div><div class="orb o2"></div><div class="orb o3"></div>
+  <div class="login-card">
+    <div class="login-logo">
+      <div class="mark"><span>D</span></div>
+      <h1>Panel Decogas</h1>
+    </div>
+    <p class="login-sub">Gestión del catálogo: precios, fichas y visibilidad.</p>
+    <span class="mode-pill demo" id="modeBadge"><span class="dot"></span><span id="modeText">MODO DEMO — LOCAL</span></span>
+    <form id="loginForm">
+      <div class="field">
+        <label for="adminEmail">Email</label>
+        <input type="email" id="adminEmail" autocomplete="username" required>
+      </div>
+      <div class="field">
+        <label for="adminPass">Contraseña</label>
+        <input type="password" id="adminPass" autocomplete="current-password" required>
+      </div>
+      <button type="submit" class="btn block" id="loginBtn">Entrar al panel</button>
+      <p class="msg err" id="loginMsg"></p>
+    </form>
+    <p class="form-hint" id="loginNote" style="margin-top:16px; line-height:1.55;"></p>
+  </div>
+</div>
+
+<!-- ===================== PANEL ===================== -->
+<div id="panel">
+  <header class="admin-header">
+    <div class="orb o1"></div><div class="orb o2"></div>
+    <div class="wrap">
+      <div class="admin-topbar">
+        <h1>Catálogo Decogas</h1>
+        <div class="right">
+          <a class="btn ghost small" href="clientes.html" style="color:rgba(255,255,255,.8); border-color:rgba(255,255,255,.3); text-decoration:none;">Clientes</a>
+          <span class="mode-pill demo" id="modeBadge2" style="margin:0;"><span class="dot"></span><span id="modeText2">MODO DEMO</span></span>
+          <button class="btn ghost small" id="logoutBtn" type="button" style="color:rgba(255,255,255,.8); border-color:rgba(255,255,255,.3);">Salir</button>
+        </div>
+      </div>
+      <p class="admin-sub">Cambia precios, edita fichas completas, añade productos nuevos o usa el interruptor para ocultarlos de la web sin borrarlos. Los cambios se publican al instante.</p>
+      <div id="dbWarn" style="display:none; margin-top:14px; background:#FFF3E8; border:1px solid #FFD9C2; color:#E2501C; border-radius:11px; padding:13px 16px; font-size:13.5px; font-weight:600;"></div>
+    </div>
+  </header>
+
+  <div class="panel-body">
+    <div class="wrap">
+      <div class="section-card">
+        <div class="section-head">
+          <h2>Calderas</h2>
+          <span class="count" id="countCalderas">—</span>
+        </div>
+        <div id="listCalderas"></div>
+        <button class="add-btn" data-add="calderas" type="button">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="M12 5v14M5 12h14"/></svg>
+          Añadir caldera
+        </button>
+      </div>
+
+      <div class="section-card" style="animation-delay:.1s;">
+        <div class="section-head">
+          <h2>Aires acondicionados</h2>
+          <span class="count" id="countAires">—</span>
+        </div>
+        <div id="listAires"></div>
+        <button class="add-btn" data-add="aires" type="button">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="M12 5v14M5 12h14"/></svg>
+          Añadir aire acondicionado
+        </button>
+      </div>
+
+      <div class="section-card" style="animation-delay:.2s;">
+        <div class="section-head">
+          <h2>Termos y calentadores</h2>
+          <span class="count" id="countTermos">—</span>
+        </div>
+        <div id="listTermos"></div>
+        <button class="add-btn" data-add="termos" type="button">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="M12 5v14M5 12h14"/></svg>
+          Añadir termo o calentador
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id="toast"></div>
+
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.min.js"></script>
+<script src="utils.js?v=18"></script>
+<script src="config.js?v=18"></script>
+<script src="data-calderas.js?v=18"></script>
+<script src="data-aires.js?v=18"></script>
+<script src="data-termos.js?v=18"></script>
+<script src="admin.js?v=18"></script>
+</body>
+</html>
