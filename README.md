@@ -4,7 +4,18 @@ Web estática en español de **INSTALADORES DECOGAS SL**: catálogo de calderas,
 acondicionados y termos/calentadores, calculadora de equipo recomendado, formulario de
 contacto, panel de administración del catálogo y panel de clientes. Todo el front es
 **HTML + JavaScript vanilla** (sin framework ni paso de build); el backend es **Supabase**
-(base de datos + Auth + Storage) y el sitio se publica en **Netlify** (decogas.netlify.app).
+(base de datos + Auth + Storage) y el sitio se publica en **GitHub Pages** en
+**https://queren05.github.io/decogas/** mediante GitHub Actions (cada `push` a `main`
+despliega solo; ver `DEPLOY.md`).
+
+> **Migración a Astro en curso.** Existe un plan para reconstruir el sitio con Astro
+> (`MIGRATION-ASTRO.md`): la Fase 1 está completa y la Fase 2 avanza en la rama `astro`.
+> Lo que describe este README es la web vanilla que está **hoy en producción** en `main`.
+
+> **Repositorio:** `github.com/queren05/decogas` (privado), con despliegue continuo a
+> GitHub Pages. Como el sitio se sirve bajo la subruta `/decogas/`, las rutas absolutas
+> y las URLs canónicas del código llevan el prefijo `/decogas/` (p. ej. `robots.txt`,
+> `sitemap.xml` y las etiquetas `canonical`/`og:url` apuntan a `queren05.github.io/decogas`).
 
 El sitio funciona en dos modos, decididos automáticamente en tiempo de ejecución:
 
@@ -15,30 +26,49 @@ El sitio funciona en dos modos, decididos automáticamente en tiempo de ejecuci�
 
 ## Estructura del proyecto
 
-El código vive en `"decogas-web (2)\decogas-web"` (las rutas llevan espacios y paréntesis;
-cítalas siempre entre comillas). Los scripts SQL y el `LEEME.txt` están un nivel por
-encima, en `"decogas-web (2)"`.
+El código de la web vive en `"decogas-web (2)\decogas-web"` (las rutas llevan espacios y
+paréntesis; cítalas siempre entre comillas). Los scripts SQL, el `LEEME.txt` y la suite de
+tests están un nivel por encima, en `"decogas-web (2)"`. En la raíz del repo están la
+documentación, el workflow de despliegue y la carpeta `import-antigua/` (rescate del
+catálogo antiguo).
 
 ```
 decogas/
+├─ .github/workflows/pages.yml     Despliegue automático a GitHub Pages (push a main)
+├─ README.md · DEPLOY.md · ARCHITECTURE.md · MIGRATION-ASTRO.md
+├─ netlify.toml                    Vestigio del hosting anterior (ya NO se usa)
+├─ import-antigua/                 Rescate e importación del catálogo viejo (ver más abajo)
 ├─ decogas-web (2)/
-│  ├─ setup-supabase-v5.sql        SQL de migración (foto de producto + bucket de Storage)
-│  ├─ LEEME.txt                    Nota breve de publicación
-│  └─ decogas-web/                 ← RAÍZ que se publica en Netlify
+│  ├─ setup-supabase-v5.sql        SQL de migración (columna img + bucket de Storage)
+│  ├─ setup-supabase-v6-seguridad.sql  SQL de endurecimiento de políticas (Storage/RLS)
+│  ├─ LEEME.txt                    Nota breve de publicación (describe el flujo Netlify antiguo)
+│  ├─ package.json                 Solo define `npm test` (node --test); sin dependencias
+│  ├─ tests/                       Suite de tests (node:test nativo) — ver "Cómo correr los tests"
+│  └─ decogas-web/                 ← RAÍZ que publica GitHub Pages
 │     ├─ index.html                Portada: hero, secciones, formulario de contacto
 │     ├─ calderas.html             Catálogo de calderas
 │     ├─ aires.html                Catálogo de aires acondicionados
 │     ├─ termos.html               Catálogo de termos y calentadores
 │     ├─ calcula.html              Calculadora de equipo recomendado + presupuesto
 │     ├─ guias.html                Blog/guías propias
+│     ├─ blog/                     Artículos del blog (aerotermia, aire-acondicionado, caldera)
 │     ├─ admin.html                Panel de administración del catálogo (login)
 │     ├─ clientes.html             Panel de clientes / solicitudes (login)
 │     ├─ legal.html                Aviso legal
+│     ├─ 404.html                  Página de error
 │     ├─ config.js                 Configuración del backend (Supabase) — ver más abajo
-│     ├─ _headers                  Cabeceras de seguridad y caché (formato Netlify)
+│     ├─ .nojekyll                 Evita el procesado Jekyll de GitHub Pages
+│     ├─ _headers                  Cabeceras de seguridad (formato Netlify) — NO aplica ya (ver aviso)
 │     ├─ styles.css, favicon.svg, hero-bg.jpg, robots.txt, sitemap.xml
 │     └─ *.js                      Ver "Archivos JavaScript"
 ```
+
+> **Aviso — cabeceras de seguridad perdidas.** El archivo `_headers` está en formato
+> Netlify. **GitHub Pages no soporta cabeceras HTTP personalizadas**, así que ese archivo
+> **ya no se aplica**: las cabeceras de seguridad que tenía (CSP, `X-Frame-Options`,
+> `Referrer-Policy`, `Permissions-Policy`, caché) **no están activas** en el sitio publicado.
+> Es una regresión conocida respecto al hosting anterior; se documenta con honestidad en
+> `DEPLOY.md`.
 
 ### Archivos JavaScript
 
@@ -116,7 +146,43 @@ npx serve .
 Luego abre `http://localhost:8000`. Sin tocar `config.js`, el sitio corre en **modo DEMO**
 con los datos de `data-*.js`; con Supabase configurado, corre en **modo LIVE**.
 
-No hay dependencias que instalar, ni scripts de build, ni tests.
+No hay dependencias que instalar ni scripts de build.
+
+## Cómo correr los tests
+
+Hay una suite de tests con el runner nativo de Node (`node:test`, sin dependencias). El
+`package.json` está en `"decogas-web (2)"` y los tests en `"decogas-web (2)\tests"`
+(`app.test.js`, `calcula.test.js`, `clientes.test.js`, `esc.test.js`, `prices.test.js`,
+más el `harness.js`). Necesitas Node 18+. Desde `"decogas-web (2)"`:
+
+```bash
+npm test
+```
+
+Equivale a `node --test`, que descubre y ejecuta todos los `tests/*.test.js`.
+
+## Catálogo
+
+El catálogo vive en la tabla `products` de Supabase. Tras importar los productos de la web
+antigua de WordPress (`decogas.com`), hay **290 productos** (124 calderas, 128 aires y 38
+termos), de los cuales **281 tienen foto** en el bucket `productos`. **73 productos** entraron
+con un **precio marcador de 1 €** (no tenían precio publicado en la web vieja) y están
+pendientes de revisión antes de mostrarse en público.
+
+El detalle del rescate, los datos originales y los scripts de importación están en la carpeta
+`import-antigua/`:
+
+- `scrape.mjs`, `build.mjs`, `download-fotos.mjs` — scrapean el WordPress viejo, generan los
+  JSON/CSV y descargan las fotos.
+- `importar-todo.mjs` — importa productos (ocultos, `visible=false`) y sube sus fotos al
+  bucket en un solo comando.
+- `asignar-fotos.mjs` / `asignar-fotos-aprox.mjs` — enlazan fotos del bucket con productos
+  cuyo slug no coincide exactamente con el nombre de archivo.
+- `arreglo-storage-admin.sql` — recrea las políticas de escritura del bucket `productos`
+  restringidas al email del administrador.
+- `import-products.sql`, `productos-raw.json`, `productos.csv`, `_*.json`, `fotos/` — datos
+  originales y auxiliares de auditoría.
+- `INSTRUCCIONES.md` — guía paso a paso del proceso de importación.
 
 ## Cascada de datos (Supabase → localStorage → data-*.js)
 

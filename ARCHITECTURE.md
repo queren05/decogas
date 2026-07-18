@@ -23,13 +23,14 @@ en cascada"**: la fuente de verdad del catálogo es Supabase, pero si el backend
 no responde (o no está configurado) el sitio cae a `localStorage` (modo demo) y,
 en última instancia, a datos incrustados en el código (`data-*.js`). Así la web
 comercial **nunca se ve vacía** aunque falle la base de datos. Es la arquitectura
-más simple que cumple los requisitos: cero coste de servidor, despliegue por
-arrastrar-soltar en Netlify, y un panel de administración que el dueño usa sin
-tocar código.
+más simple que cumple los requisitos: cero coste de servidor, despliegue continuo
+a **GitHub Pages** (push a `main` → GitHub Actions), y un panel de administración
+que el dueño usa sin tocar código.
 
 **Supuestos** (no había datos explícitos, se toman los más razonables):
 - Tráfico bajo: unidades–centenas de visitas/día, un único administrador.
-- Catálogo pequeño: ~30 productos, decenas de leads al mes.
+- Catálogo: **290 productos** en Supabase tras importar el catálogo antiguo de
+  WordPress (124 calderas, 128 aires, 38 termos; 281 con foto), decenas de leads al mes.
 - Prioridad: que la web cargue rápido y no falle nunca de cara al cliente;
   el panel interno puede ser más lento.
 
@@ -44,7 +45,7 @@ tocar código.
 | **Persistencia catálogo** | Tabla `products` en Postgres, con **fallback** a `localStorage` y a `data-*.js` | El admin edita en vivo y lo ven todos; el fallback garantiza que la web nunca aparezca vacía. | BD como única fuente sin fallback: un fallo de red dejaría el catálogo en blanco de cara al cliente. |
 | **Leads (formulario)** | Tabla `leads` (insert anónimo) + **FormSubmit** para el aviso por email | El lead queda guardado y además llega un correo al instante sin montar servicio de email propio. | SMTP/función serverless propia: innecesario habiendo FormSubmit. |
 | **Imágenes de producto** | Supabase **Storage** (bucket público `productos`) | Lectura pública para la web, escritura solo autenticada; integrado con el mismo backend. | CDN externo / subir por FTP: más piezas que mantener. |
-| **Hosting** | **Netlify** (drop de carpeta) + fichero `_headers` | Estático, HTTPS y cabeceras de seguridad (CSP) gratis; publicar es arrastrar la carpeta. | GitHub Pages: no aplica `_headers` con la misma comodidad para CSP. |
+| **Hosting** | **GitHub Pages** (despliegue continuo vía GitHub Actions, `.github/workflows/pages.yml`) | Estático, HTTPS y CI/CD gratis desde el repo `queren05/decogas`; push a `main` publica solo. | Netlify (drop de carpeta): fue el hosting anterior; el `netlify.toml` y el `_headers` quedan como vestigio. **Coste:** Pages **no aplica** `_headers`, así que las cabeceras de seguridad (CSP, etc.) están perdidas — ver §7 y `DEPLOY.md`. |
 | **Librerías cliente** | `@supabase/supabase-js@2` por CDN (jsDelivr), **solo** en `admin.html` y `clientes.html` | El SDK solo hace falta para Auth y Storage. El catálogo público usa `fetch` a la REST y evita cargar el SDK. | Cargar el SDK en todas las páginas: peso innecesario en las páginas públicas. |
 | **Notificaciones email** | FormSubmit (`formsubmit.co/ajax`) | Envío de email sin backend, gratis. | — |
 
@@ -58,11 +59,16 @@ hace a mano con query string (`?v=18`) para forzar refresco de caché.
 Estado **actual** (con la doble anidación que conviene revisar — ver §7):
 
 ```
-"C:\Users\dr438\decogas"                 · raíz del repositorio git (sin commits aún)
+"C:\Users\dr438\decogas"                 · raíz del repo git (github.com/queren05/decogas, privado, con CI/CD)
+├── .github/workflows/pages.yml          · despliegue continuo a GitHub Pages (push a main)
+├── netlify.toml                         · VESTIGIO del hosting anterior (ya no se usa)
+├── import-antigua/                       · rescate e importación del catálogo viejo de WordPress
 └── "decogas-web (2)"                     · carpeta entregada (nombre de descarga)
-    ├── LEEME.txt                         · instrucciones de publicación para el dueño
+    ├── LEEME.txt                         · nota de publicación antigua (describe el flujo Netlify, ya no vigente)
     ├── setup-supabase-v5.sql             · migración: columna img + bucket Storage
-    └── "decogas-web"                     · === CARPETA DESPLEGABLE (esto es lo que se sube a Netlify) ===
+    ├── setup-supabase-v6-seguridad.sql   · endurecimiento de políticas RLS/Storage
+    ├── package.json · tests/             · suite de tests (node --test)
+    └── "decogas-web"                     · === CARPETA DESPLEGABLE (la publica GitHub Pages) ===
         ├── index.html                    · home: hero, servicios, destacados, formulario de contacto
         ├── calderas.html                 · catálogo de calderas
         ├── aires.html                    · catálogo de aires acondicionados
@@ -91,7 +97,7 @@ Estado **actual** (con la doble anidación que conviene revisar — ver §7):
         ├── styles.css                    · hoja de estilos única del sitio
         ├── favicon.svg · hero-bg.jpg     · assets estáticos
         ├── robots.txt · sitemap.xml      · SEO
-        └── _headers                      · cabeceras de seguridad Netlify (CSP, X-Frame-Options, caché)
+        └── _headers                      · cabeceras de seguridad en formato Netlify — NO se aplican en GitHub Pages (ver §7)
 ```
 
 **Convenciones observadas** (respetarlas al evolucionar):
@@ -292,8 +298,10 @@ Borrar: sb.from("leads").delete().eq("id", id)
 
 - **Static + Supabase (BaaS), sin servidor propio.** Máxima simplicidad y coste
   cero para el tamaño real. Trade-off: la lógica de negocio vive en el cliente y
-  la anon key es pública; se mitiga con **RLS** (única barrera real) y con
-  `_headers`/CSP. Correcto para este proyecto.
+  la anon key es pública; la **única barrera real** son las **políticas RLS** de
+  Supabase. **Aviso:** el `_headers`/CSP que reforzaba esto en Netlify **ya no
+  aplica** en GitHub Pages (Pages no soporta cabeceras HTTP personalizadas), así
+  que hoy no hay CSP ni `X-Frame-Options` activos — ver `DEPLOY.md`.
 
 - **Degradación en cascada Supabase → localStorage → `data-*.js`.** Prioriza que
   la web comercial **jamás** se vea vacía ante un fallo de red. Precio: **datos
@@ -329,13 +337,20 @@ el escapado XSS y las cabeceras. **Qué se reorganiza/elimina** se detalla debaj
 
 ### Fase 0 — Poner el proyecto bajo control (medio día)
 *Objetivo: dejar de perder trabajo y saber qué se despliega.*
+
+> **Estado: parcialmente hecho.** El repo ya está en `github.com/queren05/decogas`
+> con commits y **despliegue continuo** (GitHub Actions → Pages), así que el control
+> de versiones y "saber qué se despliega" ya están resueltos. **Pendiente:** aplanar
+> la doble anidación (el workflow apunta a `"decogas-web (2)/decogas-web"`, no a la raíz).
+
 - **Aplanar la doble anidación.** Mover el contenido de
   `"decogas-web (2)/decogas-web"` a la raíz del repo, y `LEEME.txt` +
   `setup-supabase-v5.sql` junto a él. Se **elimina** la carpeta intermedia
   `"decogas-web (2)"` (nombre de descarga del navegador, sin valor). Resultado:
-  la raíz del repo = la carpeta que se sube a Netlify.
-- **Primer commit** (el repo no tiene ninguno) y `.gitignore` mínimo.
-- *Verificable:* `git log` con un commit; arrastrar la raíz a Netlify publica igual.
+  la raíz del repo = la carpeta que publica GitHub Pages (habría que actualizar el
+  `path` de `.github/workflows/pages.yml`).
+- ~~**Primer commit** y `.gitignore`~~ — ya hecho (el repo tiene historia en GitHub).
+- *Verificable:* el workflow de Pages sigue publicando tras mover la carpeta (ajustando su `path`).
 
 ### Fase 1 — Recuperar el esquema de la BD en el repo (medio día)
 *Objetivo: que la base de datos sea reproducible; hoy el esquema no está versionado.*
@@ -389,7 +404,7 @@ el escapado XSS y las cabeceras. **Qué se reorganiza/elimina** se detalla debaj
 | **Esquema de BD no versionado** (faltan `setup-v3/v4.sql`) | No se puede recrear la BD; onboarding de otro Supabase roto | Los avisos "tabla vacía / formato antiguo" de `admin.js`; imposible levantar un entorno nuevo. *Mitiga: Fase 1.* |
 | **Desincronización `data-*.js` ↔ Supabase** | El cliente ve precios/fichas viejos cuando cae el fallback | Diferencias entre lo que muestra la web con y sin red. *Mitiga: Fase 2.* |
 | **`ideal_for` como texto libre parseado por regex** | Un cambio de redacción rompe filtros y calculadora en silencio | Filtros de potencia/baños que dejan de encontrar productos; recomendación de la calculadora vacía. *Mitiga: validar formato en el admin.* |
-| **Repo sin commits / doble anidación** | Pérdida total ante un corte; se sube la carpeta equivocada a Netlify | Ya observado (`git status` muestra todo sin trackear). *Mitiga: Fase 0.* |
+| **Doble anidación de carpetas** | El workflow debe apuntar exactamente a `"decogas-web (2)/decogas-web"`; un cambio de ruta rompe el deploy | El control de versiones ya está resuelto (repo en GitHub con CI/CD); queda pendiente aplanar la estructura. *Mitiga: Fase 0.* |
 | **Dependencia de FormSubmit y CDN jsDelivr** | Sin aviso de email; paneles sin SDK si cae el CDN | Fallos 4xx/5xx en la consola; el lead igual se guarda en `leads`. *Mitiga: el lead ya persiste; CSP ya restringe orígenes.* |
 | **`notifyEmail` es un Gmail personal** (`dr4389742@gmail.com`) en `config.js` público | Los avisos van a un correo personal, visible en el código fuente | Revisar `config.js`; cambiar al correo de empresa antes de traspasar el proyecto. |
 | **Olvido del `?v=N`** al publicar | Los clientes ven versiones cacheadas del JS/CSS | Cambios que "no aparecen" tras publicar. *Mitiga: Fase 3.* |
