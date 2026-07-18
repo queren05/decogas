@@ -169,16 +169,38 @@
       }
       if (consentRow) consentRow.classList.remove("error");
 
+      // Trampa anti-bots: si este campo oculto viene relleno, es un robot.
+      // Fingimos éxito para no darle pistas, pero no se envía nada.
+      var hp = document.getElementById("empresa_web");
+      if (hp && hp.value) {
+        if (successOverlay) successOverlay.classList.add("show");
+        return;
+      }
+
+      // Freno de ritmo: evita envíos repetidos desde el mismo navegador
+      try {
+        var last = Number(localStorage.getItem("decogas_last_send") || 0);
+        if (Date.now() - last < 20000) {
+          if (submitBtn) {
+            submitBtn.classList.remove("loading");
+            submitBtn.classList.add("shake");
+            setTimeout(function () { submitBtn.classList.remove("shake"); }, 600);
+          }
+          return;
+        }
+      } catch (err) { /* sin localStorage: seguimos igualmente */ }
+
+      var cut = function (s, max) { return String(s).slice(0, max); };
       var val = function (id) { return document.getElementById(id).value.trim(); };
       var servicioInput = form.querySelector('input[name="servicio"]:checked');
       var servicio = servicioInput ? servicioInput.value : "Consulta";
       var cfg = window.DECOGAS_CONFIG || {};
       var lead = {
-        name: val("nombre"),
-        phone: val("telefono"),
-        email: val("email"),
-        interest: servicio,
-        message: val("mensaje")
+        name: cut(val("nombre"), 80),
+        phone: cut(val("telefono"), 25),
+        email: cut(val("email"), 120),
+        interest: cut(servicio, 60),
+        message: cut(val("mensaje"), 2000)
       };
 
       // 1) Guardar el cliente en la base de datos (o en el navegador en modo demo)
@@ -229,6 +251,7 @@
         if (submitBtn) submitBtn.classList.remove("loading");
         var anyOk = results.some(function (r) { return r.status === "fulfilled"; });
         if (anyOk) {
+          try { localStorage.setItem("decogas_last_send", String(Date.now())); } catch (err) {}
           if (successOverlay) {
             successOverlay.classList.add("show");
             burstSparkles(successOverlay);
