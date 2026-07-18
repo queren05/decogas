@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /admin.html
 Disallow: /clientes.html
-Sitemap: https://decogas.netlify.app/sitemap.xml
+Sitemap: https://queren05.github.io/decogas/sitemap.xml

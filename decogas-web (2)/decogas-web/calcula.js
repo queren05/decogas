@@ -187,7 +187,7 @@
           '<div class="budget-fin-box"><div class="cuota">' + cuota(p.price, 36) + " \u20AC/mes</div><div class=\"meses\">36 MESES</div></div>" +
         "</div>" +
       "</div>" +
-      '<p class="budget-foot">Presupuesto orientativo generado con la calculadora de decogas.netlify.app y sujeto a visita t\u00E9cnica gratuita. ' +
+      '<p class="budget-foot">Presupuesto orientativo generado con la calculadora de queren05.github.io/decogas y sujeto a visita t\u00E9cnica gratuita. ' +
         "INSTALADORES DECOGAS SL \u00B7 CIF B88192075 \u00B7 C. de los Almendros 8, Local 6A, 28821 Coslada \u00B7 919 93 01 68 \u00B7 info@decogas.com</p>" +
       '<div class="budget-actions">' +
         '<a class="btn btn-flame" id="budgetWa" href="#" target="_blank" rel="noopener">Enviar por WhatsApp</a>' +
