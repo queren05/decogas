@@ -16,6 +16,7 @@
 
   var $ = function (id) { return document.getElementById(id); };
   var esc = window.DecogasUtil.esc;
+  var norm = window.DecogasUtil.norm;
   var isValidPrice = window.DecogasUtil.isValidPrice;
   var slugify = function (s) {
     return String(s).normalize("NFKD").replace(/[\u0300-\u036f]/g, "")
@@ -268,11 +269,26 @@
   function renderList(category) {
     var list = $(LIST_IDS[category]);
     if (!list) return;
-    list.innerHTML = STATE[category].length
-      ? STATE[category].map(function (p, i) { return prodHTML(p, category, i); }).join("")
-      : '<p class="note" style="padding:6px 2px;">Sin productos todavía. Usa el botón de abajo para añadir el primero.</p>';
+    // Se renderizan solo los que pasan el filtro de búsqueda, pero SIEMPRE
+    // con su índice real en STATE (data-idx), para que editar/borrar/guardar
+    // sigan apuntando al producto correcto.
+    var rows = [];
+    STATE[category].forEach(function (p, i) {
+      if (matchesFilter(p)) rows.push(prodHTML(p, category, i));
+    });
+    list.innerHTML = rows.length
+      ? rows.join("")
+      : (FILTER
+          ? '<p class="note" style="padding:6px 2px;">Ningún producto coincide con la búsqueda.</p>'
+          : '<p class="note" style="padding:6px 2px;">Sin productos todavía. Usa el botón de abajo para añadir el primero.</p>');
+    var total = STATE[category].length;
     var visibles = STATE[category].filter(function (p) { return p.visible; }).length;
-    $(COUNT_IDS[category]).textContent = STATE[category].length + " productos · " + visibles + " visibles";
+    $(COUNT_IDS[category]).textContent = (FILTER ? rows.length + " de " + total : total) + " productos · " + visibles + " visibles";
+    // Con búsqueda activa: se expande la sección si hay resultados y se pliega si no
+    if (FILTER) {
+      var card = list.closest(".section-card");
+      if (card) card.classList.toggle("collapsed", rows.length === 0);
+    }
   }
   function renderAll() { CATS.forEach(renderList); }
 
@@ -468,4 +484,72 @@
   function toggleForm(prod) {
     if (prod.dataset.open) closeForm(prod); else openForm(prod);
   }
+
+  // ---------- Búsqueda y secciones plegables ----------
+  var FILTER = "";
+  function matchesFilter(p) {
+    if (!FILTER) return true;
+    var hay = norm(
+      (p.name || "") + " " + (p.brand || "") + " " + (p.slug || "") + " " +
+      (p.specs || []).join(" ") + " " + (p.efficiency || "")
+    );
+    return hay.indexOf(FILTER) !== -1;
+  }
+
+  (function setupPanelUX() {
+    var wrap = document.querySelector(".panel-body .wrap");
+    if (!wrap) return;
+
+    var st = document.createElement("style");
+    st.textContent =
+      ".admin-search{position:relative; margin:0 0 18px;}" +
+      ".admin-search svg{position:absolute; left:14px; top:50%; transform:translateY(-50%); color:#8A97A5; pointer-events:none;}" +
+      ".admin-search input{width:100%; padding:13px 16px 13px 42px; border:1.5px solid #E3E8ED; border-radius:12px; font-size:15px; font-family:inherit; background:#fff;}" +
+      ".admin-search input:focus{outline:none; border-color:#3AA6D9;}" +
+      ".section-head.clickable{cursor:pointer; user-select:none; display:flex; align-items:center; gap:10px;}" +
+      ".section-head .chev{margin-left:auto; display:inline-flex; color:#8A97A5; transition:transform .2s;}" +
+      ".section-card.collapsed .section-head .chev{transform:rotate(-90deg);}" +
+      ".section-card.collapsed > :not(.section-head){display:none;}";
+    document.head.appendChild(st);
+
+    var bar = document.createElement("div");
+    bar.className = "admin-search";
+    bar.innerHTML =
+      '<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>' +
+      '<input type="search" id="adminSearch" placeholder="Buscar por nombre, marca o característica…" autocomplete="off">';
+    wrap.insertBefore(bar, wrap.firstChild);
+    bar.querySelector("input").addEventListener("input", function (e) {
+      FILTER = norm(e.target.value.trim());
+      renderAll();
+    });
+
+    // Cabeceras de sección plegables (Calderas / Aires / Termos)
+    Array.prototype.forEach.call(document.querySelectorAll(".section-card"), function (card) {
+      var head = card.querySelector(".section-head");
+      if (!head) return;
+      head.classList.add("clickable");
+      var chev = document.createElement("span");
+      chev.className = "chev";
+      chev.innerHTML = '<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg>';
+      head.appendChild(chev);
+      card.classList.add("collapsed"); // plegadas por defecto: con cientos de productos se agradece
+      head.addEventListener("click", function () { card.classList.toggle("collapsed"); });
+    });
+
+    // Al añadir un producto: limpiar la búsqueda y desplegar su sección,
+    // para que la ficha nueva (vacía) no quede filtrada ni oculta.
+    // (fase de captura: corre antes que el handler que crea la ficha)
+    document.addEventListener("click", function (e) {
+      var addBtn = e.target.closest("[data-add]");
+      if (!addBtn) return;
+      if (FILTER) {
+        FILTER = "";
+        var s = $("adminSearch");
+        if (s) s.value = "";
+        renderAll();
+      }
+      var card = addBtn.closest(".section-card");
+      if (card) card.classList.remove("collapsed");
+    }, true);
+  })();
 })();
