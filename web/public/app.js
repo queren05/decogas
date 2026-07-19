@@ -241,7 +241,7 @@
             "Qu\u00E9 busca": lead.interest,
             "Mensaje": lead.message,
             "Fecha": new Date().toLocaleString("es-ES"),
-            "Panel de clientes": "https://queren05.github.io/decogas/clientes.html"
+            "Panel de clientes": new URL("clientes.html", window.location.href).href
           })
         }).then(function (r) { if (!r.ok) throw new Error("email " + r.status); });
       };

@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /admin.html
-Disallow: /clientes.html
-Sitemap: https://queren05.github.io/decogas/sitemap.xml

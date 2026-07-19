@@ -3,8 +3,11 @@
 // Se escribe UNA vez y lo comparten todas las páginas raíz de marketing.
 const rawBase = import.meta.env.BASE_URL; // '/decogas' (sin barra final)
 const base = rawBase.endsWith('/') ? rawBase : rawBase + '/'; // → '/decogas/'
-const ASSET_V = 21; // cache-busting de los scripts clásicos (?v=N) — cambiar aquí, no en 187 archivos
-const STYLES_V = 22; // styles.css va un paso por delante (fix .p-photo z-index en prod)
+const ASSET_V = 22; // cache-busting de los scripts clásicos (?v=N) — cambiar aquí, no en 187 archivos
+const STYLES_V = 23; // styles.css va un paso por delante (fix .p-photo z-index en prod)
+// Página actual (formato 'file': /decogas/calderas.html) para marcar el menú activo
+const currentFile = Astro.url.pathname.split('/').pop() || 'index.html';
+const active = (file: string) => (currentFile === file ? 'page' : undefined);
 
 export interface Props {
   title: string;
@@ -37,11 +40,11 @@ const { title, description = '', dataPage, scripts = [] } = Astro.props;
   <div class="wrap header-inner">
     <a href={`${base}index.html#top`} class="logo"><span class="dot"></span>DECOGAS</a>
     <nav class="main-nav">
-      <a href={`${base}calderas.html`}>Calderas</a>
-      <a href={`${base}aires.html`}>Aire acondicionado</a>
-      <a href={`${base}termos.html`}>Termos</a>
-      <a href={`${base}calcula.html`}>Calculadora</a>
-      <a href={`${base}guias.html`}>Guías</a>
+      <a href={`${base}calderas.html`} aria-current={active('calderas.html')}>Calderas</a>
+      <a href={`${base}aires.html`} aria-current={active('aires.html')}>Aire acondicionado</a>
+      <a href={`${base}termos.html`} aria-current={active('termos.html')}>Termos</a>
+      <a href={`${base}calcula.html`} aria-current={active('calcula.html')}>Calculadora</a>
+      <a href={`${base}guias.html`} aria-current={active('guias.html')}>Guías</a>
       <a href={`${base}index.html#historia`}>Quiénes somos</a>
       <a href={`${base}index.html#resenas`}>Reseñas</a>
       <a href={`${base}index.html#contacto`}>Contacto</a>
@@ -74,11 +77,11 @@ const { title, description = '', dataPage, scripts = [] } = Astro.props;
   <button class="close-btn" id="navClose" aria-label="Cerrar menú">
     <svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="6" y1="6" x2="18" y2="18"/><line x1="6" y1="18" x2="18" y2="6"/></svg>
   </button>
-  <a href={`${base}calderas.html`}>Calderas</a>
-  <a href={`${base}aires.html`}>Aire acondicionado</a>
-  <a href={`${base}termos.html`}>Termos y calentadores</a>
-  <a href={`${base}calcula.html`}>Calculadora</a>
-  <a href={`${base}guias.html`}>Guías y consejos</a>
+  <a href={`${base}calderas.html`} aria-current={active('calderas.html')}>Calderas</a>
+  <a href={`${base}aires.html`} aria-current={active('aires.html')}>Aire acondicionado</a>
+  <a href={`${base}termos.html`} aria-current={active('termos.html')}>Termos y calentadores</a>
+  <a href={`${base}calcula.html`} aria-current={active('calcula.html')}>Calculadora</a>
+  <a href={`${base}guias.html`} aria-current={active('guias.html')}>Guías y consejos</a>
   <a href={`${base}index.html#historia`}>Quiénes somos</a>
   <a href={`${base}index.html#resenas`}>Reseñas</a>
   <a href={`${base}index.html#contacto`}>Contacto</a>

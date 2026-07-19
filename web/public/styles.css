@@ -928,3 +928,10 @@
   position:absolute !important; left:-9999px !important; top:auto !important;
   width:1px !important; height:1px !important; overflow:hidden !important;
 }
+
+/* ---- Menú: página activa (aria-current lo pone Base.astro) ---- */
+.main-nav a[aria-current="page"] { color: var(--flame); font-weight: 700; }
+.mobile-nav a[aria-current="page"] { color: var(--flame); }
+
+/* ---- Honeypot anti-spam del formulario: invisible para humanos ---- */
+.hp-field { position: absolute !important; left: -9999px !important; top: -9999px !important; height: 0; overflow: hidden; }

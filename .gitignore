@@ -5,3 +5,6 @@ node_modules/
 # Artefactos de build de Astro (web/)
 web/dist/
 web/.astro/
+
+# Copias de seguridad de la BD (contienen datos de clientes)
+backups/

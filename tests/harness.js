@@ -166,7 +166,8 @@ function makeContext(opts) {
   win.localStorage = storage;
   win.scrollY = 0;
   win.innerHeight = 800;
-  win.location = win.location || { href: "" };
+  win.location = win.location || { href: "https://decogas.test/index.html" };
+  if (!win.location.href) win.location.href = "https://decogas.test/index.html";
   // Respetamos lo que ya traiga `win` (los tests pueden pasar sus propios
   // stubs dentro del objeto window) y sólo rellenamos lo que falte.
   win.alert = opts.alert || win.alert || function () {};
@@ -189,6 +190,7 @@ function makeContext(opts) {
     requestAnimationFrame: function () { return 0; },
     cancelAnimationFrame: function () {},
     queueMicrotask: queueMicrotask,
+    URL: URL, // global estándar del navegador (app.js lo usa para componer URLs)
     performance: { now: function () { return 0; } },
     AbortController: function () { this.signal = {}; this.abort = function () {}; },
     IntersectionObserver: function () {

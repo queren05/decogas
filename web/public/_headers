@@ -1,0 +1,50 @@
+# ============================================================
+# CABECERAS DE SEGURIDAD (formato Netlify / Cloudflare Pages)
+# GitHub Pages NO las aplica: este archivo se activa solo al
+# publicar en un alojamiento que las soporte (p. ej. el futuro
+# decogas.com en Cloudflare Pages). Mantenerlas al día.
+# ============================================================
+
+/*
+  # Obliga a usar siempre conexión cifrada (https) durante 2 años
+  Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+  # Impide que otra web meta la nuestra dentro de un marco (clickjacking)
+  X-Frame-Options: DENY
+  # Impide que el navegador "adivine" tipos de archivo (ataques por MIME)
+  X-Content-Type-Options: nosniff
+  # No filtramos a otras webs qué página exacta visitaba el usuario
+  Referrer-Policy: strict-origin-when-cross-origin
+  # Ninguna función del móvil/PC accesible desde la web
+  Permissions-Policy: camera=(), microphone=(), geolocation=(), payment=(), usb=(), magnetometer=(), gyroscope=(), accelerometer=(), interest-cohort=()
+  # Aísla nuestra pestaña de otras ventanas
+  Cross-Origin-Opener-Policy: same-origin
+  Cross-Origin-Resource-Policy: same-site
+  X-Permitted-Cross-Domain-Policies: none
+  # Lista blanca de lo único que el navegador puede cargar o contactar.
+  # script-src es solo 'self': el SDK de Supabase está auto-alojado en /vendor/.
+  # frame-src permite el mapa de Google de la portada.
+  Content-Security-Policy: default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data: https://*.supabase.co; connect-src 'self' https://*.supabase.co https://formsubmit.co; frame-src https://www.google.com; object-src 'none'; worker-src 'none'; media-src 'none'; base-uri 'self'; frame-ancestors 'none'; form-action 'self' mailto:; upgrade-insecure-requests
+
+# ------------------------------------------------------------
+# Paneles privados: que no se indexen ni se queden guardados
+# en la caché del navegador (importante en equipos compartidos)
+# ------------------------------------------------------------
+/admin.html
+  X-Robots-Tag: noindex, nofollow, noarchive
+  Cache-Control: no-store, max-age=0
+
+/clientes.html
+  X-Robots-Tag: noindex, nofollow, noarchive
+  Cache-Control: no-store, max-age=0
+
+# ------------------------------------------------------------
+# Caché de recursos estáticos (rendimiento)
+# ------------------------------------------------------------
+/styles.css
+  Cache-Control: public, max-age=300, must-revalidate
+/hero-bg.jpg
+  Cache-Control: public, max-age=604800
+/favicon.svg
+  Cache-Control: public, max-age=604800
+/vendor/supabase.min.js
+  Cache-Control: public, max-age=2592000

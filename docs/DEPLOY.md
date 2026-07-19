@@ -32,6 +32,31 @@ publicado (es lo esperado; ver la sección de seguridad).
 > `LEEME.txt` que lo describían ya se eliminaron del repo. El único despliegue vigente es
 > el de GitHub Pages descrito arriba.
 
+## Publicar bajo decogas.com (preparado, pendiente de ejecutar)
+
+El sitio está **parametrizado**: `SITE` y `BASE` se leen de variables de entorno en
+`web/astro.config.mjs` (canonicals, `og:url`, `robots.txt` y sitemap siguen solos).
+Para construir la versión de decogas.com:
+
+```bash
+SITE=https://decogas.com BASE=/ npm run build   # (desde web/)
+```
+
+Recomendado: **Cloudflare Pages** (gratis), que además de servir `web/dist` **sí aplica**
+los dos archivos ya preparados en `web/public/`:
+
+- **`_headers`** — todas las cabeceras de seguridad (CSP estricta sin CDNs de scripts —
+  el SDK de Supabase está auto-alojado en `vendor/` —, HSTS, anti-clickjacking, no-index
+  de los paneles). En GitHub Pages viajan inertes.
+- **`_redirects`** — 265 redirecciones 301 de las fichas del WooCommerce viejo de
+  decogas.com a las páginas nuevas (`/calderas/<slug>-producto/` → `/calderas.html#p=<slug>`),
+  más los listados de categoría. Imprescindible para no perder el SEO acumulado.
+  Las URLs del blog son idénticas a las viejas — no necesitan redirección.
+
+En Cloudflare Pages: build command `npm run build`, output `web/dist`, variables de
+entorno `SITE=https://decogas.com` y `BASE=/`. Al activar el dominio: DNSSEC, registro
+CAA y 2FA en el registrador.
+
 ## URLs absolutas y subruta `/decogas/`
 
 Como GitHub Pages sirve el sitio bajo `/decogas/`, todo lo que apunta a una URL absoluta
