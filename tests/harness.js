@@ -27,7 +27,7 @@ var fs = require("fs");
 var path = require("path");
 var vm = require("vm");
 
-var SRC = path.join(__dirname, "..", "decogas-web");
+var SRC = path.join(__dirname, "..", "web", "public");
 
 // ---------- DOM falso ----------
 function FakeClassList() {

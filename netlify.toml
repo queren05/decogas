@@ -1,7 +1,0 @@
-# Configuración de despliegue de Netlify.
-# Con el repo conectado a Netlify, cada push a main despliega solo.
-# La web es estática: no hay comando de build, solo publicar la carpeta.
-
-[build]
-  publish = "decogas-web (2)/decogas-web"
-  command = ""
