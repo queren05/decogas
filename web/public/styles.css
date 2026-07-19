@@ -935,3 +935,31 @@
 
 /* ---- Honeypot anti-spam del formulario: invisible para humanos ---- */
 .hp-field { position: absolute !important; left: -9999px !important; top: -9999px !important; height: 0; overflow: hidden; }
+
+/* ================================================================
+   Retoques estéticos (v24): foto de producto animada, subrayado
+   del menú, selección de texto y foco visible de marca
+   ================================================================ */
+
+/* La foto real aparece con un fundido y hace un zoom sutil al pasar */
+.p-photo{ animation:photoIn .55s ease; transition:transform .4s cubic-bezier(.2,.7,.3,1); }
+@keyframes photoIn{ from{ opacity:0; transform:scale(.97); } }
+.p-card:hover .p-photo{ transform:scale(1.05); }
+
+/* Subrayado animado del menú de escritorio (y fijo en la página activa) */
+nav.main-nav a::after{
+  content:""; position:absolute; left:0; right:100%; bottom:-5px; height:2px;
+  background:var(--flame); border-radius:2px; transition:right .25s ease;
+}
+nav.main-nav a:hover::after,
+nav.main-nav a[aria-current="page"]::after{ right:0; }
+
+/* Selección de texto y foco de teclado con el color de marca */
+::selection{ background:var(--flame); color:#fff; }
+:focus-visible{ outline:2px solid var(--flame); outline-offset:2px; border-radius:3px; }
+
+@media (prefers-reduced-motion: reduce){
+  .p-photo{ animation:none; }
+  .p-card:hover .p-photo{ transform:none; }
+  nav.main-nav a::after{ transition:none; }
+}

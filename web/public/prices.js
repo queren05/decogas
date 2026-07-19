@@ -89,12 +89,12 @@
       var map = {};
       (list || []).forEach(function (row) {
         var p = normalize(row);
-        if (p) map[p.slug] = { price: p.price, visible: p.visible };
+        if (p) map[p.slug] = { price: p.price, visible: p.visible, img: p.img };
       });
       return map;
     };
     if (cfg) {
-      return fetchRows(cfg, "select=slug,price,name,visible").then(toMap);
+      return fetchRows(cfg, "select=slug,price,name,visible,img").then(toMap);
     }
     var demo = readDemoStorage();
     return Promise.resolve(toMap(demo ? [].concat(demo.calderas || [], demo.aires || [], demo.termos || []) : []));
@@ -106,7 +106,21 @@
       if (!o) return;
       el.textContent = o.price.toLocaleString("es-ES");
       var card = el.closest(".p-card");
-      if (card && o.visible === false) card.style.display = "none";
+      if (!card) return;
+      if (o.visible === false) card.style.display = "none";
+      // Foto real del producto sobre la ilustración SVG de la tarjeta
+      // (la portada trae dibujos de fábrica; si hay foto en la BD, se muestra).
+      if (o.img && /^https?:\/\//.test(o.img) && !card.querySelector(".p-photo")) {
+        var vis = card.querySelector(".p-visual");
+        if (vis) {
+          var ph = document.createElement("img");
+          ph.className = "p-photo";
+          ph.alt = "";
+          ph.loading = "lazy";
+          ph.src = o.img;
+          vis.appendChild(ph);
+        }
+      }
     });
   }
 
