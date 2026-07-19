@@ -563,14 +563,18 @@
 /* ============================================================
    BUSCADOR GLOBAL + BÚSQUEDA EN CATÁLOGO + CALCULADORA
    ============================================================ */
-.search-btn{
+.search-btn, .theme-btn{
   width:40px; height:40px; padding:0; border-radius:10px; border:1.5px solid var(--line); background:#fff;
   display:inline-flex; align-items:center; justify-content:center; cursor:pointer; color:var(--navy);
   transition:all .2s; flex:none;
 }
-#siteHeader:not(.scrolled) .search-btn{ background:rgba(255,255,255,.12); border-color:rgba(255,255,255,.25); color:#fff; }
-.search-btn:hover{ transform:translateY(-1px); border-color:var(--flame); color:var(--flame); }
+#siteHeader:not(.scrolled) .search-btn, #siteHeader:not(.scrolled) .theme-btn{ background:rgba(255,255,255,.12); border-color:rgba(255,255,255,.25); color:#fff; }
+.search-btn:hover, .theme-btn:hover{ transform:translateY(-1px); border-color:var(--flame); color:var(--flame); }
 .search-btn svg{ width:17px; height:17px; stroke:currentColor; fill:none; stroke-width:2.2; stroke-linecap:round; }
+/* El botón de tema enseña la luna en modo claro y el sol en modo oscuro */
+.theme-btn .ico-sun{ display:none; }
+[data-theme="dark"] .theme-btn .ico-sun{ display:block; }
+[data-theme="dark"] .theme-btn .ico-moon{ display:none; }
 
 .search-overlay{
   position:fixed; top:0; left:0; right:0; z-index:300; background:#fff; box-shadow:0 24px 60px rgba(14,34,56,.25);
@@ -877,6 +881,9 @@
 .budget-foot{ font-size:11.5px; color:var(--muted); line-height:1.6; margin:12px 0 16px; }
 .budget-actions{ display:flex; gap:10px; flex-wrap:wrap; }
 .budget-actions .btn{ flex:1; min-width:150px; }
+/* El modal es blanco: el btn-ghost (blanco sobre oscuro) era invisible aquí */
+.budget-actions .btn-ghost{ border-color:var(--navy); color:var(--navy); }
+.budget-actions .btn-ghost:hover{ background:rgba(14,34,56,.07); }
 @media(max-width:520px){ .budget-fin-row{ grid-template-columns:1fr; } }
 
 @media print{
@@ -1060,3 +1067,106 @@ nav.main-nav a[aria-current="page"]::after{ right:0; }
 .sp-tag.est-llamado{ background:#E3F2FB; border-color:#A9D7F2; color:#0F5E8C; }
 .sp-tag.est-presupuestado{ background:#E8EAF6; border-color:#B9C0E8; color:#2E3A8C; }
 .sp-tag.est-cerrado{ background:#E8F6EC; border-color:#A9DFBB; color:#1C7C3C; }
+
+/* ================================================================
+   v27 — Páginas de marcas, sello Mundial Hisense y MODO OSCURO
+   ================================================================ */
+
+/* ---- Índice de marcas (marcas.html) ---- */
+.marcas-grid{ display:grid; grid-template-columns:repeat(auto-fill,minmax(240px,1fr)); gap:16px; }
+.marcas-item{ background:#fff; border:1px solid var(--line); border-radius:16px; padding:22px; display:flex; flex-direction:column; gap:6px; transition:box-shadow .25s ease, transform .25s ease; }
+.marcas-item:hover{ box-shadow:var(--shadow); transform:translateY(-3px); }
+.marcas-nombre{ font-family:'Fraunces'; font-size:20px; font-weight:600; color:var(--navy); }
+.marcas-num{ font-family:'IBM Plex Mono'; font-size:12px; color:var(--flame-deep); font-weight:600; }
+.marcas-detalle{ font-size:13px; color:var(--muted); }
+.marca-more{ font-size:13px; font-weight:700; color:var(--flame-deep); margin-top:6px; }
+
+/* ---- Página de una marca (marcas/<marca>.html) ---- */
+.marca-bloque{ margin-bottom:44px; }
+.marca-cat{ font-size:22px; margin-bottom:16px; }
+.marca-grid{ display:grid; grid-template-columns:repeat(auto-fill,minmax(230px,1fr)); gap:16px; }
+.marca-card{ background:#fff; border:1px solid var(--line); border-radius:16px; overflow:hidden; display:flex; flex-direction:column; transition:box-shadow .25s ease, transform .25s ease; }
+.marca-card:hover{ box-shadow:var(--shadow); transform:translateY(-3px); }
+.marca-visual{ position:relative; height:170px; background:#fff; border-bottom:1px solid var(--line); }
+.marca-visual img{ width:100%; height:100%; object-fit:contain; padding:14px; }
+.marca-noimg{ display:flex; align-items:center; justify-content:center; height:100%; color:var(--muted); font-size:13px; }
+.marca-best{ position:absolute; top:12px; left:12px; background:var(--flame); color:#fff; font-family:'IBM Plex Mono'; font-size:10px; font-weight:600; padding:5px 10px; border-radius:999px; }
+.marca-body{ padding:16px 18px 18px; display:flex; flex-direction:column; gap:6px; flex:1; }
+.marca-name{ font-weight:700; font-size:14.5px; color:var(--navy); line-height:1.35; }
+.marca-specs{ font-size:12.5px; color:var(--muted); }
+.marca-price{ margin-top:auto; font-size:13px; color:var(--muted); }
+.marca-price strong{ font-family:'Fraunces'; font-size:20px; color:var(--navy); margin-right:6px; }
+
+/* ---- Sello "patrocinador del Mundial" (Hisense) ---- */
+.sponsor-badge{ display:inline-flex; align-items:center; gap:9px; background:rgba(255,255,255,.1); border:1px solid rgba(255,255,255,.25); border-radius:999px; padding:8px 16px; font-size:13px; color:#fff; margin-top:14px; }
+.sponsor-badge svg{ width:16px; height:16px; flex:none; }
+
+/* ================================================================
+   MODO OSCURO — se activa con data-theme="dark" en <html>
+   (theme.js decide el inicial; el botón de la cabecera lo cambia)
+   ================================================================ */
+[data-theme="dark"]{
+  --paper:#0C141D;
+  --cloud:#121D29;
+  --text:#D6E0EA;
+  --muted:#93A5B6;
+  --line:#25384C;
+  --shadow:0 14px 40px rgba(0,0,0,.5);
+}
+[data-theme="dark"] h1, [data-theme="dark"] h2, [data-theme="dark"] h3, [data-theme="dark"] h4{ color:#EAF2F8; }
+
+/* Superficies que en claro son blanco fijo */
+[data-theme="dark"] .p-card,
+[data-theme="dark"] .marcas-item,
+[data-theme="dark"] .marca-card,
+[data-theme="dark"] .marca-body,
+[data-theme="dark"] .ahorro-form,
+[data-theme="dark"] .faq-item,
+[data-theme="dark"] .faq-search,
+[data-theme="dark"] .stats-pro,
+[data-theme="dark"] .budget-sheet,
+[data-theme="dark"] .search-box,
+[data-theme="dark"] .lead,
+[data-theme="dark"] .compare-sheet{ background:#152230; border-color:var(--line); }
+
+/* Textos oscuros sobre esas superficies */
+[data-theme="dark"] .p-name, [data-theme="dark"] .marca-name, [data-theme="dark"] .marcas-nombre,
+[data-theme="dark"] .marca-price strong, [data-theme="dark"] .prod-price strong,
+[data-theme="dark"] .faq-item summary, [data-theme="dark"] .lead-name,
+[data-theme="dark"] .sp-n, [data-theme="dark"] .sp-tag{ color:#EAF2F8; }
+[data-theme="dark"] .sp-tag{ background:#1B2A3A; border-color:var(--line); }
+
+/* Zona de foto: se queda CLARA a propósito (las fotos tienen fondo blanco) */
+[data-theme="dark"] .p-visual{ background:radial-gradient(120% 100% at 50% 0%, #E7EEF4 0%, #DDE6EE 60%, #E9EFF4 100%); }
+
+/* Degradados de sección en claro fijo */
+[data-theme="dark"] .products-section{ background:linear-gradient(180deg, var(--paper) 0%, var(--cloud) 100%); }
+[data-theme="dark"] .power-box.rec{ background:#22303F; border-color:#3A4C60; }
+[data-theme="dark"] .prod-media{ background:#F2F5F8; }
+[data-theme="dark"] .prod-price-box{ background:var(--cloud); }
+[data-theme="dark"] .prod-ctas .btn-ghost{ border-color:#B9CBDC; color:#D6E0EA; }
+[data-theme="dark"] .budget-actions .btn-ghost{ border-color:#B9CBDC; color:#D6E0EA; }
+
+/* Campos de formulario */
+[data-theme="dark"] input, [data-theme="dark"] select, [data-theme="dark"] textarea{
+  background:#152230; color:var(--text); border-color:var(--line);
+}
+[data-theme="dark"] .ahorro-opt{ border-color:var(--line); }
+[data-theme="dark"] .ahorro-opt:has(input:checked){ background:#2A2018; border-color:var(--flame); }
+[data-theme="dark"] .faq-empty{ background:var(--cloud); }
+[data-theme="dark"] .recientes{ background:#152230; border-color:var(--line); }
+
+/* ---- Tira "vistos recientemente" del catálogo ---- */
+.recientes{ background:#fff; border:1px solid var(--line); border-radius:14px; padding:16px 18px; margin-bottom:22px; }
+.recientes-head{ display:flex; align-items:center; justify-content:space-between; margin-bottom:12px; }
+.recientes-head h4{ font-size:12px; text-transform:uppercase; letter-spacing:.06em; color:var(--muted); }
+.recientes-clear{ background:none; border:none; font-size:12px; color:var(--muted); text-decoration:underline; }
+.recientes-clear:hover{ color:var(--flame-deep); }
+.recientes-row{ display:flex; gap:12px; overflow-x:auto; padding-bottom:4px; }
+.reciente{ display:flex; align-items:center; gap:10px; border:1px solid var(--line); border-radius:12px; padding:8px 12px 8px 8px; flex:none; max-width:250px; transition:border-color .2s ease; }
+.reciente:hover{ border-color:var(--flame); }
+.reciente img, .reciente-noimg{ width:44px; height:44px; object-fit:contain; background:#fff; border-radius:8px; flex:none; }
+.reciente-info{ display:flex; flex-direction:column; min-width:0; }
+.reciente-name{ font-size:12.5px; font-weight:700; color:var(--navy); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+[data-theme="dark"] .reciente-name{ color:#EAF2F8; }
+.reciente-price{ font-family:'IBM Plex Mono'; font-size:11.5px; color:var(--flame-deep); }

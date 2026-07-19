@@ -101,6 +101,17 @@
     if (btn && !btn.contains(e.relatedTarget)) btn.style.transform = "";
   });
 
+  // ---------- Modo claro/oscuro (el tema inicial lo pone theme.js en el head) ----------
+  var themeBtn = document.getElementById("themeBtn");
+  if (themeBtn) {
+    themeBtn.addEventListener("click", function () {
+      var actual = document.documentElement.getAttribute("data-theme") === "dark" ? "dark" : "light";
+      var nuevo = actual === "dark" ? "light" : "dark";
+      document.documentElement.setAttribute("data-theme", nuevo);
+      try { localStorage.setItem("decogas_theme", nuevo); } catch (err) { /* sin almacenamiento */ }
+    });
+  }
+
   // ---------- Formulario de contacto (solo en index) ----------
   var form = $("infoForm");
   if (form) {

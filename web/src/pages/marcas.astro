@@ -1,0 +1,53 @@
+---
+// Índice de marcas: una tarjeta por fabricante con recuento de equipos.
+import Base from '../layouts/Base.astro';
+import { fetchProductosVisibles, agruparPorMarca } from '../lib/productos.mjs';
+
+const marcas = agruparPorMarca(await fetchProductosVisibles());
+const SB = new URL(import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL : import.meta.env.BASE_URL + '/', Astro.site).href;
+const title = 'Marcas que instalamos · Decogas Madrid';
+const description = `Instalamos y damos servicio a ${marcas.length} fabricantes: ${marcas.slice(0, 6).map((m) => m.brand).join(', ')} y más. Catálogo con IVA e instalación incluidos.`;
+const scripts = ['utils.js', 'config.js', 'prices.js', 'data-calderas.js', 'data-aires.js', 'search.js', 'app.js'];
+const CAT_NOMBRE = { calderas: 'calderas', aires: 'aires', termos: 'termos' };
+const resumen = (m) => {
+  const porCat = {};
+  m.productos.forEach((p) => { porCat[p.category] = (porCat[p.category] || 0) + 1; });
+  return Object.keys(porCat).map((c) => `${porCat[c]} ${CAT_NOMBRE[c] || c}`).join(' · ');
+};
+---
+<Base title={title} description={description} dataPage="marcas" scripts={scripts}>
+  <Fragment slot="head">
+    <link rel="canonical" href={`${SB}marcas.html`} />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={`${SB}marcas.html`} />
+  </Fragment>
+
+  <section class="hero" style="min-height:auto; padding:160px 0 60px;">
+    <div class="hero-orb orb-1"></div>
+    <div class="hero-orb orb-2"></div>
+    <div class="wrap page-hero" style="display:block; max-width:820px;">
+      <div class="breadcrumb"><a href={`${SB}index.html`}>Inicio</a> / Marcas</div>
+      <div class="eyebrow" style="color:var(--flame);">Marcas</div>
+      <h1 style="color:#fff; font-size:clamp(32px,4.6vw,48px); margin-bottom:14px;">Los fabricantes que instalamos</h1>
+      <p class="lead">Trabajamos con las marcas de siempre, las que tienen repuestos y servicio técnico en Madrid. Elige la tuya y mira su catálogo con precio cerrado.</p>
+    </div>
+  </section>
+
+  <section class="section" style="padding-top:50px;">
+    <div class="wrap">
+      <div class="marcas-grid reveal-stagger">
+        {marcas.map((m) => (
+          <a class="marcas-item" href={`${SB}marcas/${m.slug}.html`}>
+            <span class="marcas-nombre">{m.brand}</span>
+            <span class="marcas-num">{m.productos.length} {m.productos.length === 1 ? 'equipo' : 'equipos'}</span>
+            <span class="marcas-detalle">{resumen(m)}</span>
+            <span class="marca-more">Ver catálogo →</span>
+          </a>
+        ))}
+      </div>
+      <p class="ahorro-legal reveal">¿No ves tu marca? Instalamos y reparamos muchas más — <a href={`${SB}index.html#contacto`}>pregúntanos sin compromiso</a>.</p>
+    </div>
+  </section>
+</Base>
