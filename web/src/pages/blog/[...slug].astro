@@ -1,0 +1,21 @@
+---
+// Ruta dinámica de los ~177 artículos del blog.
+// Cada slug termina en '/index' → con build.format 'file' emite
+// blog/<categoria>/<slug>/index.html → URL /decogas/blog/<categoria>/<slug>/ (barra final, idéntica).
+import { getCollection, render } from 'astro:content';
+import Articulo from '../../layouts/Articulo.astro';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('blog');
+  return posts.map((post) => ({
+    params: { slug: `${post.id}/index` }, // post.id = "caldera/como-encender-caldera"
+    props: { post },
+  }));
+}
+
+const { post } = Astro.props;
+const { Content } = await render(post);
+---
+<Articulo post={post}>
+  <Content />
+</Articulo>
