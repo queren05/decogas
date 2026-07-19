@@ -112,6 +112,28 @@
     });
   }
 
+  // ---------- Banner temporal: España campeona del Mundial 2026 ----------
+  // Se deshabilita solo el domingo 26/07/2026 a medianoche (hora de Madrid).
+  // Después de esa fecha este bloque se puede borrar sin más.
+  (function () {
+    var CADUCA = new Date("2026-07-27T00:00:00+02:00").getTime();
+    var visto = false;
+    try { visto = localStorage.getItem("decogas_mundial_2026") === "cerrado"; } catch (err) { /* sin almacenamiento */ }
+    if (Date.now() >= CADUCA || visto) return;
+    var b = document.createElement("div");
+    b.className = "mundial-banner";
+    b.setAttribute("role", "status");
+    b.innerHTML =
+      '<span class="mb-trofeo">🏆</span>' +
+      '<span><strong>¡España campeona del mundo!</strong> Esta semana lo celebramos por todo lo alto 🇪🇸</span>' +
+      '<button class="mb-cerrar" type="button" aria-label="Cerrar aviso">×</button>';
+    document.body.appendChild(b);
+    b.querySelector(".mb-cerrar").addEventListener("click", function () {
+      b.remove();
+      try { localStorage.setItem("decogas_mundial_2026", "cerrado"); } catch (err) { /* sin almacenamiento */ }
+    });
+  })();
+
   // ---------- Formulario de contacto (solo en index) ----------
   var form = $("infoForm");
   if (form) {

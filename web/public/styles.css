@@ -1170,3 +1170,20 @@ nav.main-nav a[aria-current="page"]::after{ right:0; }
 .reciente-name{ font-size:12.5px; font-weight:700; color:var(--navy); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
 [data-theme="dark"] .reciente-name{ color:#EAF2F8; }
 .reciente-price{ font-family:'IBM Plex Mono'; font-size:11.5px; color:var(--flame-deep); }
+
+/* ---- Banner temporal: España campeona del Mundial 2026 (caduca 26/07) ---- */
+.mundial-banner{
+  position:fixed; left:50%; bottom:18px; transform:translateX(-50%);
+  display:flex; align-items:center; gap:11px;
+  background:var(--navy); color:#fff; border:1px solid rgba(255,185,48,.55);
+  border-radius:999px; padding:11px 18px; font-size:13.5px;
+  box-shadow:0 12px 34px rgba(0,0,0,.35); z-index:350;
+  max-width:min(92vw, 560px); animation:mundialIn .6s var(--ease);
+}
+.mundial-banner strong{ color:var(--gold); }
+.mb-trofeo{ font-size:18px; flex:none; }
+.mb-cerrar{ background:none; border:none; color:rgba(255,255,255,.7); font-size:20px; line-height:1; padding:0 0 0 4px; flex:none; }
+.mb-cerrar:hover{ color:#fff; }
+@keyframes mundialIn{ from{ opacity:0; transform:translateX(-50%) translateY(16px); } }
+@media (max-width:600px){ .mundial-banner{ bottom:82px; font-size:12.5px; } } /* no tapar el botón de WhatsApp */
+@media (prefers-reduced-motion: reduce){ .mundial-banner{ animation:none; } }
