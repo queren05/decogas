@@ -119,9 +119,10 @@
     var CADUCA = new Date("2026-07-27T00:00:00+02:00").getTime();
     if (Date.now() >= CADUCA) return;
 
-    // --- Banner (cerrable; recuerda el cierre) ---
+    // --- Banner (cerrable; el cierre solo dura la sesión — al volver otro
+    // día de la semana de celebración, reaparece) ---
     var visto = false;
-    try { visto = localStorage.getItem("decogas_mundial_2026") === "cerrado"; } catch (err) { /* sin almacenamiento */ }
+    try { visto = sessionStorage.getItem("decogas_mundial_2026") === "cerrado"; } catch (err) { /* sin almacenamiento */ }
     if (!visto) {
       var b = document.createElement("div");
       b.className = "mundial-banner";
@@ -133,7 +134,7 @@
       document.body.appendChild(b);
       b.querySelector(".mb-cerrar").addEventListener("click", function () {
         b.remove();
-        try { localStorage.setItem("decogas_mundial_2026", "cerrado"); } catch (err) { /* sin almacenamiento */ }
+        try { sessionStorage.setItem("decogas_mundial_2026", "cerrado"); } catch (err) { /* sin almacenamiento */ }
       });
     }
 
