@@ -1,0 +1,159 @@
+---
+// Ficha individual de producto: una página por cada producto VISIBLE de
+// Supabase, generada en el build (getStaticPaths). Si Supabase no responde
+// durante el build, no se generan fichas pero el build NO falla.
+// El workflow de Pages tiene un cron semanal para que las fichas no se
+// queden desfasadas aunque no haya pushes.
+import Base from '../../layouts/Base.astro';
+import cfgRaw from '../../../public/config.js?raw';
+
+export async function getStaticPaths() {
+  const grab = (k) => (cfgRaw.match(new RegExp(k + String.raw`:\s*"([^"]*)"`)) || [])[1] || '';
+  const url = grab('supabaseUrl').replace(/\/+$/, '');
+  const key = grab('supabaseAnonKey');
+  if (!url || !key) return [];
+  // Hasta 3 intentos, comprobando el recuento del servidor (content-range)
+  // contra las filas recibidas: una respuesta parcial generaría fichas de menos.
+  for (let intento = 1; intento <= 3; intento++) {
+    try {
+      const res = await fetch(`${url}/rest/v1/products?select=*&visible=eq.true&order=pop.asc`, {
+        headers: { apikey: key, Authorization: `Bearer ${key}`, Prefer: 'count=exact' },
+      });
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const total = Number((res.headers.get('content-range') || '').split('/')[1]);
+      const rows = await res.json();
+      if (Number.isFinite(total) && rows.length !== total) {
+        throw new Error(`respuesta parcial: ${rows.length}/${total} filas`);
+      }
+      return rows
+        .filter((p) => p.slug && p.name && Number(p.price) > 0)
+        .map((p) => ({ params: { slug: p.slug }, props: { p } }));
+    } catch (e) {
+      console.warn(`[producto/[slug]] Intento ${intento}/3 fallido: ${e.message}`);
+      if (intento === 3) return [];
+      await new Promise((r) => setTimeout(r, 1500 * intento));
+    }
+  }
+  return [];
+}
+
+const { p } = Astro.props;
+const SB = new URL(import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL : import.meta.env.BASE_URL + '/', Astro.site).href;
+
+const CAT = {
+  calderas: { page: 'calderas.html', name: 'Calderas' },
+  aires: { page: 'aires.html', name: 'Aire acondicionado' },
+  termos: { page: 'termos.html', name: 'Termos y calentadores' },
+}[p.category] || { page: 'index.html', name: 'Catálogo' };
+
+const price = Number(p.price);
+const fmt = (n) => n.toLocaleString('es-ES');
+const cuota = (meses) => fmt(Math.ceil((price / meses) * 100) / 100);
+const specs = Array.isArray(p.specs) ? p.specs : [];
+const features = Array.isArray(p.features) ? p.features : [];
+const description = String(p.description || '').trim();
+const pageUrl = `${SB}producto/${p.slug}.html`;
+const metaDesc = (description || `${p.name} con instalación incluida en Madrid por ${fmt(price)} € IVA incluido. Financiación sin intereses.`).slice(0, 158);
+
+const ld = JSON.stringify({
+  '@context': 'https://schema.org',
+  '@type': 'Product',
+  name: p.name,
+  ...(p.img ? { image: p.img } : {}),
+  ...(description ? { description } : {}),
+  ...(p.brand ? { brand: { '@type': 'Brand', name: p.brand } } : {}),
+  offers: {
+    '@type': 'Offer',
+    price: price,
+    priceCurrency: 'EUR',
+    availability: 'https://schema.org/InStock',
+    url: pageUrl,
+  },
+});
+
+const waText = encodeURIComponent(`Hola, me interesa: ${p.name} (${fmt(price)} €). ¿Me podéis informar?`);
+const scripts = ['utils.js', 'config.js', 'prices.js', 'data-calderas.js', 'data-aires.js', 'data-termos.js', 'search.js', 'app.js'];
+---
+<Base title={`${p.name} · Decogas Madrid`} description={metaDesc} dataPage="producto" scripts={scripts}>
+  <Fragment slot="head">
+    <link rel="canonical" href={pageUrl} />
+    <meta property="og:type" content="product" />
+    <meta property="og:title" content={`${p.name} · Decogas`} />
+    <meta property="og:description" content={metaDesc} />
+    <meta property="og:url" content={pageUrl} />
+    {p.img && <meta property="og:image" content={p.img} />}
+    <script type="application/ld+json" set:html={ld} is:inline></script>
+  </Fragment>
+
+  <section class="hero" style="min-height:auto; padding:150px 0 40px;">
+    <div class="hero-orb orb-1"></div>
+    <div class="wrap" style="display:block;">
+      <div class="breadcrumb"><a href={`${SB}index.html`}>Inicio</a> / <a href={SB + CAT.page}>{CAT.name}</a> / {p.name}</div>
+    </div>
+  </section>
+
+  <section class="section" style="padding-top:34px;">
+    <div class="wrap">
+      <div class="prod-layout reveal">
+        <div class="prod-media">
+          {p.img
+            ? <img src={p.img} alt={p.name} loading="eager" />
+            : <div class="prod-noimg">Foto próximamente</div>}
+          {p.best && <span class="prod-best">Más vendido</span>}
+        </div>
+
+        <div class="prod-info">
+          {p.brand && <div class="p-brand">{p.brand}</div>}
+          <h1 class="prod-title">{p.name}</h1>
+
+          {specs.length > 0 && (
+            <div class="prod-specs">
+              {specs.map((s) => <span class="prod-spec">{s}</span>)}
+            </div>
+          )}
+
+          <div class="prod-price-box">
+            <div class="prod-price"><strong>{fmt(price)} €</strong> <span>IVA e instalación estándar incluidos</span></div>
+            <div class="prod-fin">Financiación sin intereses: <strong>{cuota(12)} €/mes</strong> (12 m) · <strong>{cuota(24)} €/mes</strong> (24 m) · <strong>{cuota(36)} €/mes</strong> (36 m)</div>
+          </div>
+
+          <div class="prod-ctas">
+            <a class="btn btn-flame" href={`https://wa.me/34651368631?text=${waText}`} target="_blank" rel="noopener">Pedir por WhatsApp</a>
+            <a class="btn btn-navy" href="tel:+34919930168">919 93 01 68</a>
+            <a class="btn btn-ghost" href={`${SB}index.html#contacto`}>Pide presupuesto</a>
+          </div>
+
+          {(p.ideal_for || p.efficiency) && (
+            <div class="prod-meta">
+              {p.ideal_for && <div><strong>Pensado para:</strong> {p.ideal_for}</div>}
+              {p.efficiency && <div><strong>Clase energética:</strong> <span class="prod-eff">{p.efficiency}</span></div>}
+            </div>
+          )}
+        </div>
+      </div>
+
+      {(description || features.length > 0) && (
+        <div class="prod-detail reveal">
+          {description && (
+            <div>
+              <h2 class="prod-h2">Descripción</h2>
+              <p class="prod-desc">{description}</p>
+            </div>
+          )}
+          {features.length > 0 && (
+            <div>
+              <h2 class="prod-h2">Características</h2>
+              <ul class="prod-feats">
+                {features.map((f) => <li>{f}</li>)}
+              </ul>
+            </div>
+          )}
+        </div>
+      )}
+
+      <div class="prod-back reveal">
+        <a class="btn btn-navy" href={SB + CAT.page}>← Ver todo el catálogo de {CAT.name.toLowerCase()}</a>
+      </div>
+    </div>
+  </section>
+</Base>

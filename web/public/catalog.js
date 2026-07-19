@@ -83,7 +83,7 @@
         '</div>' +
         '<div class="p-financing">' +
           '<svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="5" width="20" height="14" rx="2"/><line x1="2" y1="10" x2="22" y2="10"/></svg>' +
-          'Financiación a 12, 24 o 36 meses sin intereses' +
+          'Desde <strong>' + formatPrice(Math.ceil((p.price / 36) * 100) / 100) + ' €/mes</strong>&nbsp;· 12, 24 o 36 meses sin intereses' +
         '</div>' +
         '<p style="font-size:12px; color:var(--muted); margin-top:10px; padding-top:10px; border-top:1px dashed var(--line);">' +
           '<strong style="color:var(--navy);">Instalación incluida:</strong> ' + esc(INSTALL_NOTE) + '</p>' +
@@ -105,6 +105,7 @@
             '<svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 9.5 12 3l9 6.5V21a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1z"/><path d="M9 22V12h6v10"/></svg>' +
             '<span>' + esc(p.idealFor) + '</span>' +
           '</div>' +
+          '<a class="p-ficha-link" href="producto/' + encodeURIComponent(p.slug) + '.html">Ver ficha completa →</a>' +
         '</div></div>' +
       '</div>' +
     '</div>';

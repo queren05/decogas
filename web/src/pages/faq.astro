@@ -1,0 +1,95 @@
+---
+import Base from '../layouts/Base.astro';
+const SB = new URL(import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL : import.meta.env.BASE_URL + '/', Astro.site).href;
+const title = 'Preguntas frecuentes · Decogas Madrid';
+const description = 'Respuestas claras a las dudas más habituales sobre calderas, aire acondicionado, aerotermia y termos: revisiones, presión, consumos, precios y averías comunes.';
+const scripts = ['utils.js', 'config.js', 'prices.js', 'data-calderas.js', 'data-aires.js', 'search.js', 'faq.js', 'app.js'];
+
+// Cada FAQ enlaza a un artículo REAL del blog (slug verificado en src/content/blog).
+const FAQS = [
+  { cat: 'Calderas', q: '¿Cada cuánto es obligatoria la revisión de la caldera de gas?', a: 'La revisión de la instalación de gas es obligatoria cada 5 años (la hace la distribuidora o una empresa habilitada) y el fabricante recomienda un mantenimiento anual de la caldera para conservar la garantía y el rendimiento.', link: 'blog/caldera/revision-caldera-obligatoria/' },
+  { cat: 'Calderas', q: '¿Qué presión debe tener mi caldera?', a: 'En frío, la aguja debe estar entre 1 y 1,5 bares. Por debajo de 1 conviene rellenar con la llave de llenado; por encima de 2,5 en frío, hay que purgar radiadores o revisar el vaso de expansión.', link: 'blog/caldera/presion-caldera-adecuada/' },
+  { cat: 'Calderas', q: '¿Por qué mi caldera pierde presión si no veo fugas?', a: 'Lo más habitual es una microfuga en radiadores o tuberías, el vaso de expansión descargado o la válvula de seguridad goteando al desagüe, donde no se ve. Si tienes que rellenar cada pocos días, toca revisión.', link: 'blog/caldera/caldera-pierde-presion-no-hay-fugas/' },
+  { cat: 'Calderas', q: '¿Cuánto dura una caldera de gas?', a: 'Entre 12 y 15 años con mantenimiento anual. A partir de ahí las averías se encadenan y el consumo sube: suele salir más a cuenta cambiarla que repararla.', link: 'blog/caldera/cuanto-dura-una-caldera-de-gas/' },
+  { cat: 'Calderas', q: '¿Cuánto cuesta una caldera nueva instalada?', a: 'Una caldera de condensación con instalación estándar suele moverse entre 1.500 y 2.500 € según potencia y marca. En nuestro catálogo los precios ya incluyen IVA e instalación, con financiación sin intereses.', link: 'blog/caldera/cuanto-cuesta-una-caldera/' },
+  { cat: 'Calderas', q: '¿Qué es una caldera de condensación y por qué consume menos?', a: 'Recupera el calor de los humos de la combustión que una caldera convencional tira por el tubo, y con eso aprovecha hasta un 25-30 % más de energía. Desde 2015 es el estándar que exige la normativa europea.', link: 'blog/caldera/que-es-caldera-condensacion-funcionamiento/' },
+  { cat: 'Calderas', q: '¿Es malo encender y apagar la caldera constantemente?', a: 'Los arranques y paradas frecuentes desgastan más que un funcionamiento estable. Lo eficiente es usar termostato y programarla, no apagarla y encenderla a mano todo el día.', link: 'blog/caldera/es-malo-encender-apagar-caldera-gas/' },
+  { cat: 'Calderas', q: '¿Cómo se purgan los radiadores?', a: 'Con la calefacción apagada y fría, abre el purgador de cada radiador (empezando por el más cercano a la caldera) hasta que salga agua sin aire, y después revisa la presión de la caldera y rellénala si ha bajado.', link: 'blog/caldera/como-purgar-radiadores-pasos/' },
+  { cat: 'Calderas', q: '¿Hay ayudas para cambiar la caldera en Madrid?', a: 'Sí: según la convocatoria hay planes Renove y ayudas municipales o autonómicas que subvencionan parte del cambio a condensación o aerotermia. Te informamos de las vigentes al pedir presupuesto.', link: 'blog/caldera/ayudas-cambiar-caldera-madrid/' },
+  { cat: 'Aire acondicionado', q: '¿Qué potencia de aire acondicionado necesito?', a: 'Como regla rápida, unas 100 frigorías por m²: un salón de 20 m² pide unas 2.000-2.250 frigorías (2,5 kW). Techos altos, orientación sur o mucho cristal suben la cifra; nuestra calculadora lo estima al momento.', link: 'blog/aire-acondicionado/potencia-aire-acondicionado/' },
+  { cat: 'Aire acondicionado', q: '¿Cuánto consume un aire acondicionado?', a: 'Un split inverter moderno de 3.000 frigorías consume en torno a 0,5-1 kWh por hora de uso real, bastante menos que los equipos antiguos. La clase energética (A++, A+++) marca la diferencia en la factura.', link: 'blog/aire-acondicionado/cuanto-consume-aire-acondicionado/' },
+  { cat: 'Aire acondicionado', q: '¿Cuánto cuesta instalar un aire acondicionado?', a: 'Un split 1x1 con instalación básica suele estar entre 700 y 1.200 € según marca y potencia. En nuestro catálogo el precio mostrado ya incluye equipo, IVA e instalación estándar.', link: 'blog/aire-acondicionado/cuanto-cuesta-instalar-aire-acondicionado/' },
+  { cat: 'Aire acondicionado', q: '¿Qué significa "inverter"?', a: 'Que el compresor regula su velocidad en lugar de arrancar y parar: mantiene la temperatura estable, hace menos ruido y ahorra hasta un 40 % frente a un equipo convencional.', link: 'blog/aire-acondicionado/que-es-inverter/' },
+  { cat: 'Aire acondicionado', q: '¿Por qué gotea agua mi aire acondicionado?', a: 'Casi siempre es el desagüe de condensados obstruido o mal nivelado; también puede ser el filtro sucio congelando la batería. Es una avería menor, pero conviene resolverla pronto.', link: 'blog/aire-acondicionado/gotea-agua-aire-acondicionado/' },
+  { cat: 'Aire acondicionado', q: '¿Cada cuánto hay que limpiar los filtros?', a: 'En temporada de uso, cada 2-4 semanas: se sacan y se lavan con agua. Un filtro sucio dispara el consumo y empeora el aire que respiras.', link: 'blog/aire-acondicionado/limpiar-filtros-aire-acondicionado/' },
+  { cat: 'Aire acondicionado', q: '¿Cuánto se tarda en instalar un aire acondicionado?', a: 'Una instalación estándar de un split 1x1 se hace en una mañana (3-5 horas). Multisplits o instalaciones con canalización pueden llevar una jornada completa.', link: 'blog/aire-acondicionado/cuanto-se-tarda-en-instalar-un-aire-acondicionado/' },
+  { cat: 'Aerotermia', q: '¿Qué es la aerotermia?', a: 'Una bomba de calor que extrae energía del aire exterior para dar calefacción, refrigeración y agua caliente. Por cada kWh eléctrico que consume aporta 3-4 kWh de calor, por eso es la opción más eficiente hoy.', link: 'blog/aerotermia/que-es-la-aerotermia/' },
+  { cat: 'Aerotermia', q: '¿Aerotermia o caldera de gas: qué me conviene?', a: 'Depende de la vivienda: con buen aislamiento y suelo radiante o radiadores de baja temperatura, la aerotermia gana a medio plazo; en pisos con radiadores clásicos y poco espacio exterior, una condensación sigue siendo muy buena opción. Lo vemos en la visita técnica.', link: 'blog/caldera/calefaccion-o-bomba-de-calor/' },
+  { cat: 'Termos y agua caliente', q: '¿Termo eléctrico o calentador de gas?', a: 'El calentador de gas da agua caliente ilimitada al momento y el termo eléctrico es más barato de instalar y no necesita gas. Para familias con consumo alto suele compensar el gas; para poco consumo, el termo.', link: 'blog/caldera/que-mejor-termo-electrico-gas/' },
+  { cat: 'Termos y agua caliente', q: '¿Cuánto tarda en calentar un termo eléctrico?', a: 'Un termo de 80 litros tarda entre 2 y 3 horas en calentar de frío. Con un buen dimensionado (unos 40-50 litros por persona) no llegas a notarlo: se recupera entre usos.', link: 'blog/caldera/tiempo-calentar-termo-electrico/' },
+];
+
+const ld = JSON.stringify({
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: FAQS.map((f) => ({
+    '@type': 'Question',
+    name: f.q,
+    acceptedAnswer: { '@type': 'Answer', text: f.a },
+  })),
+});
+
+const cats = [...new Set(FAQS.map((f) => f.cat))];
+---
+<Base title={title} description={description} dataPage="faq" scripts={scripts}>
+  <Fragment slot="head">
+    <link rel="canonical" href={`${SB}faq.html`} />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={`${SB}faq.html`} />
+    <script type="application/ld+json" set:html={ld} is:inline></script>
+  </Fragment>
+
+  <section class="hero" style="min-height:auto; padding:160px 0 70px;">
+    <div class="hero-orb orb-1"></div>
+    <div class="hero-orb orb-3"></div>
+    <div class="wrap page-hero" style="display:block; max-width:760px;">
+      <div class="breadcrumb"><a href={`${SB}index.html`}>Inicio</a> / Preguntas frecuentes</div>
+      <div class="eyebrow" style="color:var(--flame);">Preguntas frecuentes</div>
+      <h1 style="color:#fff; font-size:clamp(34px,5vw,52px); margin-bottom:16px;">Las dudas que nos preguntan cada semana</h1>
+      <p class="lead">Respuestas cortas y sin rodeos. Si quieres el detalle completo, cada respuesta enlaza a la guía correspondiente.</p>
+    </div>
+  </section>
+
+  <section class="section" style="padding-top:50px;">
+    <div class="wrap" style="max-width:820px;">
+      <div class="faq-search reveal">
+        <svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="#5B6B7B" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>
+        <input type="text" id="faqSearch" placeholder="Busca tu duda: presión, filtros, consumo…" autocomplete="off">
+      </div>
+      <div class="faq-empty" id="faqEmpty" hidden>No hay resultados para esa búsqueda. Prueba con otra palabra o <a href={`${SB}index.html#contacto`}>pregúntanos directamente</a>.</div>
+
+      {cats.map((cat) => (
+        <div class="faq-group" data-faq-group>
+          <h2 class="faq-cat">{cat}</h2>
+          {FAQS.filter((f) => f.cat === cat).map((f) => (
+            <details class="faq-item" data-faq>
+              <summary>{f.q}</summary>
+              <div class="faq-a">
+                <p>{f.a}</p>
+                <a class="faq-more" href={SB + f.link}>Leer la guía completa →</a>
+              </div>
+            </details>
+          ))}
+        </div>
+      ))}
+
+      <div class="faq-cta reveal">
+        <p>¿No está tu duda? Cuéntanosla y te contestamos sin compromiso.</p>
+        <a class="btn btn-flame" href={`${SB}index.html#contacto`}>Pregúntanos</a>
+        <a class="btn btn-navy" href={`${SB}guias.html`}>Ver todas las guías</a>
+      </div>
+    </div>
+  </section>
+</Base>

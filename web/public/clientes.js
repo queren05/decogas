@@ -16,7 +16,11 @@
   var norm = window.DecogasUtil.norm;
 
   var LEADS = [];
-  var FILTER = { name: "", from: null, to: null, interest: "" };
+  var FILTER = { name: "", from: null, to: null, interest: "", estado: "" };
+
+  // Estados del mini-CRM (v7): deben coincidir con el CHECK de la BD
+  var ESTADOS = ["pendiente", "llamado", "presupuestado", "cerrado"];
+  var ESTADO_LABEL = { pendiente: "Pendiente", llamado: "Llamado", presupuestado: "Presupuestado", cerrado: "Cerrado" };
 
   var toastTimer;
   function toast(text, isErr) {
@@ -77,7 +81,9 @@
       created_at: r.created_at || new Date().toISOString(),
       name: String(r.name || ""), phone: String(r.phone || ""),
       email: String(r.email || ""), interest: String(r.interest || ""),
-      message: String(r.message || "")
+      message: String(r.message || ""),
+      // Autocontenida (sin variables externas): el harness de tests la extrae aislada
+      estado: ["pendiente", "llamado", "presupuestado", "cerrado"].indexOf(r.estado) !== -1 ? r.estado : "pendiente"
     };
   }
   function loadLeads() {
@@ -123,6 +129,7 @@
         if (d > end) return false;
       }
       if (FILTER.interest && interestGroup(l.interest) !== FILTER.interest) return false;
+      if (FILTER.estado && l.estado !== FILTER.estado) return false;
       return true;
     });
   }
@@ -133,6 +140,71 @@
     return d.toLocaleDateString("es-ES", { day: "2-digit", month: "short", year: "numeric" }) +
       " · " + d.toLocaleTimeString("es-ES", { hour: "2-digit", minute: "2-digit" });
   }
+  // ---------- Estadísticas (solicitudes/semana + estados + interés) ----------
+  function weekStart(d) {
+    var x = new Date(d);
+    x.setHours(0, 0, 0, 0);
+    var day = (x.getDay() + 6) % 7; // lunes = 0
+    x.setDate(x.getDate() - day);
+    return x;
+  }
+  function renderStats() {
+    var box = $("leadsList");
+    if (!box || !box.parentNode || typeof box.parentNode.insertBefore !== "function") return;
+    var host = $("statsPro");
+    if (!host) {
+      host = document.createElement("div");
+      host.id = "statsPro";
+      host.className = "stats-pro";
+      box.parentNode.insertBefore(host, box);
+    }
+    if (!LEADS.length) { host.innerHTML = ""; return; }
+
+    // Solicitudes por semana (últimas 8, de lunes a domingo)
+    var weeks = [];
+    var w = weekStart(new Date());
+    for (var i = 7; i >= 0; i--) {
+      var ini = new Date(w);
+      ini.setDate(ini.getDate() - i * 7);
+      weeks.push({ ini: ini, n: 0 });
+    }
+    LEADS.forEach(function (l) {
+      var ws = weekStart(new Date(l.created_at)).getTime();
+      for (var j = 0; j < weeks.length; j++) {
+        if (weeks[j].ini.getTime() === ws) { weeks[j].n++; return; }
+      }
+    });
+    var max = Math.max.apply(null, weeks.map(function (x) { return x.n; }).concat([1]));
+    var bars = weeks.map(function (x) {
+      var h = Math.round((x.n / max) * 100);
+      var label = x.ini.toLocaleDateString("es-ES", { day: "2-digit", month: "short" });
+      return '<div class="sp-col" title="Semana del ' + label + ": " + x.n + '">' +
+        '<span class="sp-n">' + (x.n || "") + "</span>" +
+        '<div class="sp-bar" style="height:' + Math.max(h, 3) + '%"></div>' +
+        '<span class="sp-lbl">' + label + "</span>" +
+      "</div>";
+    }).join("");
+
+    // Recuento por estado y por interés
+    var porEstado = ESTADOS.map(function (s) {
+      var n = LEADS.filter(function (l) { return l.estado === s; }).length;
+      return '<span class="sp-tag est-' + s + '">' + ESTADO_LABEL[s] + " · <strong>" + n + "</strong></span>";
+    }).join("");
+    var grupos = { caldera: 0, aire: 0, otro: 0 };
+    LEADS.forEach(function (l) { grupos[interestGroup(l.interest)]++; });
+    var porInteres =
+      '<span class="sp-tag">Calderas · <strong>' + grupos.caldera + "</strong></span>" +
+      '<span class="sp-tag">Aires · <strong>' + grupos.aire + "</strong></span>" +
+      '<span class="sp-tag">Otros · <strong>' + grupos.otro + "</strong></span>";
+
+    host.innerHTML =
+      '<div class="sp-chart"><h4>Solicitudes por semana</h4><div class="sp-bars">' + bars + "</div></div>" +
+      '<div class="sp-side">' +
+        "<h4>Por estado</h4><div class=\"sp-tags\">" + porEstado + "</div>" +
+        "<h4>Por interés</h4><div class=\"sp-tags\">" + porInteres + "</div>" +
+      "</div>";
+  }
+
   function render() {
     var list = filtered();
     // Estadísticas
@@ -143,6 +215,7 @@
       return d.getMonth() === now.getMonth() && d.getFullYear() === now.getFullYear();
     }).length;
     $("statFiltered").textContent = list.length;
+    renderStats();
 
     var box = $("leadsList");
     if (!list.length) {
@@ -158,6 +231,13 @@
           '<div class="lead-name">' + esc(l.name) + "</div>" +
           badgeHTML(l.interest) +
           '<span class="lead-date">' + fmtDate(l.created_at) + "</span>" +
+          (l.id
+            ? '<select class="lead-estado est-' + esc(l.estado) + '" data-id="' + esc(l.id) + '" aria-label="Estado de la solicitud">' +
+                ESTADOS.map(function (s) {
+                  return '<option value="' + s + '"' + (s === l.estado ? " selected" : "") + ">" + ESTADO_LABEL[s] + "</option>";
+                }).join("") +
+              "</select>"
+            : "") +
           (l.id ? '<button class="lead-del" data-id="' + esc(l.id) + '" type="button">Eliminar</button>' : "") +
         "</div>" +
         '<div class="lead-contact">' +
@@ -193,6 +273,65 @@
     chip.classList.add("active");
     FILTER.interest = chip.dataset.int;
     render();
+  });
+
+  // Filtro por estado: chips inyectados junto a los de interés
+  var intChips = $("interestChips");
+  if (intChips && typeof intChips.insertAdjacentHTML === "function") {
+    intChips.insertAdjacentHTML("afterend",
+      '<div class="chips" id="estadoChips" style="margin-top:8px;">' +
+        '<button class="chip active" type="button" data-est="">Todos los estados</button>' +
+        ESTADOS.map(function (s) {
+          return '<button class="chip" type="button" data-est="' + s + '">' + ESTADO_LABEL[s] + "</button>";
+        }).join("") +
+      "</div>");
+    $("estadoChips").addEventListener("click", function (e) {
+      var chip = e.target.closest(".chip");
+      if (!chip) return;
+      $("estadoChips").querySelectorAll(".chip").forEach(function (c) { c.classList.remove("active"); });
+      chip.classList.add("active");
+      FILTER.estado = chip.dataset.est;
+      render();
+    });
+  }
+
+  // Cambio de estado de una solicitud (v7): guarda y revierte si falla
+  document.addEventListener("change", function (e) {
+    var sel = e.target.closest(".lead-estado");
+    if (!sel) return;
+    var id = sel.dataset.id;
+    var nuevo = sel.value;
+    var lead = null;
+    for (var i = 0; i < LEADS.length; i++) {
+      if (String(LEADS[i].id) === String(id)) { lead = LEADS[i]; break; }
+    }
+    if (!lead) return;
+    var anterior = lead.estado;
+    var aplicar = function () {
+      lead.estado = nuevo;
+      render();
+      toast("Estado actualizado: " + ESTADO_LABEL[nuevo] + ".");
+    };
+    if (LIVE) {
+      sb.from("leads").update({ estado: nuevo }).eq("id", id).then(function (res) {
+        if (res.error) {
+          sel.value = anterior;
+          var msg = String(res.error.message || "");
+          toast(msg.indexOf("estado") !== -1
+            ? "Falta la columna de estados: ejecuta supabase/setup-supabase-v7-estados.sql en Supabase."
+            : "Error guardando el estado: " + msg, true);
+          return;
+        }
+        aplicar();
+      });
+    } else {
+      try {
+        var arr = JSON.parse(localStorage.getItem("decogas_leads") || "[]");
+        arr.forEach(function (r) { if (String(r.id) === String(id)) r.estado = nuevo; });
+        localStorage.setItem("decogas_leads", JSON.stringify(arr));
+      } catch (err) { /* demo sin almacenamiento: solo en memoria */ }
+      aplicar();
+    }
   });
 
   // Borrado (solo LIVE con id)

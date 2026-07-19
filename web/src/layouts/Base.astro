@@ -3,8 +3,8 @@
 // Se escribe UNA vez y lo comparten todas las páginas raíz de marketing.
 const rawBase = import.meta.env.BASE_URL; // '/decogas' (sin barra final)
 const base = rawBase.endsWith('/') ? rawBase : rawBase + '/'; // → '/decogas/'
-const ASSET_V = 23; // cache-busting de los scripts clásicos (?v=N) — cambiar aquí, no en 187 archivos
-const STYLES_V = 25; // styles.css va un paso por delante (iconos en color sólido v25)
+const ASSET_V = 24; // cache-busting de los scripts clásicos (?v=N) — cambiar aquí, no en 187 archivos
+const STYLES_V = 26; // styles.css va un paso por delante (fichas, ahorro, FAQ y mini-CRM v26)
 // Página actual (formato 'file': /decogas/calderas.html) para marcar el menú activo
 const currentFile = Astro.url.pathname.split('/').pop() || 'index.html';
 const active = (file: string) => (currentFile === file ? 'page' : undefined);
@@ -111,6 +111,8 @@ const { title, description = '', dataPage, scripts = [] } = Astro.props;
           <li><a href={`${base}index.html#zona`}>Zona de servicio</a></li>
           <li><a href={`${base}index.html#subvenciones`}>Ayudas y subvenciones</a></li>
           <li><a href={`${base}guias.html`}>Guías y consejos</a></li>
+          <li><a href={`${base}faq.html`}>Preguntas frecuentes</a></li>
+          <li><a href={`${base}ahorro.html`}>Comparador de ahorro</a></li>
           <li><a href={`${base}legal.html`}>Aviso legal y privacidad</a></li>
           <li><a href={`${base}calcula.html`}>Calculadora de equipo</a></li>
           <li><a href={`${base}index.html#contacto`}>Pide información</a></li>

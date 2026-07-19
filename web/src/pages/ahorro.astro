@@ -1,0 +1,68 @@
+---
+import Base from '../layouts/Base.astro';
+const SB = new URL(import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL : import.meta.env.BASE_URL + '/', Astro.site).href;
+const title = 'Cuánto ahorras al cambiar tu caldera · Decogas Madrid';
+const description = 'Calcula de forma orientativa cuánto puedes ahorrar al año cambiando tu caldera antigua por una de condensación. Estimación gratuita y visita técnica sin compromiso en Madrid.';
+const scripts = ['utils.js', 'config.js', 'prices.js', 'data-calderas.js', 'data-aires.js', 'search.js', 'ahorro.js', 'app.js'];
+---
+<Base title={title} description={description} dataPage="ahorro" scripts={scripts}>
+  <Fragment slot="head">
+    <link rel="canonical" href={`${SB}ahorro.html`} />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={`${SB}ahorro.html`} />
+  </Fragment>
+
+  <section class="hero" style="min-height:auto; padding:160px 0 70px;">
+    <div class="hero-orb orb-1"></div>
+    <div class="hero-orb orb-2"></div>
+    <div class="wrap page-hero" style="display:block; max-width:760px;">
+      <div class="breadcrumb"><a href={`${SB}index.html`}>Inicio</a> / Comparador de ahorro</div>
+      <div class="eyebrow" style="color:var(--flame);">Comparador de ahorro</div>
+      <h1 style="color:#fff; font-size:clamp(34px,5vw,52px); margin-bottom:16px;">¿Cuánto ahorrarías con una caldera de condensación?</h1>
+      <p class="lead">Dinos qué caldera tienes y cuánto gastas en gas, y te damos una estimación honesta del ahorro anual. Sin registrarte y sin compromiso.</p>
+    </div>
+  </section>
+
+  <section class="section" style="padding-top:56px;">
+    <div class="wrap" style="max-width:860px;">
+      <div class="ahorro-grid reveal">
+        <div class="ahorro-form">
+          <h3 class="ahorro-h3">Tu instalación actual</h3>
+
+          <label class="ahorro-label" for="gastoAnual">Gasto de gas al año (aprox.)</label>
+          <div class="ahorro-input-row">
+            <input type="number" id="gastoAnual" min="100" max="6000" step="50" value="900" inputmode="numeric"> <span>€/año</span>
+          </div>
+          <p class="ahorro-hint">Suma tus facturas de gas de un año (o multiplica una factura mensual típica de invierno por 8).</p>
+
+          <label class="ahorro-label">¿Qué caldera tienes ahora?</label>
+          <div class="ahorro-opts" id="tipoCaldera">
+            <label class="ahorro-opt"><input type="radio" name="tipo" value="atmosferica" checked> <span><strong>Atmosférica o de más de 15 años</strong><br>Las de llama piloto o anteriores a 2010</span></label>
+            <label class="ahorro-opt"><input type="radio" name="tipo" value="estanca"> <span><strong>Estanca convencional (8–15 años)</strong><br>Sin tecnología de condensación</span></label>
+            <label class="ahorro-opt"><input type="radio" name="tipo" value="condensacion"> <span><strong>Condensación reciente</strong><br>Ya tienes lo más eficiente</span></label>
+          </div>
+        </div>
+
+        <div class="ahorro-result" id="ahorroResult" aria-live="polite">
+          <h3 class="ahorro-h3">Tu ahorro estimado</h3>
+          <div class="ahorro-big" id="ahorroAnual">—</div>
+          <div class="ahorro-sub">al año en la factura de gas</div>
+          <ul class="ahorro-lines">
+            <li>En 10 años: <strong id="ahorroDecada">—</strong></li>
+            <li>CO₂ que dejas de emitir: <strong id="ahorroCO2">—</strong> al año</li>
+            <li>Nueva factura estimada: <strong id="facturaNueva">—</strong></li>
+          </ul>
+          <p class="ahorro-note" id="ahorroNota"></p>
+          <div class="ahorro-ctas">
+            <a class="btn btn-flame" href={`${SB}calcula.html`}>Ver qué caldera me corresponde</a>
+            <a class="btn btn-navy" href={`${SB}index.html#contacto`}>Pedir visita técnica gratis</a>
+          </div>
+        </div>
+      </div>
+
+      <p class="ahorro-legal reveal">Estimación orientativa basada en rangos de eficiencia típicos publicados por el IDAE (una caldera de condensación aprovecha hasta un 25–30 % más de energía que una atmosférica antigua y un 15–20 % más que una estanca convencional). El ahorro real depende del estado de tu instalación, el aislamiento de la vivienda y tus hábitos de uso. El presupuesto definitivo se confirma siempre tras la visita técnica gratuita.</p>
+    </div>
+  </section>
+</Base>

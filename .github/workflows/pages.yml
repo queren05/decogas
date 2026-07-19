@@ -6,6 +6,10 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+  schedule:
+    # Rebuild semanal (lunes 05:30 UTC) para que las fichas de producto
+    # generadas desde Supabase no se queden desfasadas sin pushes.
+    - cron: '30 5 * * 1'
 
 permissions:
   contents: read
