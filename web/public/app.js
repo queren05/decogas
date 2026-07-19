@@ -112,26 +112,113 @@
     });
   }
 
-  // ---------- Banner temporal: España campeona del Mundial 2026 ----------
+  // ---------- España campeona del Mundial 2026: banner + confeti ----------
   // Se deshabilita solo el domingo 26/07/2026 a medianoche (hora de Madrid).
-  // Después de esa fecha este bloque se puede borrar sin más.
+  // Después de esa fecha todo este bloque se puede borrar sin más.
   (function () {
     var CADUCA = new Date("2026-07-27T00:00:00+02:00").getTime();
+    if (Date.now() >= CADUCA) return;
+
+    // --- Banner (cerrable; recuerda el cierre) ---
     var visto = false;
     try { visto = localStorage.getItem("decogas_mundial_2026") === "cerrado"; } catch (err) { /* sin almacenamiento */ }
-    if (Date.now() >= CADUCA || visto) return;
-    var b = document.createElement("div");
-    b.className = "mundial-banner";
-    b.setAttribute("role", "status");
-    b.innerHTML =
-      '<span class="mb-trofeo">🏆</span>' +
-      '<span><strong>¡España campeona del mundo!</strong> Esta semana lo celebramos por todo lo alto 🇪🇸</span>' +
-      '<button class="mb-cerrar" type="button" aria-label="Cerrar aviso">×</button>';
-    document.body.appendChild(b);
-    b.querySelector(".mb-cerrar").addEventListener("click", function () {
-      b.remove();
-      try { localStorage.setItem("decogas_mundial_2026", "cerrado"); } catch (err) { /* sin almacenamiento */ }
-    });
+    if (!visto) {
+      var b = document.createElement("div");
+      b.className = "mundial-banner";
+      b.setAttribute("role", "status");
+      b.innerHTML =
+        '<span class="mb-trofeo">🏆</span>' +
+        '<span><strong>¡España campeona del mundo!</strong> Esta semana lo celebramos por todo lo alto 🇪🇸</span>' +
+        '<button class="mb-cerrar" type="button" aria-label="Cerrar aviso">×</button>';
+      document.body.appendChild(b);
+      b.querySelector(".mb-cerrar").addEventListener("click", function () {
+        b.remove();
+        try { localStorage.setItem("decogas_mundial_2026", "cerrado"); } catch (err) { /* sin almacenamiento */ }
+      });
+    }
+
+    // --- Confeti: entra desde los DOS laterales hacia el centro, cae con
+    // gravedad y balanceo, se desvanece y el canvas se limpia solo.
+    // Una vez por sesión; respeta "menos movimiento". ---
+    var reduce = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+    var yaTirado = false;
+    try { yaTirado = sessionStorage.getItem("decogas_confeti") === "si"; } catch (err) { /* sin almacenamiento */ }
+    if (reduce || yaTirado || !window.innerWidth) return;
+
+    var canvas = document.createElement("canvas");
+    if (typeof canvas.getContext !== "function") return; // entorno sin canvas (tests)
+    try { sessionStorage.setItem("decogas_confeti", "si"); } catch (err) { /* sin almacenamiento */ }
+    canvas.className = "confeti";
+    document.body.appendChild(canvas);
+    var ctx = canvas.getContext("2d");
+    var dpr = Math.min(window.devicePixelRatio || 1, 2);
+    var W, H;
+    var resize = function () {
+      W = canvas.width = window.innerWidth * dpr;
+      H = canvas.height = window.innerHeight * dpr;
+    };
+    resize();
+    window.addEventListener("resize", resize);
+
+    var COLORES = ["#C60B1E", "#FFC400", "#FF6B35", "#FFB930", "#FFFFFF", "#3AA6D9"];
+    var piezas = [];
+    var rnd = function (a, b) { return a + Math.random() * (b - a); };
+
+    // lado: -1 = lateral izquierdo, 1 = lateral derecho
+    function oleada(lado, n) {
+      for (var i = 0; i < n; i++) {
+        piezas.push({
+          x: (lado === -1 ? -20 : window.innerWidth + 20) * dpr,
+          y: rnd(window.innerHeight * 0.1, window.innerHeight * 0.55) * dpr,
+          vx: -lado * rnd(4, 11) * dpr,   // impulso hacia el centro
+          vy: rnd(-11, -3) * dpr,          // arranca hacia arriba
+          g: rnd(0.22, 0.38) * dpr,        // gravedad
+          w: rnd(6, 11) * dpr,
+          h: rnd(3, 6) * dpr,
+          rot: rnd(0, Math.PI * 2),
+          vr: rnd(-0.22, 0.22),
+          osc: rnd(0.5, 1.6),              // balanceo lateral al caer
+          color: COLORES[(Math.random() * COLORES.length) | 0],
+          vida: rnd(150, 230),
+          edad: 0
+        });
+      }
+    }
+    oleada(-1, 60); oleada(1, 60);
+    setTimeout(function () { oleada(-1, 40); oleada(1, 40); }, 350);
+    setTimeout(function () { oleada(-1, 25); oleada(1, 25); }, 750);
+
+    function paso() {
+      ctx.clearRect(0, 0, W, H);
+      var vivas = 0;
+      for (var i = 0; i < piezas.length; i++) {
+        var p = piezas[i];
+        p.edad++;
+        if (p.edad > p.vida) continue;
+        vivas++;
+        p.vx *= 0.985;                          // el aire frena el impulso
+        p.vy = Math.min(p.vy + p.g, 7 * dpr);   // gravedad con velocidad terminal
+        p.x += p.vx + Math.sin(p.edad * 0.08) * p.osc * dpr;
+        p.y += p.vy;
+        p.rot += p.vr;
+        var alfa = p.edad > p.vida - 40 ? (p.vida - p.edad) / 40 : 1;
+        ctx.save();
+        ctx.globalAlpha = Math.max(alfa, 0);
+        ctx.translate(p.x, p.y);
+        ctx.rotate(p.rot);
+        ctx.scale(1, Math.sin(p.edad * 0.12 + i)); // volteo del papelillo
+        ctx.fillStyle = p.color;
+        ctx.fillRect(-p.w / 2, -p.h / 2, p.w, p.h);
+        ctx.restore();
+      }
+      if (vivas > 0) {
+        requestAnimationFrame(paso);
+      } else {
+        canvas.remove();
+        window.removeEventListener("resize", resize);
+      }
+    }
+    requestAnimationFrame(paso);
   })();
 
   // ---------- Formulario de contacto (solo en index) ----------

@@ -1104,6 +1104,11 @@ nav.main-nav a[aria-current="page"]::after{ right:0; }
 /* ================================================================
    MODO OSCURO — se activa con data-theme="dark" en <html>
    (theme.js decide el inicial; el botón de la cabecera lo cambia)
+
+   Estrategia: --navy pasa a ser CLARO (arregla de golpe todos los
+   títulos, nombres, precios y etiquetas que usan var(--navy) como
+   color de texto), y los sitios que usaban navy como FONDO se fijan
+   a mano con azules oscuros literales.
    ================================================================ */
 [data-theme="dark"]{
   --paper:#0C141D;
@@ -1111,12 +1116,57 @@ nav.main-nav a[aria-current="page"]::after{ right:0; }
   --text:#D6E0EA;
   --muted:#93A5B6;
   --line:#25384C;
+  --navy:#DCE7F1;       /* antes texto azul oscuro → ahora claro */
+  --navy-soft:#B9CBDC;
   --shadow:0 14px 40px rgba(0,0,0,.5);
 }
-[data-theme="dark"] h1, [data-theme="dark"] h2, [data-theme="dark"] h3, [data-theme="dark"] h4{ color:#EAF2F8; }
 
-/* Superficies que en claro son blanco fijo */
+/* --- Sitios que usaban var(--navy) como FONDO: azul oscuro fijo --- */
+[data-theme="dark"] .mobile-nav{ background:#0E2238; }
+[data-theme="dark"] .reviews{ background:#0E2238; }
+[data-theme="dark"] .trust-item .icon,
+[data-theme="dark"] .info-row .icon,
+[data-theme="dark"] .install-banner .icon{ background:#173A5C; }
+[data-theme="dark"] .areas-col li a:hover{ background:#173A5C; color:#fff; border-color:#173A5C; }
+[data-theme="dark"] .radio-chip.active,
+[data-theme="dark"] .p-cta .p-primary,
+[data-theme="dark"] .p-card.open .p-toggle,
+[data-theme="dark"] .filter-btn.active,
+[data-theme="dark"] .calc-tab.active{ background:#173A5C; color:#fff; border-color:#173A5C; }
+[data-theme="dark"] .compare-bar{ background:#173A5C; }
+[data-theme="dark"] .article-prose th{ background:#173A5C; color:#fff; }
+[data-theme="dark"] .ahorro-result{ background:#101B27; border:1px solid var(--line); }
+[data-theme="dark"] .mundial-banner{ background:#101B27; }
+[data-theme="dark"] .btn-navy:hover{ background:#173A5C; color:#fff; }
+[data-theme="dark"] .marquee, [data-theme="dark"] .marquee-band{ background:#0E2238; }
+
+/* --- Superficies que en claro son blanco fijo --- */
 [data-theme="dark"] .p-card,
+[data-theme="dark"] .value-card,
+[data-theme="dark"] .form-card,
+[data-theme="dark"] .p-toggle,
+[data-theme="dark"] .filter-btn,
+[data-theme="dark"] .extra-costs .box,
+[data-theme="dark"] .catalog-search,
+[data-theme="dark"] .calc-tab,
+[data-theme="dark"] .calc-card,
+[data-theme="dark"] .calc-choice,
+[data-theme="dark"] .reco-card,
+[data-theme="dark"] .alt-row,
+[data-theme="dark"] .sub-chip,
+[data-theme="dark"] .p-compare,
+[data-theme="dark"] .compare-sheet,
+[data-theme="dark"] .compare-close,
+[data-theme="dark"] .subv-card,
+[data-theme="dark"] .guide-card,
+[data-theme="dark"] .legal-toc a,
+[data-theme="dark"] .legal-prose,
+[data-theme="dark"] .budget-sheet,
+[data-theme="dark"] .budget-close,
+[data-theme="dark"] .budget-fin-box,
+[data-theme="dark"] .search-box,
+[data-theme="dark"] .lead,
+[data-theme="dark"] .lead-estado,
 [data-theme="dark"] .marcas-item,
 [data-theme="dark"] .marca-card,
 [data-theme="dark"] .marca-body,
@@ -1124,37 +1174,47 @@ nav.main-nav a[aria-current="page"]::after{ right:0; }
 [data-theme="dark"] .faq-item,
 [data-theme="dark"] .faq-search,
 [data-theme="dark"] .stats-pro,
-[data-theme="dark"] .budget-sheet,
-[data-theme="dark"] .search-box,
-[data-theme="dark"] .lead,
-[data-theme="dark"] .compare-sheet{ background:#152230; border-color:var(--line); }
+[data-theme="dark"] .recientes,
+[data-theme="dark"] .reciente,
+[data-theme="dark"] .search-btn,
+[data-theme="dark"] .theme-btn{ background:#152230; border-color:var(--line); }
 
-/* Textos oscuros sobre esas superficies */
-[data-theme="dark"] .p-name, [data-theme="dark"] .marca-name, [data-theme="dark"] .marcas-nombre,
-[data-theme="dark"] .marca-price strong, [data-theme="dark"] .prod-price strong,
-[data-theme="dark"] .faq-item summary, [data-theme="dark"] .lead-name,
-[data-theme="dark"] .sp-n, [data-theme="dark"] .sp-tag{ color:#EAF2F8; }
-[data-theme="dark"] .sp-tag{ background:#1B2A3A; border-color:var(--line); }
+/* Paneles a pantalla completa */
+[data-theme="dark"] .search-overlay,
+[data-theme="dark"] .success-overlay{ background:#0F1B28; }
 
-/* Zona de foto: se queda CLARA a propósito (las fotos tienen fondo blanco) */
+/* --- Zonas de FOTO: claras a propósito (las fotos tienen fondo blanco) --- */
 [data-theme="dark"] .p-visual{ background:radial-gradient(120% 100% at 50% 0%, #E7EEF4 0%, #DDE6EE 60%, #E9EFF4 100%); }
+[data-theme="dark"] .prod-media{ background:#F2F5F8; }
+[data-theme="dark"] .marca-visual{ background:#F2F5F8; }
+[data-theme="dark"] .p-photo, [data-theme="dark"] .reciente img, [data-theme="dark"] .reciente-noimg{ background:#fff; }
 
-/* Degradados de sección en claro fijo */
+/* --- Degradados y cajas claras fijas --- */
 [data-theme="dark"] .products-section{ background:linear-gradient(180deg, var(--paper) 0%, var(--cloud) 100%); }
 [data-theme="dark"] .power-box.rec{ background:#22303F; border-color:#3A4C60; }
-[data-theme="dark"] .prod-media{ background:#F2F5F8; }
 [data-theme="dark"] .prod-price-box{ background:var(--cloud); }
-[data-theme="dark"] .prod-ctas .btn-ghost{ border-color:#B9CBDC; color:#D6E0EA; }
+[data-theme="dark"] .sp-tag{ background:#1B2A3A; border-color:var(--line); color:var(--text); }
+[data-theme="dark"] .faq-empty{ background:var(--cloud); }
+
+/* Botones fantasma sobre fondo oscuro */
+[data-theme="dark"] .prod-ctas .btn-ghost,
 [data-theme="dark"] .budget-actions .btn-ghost{ border-color:#B9CBDC; color:#D6E0EA; }
+[data-theme="dark"] .prod-ctas .btn-ghost:hover,
+[data-theme="dark"] .budget-actions .btn-ghost:hover{ background:rgba(255,255,255,.08); }
 
 /* Campos de formulario */
 [data-theme="dark"] input, [data-theme="dark"] select, [data-theme="dark"] textarea{
   background:#152230; color:var(--text); border-color:var(--line);
 }
+[data-theme="dark"] input::placeholder, [data-theme="dark"] textarea::placeholder{ color:#5F7488; }
 [data-theme="dark"] .ahorro-opt{ border-color:var(--line); }
 [data-theme="dark"] .ahorro-opt:has(input:checked){ background:#2A2018; border-color:var(--flame); }
-[data-theme="dark"] .faq-empty{ background:var(--cloud); }
-[data-theme="dark"] .recientes{ background:#152230; border-color:var(--line); }
+
+/* Los chips de estado del panel conservan sus colores claros (legibles) */
+[data-theme="dark"] .lead-estado.est-pendiente{ background:#FFF3D6; color:#8A6100; }
+[data-theme="dark"] .lead-estado.est-llamado{ background:#E3F2FB; color:#0F5E8C; }
+[data-theme="dark"] .lead-estado.est-presupuestado{ background:#E8EAF6; color:#2E3A8C; }
+[data-theme="dark"] .lead-estado.est-cerrado{ background:#E8F6EC; color:#1C7C3C; }
 
 /* ---- Tira "vistos recientemente" del catálogo ---- */
 .recientes{ background:#fff; border:1px solid var(--line); border-radius:14px; padding:16px 18px; margin-bottom:22px; }
@@ -1171,15 +1231,21 @@ nav.main-nav a[aria-current="page"]::after{ right:0; }
 [data-theme="dark"] .reciente-name{ color:#EAF2F8; }
 .reciente-price{ font-family:'IBM Plex Mono'; font-size:11.5px; color:var(--flame-deep); }
 
-/* ---- Banner temporal: España campeona del Mundial 2026 (caduca 26/07) ---- */
+/* ---- España campeona del Mundial 2026: banner + confeti (caduca 26/07) ---- */
 .mundial-banner{
   position:fixed; left:50%; bottom:18px; transform:translateX(-50%);
-  display:flex; align-items:center; gap:11px;
-  background:var(--navy); color:#fff; border:1px solid rgba(255,185,48,.55);
-  border-radius:999px; padding:11px 18px; font-size:13.5px;
-  box-shadow:0 12px 34px rgba(0,0,0,.35); z-index:350;
+  display:flex; align-items:center; gap:11px; overflow:hidden;
+  background:#0E2238; color:#fff; border:1px solid rgba(255,185,48,.55);
+  border-radius:999px; padding:11px 20px 11px 24px; font-size:13.5px;
+  box-shadow:0 12px 34px rgba(0,0,0,.35), 0 0 0 4px rgba(255,185,48,.08); z-index:350;
   max-width:min(92vw, 560px); animation:mundialIn .6s var(--ease);
 }
+/* Franja de la bandera en el borde izquierdo */
+.mundial-banner::before{
+  content:""; position:absolute; left:0; top:0; bottom:0; width:7px;
+  background:linear-gradient(180deg, #C60B1E 0%, #C60B1E 25%, #FFC400 25%, #FFC400 75%, #C60B1E 75%);
+}
+.confeti{ position:fixed; inset:0; width:100vw; height:100vh; pointer-events:none; z-index:360; }
 .mundial-banner strong{ color:var(--gold); }
 .mb-trofeo{ font-size:18px; flex:none; }
 .mb-cerrar{ background:none; border:none; color:rgba(255,255,255,.7); font-size:20px; line-height:1; padding:0 0 0 4px; flex:none; }
