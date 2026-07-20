@@ -1,11 +1,15 @@
 <svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
-  <rect width="64" height="64" rx="16" fill="#0E2238"/>
-  <circle cx="32" cy="33" r="17" fill="url(#gFavicon)"/>
-  <defs>
-    <linearGradient id="gFavicon" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#3AA6D9"/>
-      <stop offset="1" stop-color="#FF6B35"/>
-    </linearGradient>
-  </defs>
-  <text x="32" y="41" font-family="Georgia, 'Times New Roman', serif" font-size="27" font-weight="700" fill="#0E2238" text-anchor="middle">D</text>
+  <rect width="64" height="64" rx="15" fill="#0E2238"/>
+  <!-- Símbolo del logo: sol (calor, naranja) + copo (frío, azul) = climatización -->
+  <g stroke-width="4.2" stroke-linecap="round">
+    <line x1="32" y1="13" x2="32" y2="51" stroke="#3AA6D9"/>
+    <line x1="15.6" y1="22.5" x2="48.4" y2="41.5" stroke="#FF6B35"/>
+    <line x1="48.4" y1="22.5" x2="15.6" y2="41.5" stroke="#3AA6D9"/>
+  </g>
+  <!-- ramitas del copo (puntas verticales) -->
+  <g stroke="#3AA6D9" stroke-width="3.4" stroke-linecap="round">
+    <line x1="32" y1="16" x2="27" y2="20"/><line x1="32" y1="16" x2="37" y2="20"/>
+    <line x1="32" y1="48" x2="27" y2="44"/><line x1="32" y1="48" x2="37" y2="44"/>
+  </g>
+  <circle cx="32" cy="32" r="7.5" fill="#FF6B35"/>
 </svg>

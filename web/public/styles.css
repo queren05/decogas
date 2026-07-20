@@ -32,9 +32,10 @@
   h1,h2,h3,h4{
     font-family:'Fraunces',serif;
     font-weight:600;
-    line-height:1.08;
+    line-height:1.05;
     color:var(--navy);
-    letter-spacing:-0.01em;
+    letter-spacing:-0.02em;
+    text-wrap:balance;
   }
   .eyebrow{
     font-family:'IBM Plex Mono',monospace;
@@ -197,9 +198,9 @@
   .trust-item p{ font-size:13px; color:var(--muted); }
 
   /* section head */
-  .section-head{ max-width:620px; margin-bottom:48px; }
-  .section-head h2{ font-size:clamp(28px,3.6vw,42px); margin-bottom:12px; }
-  .section-head p{ color:var(--muted); font-size:16.5px; }
+  .section-head{ max-width:680px; margin-bottom:56px; }
+  .section-head h2{ font-size:clamp(30px,4.2vw,50px); margin-bottom:14px; letter-spacing:-0.025em; }
+  .section-head p{ color:var(--muted); font-size:17px; line-height:1.65; max-width:600px; }
   .section-head.center{ margin-left:auto; margin-right:auto; text-align:center; }
 
   /* story / timeline */

@@ -4,7 +4,7 @@
 const rawBase = import.meta.env.BASE_URL; // '/decogas' (sin barra final)
 const base = rawBase.endsWith('/') ? rawBase : rawBase + '/'; // → '/decogas/'
 const ASSET_V = 32; // cache-busting de los scripts clásicos (?v=N) — cambiar aquí, no en 187 archivos
-const STYLES_V = 39; // styles.css (logos de marca v39)
+const STYLES_V = 40; // styles.css (paso 2: tipografia premium v40)
 // Página actual (formato 'file': /decogas/calderas.html) para marcar el menú activo
 const currentFile = Astro.url.pathname.split('/').pop() || 'index.html';
 const active = (file: string) => (currentFile === file ? 'page' : undefined);
@@ -36,7 +36,7 @@ const siteLd = JSON.stringify({
 <script src={`${base}theme.js?v=1`} is:inline></script>
 <script is:inline set:html={`window.DECOGAS_BASE=${JSON.stringify(base)}`}></script>
 <script type="application/ld+json" set:html={siteLd} is:inline></script>
-<link rel="icon" type="image/svg+xml" href={`${base}favicon.svg`}>
+<link rel="icon" type="image/svg+xml" href={`${base}favicon.svg?v=2`}>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700;800&family=IBM+Plex+Mono:wght@500;600&display=swap" rel="stylesheet">
