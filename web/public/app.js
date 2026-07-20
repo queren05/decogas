@@ -119,36 +119,35 @@
     var CADUCA = new Date("2026-07-27T00:00:00+02:00").getTime();
     if (Date.now() >= CADUCA) return;
 
-    // --- Banner (cerrable; el cierre solo dura la sesión — al volver otro
-    // día de la semana de celebración, reaparece) ---
-    var visto = false;
-    try { visto = sessionStorage.getItem("decogas_mundial_2026") === "cerrado"; } catch (err) { /* sin almacenamiento */ }
-    if (!visto) {
-      var b = document.createElement("div");
-      b.className = "mundial-banner";
-      b.setAttribute("role", "status");
-      b.innerHTML =
-        '<span class="mb-trofeo">🏆</span>' +
-        '<span><strong>¡España campeona del mundo!</strong> Esta semana lo celebramos por todo lo alto 🇪🇸</span>' +
-        '<button class="mb-cerrar" type="button" aria-label="Cerrar aviso">×</button>';
-      document.body.appendChild(b);
-      b.querySelector(".mb-cerrar").addEventListener("click", function () {
-        b.remove();
-        try { sessionStorage.setItem("decogas_mundial_2026", "cerrado"); } catch (err) { /* sin almacenamiento */ }
-      });
-    }
+    // Toda la celebración (texto gigante + confeti) sale UNA vez por sesión
+    var yaVisto = false;
+    try { yaVisto = sessionStorage.getItem("decogas_confeti") === "si"; } catch (err) { /* sin almacenamiento */ }
+    if (yaVisto) return;
+    try { sessionStorage.setItem("decogas_confeti", "si"); } catch (err) { /* sin almacenamiento */ }
+
+    // --- Texto GIGANTE a pantalla completa que acompaña al confeti:
+    // entra con zoom, aguanta unos segundos y se desvanece solo ---
+    var overlay = document.createElement("div");
+    overlay.className = "mundial-hero";
+    overlay.setAttribute("role", "status");
+    overlay.innerHTML =
+      '<div class="mh-box">' +
+        '<span class="mh-eyebrow">Mundial 2026</span>' +
+        '<strong class="mh-title">¡ESPAÑA CAMPEONA<br>DEL MUNDO!</strong>' +
+        '<span class="mh-flag">🏆 🇪🇸</span>' +
+      "</div>";
+    document.body.appendChild(overlay);
+    setTimeout(function () { overlay.classList.add("out"); }, 3800);
+    setTimeout(function () { overlay.remove(); }, 4800);
 
     // --- Confeti: entra desde los DOS laterales hacia el centro, cae con
     // gravedad y balanceo, se desvanece y el canvas se limpia solo.
-    // Una vez por sesión; respeta "menos movimiento". ---
+    // Respeta "menos movimiento" (el texto sí sale; el confeti no). ---
     var reduce = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
-    var yaTirado = false;
-    try { yaTirado = sessionStorage.getItem("decogas_confeti") === "si"; } catch (err) { /* sin almacenamiento */ }
-    if (reduce || yaTirado || !window.innerWidth) return;
+    if (reduce || !window.innerWidth) return;
 
     var canvas = document.createElement("canvas");
     if (typeof canvas.getContext !== "function") return; // entorno sin canvas (tests)
-    try { sessionStorage.setItem("decogas_confeti", "si"); } catch (err) { /* sin almacenamiento */ }
     canvas.className = "confeti";
     document.body.appendChild(canvas);
     var ctx = canvas.getContext("2d");

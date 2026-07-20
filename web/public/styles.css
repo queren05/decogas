@@ -1136,7 +1136,6 @@ nav.main-nav a[aria-current="page"]::after{ right:0; }
 [data-theme="dark"] .compare-bar{ background:#173A5C; }
 [data-theme="dark"] .article-prose th{ background:#173A5C; color:#fff; }
 [data-theme="dark"] .ahorro-result{ background:#101B27; border:1px solid var(--line); }
-[data-theme="dark"] .mundial-banner{ background:#101B27; }
 [data-theme="dark"] .btn-navy:hover{ background:#173A5C; color:#fff; }
 [data-theme="dark"] .marquee, [data-theme="dark"] .marquee-band{ background:#0E2238; }
 
@@ -1165,7 +1164,7 @@ nav.main-nav a[aria-current="page"]::after{ right:0; }
 [data-theme="dark"] .budget-close,
 [data-theme="dark"] .budget-fin-box,
 [data-theme="dark"] .search-box,
-[data-theme="dark"] .lead,
+[data-theme="dark"] #leadsList .lead,
 [data-theme="dark"] .lead-estado,
 [data-theme="dark"] .marcas-item,
 [data-theme="dark"] .marca-card,
@@ -1231,25 +1230,27 @@ nav.main-nav a[aria-current="page"]::after{ right:0; }
 [data-theme="dark"] .reciente-name{ color:#EAF2F8; }
 .reciente-price{ font-family:'IBM Plex Mono'; font-size:11.5px; color:var(--flame-deep); }
 
-/* ---- España campeona del Mundial 2026: banner + confeti (caduca 26/07) ---- */
-.mundial-banner{
-  position:fixed; left:50%; bottom:18px; transform:translateX(-50%);
-  display:flex; align-items:center; gap:11px; overflow:hidden;
-  background:#0E2238; color:#fff; border:1px solid rgba(255,185,48,.55);
-  border-radius:999px; padding:11px 20px 11px 24px; font-size:13.5px;
-  box-shadow:0 12px 34px rgba(0,0,0,.35), 0 0 0 4px rgba(255,185,48,.08); z-index:350;
-  max-width:min(92vw, 560px); animation:mundialIn .6s var(--ease);
-}
-/* Franja de la bandera en el borde izquierdo */
-.mundial-banner::before{
-  content:""; position:absolute; left:0; top:0; bottom:0; width:7px;
-  background:linear-gradient(180deg, #C60B1E 0%, #C60B1E 25%, #FFC400 25%, #FFC400 75%, #C60B1E 75%);
-}
+/* ---- España campeona del Mundial 2026: texto gigante + confeti (caduca 26/07) ---- */
 .confeti{ position:fixed; inset:0; width:100vw; height:100vh; pointer-events:none; z-index:360; }
-.mundial-banner strong{ color:var(--gold); }
-.mb-trofeo{ font-size:18px; flex:none; }
-.mb-cerrar{ background:none; border:none; color:rgba(255,255,255,.7); font-size:20px; line-height:1; padding:0 0 0 4px; flex:none; }
-.mb-cerrar:hover{ color:#fff; }
-@keyframes mundialIn{ from{ opacity:0; transform:translateX(-50%) translateY(16px); } }
-@media (max-width:600px){ .mundial-banner{ bottom:82px; font-size:12.5px; } } /* no tapar el botón de WhatsApp */
-@media (prefers-reduced-motion: reduce){ .mundial-banner{ animation:none; } }
+.mundial-hero{
+  position:fixed; inset:0; z-index:355; pointer-events:none;
+  display:flex; align-items:center; justify-content:center; text-align:center;
+  background:radial-gradient(ellipse at center, rgba(6,15,26,.6) 0%, rgba(6,15,26,0) 72%);
+  animation:mhIn .7s var(--ease); transition:opacity .9s ease;
+}
+.mundial-hero.out{ opacity:0; }
+.mh-box{ display:flex; flex-direction:column; align-items:center; gap:12px; padding:0 20px; animation:mhPop .8s var(--ease); }
+.mh-eyebrow{
+  font-family:'IBM Plex Mono'; letter-spacing:.24em; text-transform:uppercase;
+  font-size:clamp(12px,1.6vw,15px); font-weight:600; color:#FFC400;
+  text-shadow:0 2px 14px rgba(0,0,0,.65);
+}
+.mh-title{
+  font-family:'Fraunces'; font-weight:700; letter-spacing:-.01em;
+  font-size:clamp(40px,9vw,100px); line-height:1.04; color:#fff;
+  text-shadow:0 6px 34px rgba(0,0,0,.7), 0 2px 6px rgba(0,0,0,.5);
+}
+.mh-flag{ font-size:clamp(28px,4.4vw,48px); filter:drop-shadow(0 4px 12px rgba(0,0,0,.5)); }
+@keyframes mhIn{ from{ opacity:0; } }
+@keyframes mhPop{ from{ opacity:0; transform:scale(.82) translateY(20px); } }
+@media (prefers-reduced-motion: reduce){ .mundial-hero, .mh-box{ animation:none; } }
