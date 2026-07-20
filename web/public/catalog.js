@@ -67,46 +67,35 @@
       '</svg>';
   };
 
-  // ---------- Plantilla de tarjeta ----------
+  // ---------- Plantilla de tarjeta (compacta, uniforme, sin desc/características) ----------
+  // Vista previa mínima: marca, nombre, specs, "Pensado para", precio y accesos.
+  // La descripción y las características completas viven en la ficha de producto.
+  var WA_ICON = '<svg viewBox="0 0 24 24"><path d="M12.04 2C6.58 2 2.13 6.45 2.13 11.91c0 1.87.5 3.62 1.44 5.15L2 22l5.09-1.53a9.87 9.87 0 0 0 4.95 1.31h.01c5.46 0 9.91-4.45 9.91-9.91 0-2.65-1.03-5.14-2.9-7.01A9.82 9.82 0 0 0 12.04 2zm5.79 14.16c-.24.68-1.4 1.3-1.93 1.36-.5.06-1.03.29-3.46-.72-2.91-1.21-4.78-4.15-4.93-4.35-.14-.19-1.17-1.56-1.17-2.98 0-1.41.74-2.1 1-2.39.26-.28.57-.36.77-.36.19 0 .38.001.55.01.18.01.42-.07.65.5.24.58.82 2 .9 2.15.07.14.12.31.02.5-.1.19-.15.31-.29.48-.15.17-.31.38-.44.51-.15.15-.3.31-.13.6.17.29.75 1.24 1.61 2 1.1.98 2.03 1.29 2.32 1.43.29.15.46.12.63-.07.17-.19.72-.84.92-1.13.19-.29.38-.24.65-.14.26.1 1.66.78 1.95.92.28.15.47.22.54.34.07.13.07.72-.17 1.4z"/></svg>';
   var cardHTML = function (p, i) {
+    var ficha = "producto/" + encodeURIComponent(p.slug) + ".html";
     return '<div class="p-card' + (p.best ? " best" : "") + '" data-slug="' + esc(p.slug) + '">' +
-      '<div class="p-visual"><div class="shine"></div>' + visualSVG(i) +
-        (p.img ? '<img class="p-photo" src="' + esc(p.img) + '" alt="' + esc(p.name) + '" loading="lazy">' : "") + '</div>' +
+      '<a class="p-visual" href="' + ficha + '" aria-label="Ver ficha de ' + esc(p.name) + '"><div class="shine"></div>' + visualSVG(i) +
+        (p.img ? '<img class="p-photo" src="' + esc(p.img) + '" alt="' + esc(p.name) + '" loading="lazy">' : "") + '</a>' +
       '<div class="p-body">' +
         '<span class="p-brand">' + esc(p.brand) + '</span>' +
-        '<div class="p-name">' + esc(p.name) + '</div>' +
-        '<div class="p-specs">' + p.specs.map(function (s) { return "<span>" + esc(s) + "</span>"; }).join("") +
+        '<a class="p-name" href="' + ficha + '">' + esc(p.name) + '</a>' +
+        '<div class="p-specs">' + p.specs.slice(0, 3).map(function (s) { return "<span>" + esc(s) + "</span>"; }).join("") +
           (p.efficiency ? '<span class="p-eff">\u26A1 ' + esc(p.efficiency) + '</span>' : "") + '</div>' +
-        '<div class="p-price-row">' +
-          '<div class="p-price"><span data-price-slug="' + esc(p.slug) + '">' + formatPrice(p.price) + '</span>€ ' +
-          '<span style="font-family:\'Inter\'; font-weight:500; font-size:12px; color:var(--muted);">IVA inc.</span></div>' +
-        '</div>' +
-        '<div class="p-financing">' +
-          '<svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="5" width="20" height="14" rx="2"/><line x1="2" y1="10" x2="22" y2="10"/></svg>' +
-          'Desde <strong>' + formatPrice(Math.ceil((p.price / 36) * 100) / 100) + ' €/mes</strong>&nbsp;· 12, 24 o 36 meses sin intereses' +
-        '</div>' +
-        '<p style="font-size:12px; color:var(--muted); margin-top:10px; padding-top:10px; border-top:1px dashed var(--line);">' +
-          '<strong style="color:var(--navy);">Instalación incluida:</strong> ' + esc(INSTALL_NOTE) + '</p>' +
-        '<a class="p-wa" href="' + waLink(p) + '" target="_blank" rel="noopener">' +
-          '<svg viewBox="0 0 24 24"><path d="M12.04 2C6.58 2 2.13 6.45 2.13 11.91c0 1.87.5 3.62 1.44 5.15L2 22l5.09-1.53a9.87 9.87 0 0 0 4.95 1.31h.01c5.46 0 9.91-4.45 9.91-9.91 0-2.65-1.03-5.14-2.9-7.01A9.82 9.82 0 0 0 12.04 2zm5.79 14.16c-.24.68-1.4 1.3-1.93 1.36-.5.06-1.03.29-3.46-.72-2.91-1.21-4.78-4.15-4.93-4.35-.14-.19-1.17-1.56-1.17-2.98 0-1.41.74-2.1 1-2.39.26-.28.57-.36.77-.36.19 0 .38.001.55.01.18.01.42-.07.65.5.24.58.82 2 .9 2.15.07.14.12.31.02.5-.1.19-.15.31-.29.48-.15.17-.31.38-.44.51-.15.15-.3.31-.13.6.17.29.75 1.24 1.61 2 1.1.98 2.03 1.29 2.32 1.43.29.15.46.12.63-.07.17-.19.72-.84.92-1.13.19-.29.38-.24.65-.14.26.1 1.66.78 1.95.92.28.15.47.22.54.34.07.13.07.72-.17 1.4z"/></svg>' +
-          'Pedir por WhatsApp' +
-        '</a>' +
-        '<button class="p-compare" type="button" data-slug="' + esc(p.slug) + '">' +
-          '<span class="cmp-plus">+</span> Comparar' +
-        '</button>' +
-        '<button class="p-toggle" type="button" aria-expanded="false">' +
-          'Características <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg>' +
-        '</button>' +
-        '<div class="p-details"><div class="p-details-inner">' +
-          '<h5>Descripción</h5><p class="desc">' + esc(p.description) + '</p>' +
-          '<h5>Características</h5><ul>' + p.features.map(function (f) { return "<li>" + esc(f) + "</li>"; }).join("") + '</ul>' +
-          '<h5>Pensado para</h5>' +
-          '<div class="ideal-box">' +
-            '<svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 9.5 12 3l9 6.5V21a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1z"/><path d="M9 22V12h6v10"/></svg>' +
-            '<span>' + esc(p.idealFor) + '</span>' +
+        (p.idealFor ? '<div class="p-ideal">' +
+          '<svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 9.5 12 3l9 6.5V21a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1z"/><path d="M9 22V12h6v10"/></svg>' +
+          '<span>' + esc(p.idealFor) + '</span></div>' : "") +
+        '<div class="p-foot">' +
+          '<div class="p-price-row">' +
+            '<div class="p-price"><span data-price-slug="' + esc(p.slug) + '">' + formatPrice(p.price) + '</span>\u20AC <span class="p-iva">IVA inc.</span></div>' +
+            '<div class="p-financing" title="Financiaci\u00F3n sin intereses">Desde <strong>' + formatPrice(Math.ceil((p.price / 36) * 100) / 100) + ' \u20AC/mes</strong></div>' +
           '</div>' +
-          '<a class="p-ficha-link" href="producto/' + encodeURIComponent(p.slug) + '.html">Ver ficha completa →</a>' +
-        '</div></div>' +
+          '<a class="p-ficha-btn" href="' + ficha + '">Ver ficha completa' +
+            ' <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>' +
+          '<div class="p-actions">' +
+            '<a class="p-wa" href="' + waLink(p) + '" target="_blank" rel="noopener">' + WA_ICON + 'WhatsApp</a>' +
+            '<button class="p-compare" type="button" data-slug="' + esc(p.slug) + '"><span class="cmp-plus">+</span> Comparar</button>' +
+          '</div>' +
+        '</div>' +
       '</div>' +
     '</div>';
   };
@@ -255,10 +244,6 @@
       card.classList.remove("highlight");
       void card.offsetWidth;
       card.classList.add("highlight");
-      if (!card.classList.contains("open")) {
-        var btn = card.querySelector(".p-toggle");
-        if (btn) btn.click();
-      }
     }, 420);
   };
   window.addEventListener("hashchange", highlightFromHash);
@@ -269,6 +254,38 @@
       e.target.remove();
     }
   }, true);
+
+  // ---------- Conmutador de vista: filas / cuadrícula / cuadrícula ×4 ----------
+  (function setupViewToggle() {
+    if (!root.parentNode) return;
+    var CLS = { rows: "view-rows", grid: "view-grid", grid4: "view-grid4" };
+    var ICON = {
+      rows: '<svg viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="5" rx="1.5"/><rect x="3" y="14" width="18" height="5" rx="1.5"/></svg>',
+      grid: '<svg viewBox="0 0 24 24"><rect x="3" y="3" width="8" height="8" rx="1.5"/><rect x="13" y="3" width="8" height="8" rx="1.5"/><rect x="3" y="13" width="8" height="8" rx="1.5"/><rect x="13" y="13" width="8" height="8" rx="1.5"/></svg>',
+      grid4: '<svg viewBox="0 0 24 24"><rect x="2.5" y="2.5" width="6" height="6" rx="1"/><rect x="9.5" y="2.5" width="6" height="6" rx="1"/><rect x="16.5" y="2.5" width="5" height="6" rx="1"/><rect x="2.5" y="9.5" width="6" height="6" rx="1"/><rect x="9.5" y="9.5" width="6" height="6" rx="1"/><rect x="16.5" y="9.5" width="5" height="6" rx="1"/></svg>'
+    };
+    var saved = "grid";
+    try { var v = localStorage.getItem("decogas_view"); if (v && CLS[v]) saved = v; } catch (e) { /* sin storage */ }
+    var bar = document.createElement("div");
+    bar.className = "view-toggle";
+    bar.innerHTML =
+      '<span class="vt-label">Ver:</span>' +
+      '<button class="vt-btn" data-v="rows" type="button" aria-label="Filas">' + ICON.rows + "</button>" +
+      '<button class="vt-btn" data-v="grid" type="button" aria-label="Cuadrícula">' + ICON.grid + "</button>" +
+      '<button class="vt-btn" data-v="grid4" type="button" aria-label="Cuadrícula compacta">' + ICON.grid4 + "</button>";
+    root.parentNode.insertBefore(bar, root);
+    function apply(v) {
+      root.classList.remove(CLS.rows, CLS.grid, CLS.grid4);
+      root.classList.add(CLS[v]);
+      try { localStorage.setItem("decogas_view", v); } catch (e) { /* sin storage */ }
+      bar.querySelectorAll(".vt-btn").forEach(function (b) { b.classList.toggle("active", b.dataset.v === v); });
+    }
+    bar.addEventListener("click", function (e) {
+      var b = e.target.closest(".vt-btn");
+      if (b) apply(b.dataset.v);
+    });
+    apply(saved);
+  })();
 
   // ---------- Delegación: filtros ----------
   var filterBar = document.getElementById("filterBar");
@@ -430,14 +447,6 @@
       refreshCompareUI();
       return;
     }
-    var btn = e.target.closest(".p-toggle");
-    if (!btn) return;
-    var card = btn.closest(".p-card");
-    var open = card.classList.toggle("open");
-    btn.setAttribute("aria-expanded", open ? "true" : "false");
-    var details = card.querySelector(".p-details");
-    details.style.maxHeight = open ? details.scrollHeight + "px" : "0";
-    if (open) card.style.transform = "";
   });
 
   // ---------- Primer render: catálogo remoto (Supabase/demo) o datos locales ----------
