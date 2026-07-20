@@ -62,13 +62,28 @@ const ld = JSON.stringify({
   ...(p.img ? { image: p.img } : {}),
   ...(description ? { description } : {}),
   ...(p.brand ? { brand: { '@type': 'Brand', name: p.brand } } : {}),
+  ...(p.efficiency ? { additionalProperty: [{ '@type': 'PropertyValue', name: 'Clase energética', value: p.efficiency }] } : {}),
   offers: {
     '@type': 'Offer',
     price: price,
     priceCurrency: 'EUR',
     availability: 'https://schema.org/InStock',
+    itemCondition: 'https://schema.org/NewCondition',
     url: pageUrl,
+    priceValidUntil: `${new Date().getFullYear() + 1}-12-31`,
+    seller: { '@type': 'Organization', name: 'INSTALADORES DECOGAS SL' },
   },
+});
+
+// Migas estructuradas: Inicio › Categoría › Producto (Google muestra la ruta)
+const breadcrumbLd = JSON.stringify({
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Inicio', item: `${SB}index.html` },
+    { '@type': 'ListItem', position: 2, name: CAT.name, item: SB + CAT.page },
+    { '@type': 'ListItem', position: 3, name: p.name, item: pageUrl },
+  ],
 });
 
 const waText = encodeURIComponent(`Hola, me interesa: ${p.name} (${fmt(price)} €). ¿Me podéis informar?`);
@@ -83,6 +98,7 @@ const scripts = ['utils.js', 'config.js', 'prices.js', 'data-calderas.js', 'data
     <meta property="og:url" content={pageUrl} />
     {p.img && <meta property="og:image" content={p.img} />}
     <script type="application/ld+json" set:html={ld} is:inline></script>
+    <script type="application/ld+json" set:html={breadcrumbLd} is:inline></script>
   </Fragment>
 
   <section class="hero" style="min-height:auto; padding:150px 0 40px;">
