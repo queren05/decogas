@@ -1323,3 +1323,23 @@ nav.main-nav a[aria-current="page"]::after{ right:0; }
 [data-theme="dark"] .p-specs span{ background:rgba(255,255,255,.05); border-color:rgba(255,255,255,.08); }
 [data-theme="dark"] .p-actions .p-compare{ color:#D6E0EA; border-color:rgba(255,255,255,.15); }
 [data-theme="dark"] .vt-btn{ background:#152230; }
+
+/* ============ v33b: enriquecimiento de la ficha de producto ============ */
+.prod-extra{ display:grid; grid-template-columns:1.5fr 1fr; gap:30px; margin-top:44px; align-items:start; }
+@media(max-width:820px){ .prod-extra{ grid-template-columns:1fr; gap:24px; } }
+.prod-inc-grid{ list-style:none; display:grid; grid-template-columns:1fr 1fr; gap:10px 20px; }
+@media(max-width:560px){ .prod-inc-grid{ grid-template-columns:1fr; } }
+.prod-inc-grid li{ position:relative; padding-left:26px; font-size:14px; color:var(--muted); line-height:1.45; }
+.prod-inc-grid li::before{ content:"✓"; position:absolute; left:0; top:0; color:#fff; background:var(--flame); width:18px; height:18px; border-radius:50%; font-size:11px; font-weight:700; display:flex; align-items:center; justify-content:center; }
+.prod-fin-card{ background:var(--cloud); border:1px solid var(--line); border-radius:16px; padding:22px; }
+.prod-fin-table{ width:100%; border-collapse:collapse; margin:6px 0 12px; }
+.prod-fin-table td{ padding:10px 0; border-bottom:1px solid var(--line); font-size:14px; color:var(--muted); }
+.prod-fin-table td:last-child{ text-align:right; }
+.prod-fin-table strong{ font-family:'Fraunces'; font-size:19px; color:var(--flame-deep); }
+.prod-fin-table tr:last-child td{ border-bottom:none; }
+.prod-fin-note{ font-size:12px; color:var(--muted); line-height:1.5; margin-bottom:14px; }
+.prod-trust{ display:flex; flex-wrap:wrap; gap:14px 30px; justify-content:center; margin-top:40px; padding:22px; border-top:1px solid var(--line); border-bottom:1px solid var(--line); }
+.prod-trust div{ font-size:14px; color:var(--muted); }
+.prod-trust strong{ color:var(--navy); font-family:'Fraunces'; font-size:18px; margin-right:4px; }
+[data-theme="dark"] .prod-fin-card{ background:#152230; }
+[data-theme="dark"] .prod-trust strong{ color:#EAF2F8; }

@@ -4,7 +4,7 @@
 const rawBase = import.meta.env.BASE_URL; // '/decogas' (sin barra final)
 const base = rawBase.endsWith('/') ? rawBase : rawBase + '/'; // → '/decogas/'
 const ASSET_V = 32; // cache-busting de los scripts clásicos (?v=N) — cambiar aquí, no en 187 archivos
-const STYLES_V = 33; // styles.css va un paso por delante (tarjetas glass + vistas + contraste blog v33)
+const STYLES_V = 34; // styles.css va un paso por delante (ficha enriquecida v33b)
 // Página actual (formato 'file': /decogas/calderas.html) para marcar el menú activo
 const currentFile = Astro.url.pathname.split('/').pop() || 'index.html';
 const active = (file: string) => (currentFile === file ? 'page' : undefined);

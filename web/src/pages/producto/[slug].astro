@@ -151,6 +151,38 @@ const scripts = ['utils.js', 'config.js', 'prices.js', 'data-calderas.js', 'data
         </div>
       )}
 
+      <div class="prod-extra reveal">
+        <div class="prod-includes">
+          <h2 class="prod-h2">Qué incluye tu compra</h2>
+          <ul class="prod-inc-grid">
+            <li>Equipo y materiales de instalación estándar</li>
+            <li>Mano de obra e IVA, ya en el precio</li>
+            <li>Visita técnica gratuita antes de instalar</li>
+            <li>Puesta en marcha y prueba de funcionamiento</li>
+            <li>Retirada de tu equipo antiguo</li>
+            <li>Garantía del fabricante y nuestro servicio propio</li>
+          </ul>
+        </div>
+        <div class="prod-fin-card">
+          <h2 class="prod-h2">Financiación sin intereses</h2>
+          <table class="prod-fin-table">
+            <tbody>
+              <tr><td>12 meses</td><td><strong>{cuota(12)} €/mes</strong></td></tr>
+              <tr><td>24 meses</td><td><strong>{cuota(24)} €/mes</strong></td></tr>
+              <tr><td>36 meses</td><td><strong>{cuota(36)} €/mes</strong></td></tr>
+            </tbody>
+          </table>
+          <p class="prod-fin-note">Te la gestionamos en la visita, sin papeleo por tu parte. Sujeta a aprobación de la financiera.</p>
+          <a class="btn btn-flame" href={`${SB}index.html#contacto`} style="width:100%; margin-top:4px;">Pide tu presupuesto</a>
+        </div>
+      </div>
+
+      <div class="prod-trust reveal">
+        <div><strong>15+</strong> años instalando en Madrid</div>
+        <div><strong>4,7★</strong> · casi 800 reseñas en Google</div>
+        <div><strong>RITE</strong> · instaladores autorizados</div>
+      </div>
+
       <div class="prod-back reveal">
         <a class="btn btn-navy" href={SB + CAT.page}>← Ver todo el catálogo de {CAT.name.toLowerCase()}</a>
       </div>

@@ -1,0 +1,112 @@
+---
+// Comparador "antes / después": dos webs superpuestas con una barra vertical
+// arrastrable. Izquierda = web antigua (decogas.com), derecha = web nueva.
+// Página autónoma a pantalla completa (sin la cabecera del sitio).
+const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL : import.meta.env.BASE_URL + '/';
+const site = (Astro.site?.href ?? 'https://queren05.github.io/').replace(/\/$/, '');
+const NUEVA = `${site}${base}index.html`;
+const ANTIGUA = 'https://decogas.com/';
+---
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex, nofollow">
+<title>Antes / Después · Decogas</title>
+<link rel="icon" type="image/svg+xml" href={`${base}favicon.svg`}>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=IBM+Plex+Mono:wght@500;600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  *{ margin:0; padding:0; box-sizing:border-box; }
+  body{ font-family:'Inter',sans-serif; background:#0E2238; overflow:hidden; }
+  .cmp-bar{
+    position:fixed; top:0; left:0; right:0; height:52px; z-index:30;
+    display:flex; align-items:center; justify-content:space-between; gap:16px; padding:0 18px;
+    background:rgba(14,34,56,.92); backdrop-filter:blur(8px); color:#fff;
+  }
+  .cmp-bar .logo{ display:flex; align-items:center; gap:10px; font-family:'Fraunces'; font-weight:700; font-size:17px; }
+  .cmp-bar .logo img{ height:26px; }
+  .cmp-bar .hint{ font-size:12.5px; color:rgba(255,255,255,.7); font-family:'IBM Plex Mono'; }
+  .cmp-bar a.exit{ color:#fff; font-size:13px; font-weight:600; text-decoration:none; border:1px solid rgba(255,255,255,.3); padding:7px 14px; border-radius:9px; }
+  .cmp-bar a.exit:hover{ background:rgba(255,255,255,.1); }
+
+  .cmp-wrap{ position:fixed; top:52px; left:0; right:0; bottom:0; overflow:hidden; }
+  .cmp-pane{ position:absolute; inset:0; border:0; width:100%; height:100%; }
+  .cmp-old{ z-index:1; }
+  .cmp-new{ z-index:2; clip-path:inset(0 0 0 50%); }
+
+  .cmp-tag{
+    position:absolute; top:16px; z-index:5; font-family:'IBM Plex Mono'; font-size:11.5px; font-weight:600;
+    letter-spacing:.08em; text-transform:uppercase; padding:7px 14px; border-radius:999px; color:#fff; pointer-events:none;
+  }
+  .cmp-tag.old{ left:16px; background:rgba(14,34,56,.78); }
+  .cmp-tag.new{ right:16px; background:var(--flame, #FF6B35); }
+
+  .cmp-divider{
+    position:absolute; top:0; bottom:0; left:50%; width:4px; margin-left:-2px; z-index:10;
+    background:#fff; box-shadow:0 0 0 1px rgba(0,0,0,.15), 0 0 20px rgba(0,0,0,.25); cursor:ew-resize;
+  }
+  .cmp-handle{
+    position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
+    width:46px; height:46px; border-radius:50%; background:#fff; box-shadow:0 6px 20px rgba(0,0,0,.3);
+    display:flex; align-items:center; justify-content:center; color:#0E2238;
+  }
+  .cmp-handle svg{ width:24px; height:24px; }
+  .cmp-dragging .cmp-pane{ pointer-events:none; }
+  .cmp-dragging .cmp-divider{ box-shadow:0 0 0 1px rgba(0,0,0,.15), 0 0 30px rgba(255,107,53,.5); }
+</style>
+</head>
+<body>
+  <div class="cmp-bar">
+    <div class="logo"><img src={`${base}logo-decogas.png`} alt="Decogas"> Antes / Después</div>
+    <span class="hint">◀ Arrastra la barra para comparar ▶</span>
+    <a class="exit" href={`${base}index.html`}>Ver web nueva →</a>
+  </div>
+
+  <div class="cmp-wrap" id="cmpWrap">
+    <span class="cmp-tag old">Antes · 2024</span>
+    <span class="cmp-tag new">Ahora</span>
+    <iframe class="cmp-pane cmp-old" src={ANTIGUA} title="Web antigua de Decogas" loading="lazy"></iframe>
+    <iframe class="cmp-pane cmp-new" id="cmpNew" src={NUEVA} title="Web nueva de Decogas" loading="eager"></iframe>
+    <div class="cmp-divider" id="cmpDivider">
+      <div class="cmp-handle">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 7-5 5 5 5M15 7l5 5-5 5"/></svg>
+      </div>
+    </div>
+  </div>
+
+  <script is:inline>
+    (function () {
+      var wrap = document.getElementById("cmpWrap");
+      var nueva = document.getElementById("cmpNew");
+      var divider = document.getElementById("cmpDivider");
+      var dragging = false;
+
+      function setPct(pct) {
+        pct = Math.max(2, Math.min(98, pct));
+        nueva.style.clipPath = "inset(0 0 0 " + pct + "%)";
+        divider.style.left = pct + "%";
+      }
+      function fromEvent(e) {
+        var r = wrap.getBoundingClientRect();
+        var x = (e.touches ? e.touches[0].clientX : e.clientX) - r.left;
+        setPct((x / r.width) * 100);
+      }
+      function start(e) { dragging = true; wrap.classList.add("cmp-dragging"); fromEvent(e); }
+      function move(e) { if (dragging) { fromEvent(e); e.preventDefault(); } }
+      function end() { dragging = false; wrap.classList.remove("cmp-dragging"); }
+
+      divider.addEventListener("mousedown", start);
+      window.addEventListener("mousemove", move);
+      window.addEventListener("mouseup", end);
+      divider.addEventListener("touchstart", start, { passive: false });
+      window.addEventListener("touchmove", move, { passive: false });
+      window.addEventListener("touchend", end);
+      // Click en cualquier punto del comparador mueve la barra ahí
+      wrap.addEventListener("mousedown", function (e) { if (e.target === divider || divider.contains(e.target)) return; fromEvent(e); });
+    })();
+  </script>
+</body>
+</html>
