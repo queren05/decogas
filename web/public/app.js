@@ -19,6 +19,21 @@
     }
   }, true);
 
+  // ---------- Tablas anchas del blog: scroll horizontal en móvil ----------
+  // Envolvemos cada tabla del artículo para que se pueda deslizar en vez de
+  // desbordar la página (que quedaría cortada por overflow-x:hidden).
+  (function () {
+    var tables = document.querySelectorAll(".article-prose table");
+    for (var i = 0; i < tables.length; i++) {
+      var t = tables[i];
+      if (t.parentNode && t.parentNode.classList && t.parentNode.classList.contains("table-scroll")) continue;
+      var wrap = document.createElement("div");
+      wrap.className = "table-scroll";
+      t.parentNode.insertBefore(wrap, t);
+      wrap.appendChild(t);
+    }
+  })();
+
   // ---------- Cabecera pegajosa + barra de progreso ----------
   var header = $("siteHeader");
   var progress = $("scrollProgress");
