@@ -9,6 +9,14 @@ const title = 'Marcas que instalamos · Decogas Madrid';
 const description = `Instalamos y damos servicio a ${marcas.length} fabricantes: ${marcas.slice(0, 6).map((m) => m.brand).join(', ')} y más. Catálogo con IVA e instalación incluidos.`;
 const scripts = ['utils.js', 'config.js', 'prices.js', 'data-calderas.js', 'data-aires.js', 'search.js', 'app.js'];
 const CAT_NOMBRE = { calderas: 'calderas', aires: 'aires', termos: 'termos' };
+const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL : import.meta.env.BASE_URL + '/';
+// Logos de marca (self-hosted en public/marcas/). Clave = slug de la marca.
+const LOGO = {
+  'hisense': 'hisense.jpg', 'saunier-duval': 'saunier-duval.jpg',
+  'mitsubishi-electric': 'mitsubishi-electric.svg', 'daikin': 'daikin.svg',
+  'fujitsu': 'fujitsu.svg', 'bosch': 'bosch.jpg', 'hermann': 'hermann.jpg',
+  'vaillant': 'vaillant.jpg', 'demirdokum': 'demirdokum.jpg',
+};
 const resumen = (m) => {
   const porCat = {};
   m.productos.forEach((p) => { porCat[p.category] = (porCat[p.category] || 0) + 1; });
@@ -40,7 +48,11 @@ const resumen = (m) => {
       <div class="marcas-grid reveal-stagger">
         {marcas.map((m) => (
           <a class="marcas-item" href={`${SB}marcas/${m.slug}.html`}>
-            <span class="marcas-nombre">{m.brand}</span>
+            <span class="marcas-logo">
+              {LOGO[m.slug]
+                ? <img src={`${base}marcas/${LOGO[m.slug]}`} alt={m.brand} loading="lazy" />
+                : <span class="marcas-logo-txt">{m.brand}</span>}
+            </span>
             <span class="marcas-num">{m.productos.length} {m.productos.length === 1 ? 'equipo' : 'equipos'}</span>
             <span class="marcas-detalle">{resumen(m)}</span>
             <span class="marca-more">Ver catálogo →</span>

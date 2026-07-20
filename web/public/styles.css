@@ -1390,3 +1390,10 @@ nav.main-nav a[aria-current="page"]::after{ right:0; }
   background:linear-gradient(135deg, #2A1E14, #241A12);
   border-color:#5A3D28; color:#F0DCC8;
 }
+
+/* ============ v39: logos de marca en la pagina de marcas ============ */
+.marcas-logo{ display:flex; align-items:center; justify-content:center; height:66px; background:#fff; border:1px solid var(--line); border-radius:12px; padding:12px 16px; margin-bottom:6px; }
+.marcas-logo img{ max-height:100%; max-width:100%; width:auto; object-fit:contain; }
+.marcas-logo-txt{ font-family:'Fraunces'; font-weight:700; font-size:20px; color:#0E2238; }
+.marca-hero-logo{ display:inline-flex; align-items:center; justify-content:center; height:72px; background:#fff; border-radius:14px; padding:12px 22px; margin-bottom:16px; box-shadow:0 8px 24px rgba(0,0,0,.18); }
+.marca-hero-logo img{ max-height:48px; max-width:230px; width:auto; object-fit:contain; }
