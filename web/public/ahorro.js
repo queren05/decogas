@@ -40,10 +40,10 @@
     var medio = (minAhorro + maxAhorro) / 2;
 
     if (gasto === 0) {
-      $("ahorroAnual").textContent = "—";
-      $("ahorroDecada").textContent = "—";
-      $("ahorroCO2").textContent = "—";
-      $("facturaNueva").textContent = "—";
+      $("ahorroAnual").textContent = "–";
+      $("ahorroDecada").textContent = "–";
+      $("ahorroCO2").textContent = "–";
+      $("facturaNueva").textContent = "–";
       $("ahorroNota").textContent = "Escribe tu gasto anual de gas para ver la estimación.";
       return;
     }

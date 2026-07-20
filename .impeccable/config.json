@@ -1,0 +1,6 @@
+{
+  "_note": "overused-font (Inter cuerpo + Fraunces titulares) es la tipografia de marca ELEGIDA de Decogas, no un defecto. Se acepta explicitamente para que las auditorias del detector reflejen la realidad.",
+  "detector": {
+    "ignoreRules": ["overused-font"]
+  }
+}
