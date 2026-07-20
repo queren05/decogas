@@ -815,7 +815,7 @@
 /* Sección subvenciones (index) */
 .subv-cards{ display:grid; grid-template-columns:repeat(3, 1fr); gap:18px; margin-top:30px; }
 @media(max-width:820px){ .subv-cards{ grid-template-columns:1fr; } }
-.subv-card{ background:#fff; border:1px solid var(--line); border-radius:15px; padding:24px; transition:transform .25s, box-shadow .25s; }
+.subv-card{ background:#fff; border:1px solid var(--line); border-radius:16px; padding:24px; transition:transform .25s, box-shadow .25s; }
 .subv-card:hover{ transform:translateY(-3px); box-shadow:0 14px 32px rgba(14,34,56,.09); }
 .subv-card .num{ font-family:'Fraunces',serif; font-size:26px; font-weight:700; color:var(--flame); }
 .subv-card h4{ font-family:'Inter'; font-weight:700; font-size:15.5px; margin:8px 0 6px; }

@@ -23,7 +23,7 @@
   # Lista blanca de lo único que el navegador puede cargar o contactar.
   # script-src es solo 'self': el SDK de Supabase está auto-alojado en /vendor/.
   # frame-src permite el mapa de Google de la portada.
-  Content-Security-Policy: default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data: https://*.supabase.co; connect-src 'self' https://*.supabase.co https://formsubmit.co; frame-src https://www.google.com; object-src 'none'; worker-src 'none'; media-src 'none'; base-uri 'self'; frame-ancestors 'none'; form-action 'self' mailto:; upgrade-insecure-requests
+  Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data: https://*.supabase.co; connect-src 'self' https://*.supabase.co https://formsubmit.co; frame-src https://www.google.com; object-src 'none'; base-uri 'self'; frame-ancestors 'none'; form-action 'self' mailto:; upgrade-insecure-requests
 
 # ------------------------------------------------------------
 # Paneles privados: que no se indexen ni se queden guardados
