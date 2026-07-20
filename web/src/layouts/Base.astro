@@ -3,7 +3,7 @@
 // Se escribe UNA vez y lo comparten todas las páginas raíz de marketing.
 const rawBase = import.meta.env.BASE_URL; // '/decogas' (sin barra final)
 const base = rawBase.endsWith('/') ? rawBase : rawBase + '/'; // → '/decogas/'
-const ASSET_V = 32; // cache-busting de los scripts clásicos (?v=N) — cambiar aquí, no en 187 archivos
+const ASSET_V = 33; // cache-busting de los scripts clásicos (?v=N) — cambiar aquí, no en 187 archivos
 const STYLES_V = 48; // styles.css (blog relacionados v48)
 // Página actual (formato 'file': /decogas/calderas.html) para marcar el menú activo
 const currentFile = Astro.url.pathname.split('/').pop() || 'index.html';

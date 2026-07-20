@@ -8,6 +8,17 @@
 
   var $ = function (id) { return document.getElementById(id); };
 
+  // ---------- Imágenes rotas del blog: ocultarlas con elegancia ----------
+  // Los artículos enlazan fotos de la web antigua; si alguna falta, en vez
+  // de mostrar el icono de imagen rota, ocultamos la figura entera.
+  document.addEventListener("error", function (e) {
+    var t = e.target;
+    if (t && t.tagName === "IMG" && t.closest && t.closest(".article-prose")) {
+      var fig = t.closest("figure") || t;
+      fig.style.display = "none";
+    }
+  }, true);
+
   // ---------- Cabecera pegajosa + barra de progreso ----------
   var header = $("siteHeader");
   var progress = $("scrollProgress");
