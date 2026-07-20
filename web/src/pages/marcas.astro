@@ -53,6 +53,7 @@ const resumen = (m) => {
                 ? <img src={`${base}marcas/${LOGO[m.slug]}`} alt={m.brand} loading="lazy" />
                 : <span class="marcas-logo-txt">{m.brand}</span>}
             </span>
+            <span class="marcas-nombre">{m.brand}</span>
             <span class="marcas-num">{m.productos.length} {m.productos.length === 1 ? 'equipo' : 'equipos'}</span>
             <span class="marcas-detalle">{resumen(m)}</span>
             <span class="marca-more">Ver catálogo →</span>

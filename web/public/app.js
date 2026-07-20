@@ -132,9 +132,12 @@
     overlay.setAttribute("role", "status");
     overlay.innerHTML =
       '<div class="mh-box">' +
-        '<span class="mh-eyebrow">Mundial 2026</span>' +
-        '<strong class="mh-title">¡ESPAÑA CAMPEONA<br>DEL MUNDO!</strong>' +
-        '<span class="mh-flag">🏆 🇪🇸</span>' +
+        '<span class="mh-glow"></span>' +
+        '<span class="mh-trophy">🏆</span>' +
+        '<span class="mh-eyebrow">Copa Mundial de la FIFA · 2026</span>' +
+        '<strong class="mh-title">¡Campeones<br>del mundo!</strong>' +
+        '<span class="mh-sub">España, campeona <span class="mh-flag">🇪🇸</span></span>' +
+        '<span class="mh-stars">★ ★ ★ ★ ★</span>' +
       "</div>";
     document.body.appendChild(overlay);
     setTimeout(function () { overlay.classList.add("out"); }, 3800);
