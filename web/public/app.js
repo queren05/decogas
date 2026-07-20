@@ -34,17 +34,12 @@
     }
   })();
 
-  // ---------- Cabecera pegajosa + barra de progreso ----------
+  // ---------- Cabecera pegajosa ----------
   var header = $("siteHeader");
-  var progress = $("scrollProgress");
   if (header) {
     var onScroll = function () {
       var y = window.scrollY || document.documentElement.scrollTop;
       header.classList.toggle("scrolled", y > 40);
-      if (progress) {
-        var h = document.documentElement.scrollHeight - window.innerHeight;
-        progress.style.width = (h > 0 ? (y / h) * 100 : 0) + "%";
-      }
     };
     document.addEventListener("scroll", onScroll, { passive: true });
     onScroll();
