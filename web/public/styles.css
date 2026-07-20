@@ -1458,3 +1458,35 @@ nav.main-nav a[aria-current="page"]::after{ right:0; }
 /* ============ v49: tablas del blog con scroll horizontal en móvil ============ */
 .article-prose .table-scroll{ overflow-x:auto; -webkit-overflow-scrolling:touch; margin:20px 0; }
 .article-prose .table-scroll table{ margin:0; min-width:440px; }
+
+/* ============ v50: animaciones premium extra ============ */
+/* 1) Brillo que barre el botón principal al pasar el ratón (toque "producto caro") */
+.btn-flame{ position:relative; overflow:hidden; }
+.btn-flame > *{ position:relative; z-index:1; }
+.btn-flame::after{
+  content:""; position:absolute; top:0; left:-120%; width:55%; height:100%;
+  background:linear-gradient(100deg, transparent, rgba(255,255,255,.38), transparent);
+  transform:skewX(-18deg); pointer-events:none; transition:left .6s var(--ease);
+}
+@media (hover:hover){ .btn-flame:hover::after{ left:135%; } }
+
+/* 2) Anillo de pulso en el botón flotante de WhatsApp (atrae la mirada sin molestar) */
+.wa-float::before{
+  content:""; position:absolute; inset:0; border-radius:50%; background:#25D366;
+  z-index:-1; animation:waPulse 2.6s ease-out infinite;
+}
+@keyframes waPulse{ 0%{ transform:scale(1); opacity:.55; } 70%,100%{ transform:scale(1.75); opacity:0; } }
+
+/* 3) Subrayado que crece bajo los enlaces del footer (microdetalle) */
+footer .footer-grid a{ position:relative; }
+footer .footer-grid a::after{
+  content:""; position:absolute; left:0; right:100%; bottom:-2px; height:1px;
+  background:var(--flame); transition:right .3s var(--ease);
+}
+footer .footer-grid a:hover::after{ right:0; }
+
+@media (prefers-reduced-motion: reduce){
+  .btn-flame::after{ display:none; }
+  .wa-float::before{ animation:none; }
+  footer .footer-grid a::after{ transition:none; }
+}
