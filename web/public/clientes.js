@@ -16,6 +16,15 @@
   var norm = window.DecogasUtil.norm;
 
   var LEADS = [];
+
+  // Notas internas por cliente (mini-CRM). Se guardan en este navegador
+  // (localStorage) porque la tabla no tiene columna de nota.
+  var NOTES = {};
+  try { NOTES = JSON.parse(localStorage.getItem("decogas_lead_notes") || "{}") || {}; } catch (e) { NOTES = {}; }
+  function saveNote(id, text) {
+    if (text) NOTES[id] = text; else delete NOTES[id];
+    try { localStorage.setItem("decogas_lead_notes", JSON.stringify(NOTES)); } catch (e) { /* sin storage */ }
+  }
   var FILTER = { name: "", from: null, to: null, interest: "", estado: "" };
 
   // Estados del mini-CRM (v7): deben coincidir con el CHECK de la BD
@@ -245,6 +254,7 @@
           (l.email ? '<a href="mailto:' + esc(l.email) + '"><svg viewBox="0 0 24 24"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m22 7-10 6L2 7"/></svg>' + esc(l.email) + "</a>" : "") +
         "</div>" +
         (l.message ? '<div class="lead-msg">' + esc(l.message) + "</div>" : "") +
+        (l.id ? '<textarea class="lead-nota" data-id="' + esc(l.id) + '" rows="1" placeholder="Nota interna (privada, solo tú la ves)…">' + esc(NOTES[l.id] || "") + "</textarea>" : "") +
       "</div>";
     }).join("");
   }
@@ -332,6 +342,14 @@
       } catch (err) { /* demo sin almacenamiento: solo en memoria */ }
       aplicar();
     }
+  });
+
+  // Guardar nota interna al salir del campo
+  document.addEventListener("change", function (e) {
+    var ta = e.target.closest(".lead-nota");
+    if (!ta) return;
+    saveNote(ta.dataset.id, ta.value.trim());
+    toast("Nota guardada.");
   });
 
   // Borrado (solo LIVE con id)
