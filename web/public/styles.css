@@ -3,16 +3,16 @@
     --navy:#0E2238;
     --navy-soft:#173A5C;
     --paper:#FFFFFF;
-    --cloud:#F3F6F9;
+    --cloud:#F4F5F7;          /* neutral más limpio y premium (menos azulado) */
     --flame:#FF6B35;
     --flame-deep:#E2501C;
     --ice:#3AA6D9;
     --gold:#FFB930;
-    --text:#16232F;
+    --text:#111C27;           /* cuerpo un punto más profundo (mejor jerarquía) */
     --muted:#5D6B7A;
-    --line:#E3E8ED;
+    --line:#E8EBEF;           /* hairline más sutil */
     --radius:16px;
-    --shadow:0 14px 40px rgba(14,34,56,0.10);
+    --shadow:0 22px 54px rgba(14,34,56,0.09);   /* sombra más grande y suave = profundidad premium */
     --ease:cubic-bezier(.22,1,.36,1);
   }
   *{box-sizing:border-box; margin:0; padding:0;}
