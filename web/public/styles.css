@@ -486,6 +486,17 @@
   .p-actions .p-compare.active{ background:var(--navy); color:#fff; border-color:var(--navy); }
   .p-actions .p-wa:active, .p-actions .p-compare:active{ transform:scale(.97); }
 
+  /* ---------- Tarjetas destacadas de la PORTADA (usan p-cta / p-rate) ---------- */
+  .p-rate{ display:flex; align-items:center; gap:4px; font-size:12px; color:var(--muted); }
+  .p-rate svg{ width:13px; height:13px; }
+  .p-cta{ margin-top:auto; padding-top:14px; display:flex; gap:8px; }
+  .p-cta a{ flex:1; text-align:center; padding:11px; border-radius:10px; font-size:13.5px; font-weight:600; text-decoration:none; transition:background .2s, border-color .2s, color .2s, transform .15s; }
+  .p-cta .p-primary{ background:var(--navy); color:#fff; }
+  .p-cta .p-primary:hover{ background:var(--navy-soft); transform:translateY(-2px); }
+  .p-cta .p-secondary{ border:1.3px solid var(--line); color:var(--navy); }
+  .p-cta .p-secondary:hover{ border-color:var(--navy); transform:translateY(-2px); }
+  .p-cta a:active{ transform:scale(.97); }
+
   /* ---------- Conmutador de vista (filas / cuadr\00EDcula / cuadr\00EDcula x4) ---------- */
   .view-toggle{ display:flex; align-items:center; gap:5px; justify-content:flex-end; margin-bottom:16px; }
   .view-toggle .vt-label{ font-size:12px; color:var(--muted); margin-right:3px; font-weight:600; }
@@ -1343,3 +1354,25 @@ nav.main-nav a[aria-current="page"]::after{ right:0; }
 .prod-trust strong{ color:var(--navy); font-family:'Fraunces'; font-size:18px; margin-right:4px; }
 [data-theme="dark"] .prod-fin-card{ background:#152230; }
 [data-theme="dark"] .prod-trust strong{ color:#EAF2F8; }
+
+/* ============ v35: modo oscuro — botones navy nuevos + modales (auditoría completa) ============ */
+/* Botones que usan background:var(--navy) (que en dark se vuelve claro) -> fijar navy real */
+[data-theme="dark"] .p-ficha-btn,
+[data-theme="dark"] .p-ficha-btn:hover,
+[data-theme="dark"] .vt-btn.active,
+[data-theme="dark"] .p-actions .p-compare.active,
+[data-theme="dark"] .p-cta .p-primary,
+[data-theme="dark"] .p-cta .p-primary:hover{ background:#1C3B58; color:#fff; border-color:#1C3B58; }
+[data-theme="dark"] .p-cta .p-secondary{ color:#D6E0EA; border-color:rgba(255,255,255,.18); }
+[data-theme="dark"] .p-rate{ color:#93A5B6; }
+
+/* Modales: comparador de productos y presupuesto de la calculadora */
+[data-theme="dark"] .compare-sheet,
+[data-theme="dark"] .budget-sheet{ background:#152230; color:#D6E0EA; }
+[data-theme="dark"] .compare-sheet h1, [data-theme="dark"] .compare-sheet h2, [data-theme="dark"] .compare-sheet h3, [data-theme="dark"] .compare-sheet h4, [data-theme="dark"] .compare-sheet h5,
+[data-theme="dark"] .budget-sheet h1, [data-theme="dark"] .budget-sheet h2, [data-theme="dark"] .budget-sheet h3, [data-theme="dark"] .budget-sheet h4, [data-theme="dark"] .budget-sheet strong{ color:#EAF2F8; }
+[data-theme="dark"] .compare-sheet td, [data-theme="dark"] .compare-sheet th,
+[data-theme="dark"] .budget-sheet td, [data-theme="dark"] .budget-sheet p{ color:#C3D0DC; border-color:rgba(255,255,255,.1); }
+[data-theme="dark"] .compare-close,
+[data-theme="dark"] .budget-close{ background:#1B2A3A; color:#D6E0EA; border-color:rgba(255,255,255,.15); }
+[data-theme="dark"] .budget-fin-box{ background:#1B2A3A; }
