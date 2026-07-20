@@ -9,6 +9,12 @@
   var CAT_LABEL = { caldera: "Calderas", aire: "Aire acondicionado", aerotermia: "Aerotermia" };
   var CAT = "", Q = "";
 
+  // Las URLs de las guías vienen sin el prefijo del sitio ("/blog/...").
+  // Se lo anteponemos con la base real (window.DECOGAS_BASE = "/decogas/" en
+  // GitHub Pages, "/" en decogas.com) para que no den 404.
+  var BASE = (window.DECOGAS_BASE || "/");
+  function fullUrl(u) { return BASE + String(u).replace(/^\/+/, ""); }
+
   function render() {
     var list = window.DECOGAS_GUIAS.filter(function (g) {
       if (CAT && g.cat !== CAT) return false;
@@ -20,7 +26,7 @@
       return;
     }
     grid.innerHTML = list.map(function (g) {
-      return '<a class="guide-card" href="' + esc(g.url) + '" target="_blank" rel="noopener">' +
+      return '<a class="guide-card" href="' + esc(fullUrl(g.url)) + '">' +
         '<img class="guide-img" src="' + esc(g.img) + '" alt="' + esc(g.title) + '" loading="lazy">' +
         '<span class="guide-body">' +
           '<span class="guide-meta">' +

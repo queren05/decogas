@@ -3,8 +3,8 @@
 // Se escribe UNA vez y lo comparten todas las páginas raíz de marketing.
 const rawBase = import.meta.env.BASE_URL; // '/decogas' (sin barra final)
 const base = rawBase.endsWith('/') ? rawBase : rawBase + '/'; // → '/decogas/'
-const ASSET_V = 30; // cache-busting de los scripts clásicos (?v=N) — cambiar aquí, no en 187 archivos
-const STYLES_V = 31; // styles.css va un paso por delante (pulido de interacción v31: press + hover guard)
+const ASSET_V = 31; // cache-busting de los scripts clásicos (?v=N) — cambiar aquí, no en 187 archivos
+const STYLES_V = 32; // styles.css va un paso por delante (logo original + nav aligerado v32)
 // Página actual (formato 'file': /decogas/calderas.html) para marcar el menú activo
 const currentFile = Astro.url.pathname.split('/').pop() || 'index.html';
 const active = (file: string) => (currentFile === file ? 'page' : undefined);
@@ -34,6 +34,7 @@ const siteLd = JSON.stringify({
 <title>{title}</title>
 {description && <meta name="description" content={description}>}
 <script src={`${base}theme.js?v=1`} is:inline></script>
+<script is:inline set:html={`window.DECOGAS_BASE=${JSON.stringify(base)}`}></script>
 <script type="application/ld+json" set:html={siteLd} is:inline></script>
 <link rel="icon" type="image/svg+xml" href={`${base}favicon.svg`}>
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -48,7 +49,7 @@ const siteLd = JSON.stringify({
 
 <header id="siteHeader">
   <div class="wrap header-inner">
-    <a href={`${base}index.html#top`} class="logo"><span class="dot"></span>DECOGAS</a>
+    <a href={`${base}index.html#top`} class="logo" aria-label="Decogas — Inicio"><img src={`${base}logo-decogas.png`} alt="Decogas — Aire acondicionado y calderas" width="350" height="100"></a>
     <nav class="main-nav">
       <a href={`${base}calderas.html`} aria-current={active('calderas.html')}>Calderas</a>
       <a href={`${base}aires.html`} aria-current={active('aires.html')}>Aire acondicionado</a>
@@ -56,7 +57,6 @@ const siteLd = JSON.stringify({
       <a href={`${base}marcas.html`} aria-current={active('marcas.html')}>Marcas</a>
       <a href={`${base}calcula.html`} aria-current={active('calcula.html')}>Calculadora</a>
       <a href={`${base}guias.html`} aria-current={active('guias.html')}>Guías</a>
-      <a href={`${base}index.html#historia`}>Quiénes somos</a>
       <a href={`${base}index.html#contacto`}>Contacto</a>
     </nav>
     <div class="header-actions">
@@ -109,7 +109,7 @@ const siteLd = JSON.stringify({
   <div class="wrap">
     <div class="footer-grid">
       <div>
-        <div class="footer-logo">DECOGAS</div>
+        <div class="footer-logo"><img src={`${base}logo-decogas.png`} alt="Decogas — Aire acondicionado y calderas" width="350" height="100"></div>
         <p style="font-size:14px; margin-bottom:6px;">Empresa familiar de climatización en Madrid. Calderas de gas, aire acondicionado y aerotermia.</p>
         <p style="font-size:14px;">C. de los Almendros, 8, Local 6 A<br>28821 Coslada, Madrid</p>
         <div class="social-row">
