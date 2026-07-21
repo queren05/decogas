@@ -1,0 +1,163 @@
+// ============================================================
+// analitica.js — Sección de analítica del panel de control.
+// Lee public.web_events + leads de Supabase (solo admin, por RLS)
+// y pinta: visitas, visitantes, llamadas, WhatsApp, formularios,
+// evolución por día, páginas top, fuentes y móvil vs escritorio.
+// ============================================================
+(function () {
+  "use strict";
+  var cfg = window.DECOGAS_CONFIG || {};
+  if (!cfg.supabaseUrl || !cfg.supabaseAnonKey || !window.supabase) return;
+
+  var sb = window.supabase.createClient(cfg.supabaseUrl, cfg.supabaseAnonKey);
+  var box = function () { return document.getElementById("analiticaBox"); };
+  var busy = false, done = false;
+
+  function fmt(n) { return Number(n || 0).toLocaleString("es-ES"); }
+  function esc(s) {
+    return String(s == null ? "" : s).replace(/[&<>"]/g, function (c) {
+      return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c];
+    });
+  }
+  function pretty(path) {
+    if (!path || path === "/") return "Inicio";
+    return path.replace(/^\//, "").replace(/\.html?$/, "").replace(/\/$/, "") || "Inicio";
+  }
+
+  function load(force) {
+    if (busy || (done && !force)) return;
+    var el = box(); if (!el) return;
+    busy = true;
+    el.innerHTML = '<p style="color:var(--muted); font-size:14px; padding:6px 0;">Cargando datos…</p>';
+    var since = new Date(Date.now() - 30 * 24 * 3600 * 1000).toISOString();
+    Promise.all([
+      sb.from("web_events").select("type,path,source,session,device,created_at").gte("created_at", since).limit(50000),
+      sb.from("leads").select("created_at").gte("created_at", since).limit(5000)
+    ]).then(function (res) {
+      busy = false;
+      if (res[0].error) {
+        var msg = res[0].error.message || "";
+        if (/web_events|does not exist|relation|schema cache/i.test(msg)) {
+          el.innerHTML = '<div style="background:#FFF3E8; border:1px solid #FFD9C2; color:#E2501C; border-radius:11px; padding:16px; font-size:13.5px; line-height:1.6;">' +
+            '<strong>Falta activar la analítica.</strong><br>Ejecuta en Supabase (SQL Editor) el archivo <code>supabase/setup-supabase-v8-analitica.sql</code> y recarga esta página. A partir de ahí se registrará cada visita.</div>';
+          return;
+        }
+        el.innerHTML = '<p style="color:var(--err); font-size:14px;">No se pudo cargar la analítica: ' + esc(msg) + "</p>";
+        return;
+      }
+      done = true;
+      render(res[0].data || [], (res[1] && res[1].data) || []);
+    }).catch(function (e) {
+      busy = false;
+      el.innerHTML = '<p style="color:var(--err); font-size:14px;">Error cargando analítica.</p>';
+    });
+  }
+
+  function render(events, leads) {
+    var el = box(); if (!el) return;
+
+    var views = 0, calls = 0, wa = 0;
+    var sessions = {}, byDay = {}, byPage = {}, bySource = {}, dev = { movil: 0, escritorio: 0 };
+    for (var i = 0; i < events.length; i++) {
+      var e = events[i];
+      if (e.session) sessions[e.session] = 1;
+      if (e.type === "pageview") {
+        views++;
+        var d = (e.created_at || "").slice(0, 10);
+        byDay[d] = (byDay[d] || 0) + 1;
+        var pg = pretty(e.path);
+        byPage[pg] = (byPage[pg] || 0) + 1;
+        var src = e.source || "directo";
+        if (src === "interno") src = "directo";
+        bySource[src] = (bySource[src] || 0) + 1;
+        if (e.device === "movil") dev.movil++; else if (e.device === "escritorio") dev.escritorio++;
+      } else if (e.type === "call") calls++;
+      else if (e.type === "whatsapp") wa++;
+    }
+    var visitantes = Object.keys(sessions).length;
+    var formularios = leads.length;
+    var contactos = calls + wa + formularios;
+
+    // ---- Tarjetas de resumen ----
+    function card(label, value, accent, sub) {
+      return '<div style="background:var(--cloud); border:1px solid var(--line); border-radius:13px; padding:14px 16px;">' +
+        '<div style="font-family:\'IBM Plex Mono\'; font-size:10.5px; color:var(--muted); text-transform:uppercase; letter-spacing:.05em;">' + label + "</div>" +
+        '<div style="font-family:\'Fraunces\',serif; font-weight:700; font-size:27px; line-height:1.1; margin-top:5px;' + (accent ? " color:" + accent + ";" : "") + '">' + value + "</div>" +
+        (sub ? '<div style="font-size:11.5px; color:var(--muted); margin-top:3px;">' + sub + "</div>" : "") +
+        "</div>";
+    }
+    var cards = '<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(115px,1fr)); gap:12px; margin-bottom:22px;">' +
+      card("Visitas", fmt(views)) +
+      card("Visitantes", fmt(visitantes)) +
+      card("📞 Llamadas", fmt(calls), "var(--flame)") +
+      card("💬 WhatsApp", fmt(wa), "#1E9E5A") +
+      card("✉️ Formularios", fmt(formularios), "var(--ice)") +
+      card("Contactos totales", fmt(contactos), "var(--navy)", "llamadas + WhatsApp + formularios") +
+      "</div>";
+
+    // ---- Gráfico por día (últimos 14) ----
+    var days = [];
+    for (var k = 13; k >= 0; k--) {
+      var dt = new Date(Date.now() - k * 24 * 3600 * 1000);
+      days.push(dt.toISOString().slice(0, 10));
+    }
+    var maxDay = 1;
+    days.forEach(function (dd) { if ((byDay[dd] || 0) > maxDay) maxDay = byDay[dd]; });
+    var bars = days.map(function (dd) {
+      var v = byDay[dd] || 0;
+      var h = Math.round((v / maxDay) * 100);
+      var lbl = dd.slice(8, 10) + "/" + dd.slice(5, 7);
+      return '<div style="flex:1; display:flex; flex-direction:column; align-items:center; gap:4px;" title="' + lbl + ": " + v + ' visitas">' +
+        '<div style="width:100%; height:80px; display:flex; align-items:flex-end;">' +
+        '<div style="width:100%; background:linear-gradient(180deg,#FF7A45,#E2501C); height:' + Math.max(h, 2) + '%; border-radius:4px 4px 0 0;"></div></div>' +
+        '<div style="font-size:9px; color:var(--muted); font-family:\'IBM Plex Mono\';">' + dd.slice(8, 10) + "</div></div>";
+    }).join("");
+    var chart = '<div style="margin-bottom:22px;">' +
+      '<div style="font-size:12.5px; font-weight:600; color:var(--muted); margin-bottom:10px;">Visitas por día (últimos 14)</div>' +
+      '<div style="display:flex; align-items:flex-end; gap:5px;">' + bars + "</div></div>";
+
+    // ---- Listas (páginas top + fuentes) ----
+    function rankList(title, obj, total) {
+      var arr = Object.keys(obj).map(function (k) { return [k, obj[k]]; }).sort(function (a, b) { return b[1] - a[1]; }).slice(0, 6);
+      if (!arr.length) return '<div><div style="font-size:12.5px; font-weight:600; color:var(--muted); margin-bottom:10px;">' + title + '</div><p style="font-size:13px; color:var(--muted);">Sin datos todavía.</p></div>';
+      var rows = arr.map(function (r) {
+        var pct = total ? Math.round((r[1] / total) * 100) : 0;
+        return '<div style="margin-bottom:9px;">' +
+          '<div style="display:flex; justify-content:space-between; font-size:13px; margin-bottom:3px;"><span style="overflow:hidden; text-overflow:ellipsis; white-space:nowrap; max-width:72%;">' + esc(r[0]) + '</span><span style="font-family:\'IBM Plex Mono\'; color:var(--muted);">' + fmt(r[1]) + "</span></div>" +
+          '<div style="height:6px; background:var(--line); border-radius:99px; overflow:hidden;"><div style="height:100%; width:' + pct + '%; background:var(--navy); border-radius:99px;"></div></div>' +
+          "</div>";
+      }).join("");
+      return '<div><div style="font-size:12.5px; font-weight:600; color:var(--muted); margin-bottom:10px;">' + title + "</div>" + rows + "</div>";
+    }
+    var lists = '<div style="display:grid; grid-template-columns:1fr 1fr; gap:24px;">' +
+      rankList("Páginas más vistas", byPage, views) +
+      rankList("De dónde vienen", bySource, views) +
+      "</div>";
+
+    // ---- Móvil vs escritorio ----
+    var devTotal = dev.movil + dev.escritorio || 1;
+    var movilPct = Math.round((dev.movil / devTotal) * 100);
+    var deviceBar = '<div style="margin-top:22px;">' +
+      '<div style="font-size:12.5px; font-weight:600; color:var(--muted); margin-bottom:8px;">Dispositivo</div>' +
+      '<div style="display:flex; height:26px; border-radius:8px; overflow:hidden; font-size:11.5px; font-weight:600; color:#fff;">' +
+      '<div style="width:' + movilPct + '%; background:var(--flame); display:flex; align-items:center; justify-content:center; min-width:44px;">📱 ' + movilPct + "%</div>" +
+      '<div style="width:' + (100 - movilPct) + '%; background:var(--navy); display:flex; align-items:center; justify-content:center; min-width:44px;">💻 ' + (100 - movilPct) + "%</div>" +
+      "</div></div>";
+
+    var note = views === 0
+      ? '<div style="background:var(--cloud); border:1px dashed var(--line); border-radius:11px; padding:14px; font-size:13px; color:var(--muted); margin-top:18px;">Aún no hay visitas registradas. En cuanto la web reciba tráfico, aquí verás todo en tiempo casi real.</div>'
+      : "";
+
+    el.innerHTML = cards + chart + lists + deviceBar + note;
+  }
+
+  // Cargar cuando haya sesión de admin (sesión directa o login nuevo)
+  sb.auth.getSession().then(function (r) { if (r && r.data && r.data.session) load(); });
+  if (sb.auth.onAuthStateChange) {
+    sb.auth.onAuthStateChange(function (_e, s) { if (s) load(); });
+  }
+  // Botón de refresco (si existe)
+  document.addEventListener("click", function (e) {
+    if (e.target && e.target.id === "analiticaRefresh") { done = false; load(true); }
+  });
+})();
