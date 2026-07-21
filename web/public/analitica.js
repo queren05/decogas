@@ -14,11 +14,13 @@
   var busy = false, done = false;
 
   function fmt(n) { return Number(n || 0).toLocaleString("es-ES"); }
-  function esc(s) {
-    return String(s == null ? "" : s).replace(/[&<>"]/g, function (c) {
-      return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c];
+  // Reutiliza el esc() compartido (escapa también la comilla simple); si no
+  // estuviera cargado, usa un fallback local igual de estricto.
+  var esc = (window.DecogasUtil && window.DecogasUtil.esc) || function (s) {
+    return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) {
+      return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c];
     });
-  }
+  };
   function pretty(path) {
     if (!path || path === "/") return "Inicio";
     return path.replace(/^\//, "").replace(/\.html?$/, "").replace(/\/$/, "") || "Inicio";
