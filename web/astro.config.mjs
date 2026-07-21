@@ -12,5 +12,5 @@ export default defineConfig({
   trailingSlash: 'ignore',
   // Fuera del sitemap los paneles privados (ya llevan noindex): evita la
   // contradicción sitemap↔robots que penaliza Google.
-  integrations: [sitemap({ filter: (page) => !/\/(admin|clientes)(\.html)?$/.test(page) })],
+  integrations: [sitemap({ filter: (page) => !/\/(admin|clientes|comparador)(\.html)?$/.test(page) })],
 });

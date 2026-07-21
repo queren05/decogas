@@ -63,7 +63,7 @@
           ? '<img src="' + esc(x.img) + '" alt="" loading="lazy">'
           : '<span class="reciente-noimg"></span>') +
         '<span class="reciente-info"><span class="reciente-name">' + esc(x.name) + "</span>" +
-        (x.price ? '<span class="reciente-price">' + esc(x.price) + " €</span>" : "") +
+        (x.price ? '<span class="reciente-price">' + esc(x.price) + "</span>" : "") +
         "</span></a>";
     }).join("") +
     "</div>";

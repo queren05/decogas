@@ -3,7 +3,7 @@
 // Se escribe UNA vez y lo comparten todas las páginas raíz de marketing.
 const rawBase = import.meta.env.BASE_URL; // '/decogas' (sin barra final)
 const base = rawBase.endsWith('/') ? rawBase : rawBase + '/'; // → '/decogas/'
-const ASSET_V = 37; // + LocalBusiness, og:image, marca PDF decogas.es
+const ASSET_V = 38; // fix doble euro en recientes.js
 const STYLES_V = 51; // styles.css (sin barra de progreso)
 // Página actual (formato 'file': /decogas/calderas.html) para marcar el menú activo
 const currentFile = Astro.url.pathname.split('/').pop() || 'index.html';
