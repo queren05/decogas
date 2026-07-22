@@ -47,7 +47,7 @@ El mejor momento para realizar una mejora en la eficiencia energética en edific
 -   **Prevención**: la mejor forma de mantener una instalación eficiente es instalando aquellos elementos que te ayudarán a adelantarte a los problemas.
 -   **Sustitución del ascensor**: este aparato supone entre un 5 y un 10% del gasto energético anual de un edificio. Por eso, escoger modelos eficientes os ayudará a vuestra comunidad a ahorrar cerca de un 30%.
 -   **Renovación de la iluminación por un sistema LED**: este tipo de luz te permite ahorrar entre un 60 y un 80% con respecto a los modelos convencionales.
--   **Renovación de los sistemas de climatización**: en la actualidad, existen opciones ecológicas y con un menor consumo. Por ello, en Decogas trabajamos con las [calderas](https://decogas.com/calderas/) y [aires acondicionados](https://decogas.com/aire-acondicionado/) más eficientes.
+-   **Renovación de los sistemas de climatización**: en la actualidad, existen opciones ecológicas y con un menor consumo. Por ello, en Decogas trabajamos con las [calderas](/decogas/calderas.html) y [aires acondicionados](/decogas/aires.html) más eficientes.
 -   **Sustitución del Agua Caliente Sanitario por otro más eficiente**.
 -   **Mantenimiento de los sistemas de climatización**: su renovación es fundamental, pero su buen mantenimiento lo es aun más.
 

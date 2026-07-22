@@ -87,4 +87,4 @@ En cambio, **si se trata de un piso pequeño**, con poco uso de calefacción, y 
 -   ¿Estás reformando o simplemente reemplazando la caldera?
 -   ¿Te interesa reducir el impacto ambiental?
 
-Elegir bien ahora puede ahorrarte muchos costes a futuro. Si tienes dudas, puedes [contactar con nosotros](https://decogas.com/contacto/). Estaremos encantados de orientarte.
+Elegir bien ahora puede ahorrarte muchos costes a futuro. Si tienes dudas, puedes [contactar con nosotros](/decogas/index.html#contacto). Estaremos encantados de orientarte.

@@ -26,7 +26,7 @@ El **funcionamiento de estas calefacciones inteligentes es muy sencillo**. Una u
 
 Además, no solamente te deja programar la temperatura, sino que también la puedes **variar en función de los habitantes** de la casa o las costumbres y tareas que vayan a realizar de cada uno de los ocupantes. En la actualidad, existen dos formas de encender una calefacción a distancia: con **termostato programable** o con aplicaciones móviles.
 
-[Te llamamos gratis](https://decogas.com/contacto/)
+[Te llamamos gratis](/decogas/index.html#contacto)
 
 ### Encender la calefacción con termostato programable
 
@@ -69,6 +69,6 @@ Estas son algunas de las **opciones** que te ofrecen las aplicaciones móviles d
 
 ¿Te atreves a automatizar la tuya?
 
-[Te llamamos gratis](https://decogas.com/contacto/)
+[Te llamamos gratis](/decogas/index.html#contacto)
 
 Desde Decogas tratamos de ayudar en la instalación de calderas, termos y aires acondicionados. Tenemos un equipo propio de instaladores especializados, para que no tengas ningún problema. Además, puedes venir a visitarnos a nuestra tienda física cuando quieras.

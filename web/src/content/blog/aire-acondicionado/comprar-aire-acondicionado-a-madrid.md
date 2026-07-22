@@ -8,15 +8,15 @@ tagClass: "aire"
 breadcrumb: "Aire acondicionado"
 readingTime: 5
 ---
-A la hora de adquirir un sistema de climatización para tu vivienda es fundamental que analices su gasto energético, ya que de él **depende tu consumo en la factura de la luz**; por eso, en nuestra [tienda online](https://decogas.com/) podrás encontrar los mejores aparatos de refrigeración y calefacción para tu vivienda, entre los destaca el aire acondicionado A+++.
+A la hora de adquirir un sistema de climatización para tu vivienda es fundamental que analices su gasto energético, ya que de él **depende tu consumo en la factura de la luz**; por eso, en nuestra [tienda online](/decogas/index.html) podrás encontrar los mejores aparatos de refrigeración y calefacción para tu vivienda, entre los destaca el aire acondicionado A+++.
 
 ## ¿Qué es un aire acondicionado con eficiencia energética A+++?
 
-En la actualidad, existe una amplia variedad de [aires acondicionados](https://decogas.com/aire-acondicionado/) entre los que puedes elegir, en función de tus gustos y necesidades. La **eficiencia energética** es uno de los factores que debes tener en cuenta, ya que de ella depende directamente el consumo eléctrico de tu nuevo aparato.
+En la actualidad, existe una amplia variedad de [aires acondicionados](/decogas/aires.html) entre los que puedes elegir, en función de tus gustos y necesidades. La **eficiencia energética** es uno de los factores que debes tener en cuenta, ya que de ella depende directamente el consumo eléctrico de tu nuevo aparato.
 
 ![¿Por qué comprar un aire acondicionado +++?](/decogas/blog-img/aire-acondicionado-a.webp)
 
-La **eficiencia energética** de un aparato podemos comprobarla mediante una **etiqueta energética** que incluye el electrodoméstico en el momento de la compra. Desde 2021, en la etiqueta energética podemos comprobar que la escala de eficiencia va desde la letra A (más eficiente) a la letra G (menos eficiente). Por lo tanto, un [**aire acondicionado A**](https://decogas.com/aire-acondicionado/) será el más sostenible y eficiente**.**
+La **eficiencia energética** de un aparato podemos comprobarla mediante una **etiqueta energética** que incluye el electrodoméstico en el momento de la compra. Desde 2021, en la etiqueta energética podemos comprobar que la escala de eficiencia va desde la letra A (más eficiente) a la letra G (menos eficiente). Por lo tanto, un [**aire acondicionado A**](/decogas/aires.html) será el más sostenible y eficiente**.**
 
 -   **Clase A**. Tiene un nivel muy alto de eficiencia y un consumo de energía por debajo del 55%. Aquí estarían contenidas las letras A+, A++ y A+++.
 -   **Clase B.** Tiene un consumo entre el 55% y 75%.
@@ -62,6 +62,6 @@ A la hora de saber **qué aire acondicionado comprar**, además de su eficiencia
 
 Una de las ventajas de apostar por un aire acondicionado A+++ de los que puedes encontrar en nuestra tienda online, es que solo trabajamos con las **mejores marcas del sector**; es decir, todos nuestros sistemas de climatización están pensados para adaptarse a tus necesidades y todos incorporan las últimas innovaciones tecnológicas.
 
-Además, si tienes alguna duda y no sabes [qué aire acondicionado comprar](https://decogas.com/aire-acondicionado/), puedes consultar a nuestros profesionales expertos; ellos te realizarán unas pequeñas preguntas para **conocer cuáles son tus necesidades** y saber, exactamente, cuál es el sistema de climatización ideal para ti.
+Además, si tienes alguna duda y no sabes [qué aire acondicionado comprar](/decogas/aires.html), puedes consultar a nuestros profesionales expertos; ellos te realizarán unas pequeñas preguntas para **conocer cuáles son tus necesidades** y saber, exactamente, cuál es el sistema de climatización ideal para ti.
 
 Del mismo modo, si lo deseas, nuestros expertos se encargarán de instalar tu aire acondicionado A+++ en Madrid con el **acabado más seguro y profesional**. ¿A qué esperas para hacerte con el tuyo?

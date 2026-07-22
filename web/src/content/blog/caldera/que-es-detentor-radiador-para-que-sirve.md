@@ -70,7 +70,7 @@ Un bloqueo del detentor puede ocurrir por **acumulación de residuos** o por un 
 
 ### Desajuste en la temperatura
 
-El desajuste en la temperatura de los radiadores, donde algunos calientan más que otros, suele deberse a un **problema de equilibrado en el sistema**. Ajustar los detentores para regular el flujo de agua en cada radiador puede ayudar a distribuir el calor de manera más uniforme. Si el problema continúa, puedes [contactar a un especialista de Decogas](https://decogas.com/contacto/) y te ayudaremos con un equilibrado profesional del sistema.
+El desajuste en la temperatura de los radiadores, donde algunos calientan más que otros, suele deberse a un **problema de equilibrado en el sistema**. Ajustar los detentores para regular el flujo de agua en cada radiador puede ayudar a distribuir el calor de manera más uniforme. Si el problema continúa, puedes [contactar a un especialista de Decogas](/decogas/index.html#contacto) y te ayudaremos con un equilibrado profesional del sistema.
 
 ## Preguntas frecuentes
 

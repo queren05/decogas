@@ -12,7 +12,7 @@ readingTime: 7
 
 ## ¿Qué es el certificado RITE?
 
-El Reglamento de Instalación Térmica en Edificios, más conocido como RITE, es la norma básica que marca las directrices que se deben cumplir para la instalación de un [sistema de calefacción](/decogas/blog/caldera/tipos-sistemas-calefaccion/)**, agua caliente y climatización**, como los que puedes encontrar en nuestra [tienda online](https://decogas.com/). ![Técnico revisando una caldera para otorgar el certificado RITE](/decogas/blog-img/revision-caldera-rite.webp) El certificado RITE está regulado por el Reglamento RITE del RD 1027/2007, de 20 de julio, y exige **varios certificados** según el momento en de la instalación. Una vez finalizada dicha instalación, se realizan las pruebas de puesta en marcha del servicio, especificadas en la Instrucción Técnica 2 del RITE; si su resultado es positivo, el instalador y el director de dicha instalación **validarán el certificado RITE**. El certificado RITE se otorga de forma particular; es decir, se da a una persona pero nunca a una empresa. En otras palabras, las instalaciones térmicas deben estar pensadas para cumplir **cuatro exigencias**:
+El Reglamento de Instalación Térmica en Edificios, más conocido como RITE, es la norma básica que marca las directrices que se deben cumplir para la instalación de un [sistema de calefacción](/decogas/blog/caldera/tipos-sistemas-calefaccion/)**, agua caliente y climatización**, como los que puedes encontrar en nuestra [tienda online](/decogas/index.html). ![Técnico revisando una caldera para otorgar el certificado RITE](/decogas/blog-img/revision-caldera-rite.webp) El certificado RITE está regulado por el Reglamento RITE del RD 1027/2007, de 20 de julio, y exige **varios certificados** según el momento en de la instalación. Una vez finalizada dicha instalación, se realizan las pruebas de puesta en marcha del servicio, especificadas en la Instrucción Técnica 2 del RITE; si su resultado es positivo, el instalador y el director de dicha instalación **validarán el certificado RITE**. El certificado RITE se otorga de forma particular; es decir, se da a una persona pero nunca a una empresa. En otras palabras, las instalaciones térmicas deben estar pensadas para cumplir **cuatro exigencias**:
 
 -   Calidad del ambiente acústico.
 -   Calidad térmica del ambiente.
@@ -28,7 +28,7 @@ Según la normativa vigente, algunas instalaciones térmicas deben legalizarse d
 -   **Potencia nominal superior a 70 kW**: es necesario que la instalación esté registrada y debes contar con un proyecto técnico previo, avalado por un ingeniero habilitado.
 -   **Potencia nominal superior a 5.000 kW en calor o 1.000 kW en frío**: también se incluyen las instalaciones de calefacción o refrigeración con una potencia superior a 400 kW; en este caso, el mantenimiento tiene que realizarse por una empresa y un técnico altamente cualificado y titulado.
 
-[Te llamamos gratis](https://decogas.com/contacto/)
+[Te llamamos gratis](/decogas/index.html#contacto)
 
 ### Función del RITE
 
@@ -71,7 +71,7 @@ A continuación te mostramos los **pasos que debes** seguir para cumplir los req
 
 El resultado será la obtención de un **certificado de inspección** que indicará si la instalación cumple con el RITE, los posibles problemas que se encuentren, su clasificación y la calificación de dicha instalación.
 
-[Te llamamos gratis](https://decogas.com/contacto/)
+[Te llamamos gratis](/decogas/index.html#contacto)
 
 ### Inspecciones principales
 
@@ -106,7 +106,7 @@ Las inspecciones del RITE solo pueden ser realizadas por trabajadores que dispon
 
 ### ¿Cada cuánto se realizan las inspecciones?
 
-Según el Instituto para la Diversificación y Ahorro de la Energía, más conocido como IDEA, la revisión completa de una instalación pensada para una superficie igual o inferior a 20 m2 debe hacerse, **como mínimo, una vez al año**. En el caso de que la instalación esté pensada para **superficies de más de 20 m2**, debe hacerse una inspección completa cada 6 meses. Del mismo modo, las [calderas de gas natural](https://decogas.com/calderas/) murales domésticas, o GLP, con una **potencia igual o inferior a 70 kW** deben revisarse cada 2 años; por otra parte, si se trata de una instalación de calefacción eléctrica o una [caldera de gasóleo](https://decogas.com/calderas-de-gasoil/), con potencia igual o inferior a 70 kW, el mantenimiento y revisión será anual.
+Según el Instituto para la Diversificación y Ahorro de la Energía, más conocido como IDEA, la revisión completa de una instalación pensada para una superficie igual o inferior a 20 m2 debe hacerse, **como mínimo, una vez al año**. En el caso de que la instalación esté pensada para **superficies de más de 20 m2**, debe hacerse una inspección completa cada 6 meses. Del mismo modo, las [calderas de gas natural](/decogas/calderas.html) murales domésticas, o GLP, con una **potencia igual o inferior a 70 kW** deben revisarse cada 2 años; por otra parte, si se trata de una instalación de calefacción eléctrica o una [caldera de gasóleo](/decogas/calderas.html), con potencia igual o inferior a 70 kW, el mantenimiento y revisión será anual.
 
 ### ¿Qué ocurre si hay alguna anomalía?
 
@@ -120,6 +120,6 @@ No. No es necesario registrar la realización de una reforma cuando se trate de 
 
 Si no se realiza la inspección periódica, el distribuidor será el encargado de comunicárselo al órgano competente de la comunidad autónoma, al titular de la instalación y a la empresa que realiza el suministro. En estas ocasiones, lo más probable es que se **proceda a la suspensión del suministro** hasta que se presente el certificado RITE correspondiente. En definitiva, el certificado RITE tiene la función de responder al **confort térmico e higiénico** de todos los ocupantes de un edificio o una vivienda; así como el establecimiento de las exigencias de eficiencia energética y el uso racional de la energía.
 
-[Te llamamos gratis](https://decogas.com/contacto/)
+[Te llamamos gratis](/decogas/index.html#contacto)
 
 Desde Decogas tratamos de ayudar en la instalación de calderas, termos y aires acondicionados. Tenemos un equipo propio de instaladores especializados, para que no tengas ningún problema. Además, puedes venir a visitarnos a nuestra tienda física cuando quieras.

@@ -10,7 +10,7 @@ readingTime: 5
 ---
 ![caldera oculta en mueble](/decogas/blog-img/istockphoto-1049213560-612x612-1-267x400-1.webp)
 
-Las [calderas](https://decogas.com/calderas/) son un elemento esencial hoy en día en los hogares, sobre todo, para tener agua caliente y calentar el ambiente gracias a la calefacción. Muchas veces las vemos en terrazas y balcones o en la cocina. Incluso los más afortunados pueden llegar a instalarlas en sus garajes o sótanos. Pero normalmente nos faltan **ideas para ocultar una caldera**.
+Las [calderas](/decogas/calderas.html) son un elemento esencial hoy en día en los hogares, sobre todo, para tener agua caliente y calentar el ambiente gracias a la calefacción. Muchas veces las vemos en terrazas y balcones o en la cocina. Incluso los más afortunados pueden llegar a instalarlas en sus garajes o sótanos. Pero normalmente nos faltan **ideas para ocultar una caldera**.
 
 Aunque en este tipo de aparatos lo que importan es la eficiencia, que tenga un rendimiento óptimo para que dé fallos y nos permita ahorrar en consumo de gas y la factura, la realidad es que intentamos también que tengan un aspecto más agradable y que se integren de forma armónica con el resto de electrodomésticos o decoración.
 

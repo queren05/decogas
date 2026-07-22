@@ -70,7 +70,7 @@ Para realizar este test, puedes usar un medidor de flujo que te indicará si la 
 
 ### Cuándo contactar a un técnico especializado
 
-Si después de realizar estas verificaciones notas que la bomba sigue presentando problemas, es recomendable contactar a un [técnico especializado en la reparación de calderas](https://decogas.com/reparacion-calderas/).
+Si después de realizar estas verificaciones notas que la bomba sigue presentando problemas, es recomendable contactar a un [técnico especializado en la reparación de calderas](/decogas/calderas.html).
 
 Nuestros profesionales podrán hacer un **diagnóstico más detallado** y ofrecerte soluciones que quizás no sean evidentes en una revisión casera. Ignorar una falla persistente puede ocasionar un daño mayor en el sistema de calefacción, lo que se traduce en costes más altos a largo plazo.
 

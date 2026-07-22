@@ -68,7 +68,7 @@ El nivel de aislamiento y los materiales empleados en la construcción de la cas
 
 ### Tipo de calefacción y energía usada
 
-El tipo de sistema de calefacción (eléctrico, de gas, biomasa, etc.) y la fuente de energía utilizada influyen en la eficiencia del calentamiento. Por ejemplo, el **suelo radiante** ofrece un calor uniforme, mientras que los **[radiadores](https://decogas.com/radiadores/)** calientan rápidamente áreas específicas. Adaptar el sistema a las necesidades del hogar mejora el confort y el ahorro.
+El tipo de sistema de calefacción (eléctrico, de gas, biomasa, etc.) y la fuente de energía utilizada influyen en la eficiencia del calentamiento. Por ejemplo, el **suelo radiante** ofrece un calor uniforme, mientras que los **[radiadores](/decogas/index.html#contacto)** calientan rápidamente áreas específicas. Adaptar el sistema a las necesidades del hogar mejora el confort y el ahorro.
 
 Conoce [qué tipo de caldera necesitas para una casa de 100 m2](/decogas/blog/caldera/calderas-casas-100-m2/).
 

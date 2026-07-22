@@ -10,7 +10,7 @@ readingTime: 6
 ---
 ![osito sobre radiador](/decogas/blog-img/osito-sobre-radiador.webp)
 
-Con la llegada del frío, la calefacción y el agua caliente se convierten en un elemento básico del hogar. Tener la casa a una temperatura confortable es una prioridad para muchas familias durante el invierno, aunque esto puede no ser así si, de pronto, no funciona la calefacción. O tal vez funciona mal o lo hace por intervalos de tiempo y en ciertas zonas únicamente. Y eso hace que nos preguntemos **por qué la [caldera](https://decogas.com/calderas/) calienta el agua, pero no calienta la calefacción**.
+Con la llegada del frío, la calefacción y el agua caliente se convierten en un elemento básico del hogar. Tener la casa a una temperatura confortable es una prioridad para muchas familias durante el invierno, aunque esto puede no ser así si, de pronto, no funciona la calefacción. O tal vez funciona mal o lo hace por intervalos de tiempo y en ciertas zonas únicamente. Y eso hace que nos preguntemos **por qué la [caldera](/decogas/calderas.html) calienta el agua, pero no calienta la calefacción**.
 
 > En ocasiones, la causa del problema es evidente y solo basta con regular bien la caldera y el termostato, pero en otras, no es tan sencillo y necesita un poco más de esfuerzo para averiguarlo. O, sencillamente, la mejor opción es contar con un técnico experto.
 
@@ -33,7 +33,7 @@ Para comprobar el funcionamiento de la caldera, tenemos que tener la caldera con
 
 -   No tenemos que olvidar que la caldera debe estar en “modo invierno”.
 -   **Si no aparece un indicativo** (símbolo de radiador, LED que parpadea, etc.) en la caldera y esta no hace nada. Esto puede ser resultado de un fallo del termostato o que un cable de la conexión se haya roto o desconectado.
--   La **caldera detecta el termostato** y arranca, pero no calienta la calefacción o los [radiadores](https://decogas.com/radiadores/). Esto es síntoma de que el problema está en las válvulas de 3 vías, que se habrá quedado atascada en el agua caliente y no va hacia los radiadores.
+-   La **caldera detecta el termostato** y arranca, pero no calienta la calefacción o los [radiadores](/decogas/index.html#contacto). Esto es síntoma de que el problema está en las válvulas de 3 vías, que se habrá quedado atascada en el agua caliente y no va hacia los radiadores.
 -   Otro posible caso es que los radiadores o las l**laves de la calefacción estén cerradas**. Se han de abrir para que el agua circule correctamente por el circuito.
 
 ## **No funciona la calefacción: el origen del problema**

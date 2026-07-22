@@ -44,7 +44,7 @@ La aerotermia ofrece una serie de beneficios significativos en comparación con 
 
 **Un servicio de mantenimiento profesional garantizará el óptimo rendimiento de tu sistema** y evitará posibles averías o problemas.
 
-En Decogas, ofrecemos servicios de mantenimiento de [aerotermia en Madrid](https://decogas.com/aerotermia/), con profesionales altamente capacitados que te brindarán asesoramiento y cuidado especializado para tu sistema.
+En Decogas, ofrecemos servicios de mantenimiento de [aerotermia en Madrid](/decogas/index.html#contacto), con profesionales altamente capacitados que te brindarán asesoramiento y cuidado especializado para tu sistema.
 
 ---
 

@@ -8,7 +8,7 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 7
 ---
-En la búsqueda constante de una vivienda más sostenible y eficiente, **la elección de los sistemas de calefacción** se ha convertido en un punto esencial a considerar. Las [calderas de gas](https://decogas.com/calderas/), debido a su prevalencia y relevancia en muchos hogares, se encuentran en el centro de este debate. ¿Cómo podemos asegurarnos de elegir una que consuma lo mínimo posible?
+En la búsqueda constante de una vivienda más sostenible y eficiente, **la elección de los sistemas de calefacción** se ha convertido en un punto esencial a considerar. Las [calderas de gas](/decogas/calderas.html), debido a su prevalencia y relevancia en muchos hogares, se encuentran en el centro de este debate. ¿Cómo podemos asegurarnos de elegir una que consuma lo mínimo posible?
 
 La respuesta a esta pregunta no solo afecta a nuestro bolsillo, sino también a nuestro impacto medioambiental. A continuación, te ofreceremos **una guía detallada sobre las calderas de gas más eficientes del mercado**, factores que determinan su consumo y cómo puedes reducirlo. Prepárate para hacer una elección informada y eco-amigable.
 

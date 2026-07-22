@@ -14,7 +14,7 @@ Es decir, debes conocer **la normativa de salida de humos para calderas de conde
 
 Lee este artículo para descubrir cuáles son los requisitos del **Reglamento de las Instalaciones Térmicas en los Edificios** ([Certificado RITE](/decogas/blog/caldera/certificado-rite/)) al respecto.
 
-**Asegúrate de que cumples con la ley** antes de instalar tus [calderas en Madrid](https://decogas.com/calderas/) o en cualquier lugar ¡y déjate de sustos!
+**Asegúrate de que cumples con la ley** antes de instalar tus [calderas en Madrid](/decogas/calderas.html) o en cualquier lugar ¡y déjate de sustos!
 
 ## **¿Qué es la salida de humos de la caldera de condensación?**
 
@@ -98,4 +98,4 @@ Los objetivos que persigue, a grandes rasgos, son:
 -   Asegurar **medidas de seguridad**.
 -   Garantizar un **control de la higiene y el bienestar** cuando se utilizan estos sistemas.
 
-Ahora que conoces la normativa sobre salida de humos para calderas de condensación, ya puedes hacerte con una [en nuestra tienda](https://decogas.com/).
+Ahora que conoces la normativa sobre salida de humos para calderas de condensación, ya puedes hacerte con una [en nuestra tienda](/decogas/index.html).

@@ -10,7 +10,7 @@ readingTime: 5
 ---
 ![Mujer junto a caldera de gas](/decogas/blog-img/tipos-de-caldera-gas-1.webp)
 
-¿Te has preguntado qué **tipo de [caldera de gas](https://decogas.com/calderas/)** es la más adecuada para tu hogar? Elegir el sistema correcto puede marcar la diferencia en **ahorro energético**, **confort y sostenibilidad**. Existen diferentes opciones según tus necesidades, desde las más eficientes hasta las que cumplen normativas estrictas.
+¿Te has preguntado qué **tipo de [caldera de gas](/decogas/calderas.html)** es la más adecuada para tu hogar? Elegir el sistema correcto puede marcar la diferencia en **ahorro energético**, **confort y sostenibilidad**. Existen diferentes opciones según tus necesidades, desde las más eficientes hasta las que cumplen normativas estrictas.
 
 En este artículo, te explicaremos de manera sencilla y práctica **los principales tipos de calderas de gas** para que tomes una decisión informada. ¿Quieres descubrir cuál es la ideal para ti? ¡Sigue leyendo!
 
@@ -80,7 +80,7 @@ La correcta instalación y un mantenimiento adecuado aseguran que la caldera fun
 
 ### Requisitos de instalación según la normativa europea
 
-La [instalación de calderas de gas](https://decogas.com/instalacion-calefaccion/) debe cumplir con las **normativas europeas** que garantizan seguridad y eficiencia energética. Esto incluye una **ventilación adecuada, el uso de materiales certificados y la conexión a sistemas de evacuación de gases**.
+La [instalación de calderas de gas](/decogas/index.html) debe cumplir con las **normativas europeas** que garantizan seguridad y eficiencia energética. Esto incluye una **ventilación adecuada, el uso de materiales certificados y la conexión a sistemas de evacuación de gases**.
 
 Además, es imprescindible contar con un **instalador autorizado**, quien verificará que todos los elementos cumplan con los estándares exigidos.
 

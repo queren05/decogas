@@ -10,7 +10,7 @@ readingTime: 4
 ---
 ![cuánto tiempo debe estar encendida una estufa de pellets](/decogas/blog-img/estufa-grande-de-pellets.webp)
 
-Las chimeneas o [estufas de pellets](https://decogas.com/estufas-pellets/) son aparatos generadores de calor que emplean el **pellet o madera prensada** para conseguir la combustión dentro de un habitáculo cerrado y proporcionar calor a una estancia. El pellet es una fuente de energía renovable, pero también hay que tener cuidado con el **tiempo que puede estar encendida una estufa de pellets**.
+Las chimeneas o [estufas de pellets](/decogas/index.html#contacto) son aparatos generadores de calor que emplean el **pellet o madera prensada** para conseguir la combustión dentro de un habitáculo cerrado y proporcionar calor a una estancia. El pellet es una fuente de energía renovable, pero también hay que tener cuidado con el **tiempo que puede estar encendida una estufa de pellets**.
 
 En este artículo te contamos el tiempo recomendado para mantenerla encendida.
 

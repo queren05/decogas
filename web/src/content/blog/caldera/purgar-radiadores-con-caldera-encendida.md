@@ -10,7 +10,7 @@ readingTime: 5
 ---
 Purgar un radiador es un proceso esencial para mantener la eficiencia de tu sistema de calefacción. **Consiste en eliminar el aire atrapado dentro de los radiadores, lo cual puede causar problemas como ruidos y una distribución desigual del calor**. Este procedimiento simple pero vital asegura que tu sistema de calefacción funcione de manera óptima, distribuyendo el calor de manera uniforme por toda la casa.
 
-En este post, encontrarás los aspectos más destacados sobre esta práctica para que decidas si es la acción más conveniente para tus equipos, sean [radiadores Ferroli](https://decogas.com/radiadores/ferroli/), [Fondital](https://decogas.com/radiadores/fondital/), [Rayco](https://decogas.com/radiadores/rayco/) u otros. ¡Acompáñanos!
+En este post, encontrarás los aspectos más destacados sobre esta práctica para que decidas si es la acción más conveniente para tus equipos, sean [radiadores Ferroli](/decogas/index.html#contactoferroli/), [Fondital](/decogas/index.html#contactofondital/), [Rayco](/decogas/index.html#contactorayco/) u otros. ¡Acompáñanos!
 
 ![persona purgando radiador con caldera encendida](/decogas/blog-img/purgar-radiador-caldera-encendida.webp)
 
@@ -20,7 +20,7 @@ La eficiencia en la calefacción **no solo mejora el confort en tu hogar, sino q
 
 ## Preparativos para purgar radiadores
 
-Previo a iniciar el proceso de purgar los [radiadores](https://decogas.com/radiadores/) es importante que consideres los siguientes puntos:
+Previo a iniciar el proceso de purgar los [radiadores](/decogas/index.html#contacto) es importante que consideres los siguientes puntos:
 
 ### Revisión de la caldera: primer paso esencial
 

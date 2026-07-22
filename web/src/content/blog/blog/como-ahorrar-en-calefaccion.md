@@ -22,7 +22,7 @@ La **calefacción de gas** es una de las más populares, conocida por su eficien
 
 Por otro lado, la **calefacción eléctrica** es una alternativa común en áreas donde el acceso al gas natural es limitado. Aunque puede ser más costosa en términos de consumo energético, la calefacción eléctrica ofrece ventajas como una instalación más sencilla y un mantenimiento reducido.
 
-Además de estas dos opciones principales, existen otras alternativas de calefacción, como las [**estufas de pellets**](https://decogas.com/estufas-pellets/), **sistemas de calefacción por biomasa** y **bombas de calor geotérmicas**. Estas opciones suelen ser más sostenibles y ecológicas, aprovechando fuentes de energía renovables.
+Además de estas dos opciones principales, existen otras alternativas de calefacción, como las [**estufas de pellets**](/decogas/index.html#contacto), **sistemas de calefacción por biomasa** y **bombas de calor geotérmicas**. Estas opciones suelen ser más sostenibles y ecológicas, aprovechando fuentes de energía renovables.
 
 Sin embargo, su instalación y coste inicial pueden ser más elevados, aunque a menudo se compensan con un menor gasto energético a largo plazo y beneficios medioambientales.
 
@@ -46,7 +46,7 @@ Es recomendable realizar una **inspección anual** por parte de un profesional. 
 
 ### **Elección de calderas de bajo consumo**
 
-Optar por [calderas de bajo consumo](https://decogas.com/calderas/) puede representar una inversión inicial más alta, pero el **ahorro a largo plazo** en la factura de gas es considerable. Estas calderas utilizan menos gas para generar la misma cantidad de calor, siendo más respetuosas con el medio ambiente.
+Optar por [calderas de bajo consumo](/decogas/calderas.html) puede representar una inversión inicial más alta, pero el **ahorro a largo plazo** en la factura de gas es considerable. Estas calderas utilizan menos gas para generar la misma cantidad de calor, siendo más respetuosas con el medio ambiente.
 
 Al elegir una caldera, es importante considerar su **etiqueta de eficiencia energética** y buscar modelos que se adapten a las necesidades específicas de la vivienda y el patrón de uso de la calefacción.
 

@@ -79,4 +79,4 @@ Seleccionar un buen equipo inverter no depende solo de la marca. Hay que valorar
 
 También conviene tener en cuenta la calidad del **servicio postventa** y la **facilidad de instalación**. Un sistema eficiente pierde valor si no se instala correctamente o si no hay soporte técnico fiable. Una buena elección se basa tanto en el equipo como en el profesional que lo pone en marcha.
 
-En resumen, la tecnología inverter mejora la eficiencia, el confort y el ahorro energético en tu hogar. Si estás pensando en instalar una caldera o actualizar tu sistema, **podemos ayudarte a elegir la mejor opción**. [Contacta con nosotros](https://decogas.com/contacto/) y solicita tu presupuesto sin compromiso. Te asesoramos de forma personalizada.
+En resumen, la tecnología inverter mejora la eficiencia, el confort y el ahorro energético en tu hogar. Si estás pensando en instalar una caldera o actualizar tu sistema, **podemos ayudarte a elegir la mejor opción**. [Contacta con nosotros](/decogas/index.html#contacto) y solicita tu presupuesto sin compromiso. Te asesoramos de forma personalizada.

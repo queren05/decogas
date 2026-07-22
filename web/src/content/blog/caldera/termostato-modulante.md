@@ -10,7 +10,7 @@ readingTime: 4
 ---
 En la búsqueda constante de optimizar el consumo energético y mejorar la eficiencia en nuestros hogares, la tecnología ha dado grandes pasos. Dentro de esta evolución, los **termostatos modulantes** han emergido como una de las soluciones más prometedoras para gestionar sistemas de calefacción de manera inteligente.
 
-Estos dispositivos, más allá de ser un simple interruptor de encendido y apagado, tienen la capacidad de **adaptar el funcionamiento de la caldera a las necesidades específicas de calor del ambiente.** Así, no sólo garantizan un mayor confort, sino que también se convierten en aliados clave para el ahorro energético. Como [expertos en la instalación de calderas en Madrid](https://decogas.com/calderas/), nos sumergiremos en su funcionamiento, ventajas y aspectos a considerar para su instalación.
+Estos dispositivos, más allá de ser un simple interruptor de encendido y apagado, tienen la capacidad de **adaptar el funcionamiento de la caldera a las necesidades específicas de calor del ambiente.** Así, no sólo garantizan un mayor confort, sino que también se convierten en aliados clave para el ahorro energético. Como [expertos en la instalación de calderas en Madrid](/decogas/calderas.html), nos sumergiremos en su funcionamiento, ventajas y aspectos a considerar para su instalación.
 
 ![termostasto modulante](/decogas/blog-img/prevision-meteorologica-monitor-domotico.webp)
 

@@ -8,13 +8,13 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 7
 ---
-La [caldera](https://decogas.com/calderas/) es de los típicos electrodomésticos que nos acordamos que tenemos hasta que se [avería](/decogas/blog/caldera/principales-averias-calderas/). Algo que puede darse lugar si no le damos el adecuado mantenimiento. Si no sabes **por qué la caldera no arranca**, es mejor conocer las causas del por qué de este problema y cómo resolverlo.
+La [caldera](/decogas/calderas.html) es de los típicos electrodomésticos que nos acordamos que tenemos hasta que se [avería](/decogas/blog/caldera/principales-averias-calderas/). Algo que puede darse lugar si no le damos el adecuado mantenimiento. Si no sabes **por qué la caldera no arranca**, es mejor conocer las causas del por qué de este problema y cómo resolverlo.
 
 ![chico bajo ducha agua fría](/decogas/blog-img/istockphoto-187248862-612x612-1.webp)
 
 ## Causas porque la caldera de gasoil se detiene
 
-Que una [caldera de gasoil](https://decogas.com/calderas-de-gasoil/) se apague sola antes de generar una temperatura ideal no es algo tan extraño, aunque puede ser un problema. Y, en caso de que ocurra, puede deberse a múltiples causas.
+Que una [caldera de gasoil](/decogas/calderas.html) se apague sola antes de generar una temperatura ideal no es algo tan extraño, aunque puede ser un problema. Y, en caso de que ocurra, puede deberse a múltiples causas.
 
 ### La caldera tiene falta de mantenimiento general
 

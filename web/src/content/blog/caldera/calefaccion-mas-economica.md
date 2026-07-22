@@ -34,13 +34,13 @@ Explorando distintas tecnologías, aquí comparamos eficiencia, costos y sosteni
 
 El gas natural es una de las opciones más populares para la calefacción doméstica. Ofrece una buena relación entre el coste de instalación y el de operación, siendo una **opción eficiente** para la mayoría de los hogares.
 
-Las [calderas de gas natural](https://decogas.com/calderas/) son conocidas por su fiabilidad y **capacidad para calentar grandes espacios** de manera eficiente. Además, el gas natural es una de las opciones más limpias en términos de emisiones contaminantes.
+Las [calderas de gas natural](/decogas/calderas.html) son conocidas por su fiabilidad y **capacidad para calentar grandes espacios** de manera eficiente. Además, el gas natural es una de las opciones más limpias en términos de emisiones contaminantes.
 
 ### Electricidad como fuente de calefacción: Pros y contras
 
 La calefacción eléctrica es **ideal para espacios pequeños** o como complemento a otros sistemas. Su instalación es sencilla y no requiere de una infraestructura compleja, pero su coste operativo puede ser elevado debido al precio de la electricidad.
 
-Los [radiadores eléctricos](https://decogas.com/radiadores/) y los **sistemas de calefacción por infrarrojos** son opciones populares en áreas donde el acceso al gas natural es limitado. Ofrecen una calefacción rápida y focalizada, ideal para espacios específicos.
+Los [radiadores eléctricos](/decogas/index.html#contacto) y los **sistemas de calefacción por infrarrojos** son opciones populares en áreas donde el acceso al gas natural es limitado. Ofrecen una calefacción rápida y focalizada, ideal para espacios específicos.
 
 ### Propano y butano: ¿Son realmente económicos?
 
@@ -50,19 +50,19 @@ Estos sistemas son adecuados para viviendas con uso esporádico de calefacción,
 
 ### Calefacción con gasoil: Eficiencia y precio
 
-La [calefacción con gasoil](https://decogas.com/calderas-de-gasoil/) es una opción tradicional en **zonas rurales**. Aunque su eficiencia ha mejorado con las tecnologías modernas, sigue siendo menos eficiente que el gas natural o la electricidad.
+La [calefacción con gasoil](/decogas/calderas.html) es una opción tradicional en **zonas rurales**. Aunque su eficiencia ha mejorado con las tecnologías modernas, sigue siendo menos eficiente que el gas natural o la electricidad.
 
 Los **costes de instalación y mantenimiento** del sistema de calefacción con gasoil pueden ser elevados, y el precio del combustible está sujeto a fluctuaciones del mercado, lo que puede afectar el coste operativo.
 
 ### Pellets y biomasa: Sostenibilidad y ahorro
 
-Los sistemas de [calefacción con pellets](https://decogas.com/estufas-pellets/) y biomasa son opciones **sostenibles y respetuosas** **con el medioambiente**. Utilizan materiales renovables y suelen tener un bajo impacto en términos de emisiones de carbono.
+Los sistemas de [calefacción con pellets](/decogas/index.html#contacto) y biomasa son opciones **sostenibles y respetuosas** **con el medioambiente**. Utilizan materiales renovables y suelen tener un bajo impacto en términos de emisiones de carbono.
 
 A pesar de su eficiencia ecológica, la inversión inicial en estos sistemas puede ser alta. Sin embargo, los costes operativos son generalmente bajos, lo que los convierte en una opción atractiva a largo plazo.
 
 ### Aerotermia y geotermia: Tecnologías renovables
 
-La [aerotermia](https://decogas.com/aerotermia/) y la geotermia representan la vanguardia en **tecnología de calefacción**. Utilizan energía renovable para proporcionar calefacción y refrigeración eficientes.
+La [aerotermia](/decogas/index.html#contacto) y la geotermia representan la vanguardia en **tecnología de calefacción**. Utilizan energía renovable para proporcionar calefacción y refrigeración eficientes.
 
 Aunque la inversión inicial es significativa, estos sistemas ofrecen ahorros considerables en el consumo de energía y son ideales para hogares comprometidos con la sostenibilidad y la eficiencia energética a largo plazo.
 

@@ -8,11 +8,11 @@ tagClass: "aire"
 breadcrumb: "Aire acondicionado"
 readingTime: 3
 ---
-¿Buscas el mejor sistema de climatización para tu vivienda? ¿Quieres **olvidarte del calor sofocante** del metro de Madrid? ¿En verano tienes que cerrar la ventana, por el ruido, y el calor no te deja dormir? En nuestra [tienda online](https://decogas.com/) te traemos las mejores ofertas de aires acondicionados en Madrid.
+¿Buscas el mejor sistema de climatización para tu vivienda? ¿Quieres **olvidarte del calor sofocante** del metro de Madrid? ¿En verano tienes que cerrar la ventana, por el ruido, y el calor no te deja dormir? En nuestra [tienda online](/decogas/index.html) te traemos las mejores ofertas de aires acondicionados en Madrid.
 
 ## Mejores ofertas de aires acondicionados en Madrid
 
-A la hora de adquirir un [aire acondicionado](https://decogas.com/aire-acondicionado/), el precio y la calidad son dos factores fundamentales que debes analizar. Una de las ventajas de nuestra tienda online es que solo **trabajamos con las mejores marcas**, de forma que todos nuestros sistemas de climatización han sido fabricados con los materiales de mayor calidad e incorporan las últimas innovaciones tecnológicas.
+A la hora de adquirir un [aire acondicionado](/decogas/aires.html), el precio y la calidad son dos factores fundamentales que debes analizar. Una de las ventajas de nuestra tienda online es que solo **trabajamos con las mejores marcas**, de forma que todos nuestros sistemas de climatización han sido fabricados con los materiales de mayor calidad e incorporan las últimas innovaciones tecnológicas.
 
 Del mismo modo, para que no tengas que realizar una gran inversión, nuestros **precios son los más bajos del mercado**; además, contamos con las mejores ofertas de aire acondicionado en Madrid, para que todo el mundo pueda disfrutar de estos sistemas de climatización.
 

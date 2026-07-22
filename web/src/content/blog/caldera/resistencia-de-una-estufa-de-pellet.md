@@ -10,9 +10,9 @@ readingTime: 5
 ---
 Comprobar la **resistencia de una estufa de pellet** es una tarea sencilla que cualquier usuario puede realizar. Esta tarea es importante para garantizar el buen funcionamiento y la seguridad de la estufa, así como para asegurar que los parámetros de rendimiento sean los adecuados.
 
-La resistencia de una [estufa de pellet](https://decogas.com/estufas-pellets/) es uno de los elementos clave para su buen funcionamiento. Está presente en todas las estufas pellet y es la responsable de convertir la energía eléctrica en calor para calentar el ambiente. Por lo tanto, es importante comprobar su estado para asegurar que la estufa funcione correctamente. Y debe realizarse de acuerdo con las **instrucciones del fabricante** y las **normas de seguridad establecidas por la Comisión Europea**.
+La resistencia de una [estufa de pellet](/decogas/index.html#contacto) es uno de los elementos clave para su buen funcionamiento. Está presente en todas las estufas pellet y es la responsable de convertir la energía eléctrica en calor para calentar el ambiente. Por lo tanto, es importante comprobar su estado para asegurar que la estufa funcione correctamente. Y debe realizarse de acuerdo con las **instrucciones del fabricante** y las **normas de seguridad establecidas por la Comisión Europea**.
 
-![llenando estufa con pellets](/decogas/blog-img/echando-pellets-en-estufa-negra-tuvo9.webp)En este artículo, en [Decogas](https://decogas.com/contacto/) te explicaremos cómo comprobar la resistencia de una estufa [pellet](https://es.wikipedia.org/wiki/Pellet_de_madera). Además, cómo detectar posibles problemas en la resistencia y qué hacer si se detectan.
+![llenando estufa con pellets](/decogas/blog-img/echando-pellets-en-estufa-negra-tuvo9.webp)En este artículo, en [Decogas](/decogas/index.html#contacto) te explicaremos cómo comprobar la resistencia de una estufa [pellet](https://es.wikipedia.org/wiki/Pellet_de_madera). Además, cómo detectar posibles problemas en la resistencia y qué hacer si se detectan.
 
 ## ¿Cómo solucionar el problema cuando la estufa a pellet no enciende?
 

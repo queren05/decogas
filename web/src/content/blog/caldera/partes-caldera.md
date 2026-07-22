@@ -8,7 +8,7 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 4
 ---
-Si alguna vez has abierto el panel frontal de tu equipo o has escuchado un ruido extraño proveniente de él, es probable que te hayas preguntado qué hay dentro. Entender las **partes de una [caldera](https://decogas.com/calderas/)** no solo es útil para los técnicos; para ti, como usuario, es la mejor forma de saber por qué sube la presión, por qué no sale agua caliente o cómo optimizar el consumo de gas.
+Si alguna vez has abierto el panel frontal de tu equipo o has escuchado un ruido extraño proveniente de él, es probable que te hayas preguntado qué hay dentro. Entender las **partes de una [caldera](/decogas/calderas.html)** no solo es útil para los técnicos; para ti, como usuario, es la mejor forma de saber por qué sube la presión, por qué no sale agua caliente o cómo optimizar el consumo de gas.
 
 En este artículo, desglosamos la anatomía de estos equipos, desde el corazón donde se genera la llama hasta los sistemas electrónicos que garantizan tu seguridad.
 
@@ -88,4 +88,4 @@ _Nuestra experiencia de más de una década en mantenimiento preventivo indica q
 
 Entender las **partes de una caldera** te permite comunicarte mejor con tu técnico y realizar un mantenimiento básico preventivo. Recuerda que, por normativa y seguridad, cualquier manipulación interna debe ser realizada por un profesional autorizado.
 
-Esperamos que este artículo te haya sido útil para conocer las **partes de una caldera**. No te olvides de [contactar con nosotros](https://decogas.com/contacto/) si necesitaras saber algo más sobre la estructura de la caldera que desees comprar.
+Esperamos que este artículo te haya sido útil para conocer las **partes de una caldera**. No te olvides de [contactar con nosotros](/decogas/index.html#contacto) si necesitaras saber algo más sobre la estructura de la caldera que desees comprar.

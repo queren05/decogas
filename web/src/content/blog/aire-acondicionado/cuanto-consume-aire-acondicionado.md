@@ -26,7 +26,7 @@ Además, si el aparato cuenta con [**tecnología inverter**](/decogas/blog/aire-
 
 ## ¿Qué determina el bajo consumo de un aire acondicionado?
 
-A continuación, vamos a nombrar variables o factores que determinan el bajo consumo de un [aire acondicionado](https://decogas.com/aire-acondicionado/).
+A continuación, vamos a nombrar variables o factores que determinan el bajo consumo de un [aire acondicionado](/decogas/aires.html).
 
 ### Variables del consumo y el gasto
 

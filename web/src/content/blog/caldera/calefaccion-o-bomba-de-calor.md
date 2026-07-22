@@ -30,7 +30,7 @@ Por otro lado, **no consume combustible fósil** o materia prima, por lo que no 
 
 ### Caldera de gas
 
-La [caldera de gas](https://decogas.com/calderas/) es un sistema conocido por usar el **calor generado por la combustión**. Gracias a las canalizaciones, se introduce el gas que, tras combustionar, libera calor y que se transmite mediante un **intercambiador de calor** por el que circula el agua. Esto lo convierte en óptimo para calentar el agua sanitaria (aparte del ambiente del hogar).
+La [caldera de gas](/decogas/calderas.html) es un sistema conocido por usar el **calor generado por la combustión**. Gracias a las canalizaciones, se introduce el gas que, tras combustionar, libera calor y que se transmite mediante un **intercambiador de calor** por el que circula el agua. Esto lo convierte en óptimo para calentar el agua sanitaria (aparte del ambiente del hogar).
 
 En cuanto a su funcionamiento, algunos modelos permiten utilizar un **[acumulador en la caldera](/decogas/blog/caldera/instalar-acumulador-a-caldera/)** que mantiene el agua caliente que supone un ahorro considerable.
 

@@ -10,7 +10,7 @@ readingTime: 4
 ---
 ![chica usando el termostato del aire acondicionado](/decogas/blog-img/chica-controlando-el-termostato.webp)
 
-Mantener la temperatura del [aire acondicionado](https://decogas.com/aire-acondicionado/) en el hogar o la oficina es algo esencial para asegurar un óptimo confort y conseguir, además, una mayor eficiencia energética. Y todo se consigue gracias a un [termostato](https://decogas.com/termostatos-de-ambiente/) que nos ayuda a escoger la temperatura deseada, regular y controlar el aparato cuando alcanza la temperatura deseada. Pero para ahondar más en el aparato, vamos a contaros cómo funciona el **termostato en el aire acondicionado**.
+Mantener la temperatura del [aire acondicionado](/decogas/aires.html) en el hogar o la oficina es algo esencial para asegurar un óptimo confort y conseguir, además, una mayor eficiencia energética. Y todo se consigue gracias a un [termostato](/decogas/index.html) que nos ayuda a escoger la temperatura deseada, regular y controlar el aparato cuando alcanza la temperatura deseada. Pero para ahondar más en el aparato, vamos a contaros cómo funciona el **termostato en el aire acondicionado**.
 
 ## **¿Qué es y cómo funciona un termostato en el aire acondicionado?**
 

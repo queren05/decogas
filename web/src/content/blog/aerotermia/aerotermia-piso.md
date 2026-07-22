@@ -10,7 +10,7 @@ readingTime: 6
 ---
 ![Sistema de climatización en un piso](/decogas/blog-img/aerotermia-en-un-piso-1.webp)
 
-¿Te has preguntado alguna vez si realmente merece la pena **instalar [aerotermia](https://decogas.com/aerotermia/) en un piso**? Descubrir cómo funciona este sistema puede cambiar por completo tu forma de entender la climatización en casa. Si buscas **ahorro energético y mayor confort**, sigue leyendo. Aquí encontrarás información clara y directa sobre eficiencia, instalación y mantenimiento de la aerotermia en viviendas.
+¿Te has preguntado alguna vez si realmente merece la pena **instalar [aerotermia](/decogas/index.html#contacto) en un piso**? Descubrir cómo funciona este sistema puede cambiar por completo tu forma de entender la climatización en casa. Si buscas **ahorro energético y mayor confort**, sigue leyendo. Aquí encontrarás información clara y directa sobre eficiencia, instalación y mantenimiento de la aerotermia en viviendas.
 
 ¿Quieres saber si tu piso es adecuado? ¿Tienes dudas sobre el espacio o la inversión? Este artículo te lo cuenta todo, desde la experiencia y el uso real.
 
@@ -106,4 +106,4 @@ El mantenimiento de la aerotermia **es sencillo y poco costoso**. Basta con real
 
 En el uso diario, el sistema puede gestionarse fácilmente desde un **panel de control digital** o una **aplicación móvil**. Un buen mantenimiento asegura que la aerotermia mantenga su alta eficiencia y prolonga la vida útil de los equipos.
 
-La **aerotermia en un piso** ofrece eficiencia, confort y sostenibilidad. Si buscas reducir tus facturas y mejorar tu hogar, este sistema puede ser la solución ideal. ¿Te gustaría saber cuánto podrías ahorrar? [Ponte en contacto con nosotros](https://decogas.com/contacto/) y solicita un presupuesto personalizado sin compromiso.
+La **aerotermia en un piso** ofrece eficiencia, confort y sostenibilidad. Si buscas reducir tus facturas y mejorar tu hogar, este sistema puede ser la solución ideal. ¿Te gustaría saber cuánto podrías ahorrar? [Ponte en contacto con nosotros](/decogas/index.html#contacto) y solicita un presupuesto personalizado sin compromiso.

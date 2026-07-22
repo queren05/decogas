@@ -8,7 +8,7 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 5
 ---
-¿[Calderas de gas](https://decogas.com/calderas/) o [calentadores](https://decogas.com/calentadores/)? Son dos [tipos de sistemas de calefacción para casas: ¿cómo elegir el mejor?](/decogas/blog/caldera/tipos-sistemas-calefaccion/) Lee este artículo para conocer qué puede aportarte uno u otro. Conoce la **diferencia entre caldera y calentador** para descubrir qué aparato generador de agua caliente es más adecuado para ti.
+¿[Calderas de gas](/decogas/calderas.html) o [calentadores](/decogas/termos.html)? Son dos [tipos de sistemas de calefacción para casas: ¿cómo elegir el mejor?](/decogas/blog/caldera/tipos-sistemas-calefaccion/) Lee este artículo para conocer qué puede aportarte uno u otro. Conoce la **diferencia entre caldera y calentador** para descubrir qué aparato generador de agua caliente es más adecuado para ti.
 
 ## **Distinciones entre caldera y calentador**
 
@@ -30,7 +30,7 @@ También debes conocer **la potencia de la caldera**. No es lo mismo un piso dim
 
 Las potencias más habituales son entre 23 y 25 kW, ya bastan para una vivienda estándar. No obstante, si tu casa es más amplia de normal o vives en un lugar frío, puedes escoger calderas con una potencia entre 30 y 35 kW.
 
-No te olvides de echarle un vistazo a nuestras [calderas de gas](https://decogas.com/calderas/).
+No te olvides de echarle un vistazo a nuestras [calderas de gas](/decogas/calderas.html).
 
 ### **¿Qué es un calentador?**
 
@@ -46,7 +46,7 @@ Este tope cambiará dependiendo del modelo, por lo que, antes de comprarlo, debe
 
 Si quieres conocer cuántos te hacen falta en tu vivienda, debes tener en mente el número de personas que vivís juntos y el número de lugares y aparatos de consumo de agua (es decir, contar baños, cocinas, fregaderos y electrodomésticos).
 
-Con Decogas puedes hacerte con los [calentadores](https://decogas.com/calentadores/) que desees.
+Con Decogas puedes hacerte con los [calentadores](/decogas/termos.html) que desees.
 
 Por cierto, vas a tener que **darte de alta con un distribuidor de gas natural** o tener **continuamente a mano una bombona de gas butano**.
 
@@ -65,7 +65,7 @@ Ya has visto que la diferencia entre caldera y calentador es clara, por lo que e
 No obstante, no se puede decir de manera absoluta que un sistema sea mejor que el otro. Pues debes **valorar la situación y las necesidades energéticas de tu casa** para ver qué opción te conviene más:
 
 -   **Para ambientes fríos en los que hace falta calefacción de manera constante en invierno**, lo más normal es optar por una caldera de gas (concretamente, de gas natural). El motivo es que resulta notablemente más rentable, ya que puede ocuparse tanto de la calefacción como del agua caliente sanitaria.
--   **Para sitios fríos en los que no se puede acceder a gas natural**, es habitual elegir calentadores de gas para conseguir agua caliente, mientras que la calefacción se produce con [estufas de pellets](https://decogas.com/estufas-pellets/) o de butano o chimeneas de leña.
+-   **Para sitios fríos en los que no se puede acceder a gas natural**, es habitual elegir calentadores de gas para conseguir agua caliente, mientras que la calefacción se produce con [estufas de pellets](/decogas/index.html#contacto) o de butano o chimeneas de leña.
 -   **Si ya cuentas con una toma de gas**, el calentador es una buena alternativa, ya que su instalación es muy simple y su combustible es menos caro que la electricidad.
 
 ## Tipos de calderas y calentadores
@@ -82,4 +82,4 @@ Por otro lado, éstas son las **principales clases de calentadores**:
 -   **Calentadores estancos:** son más seguros y más eficientes. La combustión se hace en una cámara cerrada herméticamente y los gases se expulsan con ayuda de un ventilador.
 -   **Calentadores de condensación:** son aún más eficientes gracias a su tecnología de reaprovechamiento del calor.
 
-Esperamos haberte ayudado a saber la diferencia entre caldera y calentador. Si ya tienes claro qué aparato quieres, no te olvides de echarle un ojo a [nuestra tienda online](https://decogas.com/).
+Esperamos haberte ayudado a saber la diferencia entre caldera y calentador. Si ya tienes claro qué aparato quieres, no te olvides de echarle un ojo a [nuestra tienda online](/decogas/index.html).

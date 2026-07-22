@@ -10,7 +10,7 @@ readingTime: 5
 ---
 ![](/decogas/blog-img/geotermia-o-aerotermia-1.webp)
 
-¿Te has preguntado alguna vez qué sistema de climatización es mejor para tu casa? Tal vez buscas ahorrar energía o apostar por una opción más ecológica. **Geotermia y [aerotermia](https://decogas.com/aerotermia/)** parecen soluciones muy avanzadas, pero ¿sabes en qué se diferencian?
+¿Te has preguntado alguna vez qué sistema de climatización es mejor para tu casa? Tal vez buscas ahorrar energía o apostar por una opción más ecológica. **Geotermia y [aerotermia](/decogas/index.html#contacto)** parecen soluciones muy avanzadas, pero ¿sabes en qué se diferencian?
 
 Elegir bien puede marcar la diferencia en tu factura y en el confort de tu familia. Aquí te explicaremos de forma clara sus ventajas, diferencias y cómo decidir. ¿Quieres descubrir cuál se adapta mejor a tu hogar? Sigue leyendo.
 
@@ -18,7 +18,7 @@ Elegir bien puede marcar la diferencia en tu factura y en el confort de tu famil
 
 La aerotermia es una **tecnología que aprovecha la energía contenida en el aire exterior para climatizar tu hogar**. Utiliza una bomba de calor que extrae el calor del aire, incluso en invierno, y lo transfiere al interior. Esto permite calentar la vivienda de manera eficiente, y en verano el proceso se puede invertir para refrescarla.
 
-Uno de los puntos fuertes de la aerotermia es que **necesita poca energía eléctrica para funcionar**. El aire es una fuente renovable y disponible en cualquier lugar, por lo que su uso resulta muy atractivo para quienes buscan reducir el consumo energético. A menudo, la aerotermia se combina con sistemas de suelo radiante o [radiadores](https://decogas.com/radiadores/) de baja temperatura para ofrecer un mayor confort.
+Uno de los puntos fuertes de la aerotermia es que **necesita poca energía eléctrica para funcionar**. El aire es una fuente renovable y disponible en cualquier lugar, por lo que su uso resulta muy atractivo para quienes buscan reducir el consumo energético. A menudo, la aerotermia se combina con sistemas de suelo radiante o [radiadores](/decogas/index.html#contacto) de baja temperatura para ofrecer un mayor confort.
 
 ## ¿Qué es la geotermia?
 
@@ -66,7 +66,7 @@ La instalación de aerotermia es muy rápida y **no requiere grandes intervencio
 
 ### Versatilidad y compatibilidad
 
-La aerotermia se adapta fácilmente a diferentes tipos de viviendas y sistemas de calefacción. Es **compatible con radiadores de baja temperatura, suelo radiante y hasta [aire acondicionado](https://decogas.com/aire-acondicionado/)**, lo que permite aprovechar infraestructuras existentes y personalizar el sistema según las necesidades de cada familia. Además, puedes informarte sobre la [aerotermia con radiadores de aluminio](/decogas/blog/aerotermia/aerotermia-con-radiadores-de-aluminio/), una opción muy eficiente si mantienes tus emisores actuales.
+La aerotermia se adapta fácilmente a diferentes tipos de viviendas y sistemas de calefacción. Es **compatible con radiadores de baja temperatura, suelo radiante y hasta [aire acondicionado](/decogas/aires.html)**, lo que permite aprovechar infraestructuras existentes y personalizar el sistema según las necesidades de cada familia. Además, puedes informarte sobre la [aerotermia con radiadores de aluminio](/decogas/blog/aerotermia/aerotermia-con-radiadores-de-aluminio/), una opción muy eficiente si mantienes tus emisores actuales.
 
 ## Ventajas de la geotermia
 
@@ -88,4 +88,4 @@ Con geotermia, el consumo de energía se reduce de forma significativa, lo que c
 
 Elegir entre **geotermia o aerotermia** depende de factores como el tipo de vivienda, el presupuesto disponible y tus objetivos a medio y largo plazo. Si buscas una instalación rápida, menor inversión y tienes poco espacio exterior, la aerotermia puede ser la opción perfecta.
 
-Si cuentas con terreno, buscas el máximo ahorro y sostenibilidad, la geotermia ofrece resultados espectaculares. **¿Ya sabes cuál te encaja mejor? ¿Tienes dudas sobre la instalación en tu caso concreto?** Ponte en [contacto](https://decogas.com/contacto/) y te ayudaremos a tomar la mejor decisión.
+Si cuentas con terreno, buscas el máximo ahorro y sostenibilidad, la geotermia ofrece resultados espectaculares. **¿Ya sabes cuál te encaja mejor? ¿Tienes dudas sobre la instalación en tu caso concreto?** Ponte en [contacto](/decogas/index.html#contacto) y te ayudaremos a tomar la mejor decisión.

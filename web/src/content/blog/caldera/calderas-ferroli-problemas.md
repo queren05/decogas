@@ -10,7 +10,7 @@ readingTime: 9
 ---
 ![técnico reparando problemas en calderas ferroli](/decogas/blog-img/plumber-looking-book-while-inspecting-heating-system-1048944-18467089.webp)
 
-Las [calderas Ferroli](https://decogas.com/calderas/ferroli/) son conocidas por su eficiencia y fiabilidad, pero como cualquier equipo, pueden presentar problemas con el tiempo. En este artículo hablaremos sobre los **problemas más comunes de las calderas Ferroli** y te brindaremos soluciones prácticas. Desde problemas de encendido hasta fallos en la presión, humos y quemadores, aquí encontrarás guías detalladas y consejos útiles para mantener tu caldera en perfecto funcionamiento. Descubre cómo identificar y resolver estos problemas para asegurar el confort en tu hogar.
+Las [calderas Ferroli](/decogas/calderas.html) son conocidas por su eficiencia y fiabilidad, pero como cualquier equipo, pueden presentar problemas con el tiempo. En este artículo hablaremos sobre los **problemas más comunes de las calderas Ferroli** y te brindaremos soluciones prácticas. Desde problemas de encendido hasta fallos en la presión, humos y quemadores, aquí encontrarás guías detalladas y consejos útiles para mantener tu caldera en perfecto funcionamiento. Descubre cómo identificar y resolver estos problemas para asegurar el confort en tu hogar.
 
 ## Importancia de las calderas Ferroli en el hogar
 
@@ -194,4 +194,4 @@ Una llave de entrada averiada puede impedir que el agua entre correctamente en e
 -   **Verificar la correcta instalación de la llave**: Asegúrate de que la nueva llave esté instalada correctamente y sin fugas.
 -   **Realizar pruebas de funcionamiento**: Después de la sustitución, prueba el sistema para asegurar que el agua fluya correctamente.
 
-En **Decogas**, sabemos que mantener tu caldera Ferroli en óptimas condiciones es fundamental para el confort y seguridad de tu hogar. Identificar y solucionar problemas comunes garantiza un funcionamiento eficiente y prolonga la vida útil del equipo. Confía en nuestros expertos para el mantenimiento y [reparación de tu caldera](https://decogas.com/reparacion-calderas/), asegurando un servicio de calidad y confianza.
+En **Decogas**, sabemos que mantener tu caldera Ferroli en óptimas condiciones es fundamental para el confort y seguridad de tu hogar. Identificar y solucionar problemas comunes garantiza un funcionamiento eficiente y prolonga la vida útil del equipo. Confía en nuestros expertos para el mantenimiento y [reparación de tu caldera](/decogas/calderas.html), asegurando un servicio de calidad y confianza.

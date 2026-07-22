@@ -8,7 +8,7 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 5
 ---
-La [instalación correcta de una caldera](https://decogas.com/calderas/) de condensación es esencial para la seguridad y bienestar de cualquier hogar, ya que permite satisfacer muchas necesidades en el día a día en casa, ya sea para usarlo de forma sanitaria o como calefacción. Y que elementos como la **inclinación del tubo de caldera de condensación** estén bien instalados.
+La [instalación correcta de una caldera](/decogas/calderas.html) de condensación es esencial para la seguridad y bienestar de cualquier hogar, ya que permite satisfacer muchas necesidades en el día a día en casa, ya sea para usarlo de forma sanitaria o como calefacción. Y que elementos como la **inclinación del tubo de caldera de condensación** estén bien instalados.
 
 Es conveniente que sepamos todo lo necesario sobre las [**salidas de humos**](/decogas/blog/caldera/normativa-salida-humos-caldera-condensacion/) que tienen las calderas de condensación para quedarnos tranquilos o tomar medidas para cambiar la instalación si comprobamos que no está realizada de forma correcta.
 

@@ -8,7 +8,7 @@ tagClass: "aire"
 breadcrumb: "Aire acondicionado"
 readingTime: 6
 ---
-Si estás buscando información sobre cómo optimizar el uso de tu **sistema de aire acondicionado** para reducir el consumo de energía y ahorrar en tus facturas, has llegado al lugar correcto, somos especialistas en [**aires acondicionados.**](https://decogas.com/aire-acondicionado/)
+Si estás buscando información sobre cómo optimizar el uso de tu **sistema de aire acondicionado** para reducir el consumo de energía y ahorrar en tus facturas, has llegado al lugar correcto, somos especialistas en [**aires acondicionados.**](/decogas/aires.html)
 
 **Exploraremos diferentes estrategias y consejos prácticos para lograr un hogar fresco y confortable de manera eficiente.** Acompáñanos y descubre cómo aprovechar al máximo tu sistema de aire acondicionado sin comprometer el confort ni el medio ambiente.
 

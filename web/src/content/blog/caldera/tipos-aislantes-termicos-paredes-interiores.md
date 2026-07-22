@@ -8,7 +8,7 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 4
 ---
-Los cambios meteorológicos hacen que nuestra vivienda pueda sufrir cambios de temperatura en su interior; por ello, es necesario disponer de una [caldera](https://decogas.com/calderas/) que garantice el mantenimiento del calor, o un [aire acondicionado](https://decogas.com/aire-acondicionado/) que lo haga del frío. Además, tienes que contar con un **buen aislante térmico** que garantice su protección ante estas variaciones atmosféricas. Por ello, en este _post_ te mostramos los **distintos tipos** de aislantes térmicos para paredes interiores y por qué su instalación es tan importante para que tu vivienda no pierda el calor.
+Los cambios meteorológicos hacen que nuestra vivienda pueda sufrir cambios de temperatura en su interior; por ello, es necesario disponer de una [caldera](/decogas/calderas.html) que garantice el mantenimiento del calor, o un [aire acondicionado](/decogas/aires.html) que lo haga del frío. Además, tienes que contar con un **buen aislante térmico** que garantice su protección ante estas variaciones atmosféricas. Por ello, en este _post_ te mostramos los **distintos tipos** de aislantes térmicos para paredes interiores y por qué su instalación es tan importante para que tu vivienda no pierda el calor.
 
 ## ¿Por qué es tan importante el aislamiento térmico en paredes interiores?
 

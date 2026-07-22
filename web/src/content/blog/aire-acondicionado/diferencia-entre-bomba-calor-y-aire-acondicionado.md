@@ -8,7 +8,7 @@ tagClass: "aire"
 breadcrumb: "Aire acondicionado"
 readingTime: 5
 ---
-Aunque comúnmente se crea, una [bomba de calor](/decogas/blog/aire-acondicionado/aire-acondicionado-con-bomba-de-calor/) es diferente a un [aire acondicionado](https://decogas.com/aire-acondicionado/). Y es que se suelen confundir porque su funcionamiento es similar, ya que emplean la energía del aire. Sin embargo, son distintos y en [Decogas](https://decogas.com/) te vamos a señalar cuál es la **diferencia entre bomba de calor y aire acondicionado**.
+Aunque comúnmente se crea, una [bomba de calor](/decogas/blog/aire-acondicionado/aire-acondicionado-con-bomba-de-calor/) es diferente a un [aire acondicionado](/decogas/aires.html). Y es que se suelen confundir porque su funcionamiento es similar, ya que emplean la energía del aire. Sin embargo, son distintos y en [Decogas](/decogas/index.html) te vamos a señalar cuál es la **diferencia entre bomba de calor y aire acondicionado**.
 
 ![diferencia entre bomba de calor y aire acondicionado](/decogas/blog-img/equipo-interior-aire-acondicionado.webp)
 
@@ -47,7 +47,7 @@ Como sucede con las bombas de calor, podemos encontrar distintos [tipos de aires
 
 -   **De ventana**. También se conocen como unitarios, ya que los componentes están en un mismo espacio.
 -   **Portátil**. Se ubica en el suelo y dispone de una manguera de expulsión del aire caliente hacia el exterior. Se puede transportar.
--   **[Split](https://decogas.com/aire-acondicionado/split-1x1/) o [multisplit](https://decogas.com/aire-acondicionado/split-4x1/)**. Tiene dos partes, una externa (incluye válvula de compresor y condensador) y una interna (contiene bobina de enfriamiento y ventilador).
+-   **[Split](/decogas/aires.html) o [multisplit](/decogas/aires.htmlsplit-4x1/)**. Tiene dos partes, una externa (incluye válvula de compresor y condensador) y una interna (contiene bobina de enfriamiento y ventilador).
 -   **Central**. Es un sistema que tiene un compresor centralizado y cuya instalación es ideal en salas que requieren climatización.
 
 ## Ventajas de la bomba de calor y del aire acondicionado
@@ -100,4 +100,4 @@ Si no sabemos qué sistema nos conviene más, vamos a señalar para qué son id�
 -   Cuando no se necesita climatización de frío en épocas estivales.
 -   Cuando no hay acceso fácil o distribución de un combustible para el sistema de climatización.
 
-Como has visto, existen **diferencias entre bomba de calor y aire acondicionado**, aunque ambos sistemas funcionen de manera muy parecida. Optar por uno u otro equipo de climatización dependerá de las necesidades del hogar y sus usuarios. Si deseas saber más, [contacta sin compromiso](https://decogas.com/contacto/).
+Como has visto, existen **diferencias entre bomba de calor y aire acondicionado**, aunque ambos sistemas funcionen de manera muy parecida. Optar por uno u otro equipo de climatización dependerá de las necesidades del hogar y sus usuarios. Si deseas saber más, [contacta sin compromiso](/decogas/index.html#contacto).

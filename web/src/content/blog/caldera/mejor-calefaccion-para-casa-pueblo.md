@@ -32,7 +32,7 @@ Los sistemas más comunes incluyen radiadores eléctricos, suelo radiante, estuf
 
 ### **Calefacción por radiadores eléctricos**
 
-Los [radiadores eléctricos](https://decogas.com/radiadores/) son una opción popular debido a su facilidad de instalación y uso. Son ideales para **calentar espacios específicos** y se pueden ajustar según las necesidades de cada habitación.
+Los [radiadores eléctricos](/decogas/index.html#contacto) son una opción popular debido a su facilidad de instalación y uso. Son ideales para **calentar espacios específicos** y se pueden ajustar según las necesidades de cada habitación.
 
 Sin embargo, su uso continuo puede resultar en facturas de electricidad más altas, especialmente en casas de pueblo más grandes. Es importante equilibrar la comodidad con la eficiencia energética al optar por este tipo de calefacción.
 
@@ -44,13 +44,13 @@ Aunque su instalación puede ser más costosa y compleja, el suelo radiante ofre
 
 ### **Estufas de pellets y leña**
 
-Las [estufas de pellets](https://decogas.com/estufas-pellets/) y de leña son opciones populares en casas de pueblo debido a su eficiencia y al **calor acogedor** que proporcionan. Son especialmente adecuadas para ambientes rurales y pueden complementar otros sistemas de calefacción.
+Las [estufas de pellets](/decogas/index.html#contacto) y de leña son opciones populares en casas de pueblo debido a su eficiencia y al **calor acogedor** que proporcionan. Son especialmente adecuadas para ambientes rurales y pueden complementar otros sistemas de calefacción.
 
 Estas estufas utilizan **combustibles renovables** como la madera o los pellets, lo que las convierte en una opción sostenible. Además, el calor que generan es ideal para crear un ambiente cálido y acogedor en los hogares rurales.
 
 ### **Calderas: gas, gasoil y biomasa**
 
-Las calderas son una solución robusta y eficiente para la calefacción en casas de pueblo. Existen diferentes tipos, incluyendo calderas de gas, [gasoil](https://decogas.com/calderas-de-gasoil/) y biomasa, cada una con sus propias características y ventajas.
+Las calderas son una solución robusta y eficiente para la calefacción en casas de pueblo. Existen diferentes tipos, incluyendo calderas de gas, [gasoil](/decogas/calderas.html) y biomasa, cada una con sus propias características y ventajas.
 
 La elección entre estos tipos de calderas dependerá de factores como la **disponibilidad de combustible**, las necesidades de calefacción de la vivienda y las preferencias personales en cuanto a eficiencia y sostenibilidad.
 

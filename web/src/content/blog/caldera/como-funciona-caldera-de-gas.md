@@ -8,7 +8,7 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 7
 ---
-Las [calderas de gas](https://decogas.com/calderas/) podemos encontrarlas de muchos tipos y, según su funcionamiento, el rendimiento y consumo pueden permitirnos ahorrar, dar un mayor bienestar en casa y pueden ser más o menos contaminantes. Y aquí te vamos a **explicar cómo funciona una caldera de gas**.
+Las [calderas de gas](/decogas/calderas.html) podemos encontrarlas de muchos tipos y, según su funcionamiento, el rendimiento y consumo pueden permitirnos ahorrar, dar un mayor bienestar en casa y pueden ser más o menos contaminantes. Y aquí te vamos a **explicar cómo funciona una caldera de gas**.
 
 Estas instalaciones basadas en circuitos de agua tienen como componente principal la caldera y las de gas usan como combustibles elementos como gas natural o gas ciudad.
 

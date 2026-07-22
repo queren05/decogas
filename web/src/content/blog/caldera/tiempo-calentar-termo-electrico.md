@@ -8,13 +8,13 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 3
 ---
-Un [termo eléctrico](https://decogas.com/termos/) es uno de los sistemas más utilizados en la actualidad para **disponer de agua caliente** en las viviendas. ¿Sabes cuánto tarda en calentar un termo eléctrico el agua de tu casa? En este _post_ te lo mostramos.
+Un [termo eléctrico](/decogas/index.html) es uno de los sistemas más utilizados en la actualidad para **disponer de agua caliente** en las viviendas. ¿Sabes cuánto tarda en calentar un termo eléctrico el agua de tu casa? En este _post_ te lo mostramos.
 
 ## ¿Cuánto tarda en calentar un termo eléctrico el agua?
 
 La velocidad a la que se calienta el agua de un termo eléctrico varía en función de **distintos factores y de cada modelo**; en cualquier caso, el calentamiento no es inmediato y deberás esperar un cierto período de tiempo. ![Grifo con agua caliente](/decogas/blog-img/agua-caliente-termo-electrico.webp) La **capacidad, el tipo de resistencia eléctrica** o la existencia o no de un intercambiador de calor, así como la potencia, son algunos de los factores que pueden determinar cuánto tarda en calentar un termo eléctrico. Del mismo modo, un correcto aislamiento hará que puedas **conservar el agua caliente más tiempo** y garantizar que disponen de agua caliente cuando lo desees; también es importante resaltar que los modelos que cuentan con intercambiador de calor calientan el agua mucho más rápido.
 
-[Te llamamos gratis](https://decogas.com/contacto/)
+[Te llamamos gratis](/decogas/index.html#contacto)
 
 ### Cómo calcular cuánto tiempo tarda en calentar el agua un termo eléctrico
 
@@ -38,8 +38,8 @@ Para que te hagas una idea, te vamos a mostrar cuánto tarda en calentar un term
 -   **Termo eléctrico de 80 litros**: tardará **2 horas y 20 minutos** en calentar el agua de la casa.
 -   **Termo eléctrico de 100 litros**: tardará casi 3 horas, 2 horas y 55 minutos, en calentar el agua de la vivienda.
 
-Ahora que ya sabes cuánto tarda en calentar un termo eléctrico el agua caliente, ¿a qué esperas para hacerte con el tuyo? En [Decogas](https://decogas.com/) encontrarás el catálogo más amplio al mejor precio. No te quedes sin el tuyo.
+Ahora que ya sabes cuánto tarda en calentar un termo eléctrico el agua caliente, ¿a qué esperas para hacerte con el tuyo? En [Decogas](/decogas/index.html) encontrarás el catálogo más amplio al mejor precio. No te quedes sin el tuyo.
 
-[Te llamamos gratis](https://decogas.com/contacto/)
+[Te llamamos gratis](/decogas/index.html#contacto)
 
 Desde Decogas tratamos de ayudar en la instalación de calderas, termos y aires acondicionados. Tenemos un equipo propio de instaladores especializados, para que no tengas ningún problema. Además, puedes venir a visitarnos a nuestra tienda física cuando quieras.

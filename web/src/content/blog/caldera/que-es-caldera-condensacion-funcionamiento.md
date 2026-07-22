@@ -36,7 +36,7 @@ Estas son **otras ventajas** que podrás disfrutar si instalas una caldera de co
 -   **Compatibles:** no tienes que preocuparte, la instalación de una caldera de condensación es totalmente compatible con los sistemas que tengas en tu vivienda.
 -   **Personalizada:** lo mejor de las calderas de condensación es que pueden ajustarse a tus necesidades.
 
-[Te llamamos gratis](https://decogas.com/contacto/)
+[Te llamamos gratis](/decogas/index.html#contacto)
 
 ## ¿Cómo funciona una caldera de condensación?
 
@@ -46,7 +46,7 @@ A continuación te explicamos detalladamente **cómo funciona una caldera de con
 
 La instalación de las calderas de condensación tiene unas características específicas que la distingue de las convencionales; por eso, es necesario que este trabajo sea realizado por profesionales especializados, como los de Decogas, que garanticen el **acabado perfecto y la mayor seguridad**.
 
-Es **fundamental** que, cuando vayas a instalar una caldera de condensación, compruebes aspectos como la [potencia calorífica de la habitación](/decogas/blog/caldera/calcular-potencia-calorifica-habitacion/). Lo más recomendable es que dejes este trabajo en manos de profesionales; por eso, si quieres instalar una caldera de condensación, [pide presupuesto en Decogas.](https://decogas.com/)
+Es **fundamental** que, cuando vayas a instalar una caldera de condensación, compruebes aspectos como la [potencia calorífica de la habitación](/decogas/blog/caldera/calcular-potencia-calorifica-habitacion/). Lo más recomendable es que dejes este trabajo en manos de profesionales; por eso, si quieres instalar una caldera de condensación, [pide presupuesto en Decogas.](/decogas/index.html)
 
 ### Salida de gases
 
@@ -82,6 +82,6 @@ Ya sabes qué es y cómo funciona una caldera de condensación; a continuación 
 
 Ahora que ya sabes todo esto,  ¿sigues pensando que no necesitas una caldera de condensación?
 
-[Te llamamos gratis](https://decogas.com/contacto/)
+[Te llamamos gratis](/decogas/index.html#contacto)
 
 Desde Decogas tratamos de ayudar en la instalación de calderas, termos y aires acondicionados. Tenemos un equipo propio de instaladores especializados, para que no tengas ningún problema. Además, puedes venir a visitarnos a nuestra tienda física cuando quieras.

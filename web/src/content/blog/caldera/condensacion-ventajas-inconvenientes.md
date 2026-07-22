@@ -34,7 +34,7 @@ Las calderas de condensación están pensadas para trabajar a temperaturas muy b
 
 De esta manera, reducirás las emisiones de gases y **ayudas a mejorar el medio ambiente**, porque evitas efectos dañinos para la atmósfera y para la salud de las personas que te rodean.
 
-[Te llamamos gratis](https://decogas.com/contacto/)
+[Te llamamos gratis](/decogas/index.html#contacto)
 
 ### Mejor regulación en función de la demanda
 
@@ -52,10 +52,10 @@ Las calderas de condensación tienen sus ventajas e inconvenientes. Aunque los b
 
 -   **La inversión inicial es mayor**. El desembolso es mayor que en el caso de las calderas tradicionales, aunque su ahorro provoca que su inversión sea amortizada en pocos meses.
 -   **Necesita un desagüe**. Es obligatorio instalar un desagüe pensado para eliminar los residuos condensados, algo que las tradicionales no requieren.
--   **Salida de humos**. Las calderas de condensación expulsan un vapor de agua inicuo que, a algunas personas, puede resultar molesto. Además, es necesario que la instalación sea realizada de forma correcta para evitar goteos. Por eso, si quieres instalar una caldera de condensación en tu hogar, lo mejor es que lo hagas con profesionales como [Decogas](https://decogas.com/contacto/).
+-   **Salida de humos**. Las calderas de condensación expulsan un vapor de agua inicuo que, a algunas personas, puede resultar molesto. Además, es necesario que la instalación sea realizada de forma correcta para evitar goteos. Por eso, si quieres instalar una caldera de condensación en tu hogar, lo mejor es que lo hagas con profesionales como [Decogas](/decogas/index.html#contacto).
 
 Como ves, las ventajas son mucho más amplias que las desventajas, que son mínimas. No lo pienses más y **comienza a ahorrar este invierno** eligiendo tu [caldera de condensación.](/decogas/blog/caldera/caldera-gas-elegir-comprar/)
 
-[Te llamamos gratis](https://decogas.com/contacto/)
+[Te llamamos gratis](/decogas/index.html#contacto)
 
 Desde Decogas tratamos de ayudar en la instalación de calderas, termos y aires acondicionados. Tenemos un equipo propio de instaladores especializados, para que no tengas ningún problema. Además, puedes venir a visitarnos a nuestra tienda física cuando quieras.

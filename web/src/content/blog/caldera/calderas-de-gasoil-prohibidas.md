@@ -8,7 +8,7 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 6
 ---
-La era de las [calderas de gasoil](https://decogas.com/calderas-de-gasoil/) se aproxima a su ocaso. Impulsadas por normativas ambientales más estrictas y la urgente necesidad de **reducir las emisiones de CO2**, las regulaciones de la Unión Europea marcan un punto de inflexión. Este cambio, además de representar un desafío, también es una oportunidad para adoptar alternativas más limpias y eficientes. Descubre cómo este giro afecta a consumidores y qué opciones sostenibles emergen en el horizonte.
+La era de las [calderas de gasoil](/decogas/calderas.html) se aproxima a su ocaso. Impulsadas por normativas ambientales más estrictas y la urgente necesidad de **reducir las emisiones de CO2**, las regulaciones de la Unión Europea marcan un punto de inflexión. Este cambio, además de representar un desafío, también es una oportunidad para adoptar alternativas más limpias y eficientes. Descubre cómo este giro afecta a consumidores y qué opciones sostenibles emergen en el horizonte.
 
 ![pareja escogiendo caldera](/decogas/blog-img/pareja-escogiendo-caldera.webp)
 

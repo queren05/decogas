@@ -10,7 +10,7 @@ readingTime: 6
 ---
 ![técnico solucionando averías comunes en calderas saunier duval](/decogas/blog-img/saunier-duval-averias-frecuentes-1.webp)
 
-Cuando surgen problemas en las **[calderas Saunier Duval](https://decogas.com/calderas/saunier-duval/)**, puede ser frustrante y preocupante. Entender las **averías más comunes y cómo solucionarlas** ayuda a evitar contratiempos y asegura que tu sistema de calefacción funcione correctamente.
+Cuando surgen problemas en las **[calderas Saunier Duval](/decogas/marcas/saunier-duval.html)**, puede ser frustrante y preocupante. Entender las **averías más comunes y cómo solucionarlas** ayuda a evitar contratiempos y asegura que tu sistema de calefacción funcione correctamente.
 
 Para cada tipo de avería, conocerás las causas más frecuentes, las posibles soluciones y cuándo es necesario acudir al **servicio técnico**. Si te preocupa la seguridad, el coste de las reparaciones o el confort de tu hogar, aquí encontrarás toda la información necesaria para mantener tu caldera en óptimas condiciones.
 
@@ -44,7 +44,7 @@ Conoce [cómo subir la presión de la caldera](/decogas/blog/caldera/subir-presi
 
 La centralita actúa como el cerebro de la caldera, coordinando su funcionamiento. Cuando esta pieza presenta fallos, pueden aparecer **bloqueos en el sistema o fallos intermitentes**.
 
-Este tipo de problema suele requerir la intervención de un **técnico especializado en la [reparación de calderas](https://decogas.com/reparacion-calderas/)**, ya que implica una evaluación y, en algunos casos, el reemplazo de componentes electrónicos para restaurar el rendimiento normal.
+Este tipo de problema suele requerir la intervención de un **técnico especializado en la [reparación de calderas](/decogas/calderas.html)**, ya que implica una evaluación y, en algunos casos, el reemplazo de componentes electrónicos para restaurar el rendimiento normal.
 
 ### Falsos contactos en tarjetas electrónicas
 

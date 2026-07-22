@@ -12,7 +12,7 @@ Las averías en las calderas se pueden deber a **muchos motivos**; en este _post
 
 ## Averías en las calderas por presiones de agua
 
-Que tu caldera no funcione puede afectar por completo a tu día a día; en la actualidad, cada vez son más las personas que disponen de una [caldera de gas](https://decogas.com/calderas/) en su vivienda. Su **correcto funcionamiento** depende de diversos factores, entre los que destacan el suministro eléctrico y la presión del agua y del combustible. ![Arreglando la avería de una caldera](/decogas/blog-img/arreglo-averia-caldera.webp) Cuando uno de estos tres factores falla es cuando se suele producir una avería en las calderas. Estos sistemas de calefacción cuentan con un manómetro que permite conocer la presión del agua; esta aparece en bar, una unidad de medida de presión. Lo más recomendable es que la caldera tenga una **carga de presión en frío**, con bomba parada, entorno a 1,2 bar, con un margen de +/- 25%. A continuación te mostramos cuáles son los problemas que suelen originarse cuando tu sistema de calefacción tiene una **presión de agua inadecuada**.
+Que tu caldera no funcione puede afectar por completo a tu día a día; en la actualidad, cada vez son más las personas que disponen de una [caldera de gas](/decogas/calderas.html) en su vivienda. Su **correcto funcionamiento** depende de diversos factores, entre los que destacan el suministro eléctrico y la presión del agua y del combustible. ![Arreglando la avería de una caldera](/decogas/blog-img/arreglo-averia-caldera.webp) Cuando uno de estos tres factores falla es cuando se suele producir una avería en las calderas. Estos sistemas de calefacción cuentan con un manómetro que permite conocer la presión del agua; esta aparece en bar, una unidad de medida de presión. Lo más recomendable es que la caldera tenga una **carga de presión en frío**, con bomba parada, entorno a 1,2 bar, con un margen de +/- 25%. A continuación te mostramos cuáles son los problemas que suelen originarse cuando tu sistema de calefacción tiene una **presión de agua inadecuada**.
 
 ### Baja presión de carga
 
@@ -28,7 +28,7 @@ Una baja presión de carga puede **provocar un sobrecalentamiento**, ya que la f
 
 Esto suele ocurrir cuando la caldera está funcionando, habiendo arrancado con unos 1,8 bar, y de repente se produce un **disparo de la válvula de seguridad**. En estos casos, la válvula de seguridad de la calefacción puede llegar hasta los 3 bar y liberar presión.
 
-[Te llamamos gratis](https://decogas.com/contacto/)
+[Te llamamos gratis](/decogas/index.html#contacto)
 
 El **incremento de presión del agua** durante su funcionamiento está relacionado con la masa de agua total que circula por el interior de los radiadores. El vaso de expansión se encarga de absorber el incremento de presión; si este no lo hace, la válvula de seguridad se abrirá para liberar la presión.
 
@@ -44,7 +44,7 @@ La hidrólisis es una **reacción físico química del agua** que, una vez intro
 
 Uno de los elementos más importantes de las calderas, y que más se utilizan, son las llaves de carga; es **importante que siempre estén cerradas**, para evitar que entre agua en el circuito y en la caldera. Normalmente, suelen encontrarse en una **tubería o en el circuito de calefacción**, aunque hay ocasiones en las que están duplicadas y puedes localizarlas en ambos espacios. Si una llave de llenado no cierra correctamente puede provocar que aumente la presión del agua sanitaria hasta los 4 bar, haciendo que se dispare la válvula de seguridad.
 
-[Te llamamos gratis](https://decogas.com/contacto/)
+[Te llamamos gratis](/decogas/index.html#contacto)
 
 ## Otros fallos habituales
 
@@ -72,6 +72,6 @@ Además de estos fallos, es muy frecuente que una caldera sufra pérdidas de agu
 
 Para garantizar un correcto funcionamiento de tu caldera es importante realizar un **buen mantenimiento**; para ello, tienes que [revisar la caldera](/decogas/blog/caldera/que-pasa-si-no-hago-revision-caldera/) y el circuito de calefacción, al menos, una vez al año. De esta forma, garantizas la **eficiencia energética de tu caldera** y evitas las emisiones de gases contaminantes a la atmósfera; además, aseguras la seguridad de los miembros de tu familia. Una caldera averiada o que funciona de forma incorrecta puede aumentar su consumo y, además, no ofrece el mismo calor ni confort. Ahora que ya conoces las **principales averías de las calderas de gas**, no dudes en comprobar qué ocurre en tu sistema de calefacción, para solucionarlo cuanto antes y continuar disfrutando de la mejor temperatura en tu vivienda, con la máxima seguridad.
 
-[Te llamamos gratis](https://decogas.com/contacto/)
+[Te llamamos gratis](/decogas/index.html#contacto)
 
 Desde Decogas tratamos de ayudar en la instalación de calderas, termos y aires acondicionados. Tenemos un equipo propio de instaladores especializados, para que no tengas ningún problema. Además, puedes venir a visitarnos a nuestra tienda física cuando quieras.

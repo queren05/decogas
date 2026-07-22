@@ -62,7 +62,7 @@ Un termostato que no detecta bien la temperatura puede acabar generando gastos i
 
 Un termostato defectuoso que no apaga la calefacción a tiempo puede generar un [sobrecalentamiento en la caldera](/decogas/blog/caldera/sobrecalentamiento-caldera/). Esto no solo pone en riesgo la vida útil de los componentes, como la caldera o las tuberías, sino que también **representa un peligro para la seguridad del hogar**.
 
-Un sistema de calefacción que trabaja continuamente sin pausa está más expuesto a sufrir daños graves, lo que puede derivar en reparaciones bastante caras o incluso en la [sustitución de la caldera](https://decogas.com/calderas/).
+Un sistema de calefacción que trabaja continuamente sin pausa está más expuesto a sufrir daños graves, lo que puede derivar en reparaciones bastante caras o incluso en la [sustitución de la caldera](/decogas/calderas.html).
 
 ## Soluciones y acciones para reparar un termostato de calefacción averiado
 
@@ -90,7 +90,7 @@ Los **termostatos inteligentes** son una excelente opción para mejorar la efici
 
 ### Contacta a un técnico profesional para la reparación
 
-En caso de que no puedas solucionar los problemas por ti mismo, lo mejor es **contactar a un técnico especializado en [reparación de calderas](https://decogas.com/reparacion-calderas/)**. Un profesional podrá revisar tanto el termostato como también otros componentes del sistema de calefacción, asegurándose de que todo funcione de manera óptima.
+En caso de que no puedas solucionar los problemas por ti mismo, lo mejor es **contactar a un técnico especializado en [reparación de calderas](/decogas/calderas.html)**. Un profesional podrá revisar tanto el termostato como también otros componentes del sistema de calefacción, asegurándose de que todo funcione de manera óptima.
 
 Recurrir a un técnico especializado te garantiza una **reparación segura y duradera**, evitando que el problema vuelva a surgir en poco tiempo.
 

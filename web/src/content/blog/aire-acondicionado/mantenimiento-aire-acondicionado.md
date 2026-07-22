@@ -8,11 +8,11 @@ tagClass: "aire"
 breadcrumb: "Aire acondicionado"
 readingTime: 6
 ---
-El aire acondicionado es uno de los electrodomésticos **imprescindibles en una vivienda**; este equipo te permite mantener tu hogar fresco durante los meses de verano, lo que hace que el ambiente sea mucho más agradable. Por ello, si estás pensando en [comprar un equipo de refrigeración](https://decogas.com/aire-acondicionado/) debes saber cómo realizar el mantenimiento de tu aire acondicionado.
+El aire acondicionado es uno de los electrodomésticos **imprescindibles en una vivienda**; este equipo te permite mantener tu hogar fresco durante los meses de verano, lo que hace que el ambiente sea mucho más agradable. Por ello, si estás pensando en [comprar un equipo de refrigeración](/decogas/aires.html) debes saber cómo realizar el mantenimiento de tu aire acondicionado.
 
 ## ¿Qué tipos de mantenimiento podemos realizar en el aire acondicionado?
 
-En nuestro [aire acondicionado](https://decogas.com/aire-acondicionado/) podemos realizar diferentes tipos de mantenimientos como son el preventivo o el correctivo, cada uno de ellos con sus ventajas pertinentes.
+En nuestro [aire acondicionado](/decogas/aires.html) podemos realizar diferentes tipos de mantenimientos como son el preventivo o el correctivo, cada uno de ellos con sus ventajas pertinentes.
 
 ### Ventajas del mantenimiento preventivo del aire acondicionado
 
@@ -86,4 +86,4 @@ A continuación, te mostramos los **problemas** que te pueden aparecer si no rea
 
 > Por cierto, ya que estamos hablando del mantenimiento, seguro que te interesa saber [a qué temperatura debes poner el aire acondicionado](/decogas/blog/aire-acondicionado/temperatura-aire-acondicionado/). Si lo optimizas, además de ahorrar en la factura de la luz podrás alargar la vida de tu aparato
 
-De este modo, ya sabes cómo realizar el mantenimiento del aire acondicionado. Además, si tienes **cualquier duda** cuando vayas a adquirir tu equipo en Decogas, ya sea de la instalación, la correcta elección de tu aparato o su mantenimiento, nuestros profesionales están encantados de ayudarte. Por eso, no dudes en ponerte en [contacto con nosotros](https://decogas.com/contacto/) para realizar tu compra.
+De este modo, ya sabes cómo realizar el mantenimiento del aire acondicionado. Además, si tienes **cualquier duda** cuando vayas a adquirir tu equipo en Decogas, ya sea de la instalación, la correcta elección de tu aparato o su mantenimiento, nuestros profesionales están encantados de ayudarte. Por eso, no dudes en ponerte en [contacto con nosotros](/decogas/index.html#contacto) para realizar tu compra.

@@ -8,7 +8,7 @@ tagClass: "aire"
 breadcrumb: "Aire acondicionado"
 readingTime: 4
 ---
-¿Has oído hablar de la tecnología Inverter? En este _post_ te mostramos **todas las** **ventajas** de disponer de un [aire acondicionado Inverter](https://decogas.com/aire-acondicionado/inverter/) en Madrid.
+¿Has oído hablar de la tecnología Inverter? En este _post_ te mostramos **todas las** **ventajas** de disponer de un [aire acondicionado Inverter](/decogas/aires.html) en Madrid.
 
 ## ¿En qué consiste la tecnología Inverter?
 
@@ -32,7 +32,7 @@ Cómo has podido comprobar, disponer de un aire acondicionado Inverter en Madrid
 
 Otro de los motivos por los que estos electrodomésticos son muy recomendables es que te permiten un **importante ahorro energético**; es cierto que la inversión inicial será mayor que si adquieres un aire acondicionado tradicional, pero rápidamente habrás amortizado este dinero.
 
-Además, en nuestra [tienda online](https://decogas.com/) ponemos a tu disposición un **amplio catálogo de aires acondicionados Inverter**, elaborados con las mejores marcas, al precio más bajo; de esta forma, podemos garantizar la mejor relación calidad precio y podrás disfrutar del máximo confort a un precio realmente asequible.
+Además, en nuestra [tienda online](/decogas/index.html) ponemos a tu disposición un **amplio catálogo de aires acondicionados Inverter**, elaborados con las mejores marcas, al precio más bajo; de esta forma, podemos garantizar la mejor relación calidad precio y podrás disfrutar del máximo confort a un precio realmente asequible.
 
 ## Consejos para el mantenimiento de un aire acondicionado Inverter
 
@@ -49,6 +49,6 @@ Los **precios** de este tipo de aire acondicionado van desde unos **300 €**
 
 A esos precios hay que sumarle además los de instalación, que **varían según el tipo de instalación y dificultad de la instalación** ya que necesitarás de un **técnico**. El precio de la instalación depende del instalador y sus tarifas y de las características del aire acondicionado elegido, donde se vaya a instalar, la dificultad, etc. No obstante, para que te hagas una idea te podemos decir que el **precio de la instalación varía entre 250-950 €.** 
 
-Si quieres saber más acerca de cuánto te puede costar un aire acondicionado Inverter así como más ventajas de este tipo de aires acondicionados, no dudes en ponerte en [contacto con nosotros](https://decogas.com/contacto/) y te ayudaremos en lo que necesites.
+Si quieres saber más acerca de cuánto te puede costar un aire acondicionado Inverter así como más ventajas de este tipo de aires acondicionados, no dudes en ponerte en [contacto con nosotros](/decogas/index.html#contacto) y te ayudaremos en lo que necesites.
 
 ¿Quieres adquirir un aire acondicionado Inverter en Madrid? No lo dudes más y hazte, en nuestra tienda online, con la **alternativa que deseas** con la mejor relación calidad/precio: en Decogas encontrarás el equipo perfecto para mantener tu vivienda a la temperatura ideal todo el año. ¡No te arrepentirás!

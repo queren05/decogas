@@ -126,7 +126,7 @@ En resumen, **el mantenimiento adecuado de la aerotermia es esencial para garant
 
 Asimismo, es importante comprender la [diferencia entre una bomba de calor y un aire acondicionado](/decogas/blog/aire-acondicionado/diferencia-entre-bomba-calor-y-aire-acondicionado/), ya que cada uno tiene características y usos distintos. Además, si experimentas [problemas con la calefacción de tu hogar](/decogas/blog/caldera/no-calienta-la-calefaccion/), es crucial identificar las posibles razones por las cuales la caldera no calienta.
 
-En este sentido, en Decogas **ofrecemos servicios de mantenimiento de** [aerotermia en Madrid](https://decogas.com/aerotermia/), brindando la experiencia y conocimientos necesarios para asegurar el correcto funcionamiento de tu sistema.
+En este sentido, en Decogas **ofrecemos servicios de mantenimiento de** [aerotermia en Madrid](/decogas/index.html#contacto), brindando la experiencia y conocimientos necesarios para asegurar el correcto funcionamiento de tu sistema.
 
 **Podemos ayudarte a resolver cualquier problema relacionado con la aerotermia** y ofrecerte asesoramiento personalizado.
 

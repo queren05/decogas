@@ -35,4 +35,4 @@ A continuación te mostramos los **pasos que debes seguir** la instalación de l
 3.  **Coloca el manguito de goma con tornillos de anclaje**: de esta forma, evitarás posibles vibraciones y podrás terminar la instalación correctamente.
 4.  **Si la instalación se hará en pared**, la unidad se puede montar de forma directa sobre los ángulos de tuercas y tornillos.
 
-Cómo ves, la instalación es muy fácil; ahora **solo tienes que elegir** dónde colocar la unidad exterior del aire acondicionado. Además, si aún no dispones de él, en Decogas tenemos la mayor variedad de [aires acondicionados](https://decogas.com/aire-acondicionado/) para ti.
+Cómo ves, la instalación es muy fácil; ahora **solo tienes que elegir** dónde colocar la unidad exterior del aire acondicionado. Además, si aún no dispones de él, en Decogas tenemos la mayor variedad de [aires acondicionados](/decogas/aires.html) para ti.

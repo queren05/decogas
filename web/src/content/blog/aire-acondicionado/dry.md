@@ -8,7 +8,7 @@ tagClass: "aire"
 breadcrumb: "Aire acondicionado"
 readingTime: 4
 ---
-Con el verano, el calor hace acto de presencia y, en muchos hogares, es necesario utilizar el [aire acondicionado](https://decogas.com/aire-acondicionado/). Aunque existe una proporción considerable de usuarios que desconocen por completo todas las ventajas que nos pueden ofrecer estos aparatos. Y una de ellas es el **modo Dry**.
+Con el verano, el calor hace acto de presencia y, en muchos hogares, es necesario utilizar el [aire acondicionado](/decogas/aires.html). Aunque existe una proporción considerable de usuarios que desconocen por completo todas las ventajas que nos pueden ofrecer estos aparatos. Y una de ellas es el **modo Dry**.
 
 Es obvio que cada negocio, hogar u estancia dispone de un ambiente diferente en función de su localización, distribución, orientación o amplitud. Y estas variables hay que tenerlas en cuenta a la hora de poner a funcionar nuestro equipo y, en este caso, también valorar la humedad presente en el ambiente.
 

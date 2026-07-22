@@ -10,7 +10,7 @@ readingTime: 4
 ---
 ![técnico reparando error 108 caldera ariston](/decogas/blog-img/error-108-caldera-ariston.webp)
 
-¿Te has encontrado con el **error 108** en tu **[caldera Ariston](https://decogas.com/calderas/ariston/)** y no sabes qué hacer? No te preocupes, este problema de presión baja es común y tiene soluciones simples. Aquí te explicamos paso a paso cómo identificar las causas y arreglarlo de manera eficiente. Asegúrate de seguir nuestras indicaciones para que tu caldera vuelva a funcionar correctamente y sin complicaciones.
+¿Te has encontrado con el **error 108** en tu **[caldera Ariston](/decogas/calderas.html)** y no sabes qué hacer? No te preocupes, este problema de presión baja es común y tiene soluciones simples. Aquí te explicamos paso a paso cómo identificar las causas y arreglarlo de manera eficiente. Asegúrate de seguir nuestras indicaciones para que tu caldera vuelva a funcionar correctamente y sin complicaciones.
 
 ## ¿Qué es el error 108 en las calderas Ariston?
 
@@ -75,4 +75,4 @@ No es recomendable usar la caldera con el error 108, ya que la baja presión pue
 
 El **error 108 en las calderas Ariston** es un problema común pero manejable. Identificar las causas y seguir las soluciones adecuadas puede resolverlo eficazmente.
 
-Mantener un control regular de la presión y realizar un mantenimiento preventivo son claves para evitar futuros problemas. Si necesitas ayuda, no dudes en contactar nuestros profesionales en [reparación de calderas](https://decogas.com/reparacion-calderas/) para garantizar el buen funcionamiento de tu caldera.
+Mantener un control regular de la presión y realizar un mantenimiento preventivo son claves para evitar futuros problemas. Si necesitas ayuda, no dudes en contactar nuestros profesionales en [reparación de calderas](/decogas/calderas.html) para garantizar el buen funcionamiento de tu caldera.

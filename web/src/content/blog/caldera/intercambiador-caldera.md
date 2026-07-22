@@ -26,7 +26,7 @@ Cada fabricante lo puede **ubicar en una parte distinta de la caldera** pero, no
 
 Una vez que ya sabemos que es el intercambiador de una caldera, ahora vamos a conocer los **distintos tipos que podemos encontrar**. Podemos encontrar tres clases: intercambiador de condensación, intercambiador primario e intercambiador de placas. Dentro de este último, observamos que existe un modelo soldado y un modelo atornillado.
 
-[Te llamamos gratis](https://decogas.com/contacto/)
+[Te llamamos gratis](/decogas/index.html#contacto)
 
 ### Soldado
 
@@ -53,8 +53,8 @@ A continuación te damos **algunos consejos** que pueden ayudarte a prevenir est
 -   Enciende las bombas con las válvulas cerradas, nunca al revés.
 -   Si crees que ha habido algún golpe, ponte en contacto con técnicos que puedan analizar tu caldera para evitar daños mayores.
 
-Si a pesar de todo ello crees que tu caldera **ha perdido eficacia y ya no funciona como antes**, lo mejor es que optes por [pedir presupuesto](https://decogas.com/contacto/) para cambiarla por una nueva.
+Si a pesar de todo ello crees que tu caldera **ha perdido eficacia y ya no funciona como antes**, lo mejor es que optes por [pedir presupuesto](/decogas/index.html#contacto) para cambiarla por una nueva.
 
-[Te llamamos gratis](https://decogas.com/contacto/)
+[Te llamamos gratis](/decogas/index.html#contacto)
 
 Desde Decogas tratamos de ayudar en la instalación de calderas, termos y aires acondicionados. Tenemos un equipo propio de instaladores especializados, para que no tengas ningún problema. Además, puedes venir a visitarnos a nuestra tienda física cuando quieras.

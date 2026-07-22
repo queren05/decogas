@@ -12,7 +12,7 @@ readingTime: 5
 
 La caldera es el corazón del sistema de calefacción de muchas viviendas y edificios, y, al igual que cualquier otro equipo complejo, **necesita ser operada en ciertas condiciones óptimas** para garantizar su correcto funcionamiento y durabilidad. Uno de los aspectos cruciales que a menudo se pasa por alto es la presión a la que debe trabajar, un factor que puede influir significativamente en la eficiencia y seguridad del equipo.
 
-Establecer y mantener la presión correcta no es solo una recomendación técnica, sino **una necesidad para quienes desean un rendimiento óptimo y evitar problemas a largo plazo**. En este artículo, como [especialistas en instalación y reparación de calderas en Madrid](https://decogas.com/calderas/), profundizaremos en la importancia de la presión, las consecuencias de no mantenerla adecuadamente y, lo más crucial, a cuántos bares debe estar nuestra caldera.
+Establecer y mantener la presión correcta no es solo una recomendación técnica, sino **una necesidad para quienes desean un rendimiento óptimo y evitar problemas a largo plazo**. En este artículo, como [especialistas en instalación y reparación de calderas en Madrid](/decogas/calderas.html), profundizaremos en la importancia de la presión, las consecuencias de no mantenerla adecuadamente y, lo más crucial, a cuántos bares debe estar nuestra caldera.
 
 ## Entendiendo la presión en una caldera
 

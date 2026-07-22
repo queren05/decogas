@@ -24,7 +24,7 @@ Por la noche, sí que hay que tener un poco más de cuidado, puesto que no podre
 
 La **utilización durante largas horas del aire acondicionado** no quiere decir que se pueda estropear. Estos aparatos están fabricados para **funcionar de forma correcta** durante 24 horas sin que sufra daños. Aunque es verdad que tenerlo encendido durante varios días sin descanso sí puede crear un problema.
 
-Los **modelos convencionales** se apagan y encienden cuando es necesario, por lo que el uso continuado no quiere decir que el compresor funcione de forma constante. Los [**modelos de aire acondicionado inverter**](https://decogas.com/aire-acondicionado/inverter/), por su parte, se pueden usar durante mucho tiempo, puesto que el motor trabaja de forma continuada sin sufrir paradas y marchas sucesivas.
+Los **modelos convencionales** se apagan y encienden cuando es necesario, por lo que el uso continuado no quiere decir que el compresor funcione de forma constante. Los [**modelos de aire acondicionado inverter**](/decogas/aires.html), por su parte, se pueden usar durante mucho tiempo, puesto que el motor trabaja de forma continuada sin sufrir paradas y marchas sucesivas.
 
 ![mando a distancia aire acondicionado](/decogas/blog-img/mando-a-distancia-aire-acondicionado.webp)
 
@@ -37,7 +37,7 @@ Cuantas más horas usemos el aire acondicionado, mayor será el [consumo del air
 -   Es mejor emplear el aire acondicionado con una **temperatura media** y que la sensación térmica se reduzca gradualmente.
 -   Instalar **toldos y cortinas** en ventanas para evitar que la luz del sol acceda al interior de la estancia.
 -   Aprovechar la **programación del dispositivo** para que se encienda y apague en función de las necesidades del ambiente o momento del día.
--   Es mejor escoger un modelo que cuenta con [**eficiencia energética A+++**](https://decogas.com/aire-acondicionado/).
+-   Es mejor escoger un modelo que cuenta con [**eficiencia energética A+++**](/decogas/aires.html).
 
 ## Factores que determinan el uso del aire acondicionado
 
@@ -63,7 +63,7 @@ Ya se encienda el aparato durante todo el día o solo durante unas horas, [el ai
 
 Además, tendrá que tener una **potencia frigorífica de acuerdo al tamaño**, número de personas y otras variantes que un profesional técnico podrá señalarnos para un mejor funcionamiento.
 
-Otro factor que influye en su uso y la vida útil es la [instalación de aire acondicionado](https://decogas.com/aire-acondicionado/). Esta se ha de realizar por un profesional cualificado para seguir todas las especificaciones del fabricante y no lamentar luego averías.
+Otro factor que influye en su uso y la vida útil es la [instalación de aire acondicionado](/decogas/aires.html). Esta se ha de realizar por un profesional cualificado para seguir todas las especificaciones del fabricante y no lamentar luego averías.
 
 De igual modo, el **mantenimiento preventivo** también ayuda a prolongar el funcionamiento del aparato en el tiempo, mediante la limpieza de los filtros y del aparato en general cuando sea necesario o recomiende el fabricante.
 

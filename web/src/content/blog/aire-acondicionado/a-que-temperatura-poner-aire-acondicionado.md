@@ -16,7 +16,7 @@ Si quieres saber **a qué temperatura poner el aire acondicionado**, aquí te va
 
 ## ¿Por qué es importante la temperatura adecuada?
 
-La elección de una temperatura adecuada para el [aire acondicionado](https://decogas.com/aire-acondicionado/) es importante por varias razones. Primero, **influye directamente en nuestro confort térmico**, esa sensación de bienestar que sentimos cuando el ambiente en el que estamos se siente ni demasiado caliente ni demasiado frío. Una temperatura bien ajustada nos permite realizar nuestras actividades diarias, ya sean laborales o de ocio, sin distracciones ni molestias causadas por el calor o el frío excesivos.
+La elección de una temperatura adecuada para el [aire acondicionado](/decogas/aires.html) es importante por varias razones. Primero, **influye directamente en nuestro confort térmico**, esa sensación de bienestar que sentimos cuando el ambiente en el que estamos se siente ni demasiado caliente ni demasiado frío. Una temperatura bien ajustada nos permite realizar nuestras actividades diarias, ya sean laborales o de ocio, sin distracciones ni molestias causadas por el calor o el frío excesivos.
 
 Además, establecer la temperatura correcta tiene un **impacto significativo en la salud**. Temperaturas demasiado bajas o cambios bruscos de temperatura pueden contribuir a problemas respiratorios, resfriados, y otras afecciones. Por otro lado, una temperatura demasiado alta, además de ser incómoda, también puede provocar deshidratación y estrés térmico, especialmente en niños y personas mayores.
 
@@ -66,4 +66,4 @@ Si tu objetivo es reducir en consumo eléctrico de tu aire acondicionado, estos 
 
 ## Conclusión
 
-En Decogas, entendemos la importancia de equilibrar confort, salud y eficiencia energética en el uso del aire acondicionado. Siguiendo nuestros consejos prácticos, no solo garantizarás un ambiente agradable en tu hogar o lugar de trabajo, sino que también contribuirás a la sostenibilidad ambiental y al ahorro en tu factura de electricidad. Recuerda, una [correcta instalación](https://decogas.com/aire-acondicionado/) y mantenimiento son clave para maximizar estos beneficios. Confía en Decogas para disfrutar de la mejor experiencia en climatización.
+En Decogas, entendemos la importancia de equilibrar confort, salud y eficiencia energética en el uso del aire acondicionado. Siguiendo nuestros consejos prácticos, no solo garantizarás un ambiente agradable en tu hogar o lugar de trabajo, sino que también contribuirás a la sostenibilidad ambiental y al ahorro en tu factura de electricidad. Recuerda, una [correcta instalación](/decogas/aires.html) y mantenimiento son clave para maximizar estos beneficios. Confía en Decogas para disfrutar de la mejor experiencia en climatización.

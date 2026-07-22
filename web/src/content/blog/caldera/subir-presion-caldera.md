@@ -10,7 +10,7 @@ readingTime: 3
 ---
 Cuando llega el invierno, es importante tener preparada la calefacción, por lo que hay que realizar las revisiones necesarias para que la caldera funcione en óptimas condiciones.
 
-Pero puede ocurrir que, de pronto, la presión de la [caldera](https://decogas.com/calderas/) esté baja y sea necesario subirla. Por esta razón, vamos a mostrarte **cómo subir la presión del a caldera**.
+Pero puede ocurrir que, de pronto, la presión de la [caldera](/decogas/calderas.html) esté baja y sea necesario subirla. Por esta razón, vamos a mostrarte **cómo subir la presión del a caldera**.
 
 ## ![mujer mirando presión de caldera](/decogas/blog-img/istockphoto-1276391963-612x612-1.webp)
 

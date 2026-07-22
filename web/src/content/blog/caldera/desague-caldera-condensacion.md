@@ -12,7 +12,7 @@ Disponer en tu vivienda de una [caldera de condensación](/decogas/blog/caldera/
 
 ## ¿Por qué necesitas un desagüe en una caldera de condensación?
 
-Las calderas de condensación, como las que puedes encontrar en nuestra [tienda online](https://decogas.com/), ofrecen una alta eficiencia y ayudan a **mejorar el medio ambiente**, ya que realizan una recirculación de humos en el interior que permite aprovechar su calor. Al aprovechar este calor interior, este se acaba enfriando y condensando, creando **gotas de agua** que se recogen en el interior, en una bandeja que debe vaciarse cada cierto tiempo.
+Las calderas de condensación, como las que puedes encontrar en nuestra [tienda online](/decogas/index.html), ofrecen una alta eficiencia y ayudan a **mejorar el medio ambiente**, ya que realizan una recirculación de humos en el interior que permite aprovechar su calor. Al aprovechar este calor interior, este se acaba enfriando y condensando, creando **gotas de agua** que se recogen en el interior, en una bandeja que debe vaciarse cada cierto tiempo.
 
 ![radiadores en las calderas de condensación](/decogas/blog-img/radiadores-calderas-condensacion.webp)
 
@@ -52,6 +52,6 @@ Si no puedes instalar la caldera en un sitio de estas características, es impor
 
 En definitiva, hacer un desagüe en una caldera de condensación es un **proceso muy sencillo y fundamental** para poder disfrutar de todas las ventajas de este sistema de climatización; en cualquier caso, lo más recomendable es que esta instalación la realicen profesionales, como los que trabajan en Decogas. De esta forma, podrás disfrutar de la mayor **tranquilidad, durabilidad y seguridad** en la instalación de tu caldera de condensación. ¡No esperes más!
 
-[Te llamamos gratis](https://decogas.com/contacto/)
+[Te llamamos gratis](/decogas/index.html#contacto)
 
-Desde Decogas tratamos de ayudar en la [instalación de calderas](https://decogas.com/calderas/), termos y aires acondicionados. Tenemos un equipo propio de instaladores especializados, para que no tengas ningún problema. Además, puedes venir a visitarnos a nuestra tienda física cuando quieras.
+Desde Decogas tratamos de ayudar en la [instalación de calderas](/decogas/calderas.html), termos y aires acondicionados. Tenemos un equipo propio de instaladores especializados, para que no tengas ningún problema. Además, puedes venir a visitarnos a nuestra tienda física cuando quieras.

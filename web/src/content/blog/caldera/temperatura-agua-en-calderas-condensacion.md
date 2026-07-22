@@ -8,9 +8,9 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 5
 ---
-Las [calderas de condensación](https://decogas.com/calderas/) representan una revolución en términos de eficiencia y tecnología de calefacción. Sin embargo, una de las inquietudes más comunes entre los usuarios es **cómo influye la temperatura del agua en su funcionamiento y rendimiento.** Comprender la relación entre la temperatura del agua y la eficiencia de la caldera no solo puede ayudar a maximizar su rendimiento, sino también a generar un ahorro significativo en las facturas energéticas.
+Las [calderas de condensación](/decogas/calderas.html) representan una revolución en términos de eficiencia y tecnología de calefacción. Sin embargo, una de las inquietudes más comunes entre los usuarios es **cómo influye la temperatura del agua en su funcionamiento y rendimiento.** Comprender la relación entre la temperatura del agua y la eficiencia de la caldera no solo puede ayudar a maximizar su rendimiento, sino también a generar un ahorro significativo en las facturas energéticas.
 
-En este artículo, nos sumergiremos profundamente en el mundo de las calderas de condensación, **poniendo un énfasis especial en la temperatura del agua.** Con base en nuestra amplia experiencia y visitas a numerosos hogares para la instalación y [reparación de calderas](https://decogas.com/reparacion-calderas/), te ofreceremos una perspectiva única y práctica sobre cómo gestionar y entender este aspecto crucial de tu sistema de calefacción.
+En este artículo, nos sumergiremos profundamente en el mundo de las calderas de condensación, **poniendo un énfasis especial en la temperatura del agua.** Con base en nuestra amplia experiencia y visitas a numerosos hogares para la instalación y [reparación de calderas](/decogas/calderas.html), te ofreceremos una perspectiva única y práctica sobre cómo gestionar y entender este aspecto crucial de tu sistema de calefacción.
 
 ## La temperatura ideal del agua en calderas de condensación
 

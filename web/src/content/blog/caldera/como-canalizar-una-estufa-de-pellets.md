@@ -10,7 +10,7 @@ readingTime: 5
 ---
 ![pellets y fuego](/decogas/blog-img/pellets-para-estufa.webp)
 
-**Instalar una estufa de pellets canalizable** supone una serie de ventajas en cuanto al medioambiente y el hogar. Las [estufas de pellets](https://decogas.com/estufas-pellets/) se destacan por climatizar los espacios de una forma más ecológica y sostenible. Esto hace que se **mantenga más el calor** en la vivienda y con **menor consumo**.
+**Instalar una estufa de pellets canalizable** supone una serie de ventajas en cuanto al medioambiente y el hogar. Las [estufas de pellets](/decogas/index.html#contacto) se destacan por climatizar los espacios de una forma más ecológica y sostenible. Esto hace que se **mantenga más el calor** en la vivienda y con **menor consumo**.
 
 En este artículo vamos a señalar en qué consiste la canalización de una estufa de pellet y cómo llevar a cabo la instalación de la misma.
 

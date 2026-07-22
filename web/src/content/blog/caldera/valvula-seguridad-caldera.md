@@ -16,7 +16,7 @@ Las instalaciones de calefacción trabajan a presión y con volumen permanente d
 
 ## ¿Qué es una válvula de seguridad de caldera?
 
-La válvula de seguridad de las [calderas de gas](https://decogas.com/calderas/) (también conocida como válvula de alivio de presión) es **un instrumento que sirve para reducir la presión e intensidad del agua**. Ésta es obligatoria, ya que nos ayuda a no sufrir accidentes.
+La válvula de seguridad de las [calderas de gas](/decogas/calderas.html) (también conocida como válvula de alivio de presión) es **un instrumento que sirve para reducir la presión e intensidad del agua**. Ésta es obligatoria, ya que nos ayuda a no sufrir accidentes.
 
 ### ¿Características de las válvulas de seguridad?
 

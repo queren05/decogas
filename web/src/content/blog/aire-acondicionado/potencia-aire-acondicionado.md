@@ -85,4 +85,4 @@ Si el modelo **no tiene la suficiente potencia** es posible que, con la llegada 
 
 Por el otro lado, si escoges un modelo con **muchas más frigorías** que las que requiere tu vivienda, lo más habitual es que su consumo sea mayor que el que necesitas; lo más recomendable es que te dejes asesorar por los mejores profesionales que se encargarán de mostrarte los modelos que mejor se adaptan a ti.
 
-Por ello, si deseas adquirir un aire acondicionado pero no sabes qué **potencia es la que mejor** se adapta a tu vivienda, lo mejor es que te pongas en [contacto con Decogas](https://decogas.com/contacto/). Nuestros especialistas se encargarán de proporcionarte las mejores opciones al precio más bajo.
+Por ello, si deseas adquirir un aire acondicionado pero no sabes qué **potencia es la que mejor** se adapta a tu vivienda, lo mejor es que te pongas en [contacto con Decogas](/decogas/index.html#contacto). Nuestros especialistas se encargarán de proporcionarte las mejores opciones al precio más bajo.

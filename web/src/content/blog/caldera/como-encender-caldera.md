@@ -8,7 +8,7 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 5
 ---
-Es necesario conocer **cómo encender una [caldera](https://decogas.com/calderas/)** de manera segura y aquí te lo vamos a contar. Cuando llegan las bajas temperaturas, hemos de volver a [iniciar el sistema de calefacción](/decogas/blog/caldera/apagar-caldera-de-gasoil/) y comprobar que todo esté correcto para disfrutar de nuevo de la comodidad en nuestro hogar.
+Es necesario conocer **cómo encender una [caldera](/decogas/calderas.html)** de manera segura y aquí te lo vamos a contar. Cuando llegan las bajas temperaturas, hemos de volver a [iniciar el sistema de calefacción](/decogas/blog/caldera/apagar-caldera-de-gasoil/) y comprobar que todo esté correcto para disfrutar de nuevo de la comodidad en nuestro hogar.
 
 Tras varios meses sin usar la calefacción, es recomendable tener de seguro que no tengamos problemas o alguna avería en la caldera.  Pero, para saber si funciona bien, tenemos que tener en cuenta ciertos elementos.
 

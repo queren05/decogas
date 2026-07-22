@@ -14,7 +14,7 @@ El **sobrecalentamiento en la caldera** es un problema serio que afecta tanto la
 
 ## Causas comunes del sobrecalentamiento
 
-El sobrecalentamiento en una [caldera](https://decogas.com/calderas/) puede deberse a varios factores. Conocer estas causas es esencial para evitar daños mayores y **mantener el sistema funcionando eficientemente**.
+El sobrecalentamiento en una [caldera](/decogas/calderas.html) puede deberse a varios factores. Conocer estas causas es esencial para evitar daños mayores y **mantener el sistema funcionando eficientemente**.
 
 ### Fallos en el termostato
 
@@ -74,7 +74,7 @@ Existen varias soluciones efectivas para abordar el sobrecalentamiento en una ca
 
 La verificación y calibración del termostato es una de las primeras acciones que se deben tomar para solucionar el sobrecalentamiento. Un termostato correctamente calibrado asegura que la caldera funcione a la temperatura adecuada.
 
-Esta tarea debe ser realizada por un profesional en la [reparación de calderas](https://decogas.com/reparacion-calderas/), ya que **una calibración incorrecta puede causar más problemas**. Asegurarse de que el termostato esté en perfectas condiciones es clave para el buen funcionamiento del sistema de calefacción.
+Esta tarea debe ser realizada por un profesional en la [reparación de calderas](/decogas/calderas.html), ya que **una calibración incorrecta puede causar más problemas**. Asegurarse de que el termostato esté en perfectas condiciones es clave para el buen funcionamiento del sistema de calefacción.
 
 ### Mantenimiento de radiadores y tuberías
 

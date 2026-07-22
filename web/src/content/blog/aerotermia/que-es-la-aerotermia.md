@@ -8,7 +8,7 @@ tagClass: "aerotermia"
 breadcrumb: "Aerotermia"
 readingTime: 6
 ---
-Si estás buscando una solución eficiente y sostenible para climatizar tu hogar en [Madrid](https://decogas.com/aerotermia/), la aerotermia es una opción que debes considerar. En este artículo, exploraremos en detalle **qué es la aerotermia, sus ventajas y beneficios.**
+Si estás buscando una solución eficiente y sostenible para climatizar tu hogar en [Madrid](/decogas/index.html#contacto), la aerotermia es una opción que debes considerar. En este artículo, exploraremos en detalle **qué es la aerotermia, sus ventajas y beneficios.**
 
 También veremos cómo la aerotermia puede proporcionar una solución ideal para mantener tu hogar cálido.
 

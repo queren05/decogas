@@ -10,7 +10,7 @@ readingTime: 5
 ---
 ![Códigos de error en calderas Junkers](/decogas/blog-img/codigos-de-error-en-calderas-junkers.webp)
 
-¿Te has encontrado alguna vez con un código de error en tu [caldera Junkers](https://decogas.com/calderas/bosch/)? No te preocupes, estás en el lugar correcto. En este artículo te vamos a explicar de manera clara y sencilla cómo identificar y solucionar los **códigos de error más comunes** **en las calderas Junkers**. Conocer estos códigos te permitirá mantener tu sistema de calefacción funcionando de manera eficiente y segura. **¡Vamos allá!**
+¿Te has encontrado alguna vez con un código de error en tu [caldera Junkers](/decogas/marcas/bosch.html)? No te preocupes, estás en el lugar correcto. En este artículo te vamos a explicar de manera clara y sencilla cómo identificar y solucionar los **códigos de error más comunes** **en las calderas Junkers**. Conocer estos códigos te permitirá mantener tu sistema de calefacción funcionando de manera eficiente y segura. **¡Vamos allá!**
 
 ## Códigos de error comunes en calderas Junkers
 
@@ -77,4 +77,4 @@ Mantener tu caldera Junkers en buen estado es fundamental para su eficiencia y d
 
 ## Importancia del servicio técnico
 
-Contar con un [servicio técnico especializado](https://decogas.com/reparacion-calderas/) es esencial para mantener tu caldera Junkers en óptimas condiciones. Nuestros técnicos cualificados pueden identificar y resolver problemas que no son evidentes para el usuario promedio, asegurando la seguridad y eficiencia del sistema. Además, el mantenimiento regular realizado por profesionales especializados **prolonga la vida útil de la caldera, previene averías costosas y garantiza un rendimiento eficiente**. Invertir en un buen servicio técnico es clave para disfrutar de un hogar cálido y seguro durante todo el año.
+Contar con un [servicio técnico especializado](/decogas/calderas.html) es esencial para mantener tu caldera Junkers en óptimas condiciones. Nuestros técnicos cualificados pueden identificar y resolver problemas que no son evidentes para el usuario promedio, asegurando la seguridad y eficiencia del sistema. Además, el mantenimiento regular realizado por profesionales especializados **prolonga la vida útil de la caldera, previene averías costosas y garantiza un rendimiento eficiente**. Invertir en un buen servicio técnico es clave para disfrutar de un hogar cálido y seguro durante todo el año.

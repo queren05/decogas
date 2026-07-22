@@ -18,7 +18,7 @@ Este artículo aborda los aspectos clave a considerar, garantizando que la insta
 
 ## La importancia de informarse antes de instalar
 
-Antes de tomar la decisión de **[instalar un aire acondicionado](https://decogas.com/aire-acondicionado/) en la terraza**, es necesario informarse adecuadamente sobre los requisitos y restricciones existentes. Esta preparación previa puede ahorrar tiempo, dinero y evitar posibles conflictos con la comunidad de propietarios.
+Antes de tomar la decisión de **[instalar un aire acondicionado](/decogas/aires.html) en la terraza**, es necesario informarse adecuadamente sobre los requisitos y restricciones existentes. Esta preparación previa puede ahorrar tiempo, dinero y evitar posibles conflictos con la comunidad de propietarios.
 
 La correcta instalación no solo depende de aspectos técnicos, sino también de normativas y permisos necesarios que varían según la localización y el tipo de edificio.
 
@@ -57,7 +57,7 @@ Al abordar la instalación de un aire acondicionado en la terraza, las considera
 
 Es esencial elegir el **tipo de aire acondicionado más adecuado para el entorno**, considerando factores como el tamaño de la terraza, la exposición al sol y las necesidades específicas de climatización.
 
-La **eficiencia energética** del equipo no solo impacta en el consumo eléctrico y la factura de luz, sino también en la huella ambiental del hogar, por lo que optar por [aires acondicionados A+++](https://decogas.com/aire-acondicionado/) es recomendable.
+La **eficiencia energética** del equipo no solo impacta en el consumo eléctrico y la factura de luz, sino también en la huella ambiental del hogar, por lo que optar por [aires acondicionados A+++](/decogas/aires.html) es recomendable.
 
 Además, la ubicación del equipo debe permitir una **óptima circulación del aire** y estar anclada de manera segura para evitar accidentes, teniendo en cuenta la protección contra la intemperie y garantizando que el montaje no comprometa la estructura de la terraza.
 

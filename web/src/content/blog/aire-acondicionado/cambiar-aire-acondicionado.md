@@ -8,7 +8,7 @@ tagClass: "aire"
 breadcrumb: "Aire acondicionado"
 readingTime: 4
 ---
-**El aire acondicionado es una forma estupenda de mantenerse fresco durante los calurosos meses de verano.** Pero, ¿qué ocurre cuando su [aire acondicionado](https://decogas.com/aire-acondicionado/) empieza a estropearse? Simple es hora de cambiar el aire acondicionado o repararlo.
+**El aire acondicionado es una forma estupenda de mantenerse fresco durante los calurosos meses de verano.** Pero, ¿qué ocurre cuando su [aire acondicionado](/decogas/aires.html) empieza a estropearse? Simple es hora de cambiar el aire acondicionado o repararlo.
 
 ¿O simplemente necesita [instalar un aire acondicionado](/decogas/blog/aire-acondicionado/instalacion-aire-acondicionado/) nuevo? Te enseñaremos **cuando y como cambiar tu aire acondicionado.**
 
@@ -75,7 +75,7 @@ Además de la información en esta entrada del blog, hay algunas otras cosas que
 
 **Mantenimiento:** Los aparatos de aire acondicionado requieren un mantenimiento regular para que funcionen correctamente. Este mantenimiento suele incluir la limpieza de los filtros y la comprobación de los niveles de refrigerante.
 
-Espero que esta entrada del blog haya sido útil. Si tiene más preguntas, no dude en ponerse en contacto con nosotros en [Madrid.](https://decogas.com/calderas/)
+Espero que esta entrada del blog haya sido útil. Si tiene más preguntas, no dude en ponerse en contacto con nosotros en [Madrid.](/decogas/calderas.html)
 
 ## Conclusión
 

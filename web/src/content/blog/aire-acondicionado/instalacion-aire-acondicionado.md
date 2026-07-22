@@ -125,7 +125,7 @@ Al elegir un modelo más silencioso, podrás disfrutar de la comodidad y el fres
 
 ## Instalar un aire acondicionado es más facil de lo que crees
 
-En cuanto la instalación de un [aire acondicionado](https://decogas.com/aire-acondicionado/) e**s un proceso crucial para disfrutar de un ambiente fresco y confortable en tu hogar.**
+En cuanto la instalación de un [aire acondicionado](/decogas/aires.html) e**s un proceso crucial para disfrutar de un ambiente fresco y confortable en tu hogar.**
 
 Durante este artículo, hemos abordado diferentes aspectos relacionados con la instalación, incluyendo el funcionamiento del aire acondicionado, los tipos de aires acondicionados disponibles, cómo elegir un [modelo más silencioso](/decogas/blog/aire-acondicionado/mejor-aire-acondicionado-silencioso/).
 

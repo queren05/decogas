@@ -8,7 +8,7 @@ tagClass: "aire"
 breadcrumb: "Aire acondicionado"
 readingTime: 4
 ---
-Lo más seguro que, a la hora de comprar un sistema de refrigeración para el hogar o la oficina, seguro que te preguntarás sobre las diferencias entre un climatizador y un [aire acondicionado](https://decogas.com/aire-acondicionado/). Mucha gente suele confundirlos y pueden llegar a adquirir aquel que no necesitan y que no cubren sus necesidades. Para sacarte de dudas, vamos a señalar las ventajas y las **diferencias entre un climatizador y un aire acondicionado**.
+Lo más seguro que, a la hora de comprar un sistema de refrigeración para el hogar o la oficina, seguro que te preguntarás sobre las diferencias entre un climatizador y un [aire acondicionado](/decogas/aires.html). Mucha gente suele confundirlos y pueden llegar a adquirir aquel que no necesitan y que no cubren sus necesidades. Para sacarte de dudas, vamos a señalar las ventajas y las **diferencias entre un climatizador y un aire acondicionado**.
 
 ![chica controlando el sistema de climamtización](/decogas/blog-img/aire-acondicionado.webp)
 
@@ -55,7 +55,7 @@ Nos permite **usarlo durante todo el año**, ya que cuenta con un sistema que ap
 
 Este tipo de aparatos también tienen sus ventajas frente a los anteriores:
 
--   Funcionan con electricidad y son [altamente eficientes](https://decogas.com/aire-acondicionado/) (considerados hasta un tipo de energía renovable).
+-   Funcionan con electricidad y son [altamente eficientes](/decogas/aires.html) (considerados hasta un tipo de energía renovable).
 -   Aportan frío y calor a la estancia, por lo que tendremos dos aparatos en uno solo.
 -   Permiten sistemas híbridos, por lo que es una tecnología más sostenible.
 -   Se pueden instalar con otros sistemas para mejorar la calidad del aire como son los filtros o sistemas sostenibles como son la recirculación de aire o recuperador de calor.

@@ -8,7 +8,7 @@ tagClass: "aire"
 breadcrumb: "Aire acondicionado"
 readingTime: 4
 ---
-Adquirir un buen [aire acondicionado](https://decogas.com/aire-acondicionado/) es fundamental para mantener la vivienda a la temperatura adecuada y, al mismo tiempo, evitar la existencia de bacterias y micropartículas que puedan ser perjudiciales para la salud. Dentro de la amplia variedad de opciones que tienes a tu disposición en nuestra tienda online, puedes encontrar los mejores aires acondicionados de 4500 frigorías en Madrid, para que puedas adquirir el modelo que **mejor se adapta al tamaño de tu estancia** y a tus necesidades.
+Adquirir un buen [aire acondicionado](/decogas/aires.html) es fundamental para mantener la vivienda a la temperatura adecuada y, al mismo tiempo, evitar la existencia de bacterias y micropartículas que puedan ser perjudiciales para la salud. Dentro de la amplia variedad de opciones que tienes a tu disposición en nuestra tienda online, puedes encontrar los mejores aires acondicionados de 4500 frigorías en Madrid, para que puedas adquirir el modelo que **mejor se adapta al tamaño de tu estancia** y a tus necesidades.
 
 ## Mejores aires acondicionados de 4500 frigorías en Madrid
 
@@ -62,4 +62,4 @@ Los aires acondicionados de 4000 frigorías son perfectos para **espacios de ent
 
 Si quieres saber como **calcular las frigorías** y la [**potencia de aire acondicionado que necesitas**](/decogas/blog/aire-acondicionado/potencia-aire-acondicionado/), tenemos un post donde lo explicamos detalladamente. Además, si tienes claro que lo que estás buscando es un equipo de climatización efectivo que te climatice toda la casa de forma óptima y eficiente, lo que necesitas es una potencia de 6000 frigorías. En este post te contamos todo sobre **[cuál es el mejor aire acondicionado de 6000 frigorías](/decogas/blog/aire-acondicionado/6000-frigorias-madrid/)**
 
-¿A qué esperas? Hazte ya con tu aire acondicionado de 4500 frigorías en Madrid al precio más bajo. ¿Tienes alguna duda? En nuestra tienda online puedes [**contactar y consultar con nuestros asesores**](https://decogas.com/contacto/) y ellos se encargarán de solucionar todas tus preguntas. ¡Hazte ya con tu equipo de refrigeración perfecto!
+¿A qué esperas? Hazte ya con tu aire acondicionado de 4500 frigorías en Madrid al precio más bajo. ¿Tienes alguna duda? En nuestra tienda online puedes [**contactar y consultar con nuestros asesores**](/decogas/index.html#contacto) y ellos se encargarán de solucionar todas tus preguntas. ¡Hazte ya con tu equipo de refrigeración perfecto!

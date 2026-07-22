@@ -24,7 +24,7 @@ También podemos programar esta función para que, cuando lleguemos a casa, esta
 
 De esta forma, **no variará demasiado la temperatura** de la estancia, por lo que no costará tanto volver a activar el aire acondicionado. Además, te permite que, cuando llegues a casa del exterior, la vivienda tenga el clima adecuado.
 
-Por ello, si deseas comprar un [aire acondicionado](https://decogas.com/aire-acondicionado/), lo mejor es que te **pongas en manos de profesionales** como los de Decogas; ponte en [contacto con nosotros](https://decogas.com/contacto/) y nuestros trabajadores te ayudarán a elegir el aire acondicionado perfecto para ti.
+Por ello, si deseas comprar un [aire acondicionado](/decogas/aires.html), lo mejor es que te **pongas en manos de profesionales** como los de Decogas; ponte en [contacto con nosotros](/decogas/index.html#contacto) y nuestros trabajadores te ayudarán a elegir el aire acondicionado perfecto para ti.
 
 ### Cómo saber si tu aire acondicionado tiene el botón Cool
 

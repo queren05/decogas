@@ -50,7 +50,7 @@ Las calderas de biomasa son especialmente adecuadas para aquellos que buscan red
 
 ## **Aerotermia: Innovación y ahorro**
 
-La [aerotermia](https://decogas.com/aerotermia/) es una tecnología innovadora que ofrece una solución de **calefacción eficiente y económica para pisos**. Utiliza la energía del aire exterior para calentar el hogar, lo que la convierte en una opción sostenible.
+La [aerotermia](/decogas/index.html#contacto) es una tecnología innovadora que ofrece una solución de **calefacción eficiente y económica para pisos**. Utiliza la energía del aire exterior para calentar el hogar, lo que la convierte en una opción sostenible.
 
 Este sistema es particularmente atractivo por su capacidad para proporcionar tanto calefacción como refrigeración, lo que lo hace versátil y adecuado para uso durante todo el año.
 
@@ -60,7 +60,7 @@ Otro aspecto a destacar es la **eficiencia energética** de la aerotermia. Al ut
 
 ## **Calderas de gas: Tradición y modernidad**
 
-Las [calderas de gas](https://decogas.com/calderas/) combinan tradición y modernidad, siendo una de las opciones más comunes para la calefacción en pisos. Su popularidad se debe a su eficiencia, fiabilidad y **facilidad de uso**.
+Las [calderas de gas](/decogas/calderas.html) combinan tradición y modernidad, siendo una de las opciones más comunes para la calefacción en pisos. Su popularidad se debe a su eficiencia, fiabilidad y **facilidad de uso**.
 
 Las calderas de gas modernas, especialmente las de condensación, ofrecen una mayor eficiencia energética en comparación con los modelos más antiguos. Esto se traduce en un **ahorro significativo en las facturas de gas** y una reducción en las emisiones de CO2.
 

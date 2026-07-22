@@ -10,7 +10,7 @@ readingTime: 6
 ---
 ![detectar una fuga de gas](/decogas/blog-img/presion-de-gas.webp)
 
-Si tenemos una [caldera de gas](https://decogas.com/calderas/) en casa debemos vigilar con regularidad su funcionamiento y estar alerta ante cualquier dato que pueda señalar un problema. Una **fuga en la caldera de gas** puede ser un problema bastante grave, pudiendo llegar a ocasionar incendios o grandes explosiones. Por ello, es esencial saber **cómo detectar fugas de gas en la caldera**.
+Si tenemos una [caldera de gas](/decogas/calderas.html) en casa debemos vigilar con regularidad su funcionamiento y estar alerta ante cualquier dato que pueda señalar un problema. Una **fuga en la caldera de gas** puede ser un problema bastante grave, pudiendo llegar a ocasionar incendios o grandes explosiones. Por ello, es esencial saber **cómo detectar fugas de gas en la caldera**.
 
 Además, el gas conlleva otros peligros como respirar sustancias nocivas y tóxicas como el monóxido de carbono (que puede llegar a producir graves lesiones físicas).
 
@@ -112,4 +112,4 @@ Podemos seguir algunos consejos para conseguir un mejor control en el mantenimie
 
 En conclusión, **detectar una fuga de gas en la caldera** nos ahorrará muchos problemas de índole físico y de salud. Pero mejor es tener una caldera de calidad y que disponga del mantenimiento periódico necesario para evitar que aparezcan los problemas.
 
-\[button text=»Solicita tu presupuesto» color=»secondary» padding=»0px 30px 0px 30px» radius=»13″ depth=»0″ expand=»0″ link=»https://decogas.com/contacto/»\]
+\[button text=»Solicita tu presupuesto» color=»secondary» padding=»0px 30px 0px 30px» radius=»13″ depth=»0″ expand=»0″ link=»/decogas/index.html#contacto»\]

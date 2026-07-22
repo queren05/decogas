@@ -12,7 +12,7 @@ Si deseas mantener tu vivienda climatizada todo el año y, al mismo tiempo, est�
 
 ## ¿Qué es el aire acondicionado por conductos?
 
-El [aire acondicionado](https://decogas.com/aire-acondicionado/) por conductos es un sistema de refrigeración que permite la **circulación del aire por unos conductos centralizados**. Este método de climatización se instala sobre un falso techo y está compuesto por un aparato exterior, uno interior y los conductos repartidos por toda la vivienda.
+El [aire acondicionado](/decogas/aires.html) por conductos es un sistema de refrigeración que permite la **circulación del aire por unos conductos centralizados**. Este método de climatización se instala sobre un falso techo y está compuesto por un aparato exterior, uno interior y los conductos repartidos por toda la vivienda.
 
 ![Salón con aire acondicionado por conductos](/decogas/blog-img/salon-aire-acondicionado-conductos.webp)
 
@@ -91,9 +91,9 @@ Por último, el aire acondicionado por conductos puede disponer de rejillas moto
 
 En Decogas trabajamos con las **mejores marcas** fabricantes de aires acondicionados por conductos:
 
--   [Mitsubishi](https://decogas.com/aire-acondicionado/mitsubishi/): permiten el control remoto a través de los [aires acondicionados con WiFi](/decogas/blog/aire-acondicionado/aire-acondicionado-wifi/). Además, disponen de la tecnología DC Inverter y ofrecen la posibilidad de climatizar la vivienda por zonas.
--   [Fujitsu](https://decogas.com/aire-acondicionado/fujitsu/): son muy silenciosos y, además, disponen de una gran eficiencia energética.
--   [Daikin](https://decogas.com/aire-acondicionado/daikin/): esta marca está especializada en la climatización efectiva de tu vivienda. Además, trabajan con un bajo nivel sonoro.
+-   [Mitsubishi](/decogas/marcas/mitsubishi-electric.html): permiten el control remoto a través de los [aires acondicionados con WiFi](/decogas/blog/aire-acondicionado/aire-acondicionado-wifi/). Además, disponen de la tecnología DC Inverter y ofrecen la posibilidad de climatizar la vivienda por zonas.
+-   [Fujitsu](/decogas/marcas/fujitsu.html): son muy silenciosos y, además, disponen de una gran eficiencia energética.
+-   [Daikin](/decogas/marcas/daikin.html): esta marca está especializada en la climatización efectiva de tu vivienda. Además, trabajan con un bajo nivel sonoro.
 
 ## ¿Cuáles son los mejores aires por conductos? Opiniones de otros clientes
 

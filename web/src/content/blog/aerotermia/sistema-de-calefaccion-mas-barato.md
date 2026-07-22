@@ -42,7 +42,7 @@ A pesar de su bajo coste de instalación, la calefacción eléctrica puede resul
 
 ### Calefacción de gas natural
 
-La [calefacción de gas natural](https://decogas.com/calderas/) es conocida por su alta eficiencia. Los sistemas modernos son capaces de **calentar espacios de manera rápida y uniforme**, lo que los hace ideales para hogares de mayor tamaño.
+La [calefacción de gas natural](/decogas/calderas.html) es conocida por su alta eficiencia. Los sistemas modernos son capaces de **calentar espacios de manera rápida y uniforme**, lo que los hace ideales para hogares de mayor tamaño.
 
 El consumo de gas natural suele ser más bajo en comparación con sistemas eléctricos, lo que se traduce en **facturas más económicas** y un menor impacto ambiental. Aquí te contamos cuáles son las [calderas de gas que menos consumen](/decogas/blog/caldera/calderas-que-menos-consumen/).
 

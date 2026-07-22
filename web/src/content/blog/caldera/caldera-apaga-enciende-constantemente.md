@@ -24,7 +24,7 @@ El problema es que este funcionamiento lo hará con una potencia excesiva para u
 
 Una caldera de gas que se apaga y se enciende constantemente puede ser que **tenga una avería**; en esos casos, lo más recomendable es que un profesional cualificado revise su funcionamiento puesto que estas calefacciones funcionan con combustibles inflamables que, si no tienes los conocimientos necesarios, pueden ser muy peligrosos.
 
-[Te llamamos gratis](https://decogas.com/contacto/)
+[Te llamamos gratis](/decogas/index.html#contacto)
 
 Los **principales problemas** que suelen ocurrir son: obstrucción en las cañerías, problemas relacionados con el vaso de expansión de la caldera o con el caudal de agua que expulsa, entre otros.
 
@@ -40,6 +40,6 @@ Las calderas de gas de combustible portátil, butano o propano, son las **única
 
 Además, esta llama varía según la cantidad de agua que demandes en cada caso. Por ello, las calderas de gas que se encienden y se apagan constantemente **consumen más que las que no**.
 
-[Te llamamos gratis](https://decogas.com/contacto/)
+[Te llamamos gratis](/decogas/index.html#contacto)
 
-Desde Decogas tratamos de ayudar en la [instalación de calderas](https://decogas.com/calderas/), termos y aires acondicionados. Tenemos un equipo propio de instaladores especializados, para que no tengas ningún problema. Además, puedes venir a visitarnos a nuestra tienda física cuando quieras.
+Desde Decogas tratamos de ayudar en la [instalación de calderas](/decogas/calderas.html), termos y aires acondicionados. Tenemos un equipo propio de instaladores especializados, para que no tengas ningún problema. Además, puedes venir a visitarnos a nuestra tienda física cuando quieras.

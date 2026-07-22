@@ -127,7 +127,7 @@ Recuerda que estos tiempos son solo una guía general y pueden variar según las
 
 ## Decide cuando instalar tu aire acondicionado
 
-En resumen, **el tiempo de instalación de un [aire acondicionado](https://decogas.com/aire-acondicionado/) varía según varios factores**, como el tipo de sistema, la capacidad del equipo y las condiciones del lugar.
+En resumen, **el tiempo de instalación de un [aire acondicionado](/decogas/aires.html) varía según varios factores**, como el tipo de sistema, la capacidad del equipo y las condiciones del lugar.
 
 Es fundamental realizar una preparación adecuada y contar con un instalador experimentado para garantizar una instalación exitosa en el menor tiempo posible.
 

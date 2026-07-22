@@ -14,7 +14,7 @@ readingTime: 5
 
 ## Importancia del nivel de agua en la caldera
 
-El nivel adecuado de agua en la [caldera](https://decogas.com/calderas/) es fundamental para su funcionamiento eficiente y seguro. **Cuando el agua está por debajo del nivel recomendado, la caldera no puede transferir calor correctamente**, lo que puede llevar a un sobrecalentamiento y daños internos. Este problema, además de afectar la eficiencia energética, también puede reducir la vida útil de la caldera, aumentando los costos de mantenimiento y reparación.
+El nivel adecuado de agua en la [caldera](/decogas/calderas.html) es fundamental para su funcionamiento eficiente y seguro. **Cuando el agua está por debajo del nivel recomendado, la caldera no puede transferir calor correctamente**, lo que puede llevar a un sobrecalentamiento y daños internos. Este problema, además de afectar la eficiencia energética, también puede reducir la vida útil de la caldera, aumentando los costos de mantenimiento y reparación.
 
 Además, un nivel de agua adecuado es esencial para evitar daños estructurales. Las calderas están diseñadas para operar con un volumen específico de agua que ayuda a mantener una presión equilibrada. Si la presión del agua baja, pueden ocurrir **fugas en el sistema de calefacción**, y componentes como el manómetro y el vaso de expansión pueden fallar, comprometiendo la seguridad del sistema. Aquí te contamos [cómo subir la presión de la caldera](/decogas/blog/caldera/subir-presion-caldera/).
 
@@ -67,7 +67,7 @@ El vaso de expansión y la válvula de seguridad son componentes básicos para m
 
 ![técnico reparando caldera que se ha quedado sin agua](/decogas/blog-img/worker-repairing-water-heater-23-2149334231.webp)
 
-Si la caldera se queda sin agua, actúa rápidamente para evitar daños mayores. Primero, **para evitar el [sobrecalentamiento de la caldera](sobrecalentamiento-caldera) apágala**. Luego, revisa el manómetro y ajusta la presión del agua utilizando la llave de llenado. Si no puedes resolver el problema, llama a un técnico profesional especializado en la [reparación de calderas](https://decogas.com/reparacion-calderas/) para una revisión completa del sistema.
+Si la caldera se queda sin agua, actúa rápidamente para evitar daños mayores. Primero, **para evitar el [sobrecalentamiento de la caldera](sobrecalentamiento-caldera) apágala**. Luego, revisa el manómetro y ajusta la presión del agua utilizando la llave de llenado. Si no puedes resolver el problema, llama a un técnico profesional especializado en la [reparación de calderas](/decogas/calderas.html) para una revisión completa del sistema.
 
 Un técnico podrá identificar la causa de la falta de agua y realizar las reparaciones necesarias. **No intentes arreglar problemas complejos por ti mismo, ya que esto podría agravar la situación**.
 

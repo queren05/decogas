@@ -8,7 +8,7 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 3
 ---
-¿Buscas la mejor forma de **limpiar los tubos de las estufas de pellets**? Si es así, estás en el lugar adecuado. En este artículo, te mostraremos cómo limpiar y mantener correctamente tu [estufa de pellets](https://decogas.com/estufas-pellets/) para garantizar su funcionamiento y seguridad en tu hogar.
+¿Buscas la mejor forma de **limpiar los tubos de las estufas de pellets**? Si es así, estás en el lugar adecuado. En este artículo, te mostraremos cómo limpiar y mantener correctamente tu [estufa de pellets](/decogas/index.html#contacto) para garantizar su funcionamiento y seguridad en tu hogar.
 
 Limpiar y mantener tu [estufa](/decogas/blog/caldera/como-canalizar-una-estufa-de-pellets/) de pellets no es tan complicado como parece. Para limpiar correctamente tu estufa de pellets, necesitarás las siguientes **herramientas**: limpiacristales, desincrustante, un aspirador de cenizas, detergente o producto de limpieza no abrasivo, un paño, guantes de látex, un cepillo, un juego de destornilladores, una mascarilla y un kit para limpiar estufas de pellets.
 
@@ -52,4 +52,4 @@ Para **limpiar los tubos de las estufas de pellets** es importarte hacerlo una v
 
 En conclusión, mantener y **limpiar los tubos de las estufas de pellets** no es difícil. Sólo necesitas las herramientas adecuadas y algo de paciencia para asegurarte de que tu estufa funciona correctamente y con seguridad.
 
-Esperamos desde [Decogas](https://decogas.com/contacto/) que este artículo te haya sido útil y te ayude a mantener tu estufa de pellets funcionando de forma segura y adecuada.
+Esperamos desde [Decogas](/decogas/index.html#contacto) que este artículo te haya sido útil y te ayude a mantener tu estufa de pellets funcionando de forma segura y adecuada.

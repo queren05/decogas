@@ -12,7 +12,7 @@ Madrid es una ciudad que nunca duerme y, por ello, es **complicado dormir con la
 
 ## ¿Qué es un aire acondicionado silencioso?
 
-En la actualidad, existe una amplia variedad de [aires acondicionados](https://decogas.com/aire-acondicionado/) para tu vivienda; de esta forma, puedes adquirir aquel que mejor se adapta a tus necesidades. Un aire acondicionado silencioso es aquel que tiene un **nivel sonoro inferior a 24 dB**; además, suelen incorporar la función _Sleep_, disminuyendo aún más la presión sonora.
+En la actualidad, existe una amplia variedad de [aires acondicionados](/decogas/aires.html) para tu vivienda; de esta forma, puedes adquirir aquel que mejor se adapta a tus necesidades. Un aire acondicionado silencioso es aquel que tiene un **nivel sonoro inferior a 24 dB**; además, suelen incorporar la función _Sleep_, disminuyendo aún más la presión sonora.
 
 ![Máximo confort con un aire acondicionado silencioso en Madrid](/decogas/blog-img/confort-aire-acondicionado-silencioso.webp)
 
@@ -72,11 +72,11 @@ Disponer de un equipo de climatización silencioso en tu vivienda es muy recomen
 
 En la actualidad, las **mejores marcas** para adquirir un aire acondicionado silencioso en Madrid son:
 
--   [**Aire acondicionado de** **Fujitsu**](https://decogas.com/aire-acondicionado/fujitsu/): es una de las marcas más reconocidas de aires acondicionados silenciosos y, además, su mantenimiento es mínimo.
--   [**Aire acondicionado** **Mitsubishi**](https://decogas.com/aire-acondicionado/mitsubishi/): aunque la inversión inicial es mayor, estos sistemas de refrigeración son muy recomendables porque funcionan por debajo de los 22 dB.
--   [**Aire acondicionado Hisense**](https://decogas.com/aire-acondicionado/hisense/)**:** su consumo es muy ajustado y son ideales para utilizarlos mientras duermes.
--   [**Aire acondicionado Samsung**](https://decogas.com/aire-acondicionado/samsung/)**:** disponen de conexión WiFi y su intensidad sonora se encuentra por debajo de los 35 dB.
+-   [**Aire acondicionado de** **Fujitsu**](/decogas/marcas/fujitsu.html): es una de las marcas más reconocidas de aires acondicionados silenciosos y, además, su mantenimiento es mínimo.
+-   [**Aire acondicionado** **Mitsubishi**](/decogas/marcas/mitsubishi-electric.html): aunque la inversión inicial es mayor, estos sistemas de refrigeración son muy recomendables porque funcionan por debajo de los 22 dB.
+-   [**Aire acondicionado Hisense**](/decogas/aires.htmlhisense/)**:** su consumo es muy ajustado y son ideales para utilizarlos mientras duermes.
+-   [**Aire acondicionado Samsung**](/decogas/aires.htmlsamsung/)**:** disponen de conexión WiFi y su intensidad sonora se encuentra por debajo de los 35 dB.
 -   **Aire acondicionado Panasonic:** ideal para salones u oficinas ya que estos electrodomésticos incorporan un diseño sofisticado y su funcionamiento es silencioso y económico.
--   [**Aire acondicionado** **LG**](https://decogas.com/aire-acondicionado/lg/): los aires acondicionados de esta marca son fiables, resistentes, cómodos y respetuosos con el medio ambiente. Además, gracias al ventilador oblicuo de LG y el motor BLCD, tienen unos niveles sonoros bajos.
+-   [**Aire acondicionado** **LG**](/decogas/aires.htmllg/): los aires acondicionados de esta marca son fiables, resistentes, cómodos y respetuosos con el medio ambiente. Además, gracias al ventilador oblicuo de LG y el motor BLCD, tienen unos niveles sonoros bajos.
 
 ¿A qué esperas? No lo dudes y hazte ya con tu aire acondicionado silencioso en Madrid. ¡No te quedes sin él!

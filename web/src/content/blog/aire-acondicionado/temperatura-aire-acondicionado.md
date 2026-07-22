@@ -8,7 +8,7 @@ tagClass: "aire"
 breadcrumb: "Aire acondicionado"
 readingTime: 4
 ---
-Seguramente alguna vez te hayas preguntado a cuántos grados debes poner tu [aire acondicionado](https://decogas.com/aire-acondicionado/) para que tu casa mantenga una **temperatura confortable** y, al mismo tiempo, no constiparte; por eso, en este _post_ te vamos a mostrar cuál es la temperatura del aire acondicionado ideal para tu hogar.
+Seguramente alguna vez te hayas preguntado a cuántos grados debes poner tu [aire acondicionado](/decogas/aires.html) para que tu casa mantenga una **temperatura confortable** y, al mismo tiempo, no constiparte; por eso, en este _post_ te vamos a mostrar cuál es la temperatura del aire acondicionado ideal para tu hogar.
 
 ## ¿Cuál es la temperatura ideal del aire acondicionado en tu hogar?
 
@@ -49,7 +49,7 @@ A continuación, te mostramos unos consejos que te pueden ayudar a **mejorar el 
 -   **Instalar el deflector**: evita que el aire caiga de forma directa.
 -   **Ventila la estancia**: es fundamental ventilar, cada mañana, todas las habitaciones. De esta manera renuevas el oxígeno y evitas la recirculación del aire.
 -   **Solo cuando sea necesario**: es una tontería encender el aire acondicionado, en modo frío, si vas a necesitar una chaqueta; por eso, solo debes utilizarlo cuando lo necesites.
--   **Mejor si tiene un [sistema de aire acondicionado Inverter](https://decogas.com/aire-acondicionado/inverter/)**: garantizan un mejor rendimiento, una temperatura estable y un ahorro importante.
+-   **Mejor si tiene un [sistema de aire acondicionado Inverter](/decogas/aires.html)**: garantizan un mejor rendimiento, una temperatura estable y un ahorro importante.
 
 ## Temperatura para una mejor eficiencia energética
 
@@ -71,4 +71,4 @@ A continuación te damos algunos **consejos** que te ayudarán a conseguir la te
 -   **Zonificación**: los [aires acondicionados por conductos](/decogas/blog/aire-acondicionado/aire-acondicionado-conductos/) se pueden programar según distintas zonas.
 -   **Programar movimiento de lamas**. Es mejor que las lamas apunten hacia el techo, de esta forma se mejorará en eficiencia y en salud, ya que no incidirán tampoco directamente en las personas.
 
-Cómo ves, disfrutar del **máximo confort** y conseguir la temperatura ideal del aire acondicionado en tu vivienda es muy sencillo; por eso, ¿a qué esperas para hacerte ya con tu [aire acondicionado](https://decogas.com/aire-acondicionado/)? Además, si no sabes qué modelo comprar lo mejor es que [consultes a nuestros expertos](https://decogas.com/contacto/), ellos estarán encantados de ayudarte.
+Cómo ves, disfrutar del **máximo confort** y conseguir la temperatura ideal del aire acondicionado en tu vivienda es muy sencillo; por eso, ¿a qué esperas para hacerte ya con tu [aire acondicionado](/decogas/aires.html)? Además, si no sabes qué modelo comprar lo mejor es que [consultes a nuestros expertos](/decogas/index.html#contacto), ellos estarán encantados de ayudarte.

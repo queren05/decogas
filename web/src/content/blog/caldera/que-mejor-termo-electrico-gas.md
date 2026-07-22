@@ -10,7 +10,7 @@ readingTime: 4
 ---
 ![mujer con su perro junto a calefacción](/decogas/blog-img/que-es-mejor-termo-electrico-o-de-gas-1.webp)
 
-**¿No sabes si instalar una [caldera](https://decogas.com/calderas/) o un termo eléctrico?** Es normal tener dudas. Ambos sistemas sirven para **calentar** **agua sanitaria**, pero no funcionan igual ni ofrecen las mismas prestaciones. Elegir uno u otro puede marcar la diferencia en tu **consumo energético, comodidad diaria y coste a largo plazo**.
+**¿No sabes si instalar una [caldera](/decogas/calderas.html) o un termo eléctrico?** Es normal tener dudas. Ambos sistemas sirven para **calentar** **agua sanitaria**, pero no funcionan igual ni ofrecen las mismas prestaciones. Elegir uno u otro puede marcar la diferencia en tu **consumo energético, comodidad diaria y coste a largo plazo**.
 
 En esta guía te explicamos de forma clara y sin tecnicismos **qué diferencia a una caldera de un termo eléctrico**, cuándo conviene cada uno y en qué deberías fijarte antes de decidir. No necesitas ser un experto.
 
@@ -22,7 +22,7 @@ Una caldera **es un sistema que calienta agua usando gas o electricidad**. Se co
 
 ## Qué es un termo eléctrico y cómo funciona
 
-Un [termo eléctrico](https://decogas.com/termos/) **es un depósito que calienta y almacena agua** **mediante una resistencia interna conectada a la red eléctrica**. El agua se mantiene caliente gracias a un buen aislamiento, lista para ser utilizada cuando se necesite. **Funciona de forma automática**: una vez se vacía, vuelve a calentarse hasta alcanzar la temperatura programada.
+Un [termo eléctrico](/decogas/index.html) **es un depósito que calienta y almacena agua** **mediante una resistencia interna conectada a la red eléctrica**. El agua se mantiene caliente gracias a un buen aislamiento, lista para ser utilizada cuando se necesite. **Funciona de forma automática**: una vez se vacía, vuelve a calentarse hasta alcanzar la temperatura programada.
 
 No requiere conexión a gas ni instalación compleja, por lo que es ideal para viviendas sin acceso a gas natural. **Su principal limitación es la capacidad del depósito**, que condiciona la cantidad de agua disponible.
 

@@ -12,7 +12,7 @@ readingTime: 6
 
 ¿Buscas la caldera perfecta para tu hogar? Estás en el lugar indicado. En este artículo descubrirás las **mejores marcas de calderas disponibles** en el mercado. Analizaremos su eficiencia, rendimiento y durabilidad. Te ayudaremos a tomar una decisión informada, basada en datos reales sobre su rendimiento.
 
-Además, compararemos los costos de instalación y mantenimiento. Si deseas una caldera que garantice confort y ahorro energético, sigue leyendo. Aquí encontrarás toda la información necesaria para **elegir la [caldera de gas](https://decogas.com/calderas/) ideal** para tu hogar.
+Además, compararemos los costos de instalación y mantenimiento. Si deseas una caldera que garantice confort y ahorro energético, sigue leyendo. Aquí encontrarás toda la información necesaria para **elegir la [caldera de gas](/decogas/calderas.html) ideal** para tu hogar.
 
 ## Principales marcas de calderas de gas
 
@@ -24,27 +24,27 @@ Esta marca es reconocida por su **innovación y eficiencia**. Las calderas Daiki
 
 ### Junkers
 
-Junkers, parte del grupo Bosch, es **sinónimo de calidad y eficiencia**. Las [calderas Junkers](https://decogas.com/calderas/bosch/) son muy valoradas por su rendimiento constante y eficiencia energética. Utilizan tecnología de condensación para maximizar el aprovechamiento del gas, lo que reduce los costos operativos y las emisiones. Los usuarios aprecian la fiabilidad y el bajo mantenimiento de estas calderas.
+Junkers, parte del grupo Bosch, es **sinónimo de calidad y eficiencia**. Las [calderas Junkers](/decogas/marcas/bosch.html) son muy valoradas por su rendimiento constante y eficiencia energética. Utilizan tecnología de condensación para maximizar el aprovechamiento del gas, lo que reduce los costos operativos y las emisiones. Los usuarios aprecian la fiabilidad y el bajo mantenimiento de estas calderas.
 
 ### Mitsubishi
 
-Las [calderas Mitsubishi](https://decogas.com/aire-acondicionado/mitsubishi/) combinan **eficiencia energética y facilidad de uso**. Con un enfoque en la innovación, Mitsubishi diseña calderas que proporcionan una calefacción y agua caliente constantes. Sus productos son conocidos por su robustez y durabilidad, y cuentan con un buen soporte postventa, lo que asegura una experiencia satisfactoria a largo plazo.
+Las [calderas Mitsubishi](/decogas/marcas/mitsubishi-electric.html) combinan **eficiencia energética y facilidad de uso**. Con un enfoque en la innovación, Mitsubishi diseña calderas que proporcionan una calefacción y agua caliente constantes. Sus productos son conocidos por su robustez y durabilidad, y cuentan con un buen soporte postventa, lo que asegura una experiencia satisfactoria a largo plazo.
 
 ### Saunier Duval
 
-Saunier Duval es una marca destacada por su **fiabilidad y eficiencia**. Las [calderas Saunier Duval](https://decogas.com/calderas/saunier-duval/) están diseñadas para ofrecer un rendimiento óptimo con un bajo consumo de energía. La tecnología de condensación utilizada en sus modelos ayuda a reducir los costos operativos y las emisiones. La marca también es conocida por su excelente servicio al cliente y garantías extendidas.
+Saunier Duval es una marca destacada por su **fiabilidad y eficiencia**. Las [calderas Saunier Duval](/decogas/marcas/saunier-duval.html) están diseñadas para ofrecer un rendimiento óptimo con un bajo consumo de energía. La tecnología de condensación utilizada en sus modelos ayuda a reducir los costos operativos y las emisiones. La marca también es conocida por su excelente servicio al cliente y garantías extendidas.
 
 ### Ferroli
 
-Ferroli se caracteriza por ofrecer calderas de gas **eficientes y tecnológicamente avanzadas**. Sus productos están diseñados para proporcionar un alto rendimiento con un consumo de energía reducido. Las [calderas Ferroli](https://decogas.com/calderas/ferroli/) son fáciles de usar y mantener, lo que las convierte en una opción popular entre los usuarios. Además, la marca ofrece un buen soporte postventa.
+Ferroli se caracteriza por ofrecer calderas de gas **eficientes y tecnológicamente avanzadas**. Sus productos están diseñados para proporcionar un alto rendimiento con un consumo de energía reducido. Las [calderas Ferroli](/decogas/calderas.html) son fáciles de usar y mantener, lo que las convierte en una opción popular entre los usuarios. Además, la marca ofrece un buen soporte postventa.
 
 ### Ariston
 
-Ariston es conocida por la **calidad y eficiencia** de sus calderas de gas. Sus modelos están diseñados para ofrecer un alto rendimiento y un bajo consumo de energía. Las [calderas Ariston](https://decogas.com/calderas/ariston/) destacan por su fiabilidad y durabilidad, lo que asegura una larga vida útil.
+Ariston es conocida por la **calidad y eficiencia** de sus calderas de gas. Sus modelos están diseñados para ofrecer un alto rendimiento y un bajo consumo de energía. Las [calderas Ariston](/decogas/calderas.html) destacan por su fiabilidad y durabilidad, lo que asegura una larga vida útil.
 
 ### Vaillant
 
-Vaillant es una marca líder en el mercado de calderas de gas, reconocida por su **alta eficiencia y tecnología innovadora**. Sus productos ofrecen una calefacción y agua caliente constante, con un uso eficiente del gas. Las [calderas Vaillant](https://decogas.com/calderas/vaillant/) son duraderas y fáciles de mantener, y la marca ofrece un excelente soporte postventa, lo que garantiza la satisfacción del cliente.
+Vaillant es una marca líder en el mercado de calderas de gas, reconocida por su **alta eficiencia y tecnología innovadora**. Sus productos ofrecen una calefacción y agua caliente constante, con un uso eficiente del gas. Las [calderas Vaillant](/decogas/marcas/vaillant.html) son duraderas y fáciles de mantener, y la marca ofrece un excelente soporte postventa, lo que garantiza la satisfacción del cliente.
 
 ## ¿Qué debes saber sobre las calderas de gas?
 
@@ -98,12 +98,12 @@ Marcas como **Saunier Duval y Mitsubishi** ofrecen garantías extendidas y un ex
 
 ## Consejos para la instalación de calderas
 
-[Instalar una caldera](https://decogas.com/calderas/) de gas requiere ciertos pasos para asegurar una instalación segura y eficiente. Aquí te presento algunos consejos importantes:
+[Instalar una caldera](/decogas/calderas.html) de gas requiere ciertos pasos para asegurar una instalación segura y eficiente. Aquí te presento algunos consejos importantes:
 
 -   **Contrata un profesional certificado:** Asegúrate de que el instalador tenga las credenciales necesarias para realizar la instalación de manera segura.
 -   **Prepara el espacio:** Verifica que el área donde se instalará la caldera cumpla con las normativas de seguridad y ventilación adecuadas.
 -   **Consulta las instrucciones del fabricante:** Sigue las indicaciones del fabricante para la instalación y configuración de la caldera.
 -   **Revisa las conexiones de gas:** Asegúrate de que todas las conexiones de gas estén bien selladas y sin fugas.
--   **Programa el mantenimiento regular:** Realiza revisiones periódicas para asegurar que la caldera funcione de manera óptima y segura. Recuerda que la [reparación de calderas](https://decogas.com/reparacion-calderas/) debe ser realizada por un profesional y en eso podemos echarte una mano.
+-   **Programa el mantenimiento regular:** Realiza revisiones periódicas para asegurar que la caldera funcione de manera óptima y segura. Recuerda que la [reparación de calderas](/decogas/calderas.html) debe ser realizada por un profesional y en eso podemos echarte una mano.
 
 Elegir la **mejor caldera de gas** implica considerar factores como la eficiencia energética, costos de instalación y mantenimiento, y la durabilidad de las marcas. Con esta guía, podrás tomar una decisión informada, asegurando confort y ahorro energético en tu hogar. Recuerda, una buena caldera es una inversión a largo plazo.

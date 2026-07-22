@@ -14,7 +14,7 @@ Las personas estamos acostumbradas a un mínimo de comodidad que, como hemos apr
 
 A continuación, te contamos cómo calcular **la potencia calorífica que necesita tu hogar.**
 
-[Te llamamos gratis](https://decogas.com/contacto/)
+[Te llamamos gratis](/decogas/index.html#contacto)
 
 Existen una gran cantidad de fórmulas, pero para que te sientas más seguro te las mostraremos todas. Nos encargaremos de que las entiendas perfectamente.
 
@@ -33,7 +33,7 @@ Potencia requerida (W) = A x B x C x D x 85
 -   C = Aislamiento
 -   D = Zona climática
 
-[Te llamamos gratis](https://decogas.com/contacto/)
+[Te llamamos gratis](/decogas/index.html#contacto)
 
 ### Espacio a Calentar
 
@@ -68,7 +68,7 @@ Encuentra tu vivienda y aplica el valor correcto a la fórmula:
 -   Zona D: (VALOR = 1,12)
 -   Zona E: (VALOR = 1,19)
 
-[Te llamamos gratis](https://decogas.com/contacto/)
+[Te llamamos gratis](/decogas/index.html#contacto)
 
 ## **Ejemplo de caso real de cálculo de potencia calorífica**
 
@@ -88,6 +88,6 @@ D = Zona climática 1,04
 
 Esto significa que se necesita un radiador eléctrico o, si lo prefiere el cliente, una bomba de calor de 2.055 vatios.
 
-[Te llamamos gratis](https://decogas.com/contacto/)
+[Te llamamos gratis](/decogas/index.html#contacto)
 
-Desde Decogas tratamos de ayudar en la [instalación de calderas](https://decogas.com/calderas/), termos y aires acondicionados. Tenemos un equipo propio de instaladores especializados, para que no tengas ningún problema. Además, puedes venir a visitarnos a nuestra tienda física cuando quieras.
+Desde Decogas tratamos de ayudar en la [instalación de calderas](/decogas/calderas.html), termos y aires acondicionados. Tenemos un equipo propio de instaladores especializados, para que no tengas ningún problema. Además, puedes venir a visitarnos a nuestra tienda física cuando quieras.

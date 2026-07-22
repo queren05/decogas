@@ -33,7 +33,7 @@ Transfiere el calor que se toma del exterior al aire del local que debe calentar
 
 También llamadas bombas de calor geotérmicas, son equipos que **aprovechan la energía latente en la tierra para generar calor**. Emplean ese calor para producir calefacción y agua caliente sanitaria. Este tipo de bombas extraen el calor de pozos o ríos subterráneos que se encuentran a una temperatura estable durante todo el año.
 
-[Te llamamos gratis](https://decogas.com/contacto/)
+[Te llamamos gratis](/decogas/index.html#contacto)
 
 ## Diferencias Bomba de Calor Aire-Agua y Aire-Aire
 
@@ -48,9 +48,9 @@ También llamadas bombas de calor geotérmicas, son equipos que **aprovechan la
 
 ![aerotermia](/decogas/blog-img/l-aerotermia2-300x300-1.webp) Elige el sistema de aerotermia que mejor se adapte a tus necesidades. Estamos a tu completa disposición para aclarar dudas o asesorarte en todos los temas referentes a bombas de calor Aire-Agua o Aire-Aire. Haz de tu hogar un espacio lleno de confort y seguridad para ti y los tuyos. Aprovecha esta información para conocer mejor lo que necesitas y lo que le solicitarás al equipo de expertos que realice las labores de instalación en tu hogar. **Trabaja de la mano de los mejores profesionales en el área y obtén los resultados que mereces.**
 
-[Te llamamos gratis](https://decogas.com/contacto/)
+[Te llamamos gratis](/decogas/index.html#contacto)
 
-Desde Decogas tratamos de ayudar en la [instalación de calderas](https://decogas.com/calderas/), termos y aires acondicionados. Tenemos un equipo propio de instaladores especializados, para que no tengas ningún problema. Además, puedes venir a visitarnos a nuestra tienda física cuando quieras.
+Desde Decogas tratamos de ayudar en la [instalación de calderas](/decogas/calderas.html), termos y aires acondicionados. Tenemos un equipo propio de instaladores especializados, para que no tengas ningún problema. Además, puedes venir a visitarnos a nuestra tienda física cuando quieras.
 
 ---
 

@@ -8,7 +8,7 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 6
 ---
-**Instalar un** **acumulador a una [caldera](https://decogas.com/calderas/)** presenta ventajas como dar confort extra en tu hogar y garantizar el suministro de agua en el momento en que haga falta, sin tener que hacer un gasto extra de combustible para ello. La sinergia entre una caldera y un acumulador la combinación perfecta para comodidad y ahorro en la calefacción.
+**Instalar un** **acumulador a una [caldera](/decogas/calderas.html)** presenta ventajas como dar confort extra en tu hogar y garantizar el suministro de agua en el momento en que haga falta, sin tener que hacer un gasto extra de combustible para ello. La sinergia entre una caldera y un acumulador la combinación perfecta para comodidad y ahorro en la calefacción.
 
 ![acumulador en placas solares](/decogas/blog-img/istockphoto-1258729868-612x612-1.webp)
 

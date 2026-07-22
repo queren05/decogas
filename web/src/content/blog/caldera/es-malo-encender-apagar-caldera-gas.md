@@ -10,7 +10,7 @@ readingTime: 5
 ---
 ![mano encendiendo calefacción](/decogas/blog-img/es-malo-encender-y-apagar-la-caldera-de-gas-1.webp)
 
-¿Te has preguntado si **encender y apagar frecuentemente la** **[**caldera de gas**](https://decogas.com/calderas/)** afecta su rendimiento y tu factura energética? Este hábito puede influir en el **consumo de energía****,** el **desgaste de componentes** y la **eficiencia** de tu sistema de calefacción. En este artículo profundizaremos en el impacto de encender y apagar frecuentemente la caldera, así tendrás más herramientas para hacer un uso eficiente del sistema.
+¿Te has preguntado si **encender y apagar frecuentemente la** **[**caldera de gas**](/decogas/calderas.html)** afecta su rendimiento y tu factura energética? Este hábito puede influir en el **consumo de energía****,** el **desgaste de componentes** y la **eficiencia** de tu sistema de calefacción. En este artículo profundizaremos en el impacto de encender y apagar frecuentemente la caldera, así tendrás más herramientas para hacer un uso eficiente del sistema.
 
 ## Funcionamiento de una caldera de gas
 

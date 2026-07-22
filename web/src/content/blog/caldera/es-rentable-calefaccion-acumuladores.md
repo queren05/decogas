@@ -68,7 +68,7 @@ Aunque los acumuladores suelen tener una vida útil prolongada, **es importante 
 
 La instalación de un sistema de acumuladores debe realizarse correctamente para garantizar eficiencia y durabilidad en su uso diario.
 
--   **Contrata a un instalador certificado:** Un [profesional cualificado en la instalación de calefacción](https://decogas.com/instalacion-calefaccion/) garantizará que el sistema esté correctamente dimensionado y ajustado a las necesidades de tu hogar.
+-   **Contrata a un instalador certificado:** Un [profesional cualificado en la instalación de calefacción](/decogas/index.html) garantizará que el sistema esté correctamente dimensionado y ajustado a las necesidades de tu hogar.
 -   **Asegura un buen aislamiento en la vivienda:** Un buen aislamiento mejora la eficiencia del sistema, evitando pérdidas de calor y maximizando el rendimiento del acumulador.
 -   **Realiza un mantenimiento regular:** Revisar las resistencias y el sistema de ventilación asegurará que el equipo funcione de manera óptima y prolongará su vida útil.
 

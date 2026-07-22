@@ -10,7 +10,7 @@ readingTime: 5
 ---
 ![plomero reparando fallo intercambiador caldera](/decogas/blog-img/fallo-intercambiador-caldera.webp)
 
-Un **intercambiador de [caldera](https://decogas.com/calderas/)** es fundamental para el sistema de calefacción. Cuando falla, puede generar grandes inconvenientes, como la pérdida de eficiencia energética y el aumento del consumo. Vamos a explorar las causas más comunes del fallo del intercambiador de caldera, las soluciones efectivas y cómo puedes mantener tu caldera en óptimas condiciones. **Es importante entender estos aspectos para asegurar un funcionamiento eficiente y prolongar la vida útil de tu sistema de calefacción****.**
+Un **intercambiador de [caldera](/decogas/calderas.html)** es fundamental para el sistema de calefacción. Cuando falla, puede generar grandes inconvenientes, como la pérdida de eficiencia energética y el aumento del consumo. Vamos a explorar las causas más comunes del fallo del intercambiador de caldera, las soluciones efectivas y cómo puedes mantener tu caldera en óptimas condiciones. **Es importante entender estos aspectos para asegurar un funcionamiento eficiente y prolongar la vida útil de tu sistema de calefacción****.**
 
 ## Qué es un intercambiador de caldera
 
@@ -80,4 +80,4 @@ Tener un intercambiador de caldera en buen estado garantiza un ambiente conforta
 
 ## Contacto y servicios profesionales
 
-Es importante que puedas contar con servicios profesionales para el mantenimiento y reparación de tu caldera. Nosotros ofrecemos diagnósticos precisos, mantenimiento regular y [reparaciones eficientes](https://decogas.com/reparacion-calderas/) para asegurar el funcionamiento óptimo de tu sistema de calefacción. **Nuestro equipo de técnicos cualificados está disponible para atender cualquier incidencia y proporcionar soluciones personalizadas**. No dudes en [contactarnos](https://decogas.com/contacto/) a través de nuestra página web para recibir asesoramiento experto y obtener un presupuesto personalizado. También puedes llamarnos al número **91 993 01 68**.
+Es importante que puedas contar con servicios profesionales para el mantenimiento y reparación de tu caldera. Nosotros ofrecemos diagnósticos precisos, mantenimiento regular y [reparaciones eficientes](/decogas/calderas.html) para asegurar el funcionamiento óptimo de tu sistema de calefacción. **Nuestro equipo de técnicos cualificados está disponible para atender cualquier incidencia y proporcionar soluciones personalizadas**. No dudes en [contactarnos](/decogas/index.html#contacto) a través de nuestra página web para recibir asesoramiento experto y obtener un presupuesto personalizado. También puedes llamarnos al número **91 993 01 68**.

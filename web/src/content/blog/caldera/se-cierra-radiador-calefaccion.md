@@ -14,7 +14,7 @@ La eficiencia energética es un aspecto crucial en el uso de sistemas de calefac
 
 ## **Importancia del uso eficiente de los radiadores**
 
-El uso eficiente de los [radiadores](https://decogas.com/radiadores/) puede significar un ahorro considerable en la factura de gas. Cerrar radiadores innecesarios en habitaciones no utilizadas puede **reducir el consumo de gas**, pero es importante entender cómo y cuándo hacerlo.
+El uso eficiente de los [radiadores](/decogas/index.html#contacto) puede significar un ahorro considerable en la factura de gas. Cerrar radiadores innecesarios en habitaciones no utilizadas puede **reducir el consumo de gas**, pero es importante entender cómo y cuándo hacerlo.
 
 La eficiencia de un radiador no solo depende de su estado, sino también de cómo se utiliza. Un manejo adecuado de las **válvulas y manetas de los radiadores** puede mejorar significativamente la eficiencia del sistema de calefacción.
 

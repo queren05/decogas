@@ -8,7 +8,7 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 6
 ---
-¿Qué debes tener en cuenta en el **mantenimiento de calderas de gas**? Existen dos claves para garantizar el buen estado de las [calderas de gas](https://decogas.com/calderas/), las cuales que suelen confundirse:
+¿Qué debes tener en cuenta en el **mantenimiento de calderas de gas**? Existen dos claves para garantizar el buen estado de las [calderas de gas](/decogas/calderas.html), las cuales que suelen confundirse:
 
 – La inspección de la instalación de gas a calderas de gas
 
@@ -123,4 +123,4 @@ Son comunes los casos de instaladores no autorizados que proporcionan sus servic
 
 Esperamos haberte ayudado a resolver tus dudas sobre el **mantenimiento de calderas de gas**. Ya conoces qué es una inspección de la instalación de gas a calderas de gas, la revisión de las mismas y todo lo relacionado con ellas.
 
-Para más dudas, [siempre puedes preguntarnos directamente](https://decogas.com/contacto/).
+Para más dudas, [siempre puedes preguntarnos directamente](/decogas/index.html#contacto).

@@ -10,7 +10,7 @@ readingTime: 5
 ---
 ![Bomba de calor moderna](/decogas/blog-img/vale-la-pena-aerotermia-con-radiadores-2.webp)
 
-**¿Estás pensando en modernizar la calefacción de tu casa y te preguntas si realmente vale la pena [instalar aerotermia](https://decogas.com/aerotermia/) con radiadores?** Tal vez has escuchado hablar de sus ventajas en eficiencia y ahorro, pero sigues sin tener claro si es la opción adecuada para tu vivienda. ¿Cómo funciona exactamente este sistema? ¿Se adapta bien a los radiadores que ya tienes?
+**¿Estás pensando en modernizar la calefacción de tu casa y te preguntas si realmente vale la pena [instalar aerotermia](/decogas/index.html#contacto) con radiadores?** Tal vez has escuchado hablar de sus ventajas en eficiencia y ahorro, pero sigues sin tener claro si es la opción adecuada para tu vivienda. ¿Cómo funciona exactamente este sistema? ¿Se adapta bien a los radiadores que ya tienes?
 
 Si buscas respuestas claras, experiencias reales y una opinión sincera basada en el uso práctico, quédate. Vamos a contarte todo lo que necesitas saber antes de decidirte.
 
@@ -75,7 +75,7 @@ Factores que influyen en el coste:
 
 La aerotermia necesita un **mantenimiento sencillo**. Un técnico revisa el estado de la bomba de calor, limpia los filtros y comprueba que el sistema hidráulico funciona bien. También es fundamental mantener los radiadores en buen estado, por lo que conviene saber **[cómo purgar los radiadores correctamente](/decogas/blog/caldera/como-purgar-radiadores-pasos/)**. Este mantenimiento suele hacerse una vez al año.
 
-La mayoría de los usuarios encuentran que el sistema es menos exigente que una [caldera de gas tradicional](https://decogas.com/calderas/). El mantenimiento regular alarga la vida útil y asegura el mejor rendimiento.
+La mayoría de los usuarios encuentran que el sistema es menos exigente que una [caldera de gas tradicional](/decogas/calderas.html). El mantenimiento regular alarga la vida útil y asegura el mejor rendimiento.
 
 ### ¿Cómo se gestiona la temperatura interior?
 

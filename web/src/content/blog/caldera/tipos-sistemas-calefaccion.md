@@ -18,7 +18,7 @@ La elección de un sistema de calefacción adecuado es importante para garantiza
 
 ### Calefacción de gas
 
-Las [calderas de gas](https://decogas.com/calderas/) es una de las opciones más populares debido a su eficiencia y capacidad para calentar espacios rápidamente. Es ideal para grandes espacios y **se considera una de las opciones más económicas** a largo plazo.
+Las [calderas de gas](/decogas/calderas.html) es una de las opciones más populares debido a su eficiencia y capacidad para calentar espacios rápidamente. Es ideal para grandes espacios y **se considera una de las opciones más económicas** a largo plazo.
 
 Existen varios tipos de calderas de gas, incluyendo las calderas convencionales, las de condensación y las combinadas, cada una adecuada para diferentes necesidades y tipos de vivienda.
 
@@ -30,7 +30,7 @@ Los radiadores eléctricos son **fáciles de instalar** y ofrecen una solución 
 
 La biomasa **utiliza materiales orgánicos** como pellets de madera, huesos de aceituna o cáscaras de frutos secos para generar calor. Es una opción renovable y sostenible, aunque requiere espacio para almacenar el combustible.
 
-Las calderas de biomasa y las [estufas de pellets](https://decogas.com/estufas-pellets/) son eficientes y pueden calentar grandes espacios. Su tecnología avanzada permite un **control preciso de la temperatura** y una combustión más limpia.
+Las calderas de biomasa y las [estufas de pellets](/decogas/index.html#contacto) son eficientes y pueden calentar grandes espacios. Su tecnología avanzada permite un **control preciso de la temperatura** y una combustión más limpia.
 
 ### Bombas de calor
 
@@ -40,7 +40,7 @@ Aunque la inversión inicial puede ser alta, las bombas de calor ofrecen **bajos
 
 ### Calderas de gasoil
 
-Las [calderas de gasoil](https://decogas.com/calderas-de-gasoil/) son una alternativa para lugares sin acceso a gas natural. Aunque el gasoil puede ser más caro, estas calderas son eficientes y pueden calentar grandes espacios rápidamente.
+Las [calderas de gasoil](/decogas/calderas.html) son una alternativa para lugares sin acceso a gas natural. Aunque el gasoil puede ser más caro, estas calderas son eficientes y pueden calentar grandes espacios rápidamente.
 
 ### Suelo radiante eléctrico
 
@@ -56,7 +56,7 @@ Además, la elección impacta directamente en el **confort y bienestar dentro de
 
 Finalmente, elegir el sistema correcto **evita gastos innecesarios en instalaciones o mantenimientos futuros**, optimizando la inversión inicial para el calentamiento del hogar.
 
-Si tienes dudas sobre cuál es la opción que más te conviene, te invitamos a [contactar con nosotros](https://decogas.com/contacto/). Cuéntanos cuáles son tus necesidades y te brindaremos toda la asesoría que necesites.
+Si tienes dudas sobre cuál es la opción que más te conviene, te invitamos a [contactar con nosotros](/decogas/index.html#contacto). Cuéntanos cuáles son tus necesidades y te brindaremos toda la asesoría que necesites.
 
 ## Cómo elegir el mejor sistema de calefacción
 

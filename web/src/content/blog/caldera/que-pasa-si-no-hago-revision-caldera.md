@@ -12,7 +12,7 @@ La revisión de tu caldera de gas es **fundamental y obligatoria.** La misión d
 
 ## Normativa de las calderas de gas
 
-La revisión de las calderas de gas viene regulada en el **Reglamento de las Instalaciones Térmicas en los Edificios, RITE**. En esta legislación se incluyen las condiciones que tiene que cumplir tu instalación climática, sea cual sea el [tipo de caldera que tengas](/decogas/blog/caldera/caldera-gas-elegir-comprar/). Esta revisión **debe realizarse cada dos años** y, en el caso de [calentadores de agua](https://decogas.com/calentadores/), cada 5 años.
+La revisión de las calderas de gas viene regulada en el **Reglamento de las Instalaciones Térmicas en los Edificios, RITE**. En esta legislación se incluyen las condiciones que tiene que cumplir tu instalación climática, sea cual sea el [tipo de caldera que tengas](/decogas/blog/caldera/caldera-gas-elegir-comprar/). Esta revisión **debe realizarse cada dos años** y, en el caso de [calentadores de agua](/decogas/termos.html), cada 5 años.
 
 ![Revisión caldera de gas](/decogas/blog-img/control-caldera-gas-alcobendas-1.webp)
 
@@ -33,7 +33,7 @@ La **inspección periódica** puede realizarse por cualquier profesional que se 
 -   **Fabricante** de la propia caldera.
 -   **Profesional independiente**.
 
-[Te llamamos gratis](https://decogas.com/contacto/)
+[Te llamamos gratis](/decogas/index.html#contacto)
 
 ## ¿Cuánto cuesta la revisión de la caldera?
 
@@ -41,9 +41,9 @@ La revisión de una caldera de gas no tiene un **precio estipulado** y es la pro
 
 ## ¿Es necesario realizar la revisión obligatoria de la caldera cada año?
 
-Si, es **obligatorio**. Cualquier vivienda que tenga [instalada una caldera de gas](https://decogas.com/calderas/) debe **revisarla cada 2 años**; de esta forma, se garantiza la eficiencia energética y el correcto mantenimiento de tu caldera.
+Si, es **obligatorio**. Cualquier vivienda que tenga [instalada una caldera de gas](/decogas/calderas.html) debe **revisarla cada 2 años**; de esta forma, se garantiza la eficiencia energética y el correcto mantenimiento de tu caldera.
 
-También es importante recordar que las [calderas de gasóil](https://decogas.com/calderas-de-gasoil/) y propano, entre otras, al emplear otro tipo de energía como combustión tienen que **revisarse anualmente**. En el caso de los calentadores de agua, la revisión es cada 5 años y el gas butano es de forma anual. Esta revisión no tiene nada que ver con la **inspección reglamentaria** que tiene que realizarse cada 5 años, 4 si vives en el País Vasco
+También es importante recordar que las [calderas de gasóil](/decogas/calderas.html) y propano, entre otras, al emplear otro tipo de energía como combustión tienen que **revisarse anualmente**. En el caso de los calentadores de agua, la revisión es cada 5 años y el gas butano es de forma anual. Esta revisión no tiene nada que ver con la **inspección reglamentaria** que tiene que realizarse cada 5 años, 4 si vives en el País Vasco
 
 ![Caldera de gas en la cocina de una casa](/decogas/blog-img/caldera-gas-hogar-1.webp)
 
@@ -85,6 +85,6 @@ Si la inspección no es positiva debes **dirigirte a tu empresa** **de suministr
 
 El **técnico no puede reparar estos problemas**, él solo está capacitado para identificarlos. Por eso, si ocurre que tu caldera de gas tiene cualquier problema, deberás seguir el procedimiento comentado anteriormente.
 
-[Te llamamos gratis](https://decogas.com/contacto/)
+[Te llamamos gratis](/decogas/index.html#contacto)
 
 Desde Decogas tratamos de ayudar en la instalación de calderas, termos y aires acondicionados. Tenemos un equipo propio de instaladores especializados, para que no tengas ningún problema. Además, puedes venir a visitarnos a nuestra tienda física cuando quieras.

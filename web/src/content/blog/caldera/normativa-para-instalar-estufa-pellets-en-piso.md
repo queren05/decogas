@@ -8,7 +8,7 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 4
 ---
-Para las personas que desean mejorar su sistema de calefacción o reducir su impacto ambiental, tener una [estufa de pellets](https://decogas.com/estufas-pellets/) en un piso es una opción cada vez más popular. Sin embargo, antes de invertir en una estufa de pellets, es importante conocer la **normativa para instalar una estufa de pellets** para garantizar una instalación correcta y segura del aparato.
+Para las personas que desean mejorar su sistema de calefacción o reducir su impacto ambiental, tener una [estufa de pellets](/decogas/index.html#contacto) en un piso es una opción cada vez más popular. Sin embargo, antes de invertir en una estufa de pellets, es importante conocer la **normativa para instalar una estufa de pellets** para garantizar una instalación correcta y segura del aparato.
 
 La norma [UNE-EN ISO 17829:2016](https://www.une.org/encuentra-tu-norma/busca-tu-norma/norma?c=N0056485) en España cubre todos los aspectos relacionados con los aparatos de calefacción alimentados con pellets, especificando valores de eficiencia energética, emisiones de gases y otros requisitos. Además, los códigos de edificación y otras normativas desempeñan un papel importante a la hora de determinar qué tipo de instalación es posible en cada caso concreto.
 

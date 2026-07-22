@@ -20,7 +20,7 @@ Para que te hagas una idea, un modelo que trabajan a un bajo nivel de ruido son 
 
 Por otra parte, es necesario conocer el **lugar donde vas a instalar el aire acondicionado**; es decir, no es lo mismo que este electrodoméstico esté pensado para una oficina que para una biblioteca, el nivel de ruido al que trabaje en la segunda siempre debe ser menor.
 
-En Decogas disponemos de una [amplia variedad de productos](https://decogas.com/aire-acondicionado/) pensados para **mantener tu vivienda con un clima perfecto** los 12 meses del año. Además, al ser silenciosos suelen incluir la función _Sleep_ para disminuir, aún más, esta nivel de ruido.
+En Decogas disponemos de una [amplia variedad de productos](/decogas/aires.html) pensados para **mantener tu vivienda con un clima perfecto** los 12 meses del año. Además, al ser silenciosos suelen incluir la función _Sleep_ para disminuir, aún más, esta nivel de ruido.
 
 ## Características de un aire acondicionado silencioso
 
@@ -57,6 +57,6 @@ A continuación te damos una **serie de consejos** que pueden ayudarte a comprar
 
 En la actualidad, existe una gran variedad de aires acondicionados que trabajan a un bajo nivel sonoro. Por eso, en Decogas solamente trabajamos con los **mejores productos** para dar a tu vivienda el clima perfecto con el mayor confort posible.
 
-Como hemos visto, los modelos más silenciosos son aquellos que no superan los 24dB. [Saunier Duval](https://decogas.com/aire-acondicionado/saunier-duval/), [Daikin](https://decogas.com/aire-acondicionado/daikin/) o [Fujitsu](https://decogas.com/aire-acondicionado/fujitsu/), entre otras, son algunas de las marcas más reconocidas por ofrecer los **aires acondicionados más silenciosos del mercado**.
+Como hemos visto, los modelos más silenciosos son aquellos que no superan los 24dB. [Saunier Duval](/decogas/aires.htmlsaunier-duval/), [Daikin](/decogas/marcas/daikin.html) o [Fujitsu](/decogas/marcas/fujitsu.html), entre otras, son algunas de las marcas más reconocidas por ofrecer los **aires acondicionados más silenciosos del mercado**.
 
-Lo mejor si quieres adquirir un aire acondicionado es que te pongas en [contacto con Decogas](https://decogas.com/contacto/). Nuestros trabajadores se encargarán de analizar tu situación y te **ayudarán a elegir el modelo** que mejor se adapta a tus necesidades.
+Lo mejor si quieres adquirir un aire acondicionado es que te pongas en [contacto con Decogas](/decogas/index.html#contacto). Nuestros trabajadores se encargarán de analizar tu situación y te **ayudarán a elegir el modelo** que mejor se adapta a tus necesidades.

@@ -8,7 +8,7 @@ tagClass: "aire"
 breadcrumb: "Aire acondicionado"
 readingTime: 11
 ---
-¡Bienvenidos nuestra **guía completa sobre los modos de aire acondicionado**! Si estás buscando información sobre cómo maximizar el rendimiento y la comodidad de tu sistema de climatización, estás en el lugar adecuado, somos expetos en [aire acondicionados](https://decogas.com/aire-acondicionado/) y sistemas de [calefaccción](https://decogas.com/calentadores/).
+¡Bienvenidos nuestra **guía completa sobre los modos de aire acondicionado**! Si estás buscando información sobre cómo maximizar el rendimiento y la comodidad de tu sistema de climatización, estás en el lugar adecuado, somos expetos en [aire acondicionados](/decogas/aires.html) y sistemas de [calefaccción](/decogas/termos.html).
 
 En este artículo, **exploraremos los diferentes modos de funcionamiento del aire acondicionado y cómo aprovechar al máximo cada uno de ellos,** para sacarles el mayor provecho.
 
@@ -149,7 +149,7 @@ Al usar los diferentes modos de aire acondicionado correctamente, puede ahorrar 
 
 ---
 
-En conclusión, los diferentes modos de [aire acondicionado](https://decogas.com/aire-acondicionado/) ofrecen una variedad de opciones para adaptarse a tus necesidades de confort y eficiencia energética.
+En conclusión, los diferentes modos de [aire acondicionado](/decogas/aires.html) ofrecen una variedad de opciones para adaptarse a tus necesidades de confort y eficiencia energética.
 
 El **modo de refrigeración** te permite mantener el frescor en los días calurosos, mientras que el modo de calefacción te brinda un calor confortable en los días fríos. El **modo de ventilación** circula el aire fresco sin acondicionamiento adicional, y el **modo de deshumidificación** controla la humedad y el ambiente.
 

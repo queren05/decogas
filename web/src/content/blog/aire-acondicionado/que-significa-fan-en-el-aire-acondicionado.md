@@ -8,7 +8,7 @@ tagClass: "aire"
 breadcrumb: "Aire acondicionado"
 readingTime: 4
 ---
-Con la llegada de las olas de calor, nos apetece encender el [aire acondicionado](https://decogas.com/aire-acondicionado/) dentro de los hogares para estar fresquitos. En muchos modelos se incluyen funciones que desconocemos su uso. Un ejemplo de esto es **qué significa FAN en el aire acondicionado**.
+Con la llegada de las olas de calor, nos apetece encender el [aire acondicionado](/decogas/aires.html) dentro de los hogares para estar fresquitos. En muchos modelos se incluyen funciones que desconocemos su uso. Un ejemplo de esto es **qué significa FAN en el aire acondicionado**.
 
 ![chico manipulando el aire acondicionado con el mando a distancia](/decogas/blog-img/modo-fan-aire-acondicionado.webp)
 

@@ -10,7 +10,7 @@ readingTime: 6
 ---
 ![técnico reparando fallo sonda temperatura caldera](/decogas/blog-img/fallo-sonda-temperatura-caldera.webp)
 
-**¿Has notado que tu [caldera](https://decogas.com/calderas/) no funciona como debería?** Puede que el problema esté en la **sonda de temperatura**. Este componente es de gran importancia para el correcto funcionamiento de la caldera, regulando la temperatura del agua y garantizando un rendimiento óptimo.
+**¿Has notado que tu [caldera](/decogas/calderas.html) no funciona como debería?** Puede que el problema esté en la **sonda de temperatura**. Este componente es de gran importancia para el correcto funcionamiento de la caldera, regulando la temperatura del agua y garantizando un rendimiento óptimo.
 
 Un fallo en esta pieza puede llevar a ineficiencias y altos costos de energía. En este artículo te explicaremos **cómo identificar y solucionar problemas comunes con la sonda de temperatura** para que tu caldera vuelva a funcionar perfectamente.
 
@@ -96,7 +96,7 @@ En ocasiones, **limpiar la sonda de cualquier residuo acumulado** puede mejorar 
 
 Si los ajustes y las reparaciones básicas no resuelven el problema, es posible que necesites **reemplazar la sonda de temperatura**. Reemplazar la sonda puede ser una solución efectiva y a menudo económica para problemas persistentes.
 
-Consulta el manual de la caldera para obtener instrucciones específicas sobre cómo realizar el reemplazo, o contacta a un **técnico cualificado en [reparación de calderas](https://decogas.com/reparacion-calderas/)** si prefieres no hacerlo tú mismo.
+Consulta el manual de la caldera para obtener instrucciones específicas sobre cómo realizar el reemplazo, o contacta a un **técnico cualificado en [reparación de calderas](/decogas/calderas.html)** si prefieres no hacerlo tú mismo.
 
 ### Medidas de seguridad a tener en cuenta
 

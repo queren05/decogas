@@ -8,11 +8,11 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 3
 ---
-El sistema de calefacción perfecto es aquel que te ofrece, al mejor precio, la **mayor comodidad y confort**. Antes de elegir entre suelo radiante o [radiadores](https://decogas.com/radiadores/), lo mejor es que analices todas sus características, ventajas e inconvenientes.
+El sistema de calefacción perfecto es aquel que te ofrece, al mejor precio, la **mayor comodidad y confort**. Antes de elegir entre suelo radiante o [radiadores](/decogas/index.html#contacto), lo mejor es que analices todas sus características, ventajas e inconvenientes.
 
 ## Diferencias para elegir entre suelo radiante o radiadores
 
-Ambos sistemas de calefacción se pueden emplear en [calderas de gas](https://decogas.com/calderas/), de [Gasóil](https://decogas.com/calderas-de-gasoil/) o de [pellet](https://decogas.com/estufas-pellets/), entre otras, para climatizar un espacio. Aun así, existen **diferencias** que pueden ayudarte a elegir.
+Ambos sistemas de calefacción se pueden emplear en [calderas de gas](/decogas/calderas.html), de [Gasóil](/decogas/calderas.html) o de [pellet](/decogas/index.html#contacto), entre otras, para climatizar un espacio. Aun así, existen **diferencias** que pueden ayudarte a elegir.
 
 También se puede comparar la eficiencia de estos dos sistemas con el [suelo radiante con aerotermia](/decogas/blog/aerotermia/suelo-radiante-aerotermia/)
 
@@ -66,4 +66,4 @@ A continuación te mostramos unos **consejos** que te ayudarán a elegir entre s
 -   **Uso habitual**: lo mejor es instalar suelo radiante porque te permite disfrutar de una temperatura homogénea y constante todo el día.
 -   **Utilización puntual**: si solamente estás unas horas en tu vivienda, lo mejor es optar por los radiadores.
 
-Cómo ves, la elección **depende de tu vivienda y tus necesidades**; además, si tienes alguna duda, puedes ponerte en [contacto con nosotros](https://decogas.com/contacto/) y nuestros profesionales te ayudarán.
+Cómo ves, la elección **depende de tu vivienda y tus necesidades**; además, si tienes alguna duda, puedes ponerte en [contacto con nosotros](/decogas/index.html#contacto) y nuestros profesionales te ayudarán.

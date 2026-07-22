@@ -59,4 +59,4 @@ Ahora que ya sabes cómo instalar una hidro estufa fácilmente en España, ¡es 
 
 La **hidro estufa de pellet** es una solución eficiente para el calentamiento de tu vivienda, ya que son más eficientes que otros tipos de estufas que emiten grandes cantidades de dióxido de carbono. Además, su instalación es sencilla y su coste es bajo.
 
-Si quieres información sobre este tipo de estufas o las [estufas de pellets](https://decogas.com/estufas-pellets/), [contacta con Decogas](https://decogas.com/contacto/).
+Si quieres información sobre este tipo de estufas o las [estufas de pellets](/decogas/index.html#contacto), [contacta con Decogas](/decogas/index.html#contacto).

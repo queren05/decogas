@@ -16,7 +16,7 @@ Si tienes otro problema, te invitamos a consultar el resto de nuestros artículo
 
 Para resolver este problema, en primer lugar, debes tranquilizarte. Puede ser un fallo realmente fácil de solucionar. Quizás sólo baste con comprobar:
 
-1.  Cuál es **la temperatura de las [calderas de gas](https://decogas.com/calderas/)** (si hace una temperatura baja, el agua más fría de la red llega más fría y el salto térmico tiene que hacer el sistema para calentarla es mayor.
+1.  Cuál es **la temperatura de las [calderas de gas](/decogas/calderas.html)** (si hace una temperatura baja, el agua más fría de la red llega más fría y el salto térmico tiene que hacer el sistema para calentarla es mayor.
 2.  Si hemos **cerrado la llave de paso del agua** (de la caldera y del hogar)
 3.  Si **el suministro de luz y gas funciona** adecuadamente.
 4.  Si **los niveles de presión** están entre los 1,2 y 1,5 bares.
@@ -64,4 +64,4 @@ Posiblemente haya un **problema con el intercambiador sanitario**. Éste cuenta 
 
 En este caso, habría que reemplazar esta pieza.
 
-Ya sabes por qué normalmente **la caldera enciende, pero no calienta el agua**. En Decogas, esperamos haberte ayudado a solucionar tus problemas. Si éstos persisten, lo mejor es que te hagas con una [caldera](https://decogas.com/calderas/) de calidad que funcione correctamente.
+Ya sabes por qué normalmente **la caldera enciende, pero no calienta el agua**. En Decogas, esperamos haberte ayudado a solucionar tus problemas. Si éstos persisten, lo mejor es que te hagas con una [caldera](/decogas/calderas.html) de calidad que funcione correctamente.

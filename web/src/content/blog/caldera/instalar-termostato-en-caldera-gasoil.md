@@ -14,11 +14,11 @@ Saber [como funciona la calefacción](/decogas/blog/caldera/como-funciona-calder
 
 ## ![termostato digital](/decogas/blog-img/istockphoto-621588062-612x612-1.webp)Qué es y cómo funciona un termostato
 
-Este dispositivo dispone de un sistema que **regula la temperatura de la [caldera](https://decogas.com/calderas/)** en función de la necesidad. Para ello, cuenta con un termómetro de ambiente que **mide la temperatura del ambiente** de la estancia donde está instalado. Una vez que actúa, compara la temperatura del lugar con la programada y lleva una monitorización continua de la misma.
+Este dispositivo dispone de un sistema que **regula la temperatura de la [caldera](/decogas/calderas.html)** en función de la necesidad. Para ello, cuenta con un termómetro de ambiente que **mide la temperatura del ambiente** de la estancia donde está instalado. Una vez que actúa, compara la temperatura del lugar con la programada y lleva una monitorización continua de la misma.
 
-El termostato suele conectarse al **circuito eléctrico de un equipo de climatización** (aquí hablamos del funcionamiento del termostato de una [caldera de gasoil](https://decogas.com/calderas-de-gasoil/)).
+El termostato suele conectarse al **circuito eléctrico de un equipo de climatización** (aquí hablamos del funcionamiento del termostato de una [caldera de gasoil](/decogas/calderas.html)).
 
-Con independencia de que esté conectado a la calefacción o al [aire acondicionado](https://decogas.com/aire-acondicionado/), el termostato funciona de la siguiente manera:
+Con independencia de que esté conectado a la calefacción o al [aire acondicionado](/decogas/aires.html), el termostato funciona de la siguiente manera:
 
 -   Recibe la programación que el usuario indica o registra la temperatura.
 -   Detecta que el ambiente alcanzó la temperatura programada, abre el circuito y el equipo se apaga.

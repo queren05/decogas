@@ -8,7 +8,7 @@ tagClass: "aire"
 breadcrumb: "Aire acondicionado"
 readingTime: 4
 ---
-El consumo energético de los electrodomésticos como el [aire acondicionado](https://decogas.com/aire-acondicionado/) es una preocupación en todos los hogares y más desde que el precio de la luz se ha disparado. Ante esta necesidad de [ahorrar en consumo](/decogas/blog/aire-acondicionado/aire-acondicionado-de-bajo-consumo/), buscamos equipos cada vez más eficientes. Por ello, en este post te explicamos, **cuánto gasta un aire acondicionado con bomba de calor**.
+El consumo energético de los electrodomésticos como el [aire acondicionado](/decogas/aires.html) es una preocupación en todos los hogares y más desde que el precio de la luz se ha disparado. Ante esta necesidad de [ahorrar en consumo](/decogas/blog/aire-acondicionado/aire-acondicionado-de-bajo-consumo/), buscamos equipos cada vez más eficientes. Por ello, en este post te explicamos, **cuánto gasta un aire acondicionado con bomba de calor**.
 
 ![Controlando aire acondicionado con mando a distancia](/decogas/blog-img/istockphoto-516596256-612x612-1.webp)
 
@@ -54,7 +54,7 @@ Las bombas de calor tienen grandes ventajas frente a otros sistemas de calefacci
 
 ## **¿Qué consume más, el aire acondicionado convencional o por bomba de calor?**
 
-Los sistemas de climatización con bomba de calor suponen un ahorro al contener en un **único aparato la refrigeración y la calefacción**. Ambas opciones pueden variar en función de la época del año. Por el contrario, un [aire acondicionado](https://decogas.com/aire-acondicionado/) convencional solo tiene aire frío.
+Los sistemas de climatización con bomba de calor suponen un ahorro al contener en un **único aparato la refrigeración y la calefacción**. Ambas opciones pueden variar en función de la época del año. Por el contrario, un [aire acondicionado](/decogas/aires.html) convencional solo tiene aire frío.
 
 En cuanto al [consumo de los aires convencionales](/decogas/blog/aire-acondicionado/cuanto-consume-aire-acondicionado/), por cada kW de energía calorífica consumen 1 kW de electricidad. Las bombas de calor, por su parte, pueden **crear hasta 4 kW** de energía de climatización por cada kW de electricidad, haciendo que sea más ventajoso contar con ellas.
 

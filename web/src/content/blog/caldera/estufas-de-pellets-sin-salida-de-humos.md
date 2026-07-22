@@ -8,7 +8,7 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 5
 ---
-Las **[estufas de pellets](https://decogas.com/estufas-pellets/) sin salida de humos** son una alternativa moderna para calentar el hogar sin necesidad de una chimenea tradicional. Estas estufas modernas son una opción cada vez más popular para aquellos que quieren calentar su hogar de forma eficiente y sin la necesidad de una salida de humos. Estas estufas funcionan con pellets, que son pequeñas bolitas de madera comprimida, y no emiten humo alguno. Esto significa que no hay necesidad de preocuparse por los humos dañinos para la salud o el medio ambiente.
+Las **[estufas de pellets](/decogas/index.html#contacto) sin salida de humos** son una alternativa moderna para calentar el hogar sin necesidad de una chimenea tradicional. Estas estufas modernas son una opción cada vez más popular para aquellos que quieren calentar su hogar de forma eficiente y sin la necesidad de una salida de humos. Estas estufas funcionan con pellets, que son pequeñas bolitas de madera comprimida, y no emiten humo alguno. Esto significa que no hay necesidad de preocuparse por los humos dañinos para la salud o el medio ambiente.
 
 Estas estufas son **más eficientes que las estufas de leña tradicionales**, ya que los pellets tienen una mayor densidad de energía que la leña. Esto significa que los pellets pueden producir una mayor cantidad de calor por unidad de peso. Además, los pellets son más fáciles de almacenar que la leña, lo que significa que no hay necesidad de preocuparse por el almacenamiento de la leña.
 
@@ -56,4 +56,4 @@ Es importante que el lugar elegido para la estufa de pellets cumpla con los requ
 
 ## Conclusión
 
-El uso de **estufas de pellets sin salida de humos** está en aumento, ya que ofrecen una alternativa eficiente para reducir el consumo de energía y la emisión de CO2. Además, su mantenimiento e instalación no son nada complicadas, por lo que son la opción ideal para tu hogar. Si quieres más información, [contacta con nosotros](https://decogas.com/).
+El uso de **estufas de pellets sin salida de humos** está en aumento, ya que ofrecen una alternativa eficiente para reducir el consumo de energía y la emisión de CO2. Además, su mantenimiento e instalación no son nada complicadas, por lo que son la opción ideal para tu hogar. Si quieres más información, [contacta con nosotros](/decogas/index.html).

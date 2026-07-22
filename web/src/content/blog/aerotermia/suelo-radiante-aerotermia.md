@@ -113,4 +113,4 @@ En cuanto a la disponibilidad, la aerotermia con suelo radiante **está ampliame
 
 En resumen, la combinación de suelo radiante y aerotermia es una opción eficiente, versátil y sostenible para climatizar tu hogar.
 
-**Proporciona un ambiente confortable, ahorro energético y múltiples aplicaciones.** Aprovecha las ventajas de esta tecnología de [aerotermia en  Madrid](https://decogas.com/aerotermia/) y disfruta de un hogar cómodo y eficiente energéticamente.
+**Proporciona un ambiente confortable, ahorro energético y múltiples aplicaciones.** Aprovecha las ventajas de esta tecnología de [aerotermia en  Madrid](/decogas/index.html#contacto) y disfruta de un hogar cómodo y eficiente energéticamente.

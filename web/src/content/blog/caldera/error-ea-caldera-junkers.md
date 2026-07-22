@@ -10,7 +10,7 @@ readingTime: 4
 ---
 ![técnico reparando error ea caldera junkers](/decogas/blog-img/error-ea-caldera-junkers.webp)
 
-¿Te has encontrado con el **error EA** en tu **[caldera Junkers](https://decogas.com/calderas/bosch/)** y no sabes qué hacer? No te preocupes, estamos aquí para ayudarte. En este post te explicaremos las causas más comunes de este problema y cómo puedes solucionarlo.
+¿Te has encontrado con el **error EA** en tu **[caldera Junkers](/decogas/marcas/bosch.html)** y no sabes qué hacer? No te preocupes, estamos aquí para ayudarte. En este post te explicaremos las causas más comunes de este problema y cómo puedes solucionarlo.
 
 Desde la falta de suministro de gas hasta problemas con el sensor, cubriremos todo lo que necesitas saber para que tu caldera vuelva a funcionar correctamente. Sigue leyendo y descubre cómo resolver este error de manera eficiente y segura.
 
@@ -65,7 +65,7 @@ Prevenir el error EA en tu caldera Junkers es posible con algunas medidas simple
 -   **Mantenimiento regular:** Realiza revisiones periódicas de la caldera, asegurándote de que todas las piezas estén en buen estado y funcionando correctamente.
 -   **Limpieza de sensores:** Limpia los sensores de llama y temperatura regularmente para evitar acumulaciones que puedan afectar su funcionamiento.
 -   **Verificación del suministro de gas:** Asegúrate de que la llave de paso esté abierta y de que no haya interrupciones en el suministro de gas.
--   **Revisiones profesionales:** Programa revisiones periódicas con un técnico especializado en [reparación de calderas](https://decogas.com/reparacion-calderas/) para identificar y solucionar problemas antes de que se conviertan en errores graves.
+-   **Revisiones profesionales:** Programa revisiones periódicas con un técnico especializado en [reparación de calderas](/decogas/calderas.html) para identificar y solucionar problemas antes de que se conviertan en errores graves.
 -   **Monitorización del display:** Verifica regularmente el display de la caldera para asegurarte de que esté proporcionando datos precisos y funcionando correctamente.
 
 ## Preguntas frecuentes
@@ -86,4 +86,4 @@ No necesariamente. El error EA puede ser solucionado con una verificación del s
 
 Si el error EA persiste después de verificar el suministro de gas, limpiar los sensores y revisar el display, es recomendable contactar a un técnico especializado para un diagnóstico completo y reparación.
 
-Resolver el **error EA en tu caldera Junkers** puede parecer complicado, pero siguiendo estos pasos puedes solucionarlo de manera eficiente. Asegúrate de mantener tu caldera en buen estado con un mantenimiento regular y revisiones periódicas. Si necesitas ayuda profesional, no dudes en [contactar con nosotros](https://decogas.com/contacto/). Con el cuidado adecuado, tu caldera funcionará perfectamente y sin errores.
+Resolver el **error EA en tu caldera Junkers** puede parecer complicado, pero siguiendo estos pasos puedes solucionarlo de manera eficiente. Asegúrate de mantener tu caldera en buen estado con un mantenimiento regular y revisiones periódicas. Si necesitas ayuda profesional, no dudes en [contactar con nosotros](/decogas/index.html#contacto). Con el cuidado adecuado, tu caldera funcionará perfectamente y sin errores.

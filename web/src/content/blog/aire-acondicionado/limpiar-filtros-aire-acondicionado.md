@@ -8,13 +8,13 @@ tagClass: "aire"
 breadcrumb: "Aire acondicionado"
 readingTime: 6
 ---
-Si disponemos de un sistema de climatización en casa o el trabajo seguro que, a la hora de limpiarlo, nos ha entrado las dudas de cómo hacerlo con los filtros de aire acondicionado. Y es que es una pregunta necesaria, ya que el [mantenimiento de los aires acondicionados](/decogas/blog/aire-acondicionado/mantenimiento-aire-acondicionado/) es una obligación para mantener el rendimiento del aparato en óptimas condiciones y por la propia salud de lo usuarios. Por eso, en este post os vamos a contar la forma de **limpiar los filtros del [aire acondicionado](https://decogas.com/aire-acondicionado/)**, tanto de modelos split como de [aires acondicionados por conductos](https://decogas.com/aire-acondicionado/por-conductos/).
+Si disponemos de un sistema de climatización en casa o el trabajo seguro que, a la hora de limpiarlo, nos ha entrado las dudas de cómo hacerlo con los filtros de aire acondicionado. Y es que es una pregunta necesaria, ya que el [mantenimiento de los aires acondicionados](/decogas/blog/aire-acondicionado/mantenimiento-aire-acondicionado/) es una obligación para mantener el rendimiento del aparato en óptimas condiciones y por la propia salud de lo usuarios. Por eso, en este post os vamos a contar la forma de **limpiar los filtros del [aire acondicionado](/decogas/aires.html)**, tanto de modelos split como de [aires acondicionados por conductos](/decogas/aires.htmlpor-conductos/).
 
 ![comparación filtros limpios y sucios](/decogas/blog-img/istockphoto-1292606122-612x612-1.webp)
 
 ## ¿Qué mantenimiento necesita mi aire acondicionado?
 
-El mantenimiento del sistema de [climatización split](https://decogas.com/aire-acondicionado/split-1x1/) o por conductos comienza por realizar una **limpieza adecuada del aparato** y, dentro de la misma, tenemos que hacer hincapié en limpiar los **filtros del aire acondicionado, intercambiadores de frío/calor y limpieza del ventilador interior**. Estos al ensuciarse y obstruirse, evitan que pueda funcionar correctamente el intercambio de temperatura en la unidad interior como exterior, bajando así el rendimiento.
+El mantenimiento del sistema de [climatización split](/decogas/aires.html) o por conductos comienza por realizar una **limpieza adecuada del aparato** y, dentro de la misma, tenemos que hacer hincapié en limpiar los **filtros del aire acondicionado, intercambiadores de frío/calor y limpieza del ventilador interior**. Estos al ensuciarse y obstruirse, evitan que pueda funcionar correctamente el intercambio de temperatura en la unidad interior como exterior, bajando así el rendimiento.
 
 Esto conlleva a que aumente el consumo eléctrico al tener que forzar el funcionamiento y reduciendo, como consecuencia, la vida útil del dispositivo.
 

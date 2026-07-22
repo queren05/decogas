@@ -10,7 +10,7 @@ readingTime: 4
 ---
 ![Instalación de bomba de calor aerotérmica en vivienda](/decogas/blog-img/aerotermia-que-es-1.webp)
 
-La **[aerotermia](https://decogas.com/aerotermia/)** es una tecnología que aprovecha la energía del aire para climatizar y producir agua caliente de forma eficiente. No se trata solo de una tendencia, sino de una solución que combina confort y ahorro a largo plazo.
+La **[aerotermia](/decogas/index.html#contacto)** es una tecnología que aprovecha la energía del aire para climatizar y producir agua caliente de forma eficiente. No se trata solo de una tendencia, sino de una solución que combina confort y ahorro a largo plazo.
 
  ¿Te imaginas reducir tu factura energética sin renunciar a una temperatura agradable todo el año? En este artículo descubrirás **cómo funciona, qué ventajas ofrece y si realmente se adapta a tu vivienda**. La clave está en entender bien su sistema antes de tomar cualquier decisión.
 
@@ -73,4 +73,4 @@ Factores a considerar:
 
 **La aerotermia es una solución eficiente, versátil y sostenible para climatizar cualquier vivienda y obtener agua caliente todo el año**. Su capacidad para aprovechar la energía del aire permite reducir costes y emisiones sin sacrificar confort. Un sistema bien dimensionado, acompañado de un correcto [mantenimiento de aerotermia](/decogas/blog/aerotermia/mantenimiento-aerotermia/), ofrece resultados desde el primer día y se adapta a diferentes tipos de vivienda.
 
-Si quieres saber cuál es la mejor opción para tu hogar, **podemos ayudarte a diseñar e instalar el sistema de aerotermia ideal para tus necesidades**. [Contacta con nosotros](https://decogas.com/contacto/) y solicita tu presupuesto sin compromiso.
+Si quieres saber cuál es la mejor opción para tu hogar, **podemos ayudarte a diseñar e instalar el sistema de aerotermia ideal para tus necesidades**. [Contacta con nosotros](/decogas/index.html#contacto) y solicita tu presupuesto sin compromiso.

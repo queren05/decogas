@@ -8,7 +8,7 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 6
 ---
-¿Tienes que sustituir tu viejo sistema de calefacción? ¿Vives en la Comunidad de Madrid y deseas renovar tu equipo de climatización para disfrutar de una temperatura adecuada en tu casa y, al mismo tiempo, no gastar grandes cantidades de dinero en tu factura de la luz? Gracias a las ayudas para cambiar [la caldera en Madrid](https://decogas.com/calderas/) podrás **hacerlo por mucho menos de lo que te imaginas**; a continuación te mostramos cuáles hay para 2020.
+¿Tienes que sustituir tu viejo sistema de calefacción? ¿Vives en la Comunidad de Madrid y deseas renovar tu equipo de climatización para disfrutar de una temperatura adecuada en tu casa y, al mismo tiempo, no gastar grandes cantidades de dinero en tu factura de la luz? Gracias a las ayudas para cambiar [la caldera en Madrid](/decogas/calderas.html) podrás **hacerlo por mucho menos de lo que te imaginas**; a continuación te mostramos cuáles hay para 2020.
 
 ## ¿Por qué cambiar la caldera?
 
@@ -23,7 +23,7 @@ Son muchos los **motivos** que te pueden llevar a cambiar una caldera; a continu
 
 ## Ayudas para cambiar la caldera en Madrid
 
-Uno de los principales problemas para sustituir tu viejo sistema de calefacción por uno nuevo es su coste; por eso, en la actualidad existen determinadas **ayudas para cambiar la caldera** en Madrid. De esta forma, puedes disfrutar de un nuevo equipo de climatización de calidad, como los que puedes encontrar en nuestra [tienda online](https://decogas.com/), por un precio mucho más asequible.
+Uno de los principales problemas para sustituir tu viejo sistema de calefacción por uno nuevo es su coste; por eso, en la actualidad existen determinadas **ayudas para cambiar la caldera** en Madrid. De esta forma, puedes disfrutar de un nuevo equipo de climatización de calidad, como los que puedes encontrar en nuestra [tienda online](/decogas/index.html), por un precio mucho más asequible.
 
 El **período para presentar las solicitudes** para recibir estas ayudas en la Comunidad de Madrid va desde el 7 de septiembre de 2020 y está disponible hasta el 31 de diciembre de 2020; por su parte, el período de ejecución es desde el 24 de julio de 2020 hasta el 31 de diciembre de 2021.
 
@@ -31,19 +31,19 @@ A continuación te mostramos las **principales ayudas** para cambiar la caldera 
 
 ### Plan Renove para calderas de gas
 
-La Comunidad de Madrid es una de las que ofrece el Plan Renove de [calderas de gas](https://decogas.com/calderas/), cuyo objetivo es fomentar un**a energía limpia y ofrecer una ayuda económica** a sus ciudadanos, ya que los modelos actuales son más eficientes.
+La Comunidad de Madrid es una de las que ofrece el Plan Renove de [calderas de gas](/decogas/calderas.html), cuyo objetivo es fomentar un**a energía limpia y ofrecer una ayuda económica** a sus ciudadanos, ya que los modelos actuales son más eficientes.
 
 #### Calderas que entran en el Plan Renove de Madrid
 
 El Plan Renove de Madrid no te permite acceder a cualquier sistema de climatización; debe ser un modelo de una de las **marcas adheridas al plan**, las cuales puedes encontrar en nuestra tienda online. A continuación te mostramos cuáles son:
 
--   [Junkers](https://decogas.com/calderas/bosch/).
--   [Vaillant](https://decogas.com/calderas/vaillant/).
--   [Baxi](https://decogas.com/calderas/baxi/).
+-   [Junkers](/decogas/marcas/bosch.html).
+-   [Vaillant](/decogas/marcas/vaillant.html).
+-   [Baxi](/decogas/calderas.htmlbaxi/).
 -   Ferroli.
--   [Wolf](https://decogas.com/calderas/wolf/).
--   [Viessmann](https://decogas.com/calderas/viessmann/).
--   [Saunier Duval](https://decogas.com/calderas/saunier-duval/).
+-   [Wolf](/decogas/calderas.htmlwolf/).
+-   [Viessmann](/decogas/calderas.htmlviessmann/).
+-   [Saunier Duval](/decogas/marcas/saunier-duval.html).
 -   Manaut.
 -   Cointra.
 -   Neckar.
@@ -86,7 +86,7 @@ El órgano regulador, encargado de gestionar las solicitudes, es la Fundación d
 
 ### Plan Cambia 360 para calderas de carbón y gasóleo
 
-En cambio si tienes una caldera de carbón o de gasóleo y quieres cambiarla, también puedes acceder a una subvención para hacerlo. A continuación te mostramos **todo lo que debes saber** del Plan Cambia 360 para [calderas de gasóleo](https://decogas.com/calderas-de-gasoil/) y de carbón.
+En cambio si tienes una caldera de carbón o de gasóleo y quieres cambiarla, también puedes acceder a una subvención para hacerlo. A continuación te mostramos **todo lo que debes saber** del Plan Cambia 360 para [calderas de gasóleo](/decogas/calderas.html) y de carbón.
 
 #### Líneas de actuación
 

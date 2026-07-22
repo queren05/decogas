@@ -8,7 +8,7 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 5
 ---
-Cada vez más vemos marcas y modelos, en cuanto a calefacción y climatización, que buscan **ser más eficientes y sencillos de usar**. Ya no es extraño que veamos paneles de mando de calderas con pantalla táctil e indicadores que facilitan increíblemente el trabajo de técnicos y usuarios. Aunque, en ocasiones, se puede dar lugar a que se produzcan [**problemas en las calderas**](/decogas/blog/caldera/principales-averias-calderas/) **que no sabemos de dónde proceden** ni qué podemos hacer. En este artículo vamos a intentar dar respuesta a la problemática de por qué **se enciende una luz roja en la [caldera](https://decogas.com/calderas/).**
+Cada vez más vemos marcas y modelos, en cuanto a calefacción y climatización, que buscan **ser más eficientes y sencillos de usar**. Ya no es extraño que veamos paneles de mando de calderas con pantalla táctil e indicadores que facilitan increíblemente el trabajo de técnicos y usuarios. Aunque, en ocasiones, se puede dar lugar a que se produzcan [**problemas en las calderas**](/decogas/blog/caldera/principales-averias-calderas/) **que no sabemos de dónde proceden** ni qué podemos hacer. En este artículo vamos a intentar dar respuesta a la problemática de por qué **se enciende una luz roja en la [caldera](/decogas/calderas.html).**
 
 ![por qué se enciende la luz roja](/decogas/blog-img/6675153617-5c10fefef5-o.webp)
 
@@ -46,7 +46,7 @@ El método para reiniciar la caldera **varía levemente de una marca a otra** de
 
 Cabe destacar que, a pesar de las diferencias en modelos de las marcas de calderas, su funcionamiento actual se ha vuelto usual en la comunicación entre el aparato y el técnico o usuario. La lógica en el uso es parecida en casi la totalidad de las marcas, que buscan diferenciarse y posicionarse en el mercado en cuanto al diseño y rendimiento, pero no tanto en el funcionamiento. La **simbología de los colores** como el verde o el rojo en la luz asemeja que todo va bien (verde) o hay problemas (rojo), así como en la manera de resetear el aparato.
 
-Podemos encontrar algunas variaciones, aunque la interpretación de los códigos es semejante entre marcas, es decir, significa lo mismo cuando se enciende la luz de una [caldera Junkers](https://decogas.com/calderas/bosch/) como en una [Ferroli](https://decogas.com/calderas/ferroli/), [Ariston](https://decogas.com/calderas/ariston/), [Chaffoteaux](https://decogas.com/calderas/chaffoteaux/) y otras marcas.
+Podemos encontrar algunas variaciones, aunque la interpretación de los códigos es semejante entre marcas, es decir, significa lo mismo cuando se enciende la luz de una [caldera Junkers](/decogas/marcas/bosch.html) como en una [Ferroli](/decogas/calderas.html), [Ariston](/decogas/calderas.html), [Chaffoteaux](/decogas/calderas.htmlchaffoteaux/) y otras marcas.
 
 ### Corregir 2 tipos de averías
 

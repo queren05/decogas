@@ -8,7 +8,7 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 6
 ---
-Si tu **[caldera](https://decogas.com/calderas/) pierde agua a chorros**, puede ser debido a varios problemas como pueden ser el exceso de presión, que se haya rajado el vaso de expansión, la válvula de seguridad esté averiada, los radiadores necesitan ser purgados o componentes picados, entre otros, muchos de los cuales suelen avisarse a través una [luz roja que se enciende en la caldera](/decogas/blog/caldera/se-enciende-luz-roja-en-caldera/).
+Si tu **[caldera](/decogas/calderas.html) pierde agua a chorros**, puede ser debido a varios problemas como pueden ser el exceso de presión, que se haya rajado el vaso de expansión, la válvula de seguridad esté averiada, los radiadores necesitan ser purgados o componentes picados, entre otros, muchos de los cuales suelen avisarse a través una [luz roja que se enciende en la caldera](/decogas/blog/caldera/se-enciende-luz-roja-en-caldera/).
 
 Muchas veces, cuando se estropea la caldera porque pierde mucha agua, nos preguntamos cuál puede ser el motivo. Por eso, en este artículo, os contamos todo lo que necesitas saber.
 

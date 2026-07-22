@@ -36,7 +36,7 @@ La inspección del sistema de ignición es otro paso esencial. **Revisa la bují
 
 Los componentes eléctricos y electrónicos también juegan un papel importante en el encendido de la caldera. **Revisa los sensores y las placas de control para detectar posibles fallos**. Si encuentras componentes defectuosos, reemplázalos para garantizar un funcionamiento óptimo. Estos elementos pueden ser sensibles y complejos, por lo que manejarlos con cuidado es esencial para evitar problemas futuros.
 
-Es importante manejar los componentes electrónicos con cuidado y asegurarse de que están correctamente instalados para evitar problemas futuros. Si no te sientes cómodo revisando estos componentes, considera contratar a un técnico especializado en la [reparación de calderas](https://decogas.com/reparacion-calderas/) para que realice una **inspección detallada** y garantice el correcto funcionamiento de todos los elementos electrónicos de tu caldera Chaffoteaux.
+Es importante manejar los componentes electrónicos con cuidado y asegurarse de que están correctamente instalados para evitar problemas futuros. Si no te sientes cómodo revisando estos componentes, considera contratar a un técnico especializado en la [reparación de calderas](/decogas/calderas.html) para que realice una **inspección detallada** y garantice el correcto funcionamiento de todos los elementos electrónicos de tu caldera Chaffoteaux.
 
 ## Mantenimiento preventivo para evitar fallos
 
@@ -44,7 +44,7 @@ El mantenimiento preventivo es fundamental para asegurar el buen funcionamiento 
 
 ### Limpieza y mantenimiento regular
 
-Mantener la [caldera de gas](https://decogas.com/calderas/) limpia es fundamental. **La limpieza regular del intercambiador de calor y las entradas y salidas de aire puede prevenir obstrucciones y asegurar un funcionamiento eficiente**. Realiza estas tareas al menos una vez al año o según las recomendaciones del fabricante. Una caldera limpia no solo funciona mejor, sino que también es más segura, reduciendo el riesgo de problemas graves como el sobrecalentamiento.
+Mantener la [caldera de gas](/decogas/calderas.html) limpia es fundamental. **La limpieza regular del intercambiador de calor y las entradas y salidas de aire puede prevenir obstrucciones y asegurar un funcionamiento eficiente**. Realiza estas tareas al menos una vez al año o según las recomendaciones del fabricante. Una caldera limpia no solo funciona mejor, sino que también es más segura, reduciendo el riesgo de problemas graves como el sobrecalentamiento.
 
 ### Revisión periódica de la caldera
 
@@ -63,5 +63,5 @@ Mantener la seguridad es esencial cuando se trata de calderas de gas. Siguiendo 
 
 ## Contacta con nosotros para asesoramiento y soporte
 
-Si necesitas ayuda con tu **caldera Chaffoteaux**, estamos aquí para asistirte. Nuestro equipo de expertos está disponible para ofrecerte asesoramiento personalizado y soporte técnico. Ya sea que enfrentes un **fallo de encendido o necesites mantenimiento regular**, puedes contar con nosotros para soluciones efectivas y rápidas. [No dudes en contactarnos](https://decogas.com/contacto/) al número**  
+Si necesitas ayuda con tu **caldera Chaffoteaux**, estamos aquí para asistirte. Nuestro equipo de expertos está disponible para ofrecerte asesoramiento personalizado y soporte técnico. Ya sea que enfrentes un **fallo de encendido o necesites mantenimiento regular**, puedes contar con nosotros para soluciones efectivas y rápidas. [No dudes en contactarnos](/decogas/index.html#contacto) al número**  
 91 993 01 68** para resolver tus dudas y garantizar el funcionamiento óptimo de tu caldera. ¡Estamos aquí para ayudarte a mantener tu hogar cálido y seguro!

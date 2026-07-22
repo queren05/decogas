@@ -58,4 +58,4 @@ Además de las ventajas que te hemos comentado anteriormente, los aires acondici
 -   **Monitorización del consumo**. Podemos encontrar aplicaciones conectadas a los equipos para conocer su consumo energético en tiempo real y tomar medidas para el ahorro. Además, esta monitorización se puede realizar mediante aplicaciones instaladas en el smartphone o tablet.
 -   **Control por voz**. Podemos gestionar el aire acondicionado mediante órdenes por voz. Esto se consigue gracias a la combinación de aires acondicionados con WiFi y la domótica del hogar empleando Alexa, por ejemplo.
 
-¿Quieres un aire acondicionado con WiFi? Si la respuesta es sí, ponte en [contacto con nosotros](https://decogas.com/contacto/). Nuestros especialistas te ayudarán a elegir el **modelo que más se adapte a tus necesidades**.
+¿Quieres un aire acondicionado con WiFi? Si la respuesta es sí, ponte en [contacto con nosotros](/decogas/index.html#contacto). Nuestros especialistas te ayudarán a elegir el **modelo que más se adapte a tus necesidades**.

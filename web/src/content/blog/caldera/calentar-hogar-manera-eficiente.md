@@ -26,7 +26,7 @@ Actualmente son muchas las formas que se tienen a disposición para mantener la 
 
 ### Estufas y radiadores
 
-Las estufas y [radiadores](https://decogas.com/radiadores/) son opciones populares para calentar la casa. **Las estufas, especialmente las de pellets, son eficientes y pueden calentar grandes espacios.** Sin embargo, requieren mantenimiento regular y un suministro constante de combustible.
+Las estufas y [radiadores](/decogas/index.html#contacto) son opciones populares para calentar la casa. **Las estufas, especialmente las de pellets, son eficientes y pueden calentar grandes espacios.** Sin embargo, requieren mantenimiento regular y un suministro constante de combustible.
 
 **Los radiadores, por otro lado, pueden ser más fáciles de instalar y mantener.** Aunque son eficientes, pueden no ser la mejor opción para casas grandes o mal aisladas, ya que pueden no distribuir el calor de manera uniforme.
 
@@ -38,7 +38,7 @@ La eficiencia energética es un factor clave al elegir calefactores eléctricos.
 
 ### Estufas de biomasa y pellets
 
-Las estufas de biomasa y [estufas de pellets](https://decogas.com/estufas-pellets/) representan una solución ecológica y eficiente. **Utilizan materiales renovables y emiten menos contaminantes que los sistemas tradicionales de calefacción**. Son ideales para aquellos que buscan una opción sostenible.
+Las estufas de biomasa y [estufas de pellets](/decogas/index.html#contacto) representan una solución ecológica y eficiente. **Utilizan materiales renovables y emiten menos contaminantes que los sistemas tradicionales de calefacción**. Son ideales para aquellos que buscan una opción sostenible.
 
 El calor generado por estas estufas es a menudo más agradable y constante. Aunque la inversión inicial puede ser mayor, el ahorro en energía y el impacto ambiental positivo hacen que valga la pena.
 

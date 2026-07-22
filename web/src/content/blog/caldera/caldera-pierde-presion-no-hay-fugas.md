@@ -8,7 +8,7 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 5
 ---
-Por lo general, una [caldera](https://decogas.com/calderas/) que no tiene una **presión de agua adecuada y constante** podría no funcionar de forma tan eficiente como cabría esperar, de hecho es una de las [averías frecuentes de las calderas](/decogas/blog/caldera/principales-averias-calderas/). La baja presión a menudo puede ser un indicador de que existe un problema en el sistema, por lo que es importante conocer la causa y buscar la solución.
+Por lo general, una [caldera](/decogas/calderas.html) que no tiene una **presión de agua adecuada y constante** podría no funcionar de forma tan eficiente como cabría esperar, de hecho es una de las [averías frecuentes de las calderas](/decogas/blog/caldera/principales-averias-calderas/). La baja presión a menudo puede ser un indicador de que existe un problema en el sistema, por lo que es importante conocer la causa y buscar la solución.
 
 Por eso, a continuación, te hablaremos del caso en que tu **caldera pierde presión y no hay fugas**. Te daremos los motivos de por qué pierde presión y posibles soluciones para que tomes nota si sufres este tipo de problema en tu caldera.
 

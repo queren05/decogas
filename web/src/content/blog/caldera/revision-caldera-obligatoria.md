@@ -112,4 +112,4 @@ El mantenimiento regular de la caldera es clave para optimizar su rendimiento, a
 
 ## Contacta con profesionales para la revisión de tu caldera
 
-Garantiza la seguridad y eficiencia de tu sistema confiando en expertos. Ofrecemos un servicio profesional de [mantenimiento de calderas](https://decogas.com/reparacion-calderas/), adaptado a tus necesidades. Nuestros técnicos autorizados realizan revisiones completas, asegurando que tu equipo cumpla con la normativa vigente. Evita riesgos y sanciones. [Contacta con nosotros](https://decogas.com/contacto/) hoy mismo y disfruta de un hogar cálido y seguro.
+Garantiza la seguridad y eficiencia de tu sistema confiando en expertos. Ofrecemos un servicio profesional de [mantenimiento de calderas](/decogas/calderas.html), adaptado a tus necesidades. Nuestros técnicos autorizados realizan revisiones completas, asegurando que tu equipo cumpla con la normativa vigente. Evita riesgos y sanciones. [Contacta con nosotros](/decogas/index.html#contacto) hoy mismo y disfruta de un hogar cálido y seguro.

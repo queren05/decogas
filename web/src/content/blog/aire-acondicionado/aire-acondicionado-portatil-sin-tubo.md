@@ -12,7 +12,7 @@ Si estás buscando una solución de climatización sin complicaciones y fácil d
 
 En este artículo, te explicaremos en detalle **qué es el aire acondicionado portátil sin tubo y cómo puede ser una opción conveniente para refrescar tu hogar.**
 
-También abordaremos las diferencias entre los modelos con y sin tubo, y exploraremos las ventajas y beneficios que ofrecen. Sigue nuestros consejos en [**aires acondicionados**](https://decogas.com/aire-acondicionado/) en nuestro blog.
+También abordaremos las diferencias entre los modelos con y sin tubo, y exploraremos las ventajas y beneficios que ofrecen. Sigue nuestros consejos en [**aires acondicionados**](/decogas/aires.html) en nuestro blog.
 
 > ¡Sigue leyendo para descubrir todo lo que necesitas saber sobre esta alternativa práctica para mantenerte fresco en los días calurosos de verano!
 
@@ -104,4 +104,4 @@ Si bien el aire acondicionado portátil sin tubo ofrece comodidad y facilidad de
 
 Cuando se trata de la [conexión del desagüe del aire acondicionado](/decogas/blog/aire-acondicionado/donde-conectar-el-desague-del-aire-acondicionado/), es importante seguir las instrucciones del fabricante y encontrar un lugar adecuado para su drenaje. Esto evitará problemas de condensación y garantizará el correcto funcionamiento del dispositivo.
 
-En resumen, el aire acondicionado portátil sin tubo brinda la comodidad y el enfriamiento necesario para hacer frente a los días más calurosos. ¡Estaremos encantados de ayudarte a encontrar la solución de climatización adecuada para ti y tu hogar con nuestros [aires acondicionados](https://decogas.com/aire-acondicionado/)!
+En resumen, el aire acondicionado portátil sin tubo brinda la comodidad y el enfriamiento necesario para hacer frente a los días más calurosos. ¡Estaremos encantados de ayudarte a encontrar la solución de climatización adecuada para ti y tu hogar con nuestros [aires acondicionados](/decogas/aires.html)!

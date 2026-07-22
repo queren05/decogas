@@ -18,7 +18,7 @@ El código A00 puede parecer desconcertante al principio, pero es una herramient
 
 ### Qué es el código A00
 
-El código A00 es un indicador informativo que aparece en el display de tu [caldera](https://decogas.com/calderas/). **Este código te muestra la temperatura del agua caliente sanitaria (ACS)**, permitiéndote monitorear y ajustar la caldera para asegurar un funcionamiento eficiente. Tener esta información a mano facilita la detección de cualquier desajuste y su corrección inmediata. Aquí te contamos [cómo encender una caldera](/decogas/blog/caldera/como-encender-caldera/).
+El código A00 es un indicador informativo que aparece en el display de tu [caldera](/decogas/calderas.html). **Este código te muestra la temperatura del agua caliente sanitaria (ACS)**, permitiéndote monitorear y ajustar la caldera para asegurar un funcionamiento eficiente. Tener esta información a mano facilita la detección de cualquier desajuste y su corrección inmediata. Aquí te contamos [cómo encender una caldera](/decogas/blog/caldera/como-encender-caldera/).
 
 ### Diferencias entre códigos de error y códigos informativos
 
@@ -52,7 +52,7 @@ En tu caldera BaxiRoca Novanox es fundamental para mantener su rendimiento y pro
 
 ### Programación de mantenimiento regular
 
-Programar un mantenimiento regular es esencial para evitar errores en tu caldera. Realiza inspecciones anuales para verificar el estado de todos los componentes, asegurándote de que funcionen correctamente. Durante estas inspecciones, **limpia el filtro de agua, revisa la sonda externa y ajusta los parámetros de temperatura y presión**. Este enfoque preventivo asegura un funcionamiento eficiente y reduce la posibilidad de fallos inesperados. Nosotros podemos ayudarte con el mantenimiento y la [reparación de tu caldera](https://decogas.com/reparacion-calderas/).
+Programar un mantenimiento regular es esencial para evitar errores en tu caldera. Realiza inspecciones anuales para verificar el estado de todos los componentes, asegurándote de que funcionen correctamente. Durante estas inspecciones, **limpia el filtro de agua, revisa la sonda externa y ajusta los parámetros de temperatura y presión**. Este enfoque preventivo asegura un funcionamiento eficiente y reduce la posibilidad de fallos inesperados. Nosotros podemos ayudarte con el mantenimiento y la [reparación de tu caldera](/decogas/calderas.html).
 
 ### Uso de repuestos originales
 

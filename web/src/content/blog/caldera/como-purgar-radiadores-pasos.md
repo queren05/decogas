@@ -8,7 +8,7 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 6
 ---
-¿Notas que tus [radiadores](https://decogas.com/radiadores/) no calientan bien o hacen ruidos extraños? No siempre es un fallo técnico: puede que solo necesiten una purga. Aprender **cómo purgar los radiadores** te ayudará a mejorar la eficiencia de tu calefacción, ahorrar energía y evitar molestias innecesarias en casa.
+¿Notas que tus [radiadores](/decogas/index.html#contacto) no calientan bien o hacen ruidos extraños? No siempre es un fallo técnico: puede que solo necesiten una purga. Aprender **cómo purgar los radiadores** te ayudará a mejorar la eficiencia de tu calefacción, ahorrar energía y evitar molestias innecesarias en casa.
 
 Aunque parezca complicado, **es un proceso que puedes hacer tú mismo** en pocos minutos y con herramientas básicas. En esta guía práctica te explicamos todo lo que necesitas saber para hacerlo bien desde el principio.
 

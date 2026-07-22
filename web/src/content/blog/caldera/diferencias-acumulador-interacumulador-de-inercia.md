@@ -10,7 +10,7 @@ readingTime: 3
 ---
 Contar con agua caliente sanitaria (ACS) **es imprescindible para la salud y comodidad en el hogar**. En el momento de elegir el sistema de ACS encontrarás modelos que se instalan con un acumulador, con termo eléctrico o calentadores de gas. **El modelo ideal dependerá de tus necesidades.** Por eso, hoy te hablamos de cada una de las opciones que encontrarás en el mercado. Así sabrás qué decisión tomar. ![acumuladores](/decogas/blog-img/l-acumuladores.webp)
 
-[Te llamamos gratis](https://decogas.com/contacto/)
+[Te llamamos gratis](/decogas/index.html#contacto)
 
 ## ¿Qué es un acumulador de agua?
 
@@ -24,7 +24,7 @@ Se trata de un modelo muy similar al anterior, de hecho, **solo se diferencian
 
 Es un acumulador utilizado, sobre todo, en calderas de pellets o biomasa. Ambos aparatos requieren de este aparato porque no pueden producir agua caliente sanitaria de forma directa. El acumulador **evita que sea necesaria la activación constante de la caldera**. Este sistema permite que el arranque de la caldera solo sea necesario después de dos o tres días. Esto quiere decir que **el consumo energético disminuirá al mínimo sin que se deje de disfrutar del agua caliente sanitaria.**
 
-[Te llamamos gratis](https://decogas.com/contacto/)
+[Te llamamos gratis](/decogas/index.html#contacto)
 
 ## La solución ideal: BT DUO de Domusa
 
@@ -37,6 +37,6 @@ Hay un equipo que ofrece una solución ideal para la producción de ACS. Nos ref
 
 Te ofrecemos **los mejores equipos, las marcas más reconocidas y los precios más competitivos del mercado**. No esperes más para contactarnos, pedir nuestra asesoría y adquirir el equipo de calefacción o agua caliente sanitaria que necesitas. ¡Cuenta con expertos y consigue resultados de primera!
 
-[Te llamamos gratis](https://decogas.com/contacto/)
+[Te llamamos gratis](/decogas/index.html#contacto)
 
-Desde Decogas tratamos de ayudar en la [instalación de calderas](https://decogas.com/calderas/), termos y aires acondicionados. Tenemos un equipo propio de instaladores especializados, para que no tengas ningún problema. Además, puedes venir a visitarnos a nuestra tienda física cuando quieras.
+Desde Decogas tratamos de ayudar en la [instalación de calderas](/decogas/calderas.html), termos y aires acondicionados. Tenemos un equipo propio de instaladores especializados, para que no tengas ningún problema. Además, puedes venir a visitarnos a nuestra tienda física cuando quieras.

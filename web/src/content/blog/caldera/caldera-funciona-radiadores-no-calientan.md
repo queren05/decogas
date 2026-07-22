@@ -8,7 +8,7 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 6
 ---
-Cuando llega el frío en los meses de invierno, nuestra calefacción se convierte en nuestro mejor aliado para soportar las bajas temperaturas en el hogar. Pero es posible que, de pronto, nos demos cuenta que **la [caldera](https://decogas.com/calderas/) funciona, pero los radiadores no calientan** nada o solo una parte.
+Cuando llega el frío en los meses de invierno, nuestra calefacción se convierte en nuestro mejor aliado para soportar las bajas temperaturas en el hogar. Pero es posible que, de pronto, nos demos cuenta que **la [caldera](/decogas/calderas.html) funciona, pero los radiadores no calientan** nada o solo una parte.
 
 Si la calefacción no funciona bien, entonces de poco sirve tenerla. Si el radiador o radiadores están averiados y no sabemos por qué no producen calor, es mejor repararlos o, bien, contactar con un técnico para que localice la avería y pueda arreglarla.
 

@@ -18,7 +18,7 @@ Estudios han demostrado que una habitación con una temperatura no óptima puede
 
 Según expertos, la **temperatura ideal para dormir oscila entre los 19 y 21 grados centígrados**. Esta gama permite que el cuerpo mantenga una temperatura corporal óptima para un sueño profundo y reparador. Sin embargo, es importante recordar que estas cifras pueden variar ligeramente de persona a persona.
 
-En verano, cuando las noches suelen ser más cálidas, puede ser necesario ajustar el aire acondicionado o usar un ventilador para mantener la habitación fresca. En cambio, durante el invierno, el uso de ropa de cama adecuada, como sábanas de algodón y mantas, puede ayudar a conservar el calor corporal, al igual que la instalación de [radiadores](https://decogas.com/radiadores/), utilizar termostatos de temperatura para controlar el funcionamiento de la [caldera](https://decogas.com/calderas/).
+En verano, cuando las noches suelen ser más cálidas, puede ser necesario ajustar el aire acondicionado o usar un ventilador para mantener la habitación fresca. En cambio, durante el invierno, el uso de ropa de cama adecuada, como sábanas de algodón y mantas, puede ayudar a conservar el calor corporal, al igual que la instalación de [radiadores](/decogas/index.html#contacto), utilizar termostatos de temperatura para controlar el funcionamiento de la [caldera](/decogas/calderas.html).
 
 ## Consejos para mantener la habitación a la temperatura ideal
 
@@ -26,7 +26,7 @@ Para lograr la temperatura ideal en tu habitación, considera el uso de ventilad
 
 Entre los puntos más importantes que debes tomar en cuenta para mantener una temperatura ideal para dormir están los siguientes:
 
--   **Uso de aire acondicionado y ventiladores:** en los meses más cálidos, regular la temperatura de la habitación con [aire acondicionado](https://decogas.com/aire-acondicionado/) o ventiladores puede ser esencial. Estos dispositivos ayudan a mantener un ambiente fresco y propicio para el sueño.
+-   **Uso de aire acondicionado y ventiladores:** en los meses más cálidos, regular la temperatura de la habitación con [aire acondicionado](/decogas/aires.html) o ventiladores puede ser esencial. Estos dispositivos ayudan a mantener un ambiente fresco y propicio para el sueño.
 -   **Elección adecuada de ropa de cama:** utilizar ropa de cama hecha de materiales como el algodón en verano facilita la transpiración y mantiene fresco el cuerpo. En invierno, optar por tejidos más gruesos y cálidos para conservar el calor.
 -   **Mantener la habitación oscura y silenciosa:** además de la temperatura, asegurarse de que la habitación esté oscura y libre de ruidos puede mejorar significativamente la calidad del sueño.
 -   **Uso de humidificadores o deshumidificadores:** en ambientes muy secos o húmedos, el uso de humidificadores o deshumidificadores puede ayudar a crear un ambiente más cómodo para dormir.

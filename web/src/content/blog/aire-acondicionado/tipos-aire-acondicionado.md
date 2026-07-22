@@ -38,9 +38,9 @@ Por último, destacar que adquirir un modelo de aire acondicionado con más pote
 
 Una de las cosas más importantes a tener en cuenta es el número de salas que van a ser climatizadas con un mismo aparato de aire acondicionado. De esta manera, elegiremos un tipo de aire acondicionado si queremos:
 
--   Climatizar **una sala:** requerimos [equipos Split de 1×1](https://decogas.com/aire-acondicionado/split-1x1/), es decir, tienen una unidad interior y una exterior.
--   Climatizar **dos salas**: necesitaremos [equipos Split de 2×1](https://decogas.com/aire-acondicionado/split-2x1/), formados por dos unidades interiores y una exterior. Son perfectos para climatizar dos habitaciones contiguas o una habitación y el salón.
--   Climatizar **tres salas o más**: se utilizar [equipos Split de 3×1](https://decogas.com/aire-acondicionado/split-3x1/) o [equipos Split de 4×1](https://decogas.com/aire-acondicionado/split-4x1/)
+-   Climatizar **una sala:** requerimos [equipos Split de 1×1](/decogas/aires.html), es decir, tienen una unidad interior y una exterior.
+-   Climatizar **dos salas**: necesitaremos [equipos Split de 2×1](/decogas/aires.htmlsplit-2x1/), formados por dos unidades interiores y una exterior. Son perfectos para climatizar dos habitaciones contiguas o una habitación y el salón.
+-   Climatizar **tres salas o más**: se utilizar [equipos Split de 3×1](/decogas/aires.htmlsplit-3x1/) o [equipos Split de 4×1](/decogas/aires.htmlsplit-4x1/)
 
 ### Ruido
 
@@ -68,7 +68,7 @@ Algunos otros factores importantes a la hora de elegir tu aire acondicionado, so
 
 En la actualidad, existen **muchos sistemas de refrigeración diferentes**. La principal diferencia entre ellos suele encontrarse en su instalación y su sistema de refrigeración. Además, existen modelos con incorporaciones tecnológicas, como pueden ser los [aires acondicionados con WiFi](/decogas/blog/aire-acondicionado/aire-acondicionado-wifi/). A continuación te vamos a mostrar cuáles son los tipos de aire acondicionado más habituales para que puedas comprobar sus características.
 
-Si, tras ello, te queda alguna duda, siempre puedes ponerte en [contacto con nosotros](https://decogas.com/contacto/). Nuestros especialistas estarán e**ncantados de ayudarte** a elegir el [mejor aire acondicionado](https://decogas.com/aire-acondicionado/) para tu vivienda.
+Si, tras ello, te queda alguna duda, siempre puedes ponerte en [contacto con nosotros](/decogas/index.html#contacto). Nuestros especialistas estarán e**ncantados de ayudarte** a elegir el [mejor aire acondicionado](/decogas/aires.html) para tu vivienda.
 
 ### Aire acondicionado unitario
 
@@ -96,15 +96,15 @@ Dentro de los tipos de aire acondicionado partido podemos encontrar **distintas 
 
 #### Aire acondicionado split
 
-Este sistema es el más habitual y económico para una vivienda. Su instalación es muy sencilla y dispone de varias potencias. Además, son perfectos si lo que quieres es un [aire acondicionado silencioso](/decogas/blog/aire-acondicionado/nivel-sonoro-aire-acondicionado-silencioso/). El compresor, ubicado en la unidad exterior, se comunica con el interior mediante unos tubos. De este modo, el agujero que hay que realizar en la pared para instalar un [aire acondicionado split 1×1](https://decogas.com/aire-acondicionado/split-1x1/) es muy pequeño.
+Este sistema es el más habitual y económico para una vivienda. Su instalación es muy sencilla y dispone de varias potencias. Además, son perfectos si lo que quieres es un [aire acondicionado silencioso](/decogas/blog/aire-acondicionado/nivel-sonoro-aire-acondicionado-silencioso/). El compresor, ubicado en la unidad exterior, se comunica con el interior mediante unos tubos. De este modo, el agujero que hay que realizar en la pared para instalar un [aire acondicionado split 1×1](/decogas/aires.html) es muy pequeño.
 
 #### Aire acondicionado multisplit
 
-Equipo de varias unidades internas que se conectan al exterior. De esta manera, con un [aire acondicionado multisplit 4×1](https://decogas.com/aire-acondicionado/split-4x1/), dispones de más opciones para adaptar tu sistema de refrigeración a las características de tu vivienda o el local donde lo vayas a instalar.
+Equipo de varias unidades internas que se conectan al exterior. De esta manera, con un [aire acondicionado multisplit 4×1](/decogas/aires.htmlsplit-4x1/), dispones de más opciones para adaptar tu sistema de refrigeración a las características de tu vivienda o el local donde lo vayas a instalar.
 
 #### Aire acondicionado por conductos
 
-Se trata de un **sistema de aire acondicionado centralizado** y es perfecto para espacios grandes, por ello su instalación es más compleja. Se consideran métodos centralizados de distribución del aire y suelen instalarse en el falso techo de la estancia, lo que hace que sean más estéticos. Del mismo modo, los [aires acondicionados por conductos](https://decogas.com/aire-acondicionado/por-conductos/) suelen incorporar un sistema de regulación que permite climatizar la estancia como desees.
+Se trata de un **sistema de aire acondicionado centralizado** y es perfecto para espacios grandes, por ello su instalación es más compleja. Se consideran métodos centralizados de distribución del aire y suelen instalarse en el falso techo de la estancia, lo que hace que sean más estéticos. Del mismo modo, los [aires acondicionados por conductos](/decogas/aires.htmlpor-conductos/) suelen incorporar un sistema de regulación que permite climatizar la estancia como desees.
 
 #### Aire acondicionado Split de techo o Cassette
 
@@ -124,7 +124,7 @@ No son considerados sistemas de aire acondicionado pero sirven para variar unos 
 
 Este tipo de aire acondicionado tiene integrado un sistema con tecnología Inverter que gracias a la regulación del compresor que realiza, consigue que estos trabajen de forma más constante. Esto supone un ahorro de hasta un 40% de la energía, respecto a un aire acondicionado sin esta tecnología.
 
-Es decir, en un [aire acondicionado inverter,](https://decogas.com/aire-acondicionado/inverter/) en lugar de arrancar y parar frecuentemente, su compresor gira continuamente, manteniendo constante la temperatura de la estancia.
+Es decir, en un [aire acondicionado inverter,](/decogas/aires.html) en lugar de arrancar y parar frecuentemente, su compresor gira continuamente, manteniendo constante la temperatura de la estancia.
 
 ## Ventajas de los sistemas de aire acondicionado más utilizados
 

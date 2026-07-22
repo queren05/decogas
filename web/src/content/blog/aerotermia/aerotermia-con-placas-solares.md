@@ -12,7 +12,7 @@ Saca el máximo provecho al sistema con **aerotermia con paneles solares** para 
 
 La aerotermia **es un tipo de energía renovable que utiliza el calor del sol para enfriar la casa.** Funciona mediante un intercambiador de calor que transfiere el calor del aire exterior al interior de la vivienda.
 
-Este proceso es mucho más eficiente que el uso del [aire acondicionado](https://decogas.com/aire-acondicionado/) tradicional y **puede ahorrarle dinero en sus facturas de energía.**
+Este proceso es mucho más eficiente que el uso del [aire acondicionado](/decogas/aires.html) tradicional y **puede ahorrarle dinero en sus facturas de energía.**
 
 Aquí hablaremos de **cómo utilizar la aerotermia con paneles solares** para mantenerse fresco en verano. También le daremos algunos consejos sobre cómo elegir el sistema adecuado para su hogar.
 

@@ -8,7 +8,7 @@ tagClass: "aire"
 breadcrumb: "Aire acondicionado"
 readingTime: 5
 ---
-Normalmente, cuando sentimos que el [aire acondicionado](https://decogas.com/aire-acondicionado/) no enfría es debido a un problema en la falta de gas, puesto que el gas de un aire acondicionado necesita cierta revisión, cambio o recarga cada cierto tiempo. Esto no tiene que ser así, sino que pueden ser otros motivos por el que **no enfría el aire acondicionado**, como es el caso de tener [piezas del aparato sucios o averiados](/decogas/blog/aire-acondicionado/mantenimiento-aire-acondicionado/).
+Normalmente, cuando sentimos que el [aire acondicionado](/decogas/aires.html) no enfría es debido a un problema en la falta de gas, puesto que el gas de un aire acondicionado necesita cierta revisión, cambio o recarga cada cierto tiempo. Esto no tiene que ser así, sino que pueden ser otros motivos por el que **no enfría el aire acondicionado**, como es el caso de tener [piezas del aparato sucios o averiados](/decogas/blog/aire-acondicionado/mantenimiento-aire-acondicionado/).
 
 ## ![aire acondicionado averiado](/decogas/blog-img/istockphoto-1256098103-612x612-1-600x400-1.webp)Causas por las que no enfría el aire acondicionado
 

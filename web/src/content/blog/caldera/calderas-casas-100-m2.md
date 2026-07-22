@@ -19,7 +19,7 @@ No todas las calderas sirven para la misma superficie, algunas están pensadas p
 -   Vaillant Ecotec Plus VMW ES 236/5-5: es una caldera de gas mixta pensada para calentar superficies **hasta 150 metros cuadrados**. Tiene una potencia de 19 kW para calefacción y 23’5 kW para agua caliente sanitaria. Además, tiene un caudal de agua caliente de 13’5l/min.
 -   Saunier Duval Thema Condens 25: es una caldera compacta con sistema de acumulación pensada para superficies para **130 metros cuadrados como máximo**.Tiene una potencia de 19 kW para calefacción y 25 kW para agua caliente. Además, tiene un caudal de de agua caliente de 14’6l/min.
 
-[Te llamamos gratis](https://decogas.com/contacto/)
+[Te llamamos gratis](/decogas/index.html#contacto)
 
 ## Calcula la potencia de tu caldera
 
@@ -43,6 +43,6 @@ A continuación te explicamos la forma de **calcular los vatios** que necesita u
 
 Después, debes **multiplicar cada potencia por los metros cuadrados** que tiene cada una de las habitaciones. El resultado de la suma de cada una de las habitaciones hay que dividirlo entre 860, para pasar de Kcal/h a Kw/h. De esta forma ya tendrías los vatios que necesita tu caldera de gas.
 
-[Te llamamos gratis](https://decogas.com/contacto/)
+[Te llamamos gratis](/decogas/index.html#contacto)
 
-Desde Decogas tratamos de ayudar en la [instalación de calderas](https://decogas.com/calderas/), termos y aires acondicionados. Tenemos un equipo propio de instaladores especializados, para que no tengas ningún problema. Además, puedes venir a visitarnos a nuestra tienda física cuando quieras.
+Desde Decogas tratamos de ayudar en la [instalación de calderas](/decogas/calderas.html), termos y aires acondicionados. Tenemos un equipo propio de instaladores especializados, para que no tengas ningún problema. Además, puedes venir a visitarnos a nuestra tienda física cuando quieras.

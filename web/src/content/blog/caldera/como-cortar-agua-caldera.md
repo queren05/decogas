@@ -47,4 +47,4 @@ Para ello, debes saber **cómo cortar el agua de la caldera.** Existen 2 vías:
 
 Sea por el motivo que sea, al cerrar el agua de la caldera, es normal que durante unos instantes siga goteando. Esto ocurre hasta que **se vacía**.
 
-En las [**calderas Junkers**](https://decogas.com/calderas/bosch/), la llave del agua a cerrar suele tener forma de palanca negra; para cortar el agua en la **[caldera Saurnier Duval](https://decogas.com/calderas/saunier-duval/),** es una palomita, también negra.
+En las [**calderas Junkers**](/decogas/marcas/bosch.html), la llave del agua a cerrar suele tener forma de palanca negra; para cortar el agua en la **[caldera Saurnier Duval](/decogas/marcas/saunier-duval.html),** es una palomita, también negra.

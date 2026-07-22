@@ -8,7 +8,7 @@ tagClass: "aire"
 breadcrumb: "Aire acondicionado"
 readingTime: 5
 ---
-¿Alguna vez te has preguntado cuál es el funcionamiento del [aire acondicionado](https://decogas.com/aire-acondicionado/)? En este _post_ te explicamos cuáles son los pasos que realiza este sistema para **extraer el calor de la estancia** y mantener el máximo confort en la vivienda.
+¿Alguna vez te has preguntado cuál es el funcionamiento del [aire acondicionado](/decogas/aires.html)? En este _post_ te explicamos cuáles son los pasos que realiza este sistema para **extraer el calor de la estancia** y mantener el máximo confort en la vivienda.
 
 ## Componentes del aire acondicionado
 

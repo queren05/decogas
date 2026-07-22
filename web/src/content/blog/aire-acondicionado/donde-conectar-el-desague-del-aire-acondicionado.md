@@ -8,7 +8,7 @@ tagClass: "aire"
 breadcrumb: "Aire acondicionado"
 readingTime: 5
 ---
-Una de las problemáticas más comunes que se encuentran los usuarios que tienen una [instalación de aire acondicionado](https://decogas.com/aire-acondicionado/) es el goteo de agua. En muchas ocasiones, tener un aire acondicionado en la terraza puede suponer problemas con los vecinos, puesto que el vecino se acaba aquejando de tener humedades en el techo de su terraza o alguna habitación. Gran parte de este problema radica en la forma de **conectar el desagüe del aire acondicionado**.
+Una de las problemáticas más comunes que se encuentran los usuarios que tienen una [instalación de aire acondicionado](/decogas/aires.html) es el goteo de agua. En muchas ocasiones, tener un aire acondicionado en la terraza puede suponer problemas con los vecinos, puesto que el vecino se acaba aquejando de tener humedades en el techo de su terraza o alguna habitación. Gran parte de este problema radica en la forma de **conectar el desagüe del aire acondicionado**.
 
 Es decir, aunque no se vea a simple vista, el aire acondicionado produce un **goteo de agua** proveniente de la condensación del ambiente de nuestro hogar. Es más, se estima que, si dejamos el aire encendido continuamente, podremos extraer varios litros de agua que terminan en la calle.
 

@@ -10,7 +10,7 @@ readingTime: 6
 ---
 ![caldera ariston con error 501](/decogas/blog-img/error-501-caldera-ariston-1.webp)
 
-El **error 501 en tu** **[**caldera Ariston**](https://decogas.com/calderas/ariston/)** puede parecer un problema grave, pero suele estar relacionado con la falta de llama durante el encendido. Este código indica que la caldera ha intentado encenderse sin éxito, lo que provoca un bloqueo de seguridad. Las causas más comunes incluyen **falta de gas**, obstrucciones en la **salida de humos** o problemas con el suministro. No te preocupes, en este artículo te explicamos las **soluciones** **más eficaces** para resolver este fallo y prevenir futuros errores en tu caldera.
+El **error 501 en tu** **[**caldera Ariston**](/decogas/calderas.html)** puede parecer un problema grave, pero suele estar relacionado con la falta de llama durante el encendido. Este código indica que la caldera ha intentado encenderse sin éxito, lo que provoca un bloqueo de seguridad. Las causas más comunes incluyen **falta de gas**, obstrucciones en la **salida de humos** o problemas con el suministro. No te preocupes, en este artículo te explicamos las **soluciones** **más eficaces** para resolver este fallo y prevenir futuros errores en tu caldera.
 
 ## ¿Qué significa el error 501 en una caldera Ariston?
 
@@ -72,7 +72,7 @@ Conoce con más detalle [cómo encender una caldera](/decogas/blog/caldera/como-
 
 ### ¿Cuándo es necesario contactar con un técnico?
 
-Si el error 501 no se soluciona con un reinicio o limpieza básica, es momento de contactar a un [técnico especializado en la reparación de calderas](https://decogas.com/reparacion-calderas/). Algunos problemas como **fallos en el sistema de ignición o sensores defectuosos** requieren de una intervención especializada. No debes intentar reparar componentes internos si no tienes experiencia, ya que esto podría empeorar la situación y aumentar los costes de reparación.
+Si el error 501 no se soluciona con un reinicio o limpieza básica, es momento de contactar a un [técnico especializado en la reparación de calderas](/decogas/calderas.html). Algunos problemas como **fallos en el sistema de ignición o sensores defectuosos** requieren de una intervención especializada. No debes intentar reparar componentes internos si no tienes experiencia, ya que esto podría empeorar la situación y aumentar los costes de reparación.
 
 ### Reinicio manual de la caldera Ariston
 

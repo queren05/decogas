@@ -80,4 +80,4 @@ Otros factores incluyen:
 
 Si necesitas actualizar tu sistema de calefacción, **te recomendamos optar por una caldera de condensación**. Aunque el coste inicial sea mayor, disfrutarás de un sistema más eficiente, sostenible y alineado con las normativas actuales. Además, muchas marcas ofrecen garantías extendidas y planes de financiación que facilitan la inversión.
 
-Antes de decidir, [consulta con un profesional](https://decogas.com/contacto/) para evaluar las necesidades específicas de tu hogar. Con una buena elección, podrás disfrutar de un sistema eficiente, seguro y sostenible por muchos años.
+Antes de decidir, [consulta con un profesional](/decogas/index.html#contacto) para evaluar las necesidades específicas de tu hogar. Con una buena elección, podrás disfrutar de un sistema eficiente, seguro y sostenible por muchos años.

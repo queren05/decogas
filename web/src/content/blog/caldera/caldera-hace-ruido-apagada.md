@@ -16,7 +16,7 @@ Si alguna vez te has preguntado **por qué tu caldera hace ruido apagada**, has 
 
 ### Hidrógeno atrapado en el sistema
 
-Uno de los **motivos más comunes** detrás del ruido persistente en una **[caldera](https://decogas.com/calderas/)** apagada es la **presencia de hidrógeno atrapado en el sistema**. Cuando el agua se calienta dentro de la caldera, pequeñas **cantidades de hidrógeno se liberan y tienden a acumularse en ciertas áreas del sistema**. Estas burbujas de gas **pueden liberar su energía después de apagar la caldera**, lo que **genera ruidos como chasquidos o golpeteos**. A este fenómeno se le conoce como «goteo de retorno».
+Uno de los **motivos más comunes** detrás del ruido persistente en una **[caldera](/decogas/calderas.html)** apagada es la **presencia de hidrógeno atrapado en el sistema**. Cuando el agua se calienta dentro de la caldera, pequeñas **cantidades de hidrógeno se liberan y tienden a acumularse en ciertas áreas del sistema**. Estas burbujas de gas **pueden liberar su energía después de apagar la caldera**, lo que **genera ruidos como chasquidos o golpeteos**. A este fenómeno se le conoce como «goteo de retorno».
 
 #### **Solución: Purga del sistema**
 

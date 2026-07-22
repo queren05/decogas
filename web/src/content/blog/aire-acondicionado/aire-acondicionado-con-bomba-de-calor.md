@@ -12,7 +12,7 @@ El aire acondicionado con [bomba de calor](/decogas/blog/bomba-calor-aerotermia/
 
 ## Ventajas del aire acondicionado con bomba de calor en Madrid
 
-En la actualidad, existe una amplia variedad de [aires acondicionados](https://decogas.com/aire-acondicionado/) entre los que puedes elegir. Los modelos con bomba de calor son muy recomendables porque **proporcionan frío y calor**, lo que hace que sean ideales para todo tipo de hogares, especialmente en la capital.
+En la actualidad, existe una amplia variedad de [aires acondicionados](/decogas/aires.html) entre los que puedes elegir. Los modelos con bomba de calor son muy recomendables porque **proporcionan frío y calor**, lo que hace que sean ideales para todo tipo de hogares, especialmente en la capital.
 
 A continuación te mostramos las **principales ventajas** de instalar un aire acondicionado con bomba de calor en Madrid:
 

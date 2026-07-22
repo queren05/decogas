@@ -10,7 +10,7 @@ readingTime: 6
 ---
 ![hombre instalando el condensador de un aire acondicionado split](/decogas/blog-img/hvac-technician-working-capacitor-part-condensing-unit-2-1.webp)
 
-La [instalación de un aire acondicionado](https://decogas.com/aire-acondicionado/) es una decisión importante que puede mejorar significativamente el confort en tu hogar, especialmente durante los meses más calurosos del año.
+La [instalación de un aire acondicionado](/decogas/aires.html) es una decisión importante que puede mejorar significativamente el confort en tu hogar, especialmente durante los meses más calurosos del año.
 
 Sin embargo, el coste asociado a esta mejora puede variar ampliamente dependiendo de varios factores clave. Desde el **tipo de sistema** hasta la **elección del profesional de instalación**, cada aspecto juega un papel crucial en el presupuesto final.
 

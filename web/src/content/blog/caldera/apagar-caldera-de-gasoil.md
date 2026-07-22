@@ -8,7 +8,7 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 4
 ---
-Cuando salimos unos días de casa, ya sea por vacaciones u otro tipo de viajes, buscamos hacerlo con la mayor tranquilidad posible para no llevarnos sustos al volver a casa. Y, muchas personas, teniendo en cuenta esto, optan por apagar sus [calderas](https://decogas.com/calderas/) ya que creen que así ahorrarán energía o no tendrán accidentes por descuido. Por eso, es bueno saber si es **recomendable apagar la [caldera de gasoil](https://decogas.com/calderas-de-gasoil/)**.
+Cuando salimos unos días de casa, ya sea por vacaciones u otro tipo de viajes, buscamos hacerlo con la mayor tranquilidad posible para no llevarnos sustos al volver a casa. Y, muchas personas, teniendo en cuenta esto, optan por apagar sus [calderas](/decogas/calderas.html) ya que creen que así ahorrarán energía o no tendrán accidentes por descuido. Por eso, es bueno saber si es **recomendable apagar la [caldera de gasoil](/decogas/calderas.html)**.
 
 La realidad es que, si mantenemos la caldera encendida no supone ningún riesgo en cuanto a si se puede o no averiar en nuestra ausencia, aunque es posible que, si hay una fuga de agua, el daño sea mayor cuando volvamos a casa y no podamos frenarlo a tiempo.
 

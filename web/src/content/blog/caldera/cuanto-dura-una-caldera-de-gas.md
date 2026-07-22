@@ -12,7 +12,7 @@ readingTime: 6
 
 Puede suceder que tu caldera tenga muchos años y que comience a fallar de vez en cuando. Cuando eso pasa, solemos llamar al servicio técnico para que cambie la pieza que falla o solucionar un problema del circuito o de la caldera. Pero entonces nos comienza a entrar la duda de **cuánto dura una caldera de gas**.
 
-Cuando llegamos a un punto en que la [caldera de gas](https://decogas.com/calderas/) empieza a fallar cada dos por tres, nos planteamos si será mejor cambiarla, ya que el gasto de las continuas reparaciones puede ser mayor que adquirir una nueva.
+Cuando llegamos a un punto en que la [caldera de gas](/decogas/calderas.html) empieza a fallar cada dos por tres, nos planteamos si será mejor cambiarla, ya que el gasto de las continuas reparaciones puede ser mayor que adquirir una nueva.
 
 Normalmente será el técnico quien nos indique **cuándo es conveniente cambiar la caldera**. Pero nosotros te queremos ayudar y en este artículo te lo contaremos todo sobre **la duración de una caldera**, por qué falla y cómo alargar su vida útil.
 

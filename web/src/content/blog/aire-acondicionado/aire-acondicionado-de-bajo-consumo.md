@@ -8,7 +8,7 @@ tagClass: "aire"
 breadcrumb: "Aire acondicionado"
 readingTime: 5
 ---
-Un [aire acondicionado](https://decogas.com/aire-acondicionado/) es un electrodoméstico que se utiliza durante un **largo período de tiempo**, especialmente en los meses de verano. Su funcionamiento puede derivar en un gran gasto energético, lo que supone un incremento en tu factura de la luz. Por eso es esencial saber [cuánto consume un aire acondicionado](/decogas/blog/aire-acondicionado/cuanto-consume-aire-acondicionado/) y cuál es el ideal para ayudar a este bajo consumo.
+Un [aire acondicionado](/decogas/aires.html) es un electrodoméstico que se utiliza durante un **largo período de tiempo**, especialmente en los meses de verano. Su funcionamiento puede derivar en un gran gasto energético, lo que supone un incremento en tu factura de la luz. Por eso es esencial saber [cuánto consume un aire acondicionado](/decogas/blog/aire-acondicionado/cuanto-consume-aire-acondicionado/) y cuál es el ideal para ayudar a este bajo consumo.
 
 Es importante que, si vas a cambiar de equipo, elijas un aire acondicionado de bajo consumo; de esta manera, puedes mantener tu vivienda al nivel de frío que deseas **sin aumentar tu factura de la luz**.
 
@@ -65,4 +65,4 @@ A continuación te damos unos **consejos** que pueden ayudarte a reducir el cons
 -   **Limpia los filtros**: el polvo y la suciedad pueden influir en el rendimiento de tu electrodoméstico y, por tanto, en su consumo. Por ello, es necesario limpiarlo de forma periódica para que el sistema de climatización pueda trabajar a su máximo rendimiento.
 -   **Circulación del aire**. La circulación del aire ha de tener una velocidad adecuada y no concentrarse en una sola dirección. 
 
-Aunque el desembolso inicial pueda ser algo mayor, invertir en un aire acondicionado de bajo consumo te va a ser muy rentable y su **inversión será rápidamente amortizada**. Si estás pensando en adquirir uno, en Decogas disponemos de la mayor variedad de los [mejores aires acondicionados](https://decogas.com/aire-acondicionado/) para ti.
+Aunque el desembolso inicial pueda ser algo mayor, invertir en un aire acondicionado de bajo consumo te va a ser muy rentable y su **inversión será rápidamente amortizada**. Si estás pensando en adquirir uno, en Decogas disponemos de la mayor variedad de los [mejores aires acondicionados](/decogas/aires.html) para ti.

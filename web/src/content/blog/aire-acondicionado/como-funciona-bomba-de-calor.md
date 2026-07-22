@@ -10,7 +10,7 @@ readingTime: 4
 ---
 Cada vez más se utiliza la [bomba de calor](/decogas/blog/aire-acondicionado/aire-acondicionado-con-bomba-de-calor/), pero hace poco que este sistema se ha demostrado como una óptima alternativa de climatización para conseguir un hogar más eficiente, seguro y sostenible. Pero para entenderlo, tenemos que saber **cómo funciona la bomba de calor**.
 
-En [Decogas](https://decogas.com/) te contamos todo lo que tienes que saber sobre cómo funcionan estos aparatos.
+En [Decogas](/decogas/index.html) te contamos todo lo que tienes que saber sobre cómo funcionan estos aparatos.
 
 ![funciona la bomba de calor](/decogas/blog-img/bomba-de-calor-con-flores.webp)
 
