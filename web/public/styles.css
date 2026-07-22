@@ -505,7 +505,7 @@
   .p-actions .p-wa svg{ width:15px; height:15px; fill:#fff; }
   .p-actions .p-wa:hover{ filter:brightness(.94); }
   .p-actions .p-compare{ flex:1; display:inline-flex; align-items:center; justify-content:center; gap:5px; padding:9px; border-radius:10px;
-    border:1.3px solid var(--line); background:transparent; color:var(--navy); font-family:'Inter'; font-weight:600; font-size:12.5px; transition:border-color .2s, background .2s; }
+    border:1.3px solid var(--line); background:transparent; color:var(--navy); font-family:'Inter'; font-weight:600; font-size:12.5px; text-decoration:none; transition:border-color .2s, background .2s; }
   .p-actions .p-compare:hover{ border-color:var(--navy); }
   .p-actions .p-compare.active{ background:var(--navy); color:#fff; border-color:var(--navy); }
   .p-actions .p-wa:active, .p-actions .p-compare:active{ transform:scale(.97); }
