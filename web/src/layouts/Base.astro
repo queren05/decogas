@@ -3,7 +3,7 @@
 // Se escribe UNA vez y lo comparten todas las páginas raíz de marketing.
 const rawBase = import.meta.env.BASE_URL; // '/decogas' (sin barra final)
 const base = rawBase.endsWith('/') ? rawBase : rawBase + '/'; // → '/decogas/'
-const ASSET_V = 38; // fix doble euro en recientes.js
+const ASSET_V = 39; // fuentes auto-alojadas
 const STYLES_V = 52; // contraste dark: sub-chip.active + badges energia
 // Página actual (formato 'file': /decogas/calderas.html) para marcar el menú activo
 const currentFile = Astro.url.pathname.split('/').pop() || 'index.html';
@@ -79,9 +79,9 @@ const localBizLd = JSON.stringify({
 <meta property="og:site_name" content="Decogas">
 <meta property="og:image" content={ogImage}>
 <link rel="icon" type="image/svg+xml" href={`${base}favicon.svg?v=4`}>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500;600&display=swap" rel="stylesheet">
+<link rel="preload" href={`${base}fonts/inter-latin-260c81.woff2`} as="font" type="font/woff2" crossorigin>
+<link rel="preload" href={`${base}fonts/fraunces-latin-eb2486.woff2`} as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href={`${base}fonts.css?v=1`}>
 <link rel="stylesheet" href={`${base}styles.css?v=${STYLES_V}`}>
 <slot name="head" />
 </head>
