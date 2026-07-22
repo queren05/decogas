@@ -1416,6 +1416,11 @@ nav.main-nav a[aria-current="page"]::after{ right:0; }
 [data-theme="dark"] .p-cta .p-primary:hover{ background:#1C3B58; color:#fff; border-color:#1C3B58; }
 [data-theme="dark"] .p-cta .p-secondary{ color:#D6E0EA; border-color:rgba(255,255,255,.18); }
 [data-theme="dark"] .p-rate{ color:#93A5B6; }
+/* v52: chip de subvención activo (background:var(--navy) se volvía claro → texto blanco invisible) */
+[data-theme="dark"] .sub-chip.active{ background:#1C3B58; border-color:#1C3B58; color:#fff; }
+/* v52: badges de clase energética coherentes en oscuro (antes verde clarito chillón) */
+[data-theme="dark"] .p-specs .p-eff,
+[data-theme="dark"] .prod-eff{ background:#12301F; color:#5FD98A; border-color:#265F42; }
 
 /* Modales: comparador de productos y presupuesto de la calculadora */
 [data-theme="dark"] .compare-sheet,
