@@ -4,7 +4,7 @@
 const rawBase = import.meta.env.BASE_URL; // '/decogas' (sin barra final)
 const base = rawBase.endsWith('/') ? rawBase : rawBase + '/'; // → '/decogas/'
 const ASSET_V = 40; // tarjetas home = catalogo
-const STYLES_V = 53; // p-compare como enlace sin subrayado (home)
+const STYLES_V = 54; // hover de tarjetas home igual al catálogo (anula transition-delay del stagger)
 // Página actual (formato 'file': /decogas/calderas.html) para marcar el menú activo
 const currentFile = Astro.url.pathname.split('/').pop() || 'index.html';
 const active = (file: string) => (currentFile === file ? 'page' : undefined);

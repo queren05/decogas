@@ -62,6 +62,9 @@
   .reveal-stagger.in > *:nth-child(6){ transition-delay:.39s; }
   .reveal-stagger.in > *:nth-child(7){ transition-delay:.46s; }
   .reveal-stagger.in > *:nth-child(8){ transition-delay:.53s; }
+  /* Las tarjetas de producto de la home comparten hover con el catálogo:
+     el transition-delay del stagger no debe quedarse pegado o el hover responde tarde. */
+  .product-grid3.reveal-stagger.in > .p-card{ transition-delay:0s; }
   @media (prefers-reduced-motion: reduce){
     .reveal, .reveal-stagger > *{ opacity:1; transform:none; filter:none; transition:none; }
   }
