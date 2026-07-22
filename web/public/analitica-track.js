@@ -16,17 +16,11 @@
 
   var ENDPOINT = cfg.supabaseUrl.replace(/\/+$/, "") + "/rest/v1/web_events";
 
-  // ---- Sesión anónima (una "visita" = mientras la pestaña siga abierta) ----
-  var session;
-  try {
-    session = sessionStorage.getItem("decogas_sid");
-    if (!session) {
-      session = Math.random().toString(36).slice(2) + Date.now().toString(36);
-      sessionStorage.setItem("decogas_sid", session);
-    }
-  } catch (e) {
-    session = Math.random().toString(36).slice(2);
-  }
+  // ---- Id de página anónimo, SOLO en memoria ----
+  // No se guarda en sessionStorage/localStorage/cookies: vive lo que dura la
+  // carga de la página y agrupa la visita con sus clics. Al no almacenar nada
+  // en el dispositivo, no aplica el art. 22.2 LSSI (no requiere consentimiento).
+  var session = Math.random().toString(36).slice(2) + Date.now().toString(36);
 
   var device = (window.matchMedia && window.matchMedia("(max-width: 760px)").matches) ? "movil" : "escritorio";
 
