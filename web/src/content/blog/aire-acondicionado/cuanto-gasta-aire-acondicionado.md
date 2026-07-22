@@ -8,7 +8,7 @@ tagClass: "aire"
 breadcrumb: "Aire acondicionado"
 readingTime: 6
 ---
-![mujer encendiendo aire acondicionado con tablet](https://decogas.com/wp-content/uploads/2025/02/57148-1.jpg)
+![mujer encendiendo aire acondicionado con tablet](/decogas/blog-img/57148-1.webp)
 
 Sobre todo en los días de verano cuando notas que has dejado tu aire acondicionado encendido durante horas y horas, puede que te preguntes **cuánto consume un aire acondicionado**.
 
@@ -40,7 +40,7 @@ La eficiencia energética, indicada por la etiqueta de la Unión Europea, es un 
 
 ## Factores que afectan el consumo energético
 
-![aire acondicionado tipo split en pared blanca](https://decogas.com/wp-content/uploads/2025/02/6226-1.jpg)
+![aire acondicionado tipo split en pared blanca](/decogas/blog-img/6226-1.webp)
 
 Como ya hemos mencionada, el consumo energético de un aire acondicionado no depende únicamente de la eficiencia del dispositivo o su tipo. Existen varios factores externos e internos que pueden influir significativamente en cuánta energía consume el equipo:
 

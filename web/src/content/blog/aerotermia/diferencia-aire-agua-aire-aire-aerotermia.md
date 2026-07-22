@@ -17,7 +17,7 @@ La [**aerotermia**](/decogas/blog/que-es-la-aerotermia/), o bomba de calor, es u
 
 ## ¿Cómo funciona una bomba de calor?
 
-Para entender las diferencias entre la aerotermia aire-agua y la aire-aire es importante saber cómo funciona una bomba de calor. Este aparato es capaz de **transferir energía térmica desde una fuente fría (baja temperatura) a otra más caliente (de mayor temperatura)**. Esa última distribuye el calor por el espacio elegido, adecuándolo a la temperatura deseada. Este tipo de aparatos son parecidos a una máquina de aire acondicionado pero, en vez de obtener calor de un ambiente cerrado, **obtiene el calor del exterior y calienta el fluido frío** en un evaporador para distribuir el calor y calentar los espacios interiores. El siguiente esquema ayudará a comprender mejor el proceso: ![bomba de calor](https://decogas.com/wp-content/uploads/2025/02/diferencias-agua.jpg)
+Para entender las diferencias entre la aerotermia aire-agua y la aire-aire es importante saber cómo funciona una bomba de calor. Este aparato es capaz de **transferir energía térmica desde una fuente fría (baja temperatura) a otra más caliente (de mayor temperatura)**. Esa última distribuye el calor por el espacio elegido, adecuándolo a la temperatura deseada. Este tipo de aparatos son parecidos a una máquina de aire acondicionado pero, en vez de obtener calor de un ambiente cerrado, **obtiene el calor del exterior y calienta el fluido frío** en un evaporador para distribuir el calor y calentar los espacios interiores. El siguiente esquema ayudará a comprender mejor el proceso: ![bomba de calor](/decogas/blog-img/diferencias-agua.webp)
 
 ## Tipos distintos aerotermia
 
@@ -46,7 +46,7 @@ También llamadas bombas de calor geotérmicas, son equipos que **aprovechan la
 
 ## Llama ahora e infórmate
 
-![aerotermia](https://decogas.com/wp-content/uploads/2025/02/L_Aerotermia2-300x300-1.jpg) Elige el sistema de aerotermia que mejor se adapte a tus necesidades. Estamos a tu completa disposición para aclarar dudas o asesorarte en todos los temas referentes a bombas de calor Aire-Agua o Aire-Aire. Haz de tu hogar un espacio lleno de confort y seguridad para ti y los tuyos. Aprovecha esta información para conocer mejor lo que necesitas y lo que le solicitarás al equipo de expertos que realice las labores de instalación en tu hogar. **Trabaja de la mano de los mejores profesionales en el área y obtén los resultados que mereces.**
+![aerotermia](/decogas/blog-img/l-aerotermia2-300x300-1.webp) Elige el sistema de aerotermia que mejor se adapte a tus necesidades. Estamos a tu completa disposición para aclarar dudas o asesorarte en todos los temas referentes a bombas de calor Aire-Agua o Aire-Aire. Haz de tu hogar un espacio lleno de confort y seguridad para ti y los tuyos. Aprovecha esta información para conocer mejor lo que necesitas y lo que le solicitarás al equipo de expertos que realice las labores de instalación en tu hogar. **Trabaja de la mano de los mejores profesionales en el área y obtén los resultados que mereces.**
 
 [Te llamamos gratis](https://decogas.com/contacto/)
 

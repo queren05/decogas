@@ -8,7 +8,7 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 3
 ---
-Sustituir, renovar o revisar periódicamente la caldera de gas es una previsión que muchos hogares llevan a cabo antes del invierno. Nosotros sabemos lo importante que es contar con buena calefacción en estos meses, por lo que te explicaremos cómo elegir la caldera de gas más adecuada para ti, si es que debes comprar una. Las calderas forman parte de las **instalaciones de calefacción basadas en circuitos de agua cerrados**, convirtiéndose, además, en la pieza fundamental de su funcionamiento. Actualmente, existen numerosos diseños en el mercado, cada uno con características diferentes. ![](https://decogas.com/wp-content/uploads/2025/02/que-caldera-comprar-1024x593-1.jpg)
+Sustituir, renovar o revisar periódicamente la caldera de gas es una previsión que muchos hogares llevan a cabo antes del invierno. Nosotros sabemos lo importante que es contar con buena calefacción en estos meses, por lo que te explicaremos cómo elegir la caldera de gas más adecuada para ti, si es que debes comprar una. Las calderas forman parte de las **instalaciones de calefacción basadas en circuitos de agua cerrados**, convirtiéndose, además, en la pieza fundamental de su funcionamiento. Actualmente, existen numerosos diseños en el mercado, cada uno con características diferentes. ![](/decogas/blog-img/que-caldera-comprar-1024x593-1.webp)
 
 ## ¿Qué tipo de Caldera comprar?
 

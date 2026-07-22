@@ -10,7 +10,7 @@ readingTime: 4
 ---
 **Aprende para qué sirve y cuál es el proceso de instalación de una bomba de calor con aerotermia** en tu hogar. Nuestro objetivo es brindarte la información necesaria para que puedas tomar decisiones informadas sobre la climatización de tu espacio.
 
-![bomba de calor aerotermia](https://decogas.com/wp-content/uploads/2025/02/bomba-de-calor-aerotermia.png)
+![bomba de calor aerotermia](/decogas/blog-img/bomba-de-calor-aerotermia.webp)
 
 Una bomba de calor con aerotermia **es un sistema de calefacción y refrigeración que utiliza el calor del aire exterior para calentar o enfriar una casa.** Es una tecnología muy eficiente en términos de energía, lo que significa que puede ahorrarle dinero en sus facturas de calefacción y refrigeración.
 

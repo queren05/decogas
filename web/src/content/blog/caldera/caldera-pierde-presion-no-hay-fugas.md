@@ -12,7 +12,7 @@ Por lo general, una [caldera](https://decogas.com/calderas/) que no tiene una **
 
 Por eso, a continuación, te hablaremos del caso en que tu **caldera pierde presión y no hay fugas**. Te daremos los motivos de por qué pierde presión y posibles soluciones para que tomes nota si sufres este tipo de problema en tu caldera.
 
-![Controlar los botones de una caldera](https://decogas.com/wp-content/uploads/2025/02/istockphoto-995521752-612x612-1.jpg)
+![Controlar los botones de una caldera](/decogas/blog-img/istockphoto-995521752-612x612-1.webp)
 
 ## ¿Por qué pierde presión la caldera?
 
@@ -37,7 +37,7 @@ Para comprobar esto, podemos cerrar las llaves (ida y retorno) de la calefacció
 -   **El manómetro baja de presión**. Por lo que la causante de la bajada de presión es la caldera debido a un goteo por alguna pieza o de la válvula de seguridad.
 -   **El manómetro no ha bajado de presión**. Cuando abras las llaves de nuevo, la presión del manómetro baja de golpe, indicando que la pérdida procede del circuito de calefacción. En este caso solo te falta ya saber dónde está la fuga.
 
-![Manipulación de una caldera](https://decogas.com/wp-content/uploads/2025/02/istockphoto-1277585123-612x612-1.jpg)
+![Manipulación de una caldera](/decogas/blog-img/istockphoto-1277585123-612x612-1.webp)
 
 ## Sistema de seguridad de las calderas
 
@@ -58,7 +58,7 @@ La situación es algo más complicada si notamos que la presión baja pero no te
 -   **Llave de vaciado**. Esta llave controla el agua contenida en el circuito de calefacción, pero si se deteriora puede provocar bajadas de presión. Para solucionarlo basta con cambiar la goma de la llave, pero si no se soluciona, será necesario picar el suelo y sustituir la llave afectada, asegurándonos también que no existen fugas en otro lugar de la casa.
 -   **Circuito de calefacción**. Es posible que haya una fuga en el circuito, pero no lo hayamos detectado. La única forma de saber el origen de la avería es buscar manchas o humedades en la pared que son indicativo de dónde está situada la fuga.
 
-![controlando la presión de una caldera](https://decogas.com/wp-content/uploads/2025/02/istockphoto-1320642166-612x612-1.jpg)
+![controlando la presión de una caldera](/decogas/blog-img/istockphoto-1320642166-612x612-1.webp)
 
 ## Resetear el sistema en 8 pasos
 

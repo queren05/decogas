@@ -19,7 +19,7 @@ Son muchos los **motivos** que te pueden llevar a cambiar una caldera; a continu
 -   **Comodidad y seguridad** en el suministro de calefacción y del agua caliente sanitaria.
 -   Para **mejorar la calidad del aire** y reducir el impacto ambiental.
 
-![Cambio de caldera gracias a las ayudas de la Comunidad de Madrid](https://decogas.com/wp-content/uploads/2025/02/ayudas-cambiar-caldera-madrid.jpg)
+![Cambio de caldera gracias a las ayudas de la Comunidad de Madrid](/decogas/blog-img/ayudas-cambiar-caldera-madrid.webp)
 
 ## Ayudas para cambiar la caldera en Madrid
 
@@ -82,7 +82,7 @@ Para poder solicitar el Plan Renove de calderas en Madrid es necesario presentar
 
 El órgano regulador, encargado de gestionar las solicitudes, es la Fundación de la Energía de la Comunidad de Madrid; si, por algún casual, **no se reúnen los criterios** para poder acceder a ella, la fundación lo notifica en un plazo de 10 días, para que se pueda corregir o añadir la información que sea precisa. En cualquier caso, la resolución de la solicitud debe realizarse en un **plazo máximo de 10 meses**.
 
-![Subvenciones para cambiar la caldera en Madrid](https://decogas.com/wp-content/uploads/2025/02/subvencion-cambiar-caldera-madrid.jpg)
+![Subvenciones para cambiar la caldera en Madrid](/decogas/blog-img/subvencion-cambiar-caldera-madrid.webp)
 
 ### Plan Cambia 360 para calderas de carbón y gasóleo
 

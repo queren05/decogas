@@ -8,7 +8,7 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 6
 ---
-![Mejores calderas de condensación](https://decogas.com/wp-content/uploads/2025/02/mejores-calderas-coondensacion-1.png)
+![Mejores calderas de condensación](/decogas/blog-img/mejores-calderas-coondensacion-1.webp)
 
 **¿Estás pensando en cambiar tu [caldera](https://decogas.com/calderas/) pero no sabes por dónde empezar?** Elegir una **caldera de condensación** puede ayudarte a ahorrar en la factura del gas y a mejorar el confort de tu hogar. Pero entre tantas marcas, precios y características, tomar una decisión se vuelve complicado.
 
@@ -64,7 +64,7 @@ Estos modelos combinan **buen rendimiento, un consumo ajustado y funciones intel
 
 ## Mejores marcas de calderas de condensación
 
-![Calderas de condensación](https://decogas.com/wp-content/uploads/2025/02/calderas-condensacion-1-1-1.png)
+![Calderas de condensación](/decogas/blog-img/calderas-condensacion-1-1-1.webp)
 
 Conocer las marcas más fiables del mercado ayuda a tomar decisiones con más confianza. La reputación, el soporte técnico y la durabilidad marcan la diferencia.
 

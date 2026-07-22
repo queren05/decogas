@@ -8,7 +8,7 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 6
 ---
-![caldera ariston con error 501](https://decogas.com/wp-content/uploads/2025/02/error-501-caldera-ariston-1.jpg)
+![caldera ariston con error 501](/decogas/blog-img/error-501-caldera-ariston-1.webp)
 
 El **error 501 en tu** **[**caldera Ariston**](https://decogas.com/calderas/ariston/)** puede parecer un problema grave, pero suele estar relacionado con la falta de llama durante el encendido. Este código indica que la caldera ha intentado encenderse sin éxito, lo que provoca un bloqueo de seguridad. Las causas más comunes incluyen **falta de gas**, obstrucciones en la **salida de humos** o problemas con el suministro. No te preocupes, en este artículo te explicamos las **soluciones** **más eficaces** para resolver este fallo y prevenir futuros errores en tu caldera.
 
@@ -56,7 +56,7 @@ Los bloqueos en la salida de humos **no permiten la correcta evacuación de los 
 
 ## Soluciones para el error 501 en calderas Ariston
 
-![mujer tomando café junto a calefacción](https://decogas.com/wp-content/uploads/2025/02/error-501-caldera-ariston-2.jpg)
+![mujer tomando café junto a calefacción](/decogas/blog-img/error-501-caldera-ariston-2.webp)
 
 Existen varias soluciones que puedes aplicar para resolver el error 501 en tu caldera Ariston. Aquí te explicamos los pasos más efectivos.
 

@@ -8,7 +8,7 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 4
 ---
-![Pareja sonriente sentada frente al calefactor](https://decogas.com/wp-content/uploads/2025/02/Que-pasa-si-se-cierra-un-radiador-de-la-calefaccion.jpg)
+![Pareja sonriente sentada frente al calefactor](/decogas/blog-img/que-pasa-si-se-cierra-un-radiador-de-la-calefaccion.webp)
 
 La eficiencia energética es un aspecto crucial en el uso de sistemas de calefacción. Muchos usuarios se preguntan qué pasa si se cierra un radiador de la calefacción y cómo afectará esto a su consumo de gas y a la **distribución del calor en su hogar**. Este artículo busca resolver estas dudas, proporcionando información detallada y práctica.
 
@@ -42,7 +42,7 @@ El uso de válvulas termostáticas es especialmente útil en sistemas de calefac
 
 ## **Impacto de cerrar un radiador**
 
-![Hombre apaga radiador](https://decogas.com/wp-content/uploads/2025/02/Hombre-apagando-radiador.jpg)
+![Hombre apaga radiador](/decogas/blog-img/hombre-apagando-radiador.webp)
 
 Cerrar un radiador puede tener un impacto significativo en el sistema de calefacción. Aunque puede llevar a un ahorro de gas en ciertas circunstancias, también puede **afectar negativamente** la eficiencia general del sistema.
 

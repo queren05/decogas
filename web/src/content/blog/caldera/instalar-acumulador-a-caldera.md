@@ -10,7 +10,7 @@ readingTime: 6
 ---
 **Instalar un** **acumulador a una [caldera](https://decogas.com/calderas/)** presenta ventajas como dar confort extra en tu hogar y garantizar el suministro de agua en el momento en que haga falta, sin tener que hacer un gasto extra de combustible para ello. La sinergia entre una caldera y un acumulador la combinación perfecta para comodidad y ahorro en la calefacción.
 
-![acumulador en placas solares](https://decogas.com/wp-content/uploads/2025/02/istockphoto-1258729868-612x612-1.jpg)
+![acumulador en placas solares](/decogas/blog-img/istockphoto-1258729868-612x612-1.webp)
 
 ## ¿Qué es un acumulador de agua caliente y cómo funciona?
 
@@ -36,7 +36,7 @@ La mayoría de familias cuentan entre 3 a 5 miembros de media por hogar. Normalm
 
 Es más, en cuanto nos comenzamos a duchar y consumimos el agua del acumulador, la **caldera comienza a producir agua caliente** y la introduce en el acumulador por la parte inferior.
 
-![Parte de instalación de sistema de calefacción](https://decogas.com/wp-content/uploads/2025/02/istockphoto-1215551879-612x612-1.jpg)
+![Parte de instalación de sistema de calefacción](/decogas/blog-img/istockphoto-1215551879-612x612-1.webp)
 
 ## 6 pasos para instalar un acumulador a una caldera
 
@@ -79,7 +79,7 @@ A la hora de instalar un acumulador tenemos que tener en cuenta:
 -   Antes de realizar conexiones eléctricas, es mejor desconectar el suministro eléctrico de la casa para evitar accidentes.
 -   Añadir una válvula termostática para ajustar la temperatura del agua. Se debe colocar en el desagüe y nunca en el acumulador.
 
-![acumuladores de agua sobre el tejado de una casa](https://decogas.com/wp-content/uploads/2025/02/istockphoto-1153606251-612x612-1.jpg)
+![acumuladores de agua sobre el tejado de una casa](/decogas/blog-img/istockphoto-1153606251-612x612-1.webp)
 
 ## Consejos de instalación de un acumulador
 

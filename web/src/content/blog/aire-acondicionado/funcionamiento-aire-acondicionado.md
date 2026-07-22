@@ -40,7 +40,7 @@ El circuito frigorífico emplea gas refrigerante al que se **deriva el exceso de
 
 Su principal función es la de regular el funcionamiento del equipo y apagarlo cuando se alcanza la temperatura escogida por el usuario. Es un componente fundamental para asegurar la eficiencia del aparato, puesto que hará que el sistema de climatización únicamente funcione cuando sea necesario. Podemos encontrar distintos tipos de termostato según su tecnología y funciones. Un buen uso de este aparato puede asegurar hasta un ahorro del 30%.
 
-![Mujer activando el funcionamiento del aire acondicionado](https://decogas.com/wp-content/uploads/2025/02/activando-funcionamiento-aire-acondiconado.jpg)
+![Mujer activando el funcionamiento del aire acondicionado](/decogas/blog-img/activando-funcionamiento-aire-acondiconado.webp)
 
 Además, es **muy importante** realizar un buen [mantenimiento del aire acondicionado](/decogas/blog/aire-acondicionado/mantenimiento-aire-acondicionado/) para que estos componentes funcionen de la mejor forma posible.
 

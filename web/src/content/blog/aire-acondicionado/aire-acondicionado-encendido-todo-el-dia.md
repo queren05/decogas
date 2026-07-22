@@ -8,7 +8,7 @@ tagClass: "aire"
 breadcrumb: "Aire acondicionado"
 readingTime: 4
 ---
-![aire acondicionado split en funcionamiento](https://decogas.com/wp-content/uploads/2025/02/aire-acondicionado-en-funcionamiento.jpg)
+![aire acondicionado split en funcionamiento](/decogas/blog-img/aire-acondicionado-en-funcionamiento.webp)
 
 Muchas personas tienen la duda de si es posible dejar el **aire acondicionado encendido durante todo el día**. La respuesta a esta cuestión dependerá de factores como son el presupuesto que estamos dispuestos a pagar en la factura de la luz, así como el tipo de clima donde vivamos. Existen zonas donde es casi imposible apagar el aparato debido al intenso calor.
 
@@ -26,7 +26,7 @@ La **utilización durante largas horas del aire acondicionado** no quiere decir 
 
 Los **modelos convencionales** se apagan y encienden cuando es necesario, por lo que el uso continuado no quiere decir que el compresor funcione de forma constante. Los [**modelos de aire acondicionado inverter**](https://decogas.com/aire-acondicionado/inverter/), por su parte, se pueden usar durante mucho tiempo, puesto que el motor trabaja de forma continuada sin sufrir paradas y marchas sucesivas.
 
-![mando a distancia aire acondicionado](https://decogas.com/wp-content/uploads/2025/02/mando-a-distancia-aire-acondicionado.jpg)
+![mando a distancia aire acondicionado](/decogas/blog-img/mando-a-distancia-aire-acondicionado.webp)
 
 ## Utilizar el aire acondicionado sin que suba la factura
 
@@ -55,7 +55,7 @@ Aunque hemos señalado que el aire acondicionado no necesita “descansar” dur
 
 En el modelo de **aire acondicionado con sistema inverter**, el compresor no se apaga y el motor funciona de manera constante. En general es una ventaja, puesto que tiene un menor gasto energético si se compara con el modelo convencional on/off.
 
-![mujer valorando el aire acondicionado](https://decogas.com/wp-content/uploads/2025/02/mujer-valorando-el-aire-acondicionado.jpg)
+![mujer valorando el aire acondicionado](/decogas/blog-img/mujer-valorando-el-aire-acondicionado.webp)
 
 ## ¿Cómo asegurar una larga vida útil de nuestro aire acondicionado?
 

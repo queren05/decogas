@@ -14,7 +14,7 @@ Estas estufas son **más eficientes que las estufas de leña tradicionales**, ya
 
 Estas estufas de pellets han sido aprobadas por la Agencia Europea de Medio Ambiente como una forma segura y eficiente de calentar el hogar. Esto significa que estas estufas no emiten ningún tipo de contaminantes al medio ambiente, lo que las hace una excelente opción para aquellos que quieren calentar su hogar de forma segura y eficiente.
 
-## ![estufas de pellets sin salida de humos](https://decogas.com/wp-content/uploads/2025/02/estufas-de-pellets-sin-salida-de-humo.jpg)Instalación de estufas de pellets sin salida de humos
+## ![estufas de pellets sin salida de humos](/decogas/blog-img/estufas-de-pellets-sin-salida-de-humo.webp)Instalación de estufas de pellets sin salida de humos
 
 Instalar **estufas de pellets sin salida de humos** es una excelente opción para aquellos que quieren **disfrutar del calor y la comodidad** de una estufa sin tener que preocuparse por los humos. Si estás pensando en instalar estas estufas hay cosas que necesitas saber:
 
@@ -37,7 +37,7 @@ Para obtener una estimación precisa de cuántas habitaciones puedes abastecer c
 
 Las estufas de pellets son una excelente opción para calentar nuestras casas en invierno. La duración de esta estufa encendida depende de varios factores, como el tamaño de la estufa, la cantidad y tipo de pellets y la temperatura deseada. En general, una estufa de pellets puede **durar entre 8 y 12 horas**. Esto significa que, si se enciende una estufa de pellets a las 8 de la mañana, se puede esperar que se apague a las 8 de la noche.
 
-![estufa de pellets encendida](https://decogas.com/wp-content/uploads/2025/02/estufa-pellets.jpg)
+![estufa de pellets encendida](/decogas/blog-img/estufa-pellets.webp)
 
 Además, hay algunas estufas que cuentan con un **sistema de control de temperatura**. Es decir, se apagará automáticamente cuando se alcance la temperatura deseada. Esto es ideal para ahorrar energía y mantener una temperatura constante en la casa.
 

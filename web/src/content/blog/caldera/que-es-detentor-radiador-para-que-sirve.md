@@ -10,7 +10,7 @@ readingTime: 5
 ---
 En el mundo de la calefacción doméstica, comprender los componentes clave de nuestro sistema puede marcar una gran diferencia en su eficiencia y funcionamiento. Uno de estos componentes esenciales es el detentor. Pero, **¿qué es el detentor de un radiador exactamente?** En este artículo, desglosaremos su función, importancia y cómo mantenerlo para asegurar un hogar cálido y confortable.
 
-![vista cercana de un radiador blanco](https://decogas.com/wp-content/uploads/2025/02/22126-1.jpg)
+![vista cercana de un radiador blanco](/decogas/blog-img/22126-1.webp)
 
 ## ¿Qué es un detentor y para qué sirve?
 
@@ -58,7 +58,7 @@ Si se observa alguno de estos síntomas, es nedesario realizar una inspección m
 
 Vamos a explorar soluciones efectivas para los inconvenientes más habituales que puedes encontrar con el detentor de tu radiador.
 
-![mano encendiendo un radiador](https://decogas.com/wp-content/uploads/2025/02/close-up-hand-turning-up-heater-1.jpg)
+![mano encendiendo un radiador](/decogas/blog-img/close-up-hand-turning-up-heater-1.webp)
 
 ### Fugas de agua
 

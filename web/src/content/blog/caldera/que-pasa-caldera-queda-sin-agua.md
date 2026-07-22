@@ -8,7 +8,7 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 5
 ---
-![técnico evaluando que pasa si la caldera se queda sin agua](https://decogas.com/wp-content/uploads/2025/02/service-maintenance-worker-repairing_23-2149176736.jpg)
+![técnico evaluando que pasa si la caldera se queda sin agua](/decogas/blog-img/service-maintenance-worker-repairing-23-2149176736.webp)
 
 ¿Te has preguntado alguna vez **qué pasa si la caldera se queda sin agua**? Este problema común puede causar desde ineficiencia energética hasta graves daños en tu sistema de calefacción. En este artículo exploraremos las causas y consecuencias de un bajo nivel de agua en la caldera, y te proporcionaremos soluciones prácticas y consejos de mantenimiento para evitar contratiempos. ¡Descubre cómo mantener tu caldera en óptimas condiciones!
 
@@ -65,7 +65,7 @@ El vaso de expansión y la válvula de seguridad son componentes básicos para m
 
 ### Qué hacer si la caldera ya se ha quedado sin agua
 
-![técnico reparando caldera que se ha quedado sin agua](https://decogas.com/wp-content/uploads/2025/02/worker-repairing-water-heater_23-2149334231.jpg)
+![técnico reparando caldera que se ha quedado sin agua](/decogas/blog-img/worker-repairing-water-heater-23-2149334231.webp)
 
 Si la caldera se queda sin agua, actúa rápidamente para evitar daños mayores. Primero, **para evitar el [sobrecalentamiento de la caldera](sobrecalentamiento-caldera) apágala**. Luego, revisa el manómetro y ajusta la presión del agua utilizando la llave de llenado. Si no puedes resolver el problema, llama a un técnico profesional especializado en la [reparación de calderas](https://decogas.com/reparacion-calderas/) para una revisión completa del sistema.
 

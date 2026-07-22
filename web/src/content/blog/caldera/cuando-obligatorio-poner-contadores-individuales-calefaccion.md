@@ -8,7 +8,7 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 7
 ---
-![hombre leyendo contador individual de calefacción](https://decogas.com/wp-content/uploads/2025/02/cuando-es-obligatorio-poner-contadores-individuales-de-calefaccion.jpg)
+![hombre leyendo contador individual de calefacción](/decogas/blog-img/cuando-es-obligatorio-poner-contadores-individuales-de-calefaccion.webp)
 
 Es posible que te preguntes **cuándo es obligatorio instalar contadores individuales de calefacción** en tu edificio, ya que cada vez es más común escuchar sobre esta normativa.
 
@@ -38,7 +38,7 @@ Si estás considerando otras opciones de calefacción, te contamos [sobre los ti
 
 ## Zonas climáticas y su impacto en la obligación de instalar contadores
 
-![hombre leyendo termostato](https://decogas.com/wp-content/uploads/2025/02/Zonas-climaticas-y-su-impacto-en-la-obligacion-de-instalar-contadores.jpg)
+![hombre leyendo termostato](/decogas/blog-img/zonas-climaticas-y-su-impacto-en-la-obligacion-de-instalar-contadores.webp)
 
 La normativa sobre la instalación de contadores individuales varía según la zona climática en la que se encuentre tu edificio. Las necesidades de calefacción dependen mucho del clima de la región, y esto influye directamente en las obligaciones.
 
@@ -92,7 +92,7 @@ Luego, **considera si la normativa del Real Decreto 736/2020 aplica en tu zona c
 
 ## Proceso de instalación de contadores individuales
 
-![hombre manipulando tablet en casa](https://decogas.com/wp-content/uploads/2025/02/Proceso-de-instalacion-de-contadores-individuales.jpg)
+![hombre manipulando tablet en casa](/decogas/blog-img/proceso-de-instalacion-de-contadores-individuales.webp)
 
 El proceso para instalar contadores individuales de calefacción en un edificio con sistema centralizado implica varios pasos importantes. Es esencial seguir un orden adecuado para garantizar el cumplimiento de la normativa y maximizar los beneficios.
 

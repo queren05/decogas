@@ -8,7 +8,7 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 5
 ---
-![calentar casa con radiador antiguo](https://decogas.com/wp-content/uploads/2025/02/Que-calefaccion-es-mas-economica.jpg)En la búsqueda de un sistema eficiente, es fundamental comprender **qué calefacción es más económica**, las diversas opciones disponibles y cómo se adaptan a nuestras necesidades específicas.
+![calentar casa con radiador antiguo](/decogas/blog-img/que-calefaccion-es-mas-economica.webp)En la búsqueda de un sistema eficiente, es fundamental comprender **qué calefacción es más económica**, las diversas opciones disponibles y cómo se adaptan a nuestras necesidades específicas.
 
 Este artículo ofrece una guía detallada para ayudarte a elegir la calefacción más adecuada para tu hogar, considerando factores como la eficiencia energética, el coste de instalación y mantenimiento, y el impacto ambiental.
 
@@ -68,7 +68,7 @@ Aunque la inversión inicial es significativa, estos sistemas ofrecen ahorros co
 
 ## Consejos para elegir la calefacción adecuada
 
-![radiador grande en apartamento](https://decogas.com/wp-content/uploads/2025/02/Consejos-para-elegir-la-calefaccion-adecuada.jpg)
+![radiador grande en apartamento](/decogas/blog-img/consejos-para-elegir-la-calefaccion-adecuada.webp)
 
 Elegir el sistema de calefacción correcto es crucial. Aquí te ofrecemos algunos consejos para ayudarte en esta importante decisión:
 

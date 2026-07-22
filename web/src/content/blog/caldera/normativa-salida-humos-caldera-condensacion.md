@@ -26,7 +26,7 @@ De esta manera, cabe recalcar que la normativa establece que la salida de humos 
 
 Por ello, a la hora de instalar la caldera, hay que considerar dónde poner el terminal de salida de humos.
 
-![reglamento salida de humos calderas de condensación](https://decogas.com/wp-content/uploads/2025/02/reglamento-salida-de-humos-calderas-de-condensacion-601x400-1.jpg)
+![reglamento salida de humos calderas de condensación](/decogas/blog-img/reglamento-salida-de-humos-calderas-de-condensacion-601x400-1.webp)
 
 ## **Tipos de salidas de humos para calderas de condensación**
 
@@ -72,7 +72,7 @@ En resumen, esto es lo que debes saber:
 -   **Para viviendas unifamiliares independientes**: la salida del tubo de humos puede hacerse en fachadas o cubiertas, siempre que se cumpla el mínimo de 3 metros de distancia con los vecinos.
 -   **Para bloques de piso o casas adosadas**: las salidas de humos en la fachada tienen que estar aprobadas por la comunidad.
 
-![humos caldera de condensacion](https://decogas.com/wp-content/uploads/2025/02/humo-caldera-de-condensacion-600x400-1.jpg)
+![humos caldera de condensacion](/decogas/blog-img/humo-caldera-de-condensacion-600x400-1.webp)
 
 ### **Aspectos a tener en cuenta**
 

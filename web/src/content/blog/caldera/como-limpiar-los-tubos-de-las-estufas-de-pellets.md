@@ -12,7 +12,7 @@ readingTime: 3
 
 Limpiar y mantener tu [estufa](/decogas/blog/caldera/como-canalizar-una-estufa-de-pellets/) de pellets no es tan complicado como parece. Para limpiar correctamente tu estufa de pellets, necesitarás las siguientes **herramientas**: limpiacristales, desincrustante, un aspirador de cenizas, detergente o producto de limpieza no abrasivo, un paño, guantes de látex, un cepillo, un juego de destornilladores, una mascarilla y un kit para limpiar estufas de pellets.
 
-![pellets para una estufa con una casita](https://decogas.com/wp-content/uploads/2025/02/limpieza-de-los-tubos-de-estufa-de-pellets.jpg)
+![pellets para una estufa con una casita](/decogas/blog-img/limpieza-de-los-tubos-de-estufa-de-pellets.webp)
 
 ¿Cuándo y con qué frecuencia debes limpiar tu estufa de pellets? En primer lugar, siempre debes asegurarte de **desconectar el cable de alimentación antes de limpiar** o realizar cualquier tarea de mantenimiento en tu estufa. Dependiendo del uso que le des, debes realizar una limpieza a fondo cada 2 o 3 días para limpiar el cajón de la ceniza y el cristal. Éste se encuentra debajo del quemador y para limpiarlo tienes que abrir la puerta y eliminar todos los residuos con un aspirador.
 

@@ -21,7 +21,7 @@ Para un funcionamiento óptimo, la presión ideal debe oscilar entre **1 y 1,5 
 -   **Presión demasiado baja:** La [caldera de gas](/decogas/blog/caldera/caldera-gas-elegir-comprar/) puede dejar de encenderse o bloquearse por seguridad, dejándote sin calefacción ni agua caliente.
 -   **Presión demasiado alta:** Puede causar fugas de agua, goteos constantes en la válvula de seguridad y daños estructurales en el intercambiador de placas o el vaso de expansión.
 
-![radiador con termostato para reducir la presión de la caldera](https://decogas.com/wp-content/uploads/2025/02/radiator-250558_1280-1-602x400-1.jpg)
+![radiador con termostato para reducir la presión de la caldera](/decogas/blog-img/radiator-250558-1280-1-602x400-1.webp)
 
 ### El rol vital del vaso de expansión
 
@@ -59,7 +59,7 @@ Si tras bajar la presión esta vuelve a subir sin que hayas tocado nada, las cau
 -   **Llave de llenado defectuosa:** Si la llave no sella bien, entra agua del flujo sanitario al circuito de calefacción constantemente, elevando la aguja de forma imparable.
 -   **Avería en el intercambiador de placas:** Una fisura interna en este componente permite el paso de agua entre circuitos. En Decogas, tras dos décadas instalando soluciones de climatización, identificamos este fallo como uno de los más críticos para la vida útil de la caldera.
 
-![radiador con llave para el purgado de radiadores](https://decogas.com/wp-content/uploads/2025/02/heating-radiator-5436087_1280-1-533x800-1.jpg)
+![radiador con llave para el purgado de radiadores](/decogas/blog-img/heating-radiator-5436087-1280-1-533x800-1.webp)
 
 ### Procedimientos específicos para calderas Junkers y Bosch
 

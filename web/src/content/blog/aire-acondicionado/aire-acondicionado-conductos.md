@@ -14,7 +14,7 @@ Si deseas mantener tu vivienda climatizada todo el año y, al mismo tiempo, est�
 
 El [aire acondicionado](https://decogas.com/aire-acondicionado/) por conductos es un sistema de refrigeración que permite la **circulación del aire por unos conductos centralizados**. Este método de climatización se instala sobre un falso techo y está compuesto por un aparato exterior, uno interior y los conductos repartidos por toda la vivienda.
 
-![Salón con aire acondicionado por conductos](https://decogas.com/wp-content/uploads/2025/02/salon-aire-acondicionado-conductos.jpg)
+![Salón con aire acondicionado por conductos](/decogas/blog-img/salon-aire-acondicionado-conductos.webp)
 
 La **ventaja principal** de este sistema se encuentra en la rapidez de la refrigeración, o calefacción, puesto que funciona solo con un aparato interior; de esta forma, se consigue la temperatura deseada de forma homogénea y trabaja con un bajo nivel sonoro.
 
@@ -61,7 +61,7 @@ Una de las ventajas del aire acondicionado por conductos es su **eficiencia ener
 
 Si decides adquirir un aire acondicionado por conductos debes saber que existen **distintos tipos de rejillas**. Además, es importante recordar que estos sistemas deben contar, en cada habitación, con dos rejillas: una para coger el aire y otra para expulsarlo. Estas son los distintos tipos que te puedes encontrar.
 
-![Aire acondicionado por conductos en un salón](https://decogas.com/wp-content/uploads/2025/02/aire-acondicionado-conductos.jpg)
+![Aire acondicionado por conductos en un salón](/decogas/blog-img/aire-acondicionado-conductos.webp)
 
 ### Rejillas de impulsión
 

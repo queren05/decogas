@@ -12,7 +12,7 @@ Cuando llega el invierno, es importante tener preparada la calefacción, por lo 
 
 Pero puede ocurrir que, de pronto, la presión de la [caldera](https://decogas.com/calderas/) esté baja y sea necesario subirla. Por esta razón, vamos a mostrarte **cómo subir la presión del a caldera**.
 
-## ![mujer mirando presión de caldera](https://decogas.com/wp-content/uploads/2025/02/istockphoto-1276391963-612x612-1.jpg)
+## ![mujer mirando presión de caldera](/decogas/blog-img/istockphoto-1276391963-612x612-1.webp)
 
 ## ¿Por qué baja la presión de la caldera?
 

@@ -12,7 +12,7 @@ Es necesario conocer **cómo encender una [caldera](https://decogas.com/calderas
 
 Tras varios meses sin usar la calefacción, es recomendable tener de seguro que no tengamos problemas o alguna avería en la caldera.  Pero, para saber si funciona bien, tenemos que tener en cuenta ciertos elementos.
 
-![encender una caldera](https://decogas.com/wp-content/uploads/2025/02/istockphoto-1277585123-612x612-1-1.jpg)
+![encender una caldera](/decogas/blog-img/istockphoto-1277585123-612x612-1-1.webp)
 
 ## Revisión oficial de la caldera
 
@@ -31,7 +31,7 @@ Cuando llega el frío o volvemos de vacaciones nos toca encender la caldera. Par
 -   Revisamos que la **presión del barómetro está entre 1 y 1.5 bares** de presión. En caso contrario, tenemos que abrir la llave de llenado hasta que la aguja se sitúe dentro de este intervalo de bares. Ten en cuenta que la [presión de la caldera sube con la calefacción](/decogas/blog/caldera/presion-caldera-sube-calefaccion/).
 -   Asegurarnos de que el **termostato funciona de manera correcta**. Hemos de realizar una revisión de la totalidad de los elementos que forman parte del sistema de calefacción para asegurarnos de que, al encender la caldera, el hogar permanecerá con la temperatura real sin incidencias.
 
-![panel de control de una caldera](https://decogas.com/wp-content/uploads/2025/02/istockphoto-489945884-612x612-1.jpg)
+![panel de control de una caldera](/decogas/blog-img/istockphoto-489945884-612x612-1.webp)
 
 ## Otros consejos a tener en cuenta
 
@@ -70,7 +70,7 @@ En caso de que la **presión sea mayor**, entonces tenemos que bajar la presión
 
 Como en el caso de los bares, también es esencial tener en cuenta la temperatura para poder ganar en comodidad y en el gasto energético. La recomendación es siempre tener una temperatura constante y que ronde los **21ºC** y, por la noche, apagarla o bajar a los 17ºC. Se estima que por cada grado que se sube, es aumenta el gasto energético en torno un 7%.
 
-![fijar la temperatura máxima](https://decogas.com/wp-content/uploads/2025/02/istockphoto-1171353535-612x612-1.jpg)
+![fijar la temperatura máxima](/decogas/blog-img/istockphoto-1171353535-612x612-1.webp)
 
 ### Purgar los radiadores
 

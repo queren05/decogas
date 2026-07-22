@@ -14,7 +14,7 @@ Es decir, aunque no se vea a simple vista, el aire acondicionado produce un **go
 
 Esta cantidad de agua no puede simplemente caer al suelo o sobre otra propiedad, ya sea por seguridad o por estética, por lo que es necesario saber cómo y dónde conectar el desagüe del aire acondicionado.
 
-![fachada de edificio con unidad exterior de aire acondicionado](https://decogas.com/wp-content/uploads/2025/02/fachada-de-un-edificio-con-aire-acondicionado.jpg)
+![fachada de edificio con unidad exterior de aire acondicionado](/decogas/blog-img/fachada-de-un-edificio-con-aire-acondicionado.webp)
 
 ## ¿Qué es el desagüe del aire acondicionado?
 
@@ -30,7 +30,7 @@ El desagüe de un aire acondicionado nos **ayuda a expulsar el agua del equipo**
 
 Así mismo, cabe destacar que no todos los aires acondicionados disponen del mismo tipo de desagüe y de eso hablaremos en las siguientes líneas.
 
-![aire acondicionado expulsando agua por el desagüe a la calle](https://decogas.com/wp-content/uploads/2025/02/desague-del-aire-acondicionado.jpg)
+![aire acondicionado expulsando agua por el desagüe a la calle](/decogas/blog-img/desague-del-aire-acondicionado.webp)
 
 ## Tipos de desagüe del aire acondicionado
 
@@ -58,7 +58,7 @@ El **modelo de ventana** tiene un orificio con una boquilla, por lo que basta so
 
 Por el contrario, el **sistema split** necesita contar con una tubería para el desagüe. Si la instalación es correcta, el agua bajará por la tubería llevada por la gravedad en una zona donde pueda fluir sin problemas o, bien, utilizando un envase para luego desecharla.
 
-![manguera de drenaje de aire acondicionado](https://decogas.com/wp-content/uploads/2025/02/manguera-para-aire-acondicionado.jpg)
+![manguera de drenaje de aire acondicionado](/decogas/blog-img/manguera-para-aire-acondicionado.webp)
 
 ## ¿Y si tengo que cambiar el tubo de desagüe del aire acondicionado?
 

@@ -10,7 +10,7 @@ readingTime: 5
 ---
 Es posible que entre tantos **tipos de calefacción para casas**, se te dificulte el conocerlos todos y aún más elegir el que más te conviene según tus necesidades. En este post te contamos las diferentes opciones que existen para climatizar tu hogar y te ayudamos a decidir la que mejor te va. ¡Acompáñanos!
 
-![hombre ajustando calefacción](https://decogas.com/wp-content/uploads/2025/02/2149308989-1.jpg)
+![hombre ajustando calefacción](/decogas/blog-img/2149308989-1.webp)
 
 ## Diferentes sistemas de calefacción para el hogar
 
@@ -44,7 +44,7 @@ Las [calderas de gasoil](https://decogas.com/calderas-de-gasoil/) son una altern
 
 ### Suelo radiante eléctrico
 
-![técnico instalando suelo radiante](https://decogas.com/wp-content/uploads/2025/02/26533-1.jpg)
+![técnico instalando suelo radiante](/decogas/blog-img/26533-1.webp)
 
 El [suelo radiante eléctrico](/decogas/blog/diferencias-suelo-radiante-radiadores/) proporciona una **distribución uniforme del calor** y es prácticamente invisible, lo que permite maximizar el espacio y la decoración de tu hogar. Aunque su instalación puede ser costosa, ofrece un confort térmico excepcional.
 

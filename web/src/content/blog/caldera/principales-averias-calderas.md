@@ -12,7 +12,7 @@ Las averías en las calderas se pueden deber a **muchos motivos**; en este _post
 
 ## Averías en las calderas por presiones de agua
 
-Que tu caldera no funcione puede afectar por completo a tu día a día; en la actualidad, cada vez son más las personas que disponen de una [caldera de gas](https://decogas.com/calderas/) en su vivienda. Su **correcto funcionamiento** depende de diversos factores, entre los que destacan el suministro eléctrico y la presión del agua y del combustible. ![Arreglando la avería de una caldera](https://decogas.com/wp-content/uploads/2025/02/arreglo-averia-caldera.jpg) Cuando uno de estos tres factores falla es cuando se suele producir una avería en las calderas. Estos sistemas de calefacción cuentan con un manómetro que permite conocer la presión del agua; esta aparece en bar, una unidad de medida de presión. Lo más recomendable es que la caldera tenga una **carga de presión en frío**, con bomba parada, entorno a 1,2 bar, con un margen de +/- 25%. A continuación te mostramos cuáles son los problemas que suelen originarse cuando tu sistema de calefacción tiene una **presión de agua inadecuada**.
+Que tu caldera no funcione puede afectar por completo a tu día a día; en la actualidad, cada vez son más las personas que disponen de una [caldera de gas](https://decogas.com/calderas/) en su vivienda. Su **correcto funcionamiento** depende de diversos factores, entre los que destacan el suministro eléctrico y la presión del agua y del combustible. ![Arreglando la avería de una caldera](/decogas/blog-img/arreglo-averia-caldera.webp) Cuando uno de estos tres factores falla es cuando se suele producir una avería en las calderas. Estos sistemas de calefacción cuentan con un manómetro que permite conocer la presión del agua; esta aparece en bar, una unidad de medida de presión. Lo más recomendable es que la caldera tenga una **carga de presión en frío**, con bomba parada, entorno a 1,2 bar, con un margen de +/- 25%. A continuación te mostramos cuáles son los problemas que suelen originarse cuando tu sistema de calefacción tiene una **presión de agua inadecuada**.
 
 ### Baja presión de carga
 
@@ -38,7 +38,7 @@ El paso del tiempo puede hacer que el intercambiador de placas de la caldera se 
 
 ### Sobrepresión provocada por hidrólisis
 
-La hidrólisis es una **reacción físico química del agua** que, una vez introducida en tu circuito de calefacción, entra en contacto con distintos materiales y provoca que se libere el Hidrógeno contenido en la masa de agua; este proceso tiene un tiempo limitado y una solución sencilla, el único inconveniente es que puede costar detectar la causa. ![Comprobando si existe una avería en la caldera](https://decogas.com/wp-content/uploads/2025/02/reparacion-averia-caldera.jpg) Lo más habitual es que te encuentres con que el **manómetro de tu caldera tiene altas temperaturas** y aunque intentes bajar la presión del agua de los radiadores, al día siguiente vivirás la misma escena. Esto se debe a que la reacción físico química del agua en el interior está afectada por la hidrólisis y, en muchas ocasiones, interviene el trato dado al **interior de los radiadores** durante su elaboración. Para solucionar este problema, lo más recomendable es dotar al circuito de una **purga automática** y garantizar que no existen fugas.
+La hidrólisis es una **reacción físico química del agua** que, una vez introducida en tu circuito de calefacción, entra en contacto con distintos materiales y provoca que se libere el Hidrógeno contenido en la masa de agua; este proceso tiene un tiempo limitado y una solución sencilla, el único inconveniente es que puede costar detectar la causa. ![Comprobando si existe una avería en la caldera](/decogas/blog-img/reparacion-averia-caldera.webp) Lo más habitual es que te encuentres con que el **manómetro de tu caldera tiene altas temperaturas** y aunque intentes bajar la presión del agua de los radiadores, al día siguiente vivirás la misma escena. Esto se debe a que la reacción físico química del agua en el interior está afectada por la hidrólisis y, en muchas ocasiones, interviene el trato dado al **interior de los radiadores** durante su elaboración. Para solucionar este problema, lo más recomendable es dotar al circuito de una **purga automática** y garantizar que no existen fugas.
 
 ### Sobrepresión provocada por llaves de carga
 
@@ -58,7 +58,7 @@ Además de estas averías en las calderas ocasionadas por presiones de agua, exi
 -   **No funciona la calefacción**: puede deberse a distintos motivos. Los más habituales son que el termostato no mande señala a la caldera (un problema en la pila o porque el dispositivo esté dañado), falta de comunicación entre la caldera y el termostato (fallo en un cable de conexión) o porque no funcione la válvula de 3 vías.
 -   **Bloqueo de la caldera**: si tu sistema de calefacción interrumpe su funcionamiento normal y se bloquea, mostrará un aviso o error que te ayudará a conocer la avería.
 
-![Grifo gotea por fuga de agua de la caldera](https://decogas.com/wp-content/uploads/2025/02/fuga-agua-caldera.jpg)
+![Grifo gotea por fuga de agua de la caldera](/decogas/blog-img/fuga-agua-caldera.webp)
 
 ## Averías en las calderas por pérdidas de agua
 

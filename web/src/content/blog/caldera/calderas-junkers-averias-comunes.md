@@ -8,7 +8,7 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 5
 ---
-![hombre solucionando averías comunes en calderas Junker](https://decogas.com/wp-content/uploads/2025/02/26529-1.jpg)
+![hombre solucionando averías comunes en calderas Junker](/decogas/blog-img/26529-1.webp)
 
 [Las calderas Junkers](https://decogas.com/calderas/bosch/) son reconocidas por su eficiencia y durabilidad, pero como cualquier equipo, pueden presentar averías. En este artículo te ofrecemos una guía completa sobre las **averías comunes en calderas Junkers** y sus soluciones. Aprenderás a identificar problemas de presión, errores comunes y fallos en componentes clave. Mantén tu caldera en perfecto estado con nuestros consejos de mantenimiento preventivo y conoce cuándo es necesario contactar a un profesional.
 
@@ -76,7 +76,7 @@ El apagado repentino de la caldera puede ser causado por problemas de sobrecalen
 
 ### Códigos de error en calderas Junkers
 
-![técnico analizando código de error en caldera Junker](https://decogas.com/wp-content/uploads/2025/02/2149334228-2-1.jpg)
+![técnico analizando código de error en caldera Junker](/decogas/blog-img/2149334228-2-1.webp)
 
 Las calderas Junkers están equipadas con sistemas de diagnóstico que muestran códigos de error en caso de problemas. Estos códigos ayudan a identificar rápidamente el problema específico y tomar medidas correctivas adecuadas.
 

@@ -8,7 +8,7 @@ tagClass: "aire"
 breadcrumb: "Aire acondicionado"
 readingTime: 5
 ---
-![unidades de aire acondicionado instaladas en terraza](https://decogas.com/wp-content/uploads/2025/02/close-up-heat-pump-outside-home-1.jpg)
+![unidades de aire acondicionado instaladas en terraza](/decogas/blog-img/close-up-heat-pump-outside-home-1.webp)
 
 **Instalar un aire acondicionado en la terraza** puede ser una solución ideal para disfrutar de confort térmico sin ocupar espacio interior. Sin embargo, este proyecto conlleva consideraciones importantes más allá de la simple instalación.
 
@@ -39,7 +39,7 @@ Al considerar la **instalación de un aire acondicionado** en la terraza, es ese
 
 ## Requisitos legales y normativas: Estatutos de la comunidad
 
-![sistema de aire acondicionado instalado en terraza](https://decogas.com/wp-content/uploads/2025/02/close-up-ventilation-system-1.jpg)
+![sistema de aire acondicionado instalado en terraza](/decogas/blog-img/close-up-ventilation-system-1.webp)
 
 Los estatutos de la comunidad de propietarios juegan un papel crucial en la determinación de si se puede instalar un aire acondicionado en la terraza. Estos documentos pueden contener **restricciones específicas** sobre la modificación de espacios comunes o la fachada del edificio. Por ello, es imprescindible revisarlos detenidamente antes de proceder.
 

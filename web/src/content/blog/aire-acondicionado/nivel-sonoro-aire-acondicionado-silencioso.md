@@ -16,7 +16,7 @@ Antes de adquirir un aire acondicionado, es importante conocer **cuál es el niv
 
 Para que te hagas una idea, un modelo que trabajan a un bajo nivel de ruido son aquellos que **funcionan a unos 24dB**; además, el aire acondicionado más silencioso es aquel que no supera los 16dB. Del mismo modo, estos aparatos suelen tener una clasificación energética A++ y A+++; es decir, mientras trabaja te permite ahorrar en tu factura de la luz.
 
-![Técnico instalando un aire acondicionado silencioso](https://decogas.com/wp-content/uploads/2025/02/aire-acondicionado-instalacion.jpg)
+![Técnico instalando un aire acondicionado silencioso](/decogas/blog-img/aire-acondicionado-instalacion.webp)
 
 Por otra parte, es necesario conocer el **lugar donde vas a instalar el aire acondicionado**; es decir, no es lo mismo que este electrodoméstico esté pensado para una oficina que para una biblioteca, el nivel de ruido al que trabaje en la segunda siempre debe ser menor.
 
@@ -34,7 +34,7 @@ Estos aparatos suelen incluir la tecnología _Grosso modo_, encargada de **dismi
 
 Un aire acondicionado silencioso suele incluir la tecnología _Inverter_. Este sistema permite **regular el funcionamiento del motor** del electrodoméstico, lo que permite un ahorro de hasta el 40%.
 
-![Aire acondicionado silencioso con control remoto](https://decogas.com/wp-content/uploads/2025/02/aire-acondicionado-control-remoto.jpg)
+![Aire acondicionado silencioso con control remoto](/decogas/blog-img/aire-acondicionado-control-remoto.webp)
 
 De esta manera, no solamente estarás ahorrando en la factura de la luz, este sistema regula la velocidad del compresor, evita los continuos arranques en ON/OFF, lo que hace que **disminuya el nivel de ruido al que trabaja**. De esta forma, la temperatura de la habitación se mantiene de forma constante y, al trabajar sin apenas ruido, el confort de la vivienda será mayor.
 

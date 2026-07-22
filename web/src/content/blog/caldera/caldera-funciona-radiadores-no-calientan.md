@@ -12,7 +12,7 @@ Cuando llega el frío en los meses de invierno, nuestra calefacción se conviert
 
 Si la calefacción no funciona bien, entonces de poco sirve tenerla. Si el radiador o radiadores están averiados y no sabemos por qué no producen calor, es mejor repararlos o, bien, contactar con un técnico para que localice la avería y pueda arreglarla.
 
-![manos sobre radiador](https://decogas.com/wp-content/uploads/2025/02/istockphoto-1227636251-612x612-1.jpg)
+![manos sobre radiador](/decogas/blog-img/istockphoto-1227636251-612x612-1.webp)
 
 Sin duda, con un radiador estropeado, se reduce la comodidad y el confort durante el invierno. Además, en nuestro consumo se seguirá reflejando el uso de una energía que realmente no estamos disfrutando y, por eso, reparar el sistema de calefacción o un radiador se vuelve una necesidad.
 
@@ -30,7 +30,7 @@ La **calefacción general solo se activa** en el momento en que se haya programa
 
 Igualmente, el cronotermostato también se puede **reiniciar en caso de que la caldera pierda energía** (corte de energía eléctrica) o se agoten las pilas del aparato, así como que pueda estar estropeado y sea necesario tener que sustituirlo por otro.
 
-![gato sobre radiador](https://decogas.com/wp-content/uploads/2025/02/istockphoto-474424655-612x612-1-533x400-1.jpg)
+![gato sobre radiador](/decogas/blog-img/istockphoto-474424655-612x612-1-533x400-1.webp)
 
 ## Solución 3: Purgar el radiador
 
@@ -48,7 +48,7 @@ Si el problema no se debe a un radiador que no calienta bien, sino que no calien
 
 Cuando esta llave lleva **mucho tiempo sin usarse**, es posible que se quede bloqueada en el momento en que pongamos en uso el radiador y este no caliente. La solución es retirar el aparato del radiador y mover el pistón varias veces hasta que consigamos que el radiador comience a calentar.
 
-![llave termostática](https://decogas.com/wp-content/uploads/2025/02/istockphoto-1287466347-612x612-1.jpg)
+![llave termostática](/decogas/blog-img/istockphoto-1287466347-612x612-1.webp)
 
 ## Limpiar un radiador sucio
 
@@ -74,7 +74,7 @@ No tendremos problema alguno en hacerlo si nos gusta realizar tareas de bricolaj
 -   Una vez enjuagado el radiador, lo volvemos a colocar sobre la pared y volvemos a activar el sistema abriendo la llave de paso de entrada a la caldera.
 -   Es posible que exista una llave de paso de entrada de agua externa o, bien, que la llave de paso sea interna. Si no estás seguro del tipo de llave, es mejor ponerse en contacto con un especialista.
 
-![hombre arreglando un radiador](https://decogas.com/wp-content/uploads/2025/02/istockphoto-1160012200-612x612-1.jpg)
+![hombre arreglando un radiador](/decogas/blog-img/istockphoto-1160012200-612x612-1.webp)
 
 ## Tabla resumen de problemas y soluciones
 

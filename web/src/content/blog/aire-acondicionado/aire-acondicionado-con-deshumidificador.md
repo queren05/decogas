@@ -8,7 +8,7 @@ tagClass: "aire"
 breadcrumb: "Aire acondicionado"
 readingTime: 5
 ---
-![mujer encendiendo un aire acondicionado con deshumidificador](https://decogas.com/wp-content/uploads/2025/02/aire-acondicionado-con-deshumidificador-1.jpg)
+![mujer encendiendo un aire acondicionado con deshumidificador](/decogas/blog-img/aire-acondicionado-con-deshumidificador-1.webp)
 
 Utilizar un [aire acondicionado](https://decogas.com/aire-acondicionado/) en verano con el calor es toda una ventaja, pero si además empleamos la **función deshumidificadora** entonces podremos disfrutar de un ambiente limpio y sin altas cotas de humedad en el hogar. Esta función es muy útil si vivimos en zonas muy húmedas y odiamos ese ambiente pegajoso que hace que no notamos grandes diferencias de ambiente si ponemos nuestro equipo. En este post te vamos a indicar todo sobre el **aire acondicionado con  deshumidificador**.
 
@@ -26,7 +26,7 @@ Gracias a que contamos con avances tecnológicos, podemos prevenir o reducir la 
 
 La reducción del vapor dependerá, en gran parte, según las características de los aparatos, su tipología y la efectividad de los mismos.
 
-![palabra humedad escrita en la condensación del cristal](https://decogas.com/wp-content/uploads/2025/02/humedad.jpg)
+![palabra humedad escrita en la condensación del cristal](/decogas/blog-img/humedad.webp)
 
 ## ¿Cómo funciona un aire acondicionado con deshumidificador?
 
@@ -58,7 +58,7 @@ El funcionamiento de este tipo de aparatos es muy sencillo, puesto que con la fu
 
 De igual modo, tenemos que tener en cuenta la zona donde vivamos. Si la humedad es muy alta en la zona o tenemos familiares o inquilinos con problemas respiratorios, siempre es mejor combinar la deshumidificación del equipo con un deshumidificador.
 
-![aire acondicionado con control remoto](https://decogas.com/wp-content/uploads/2025/02/modo-dry-del-aire-acondicionado.jpg)
+![aire acondicionado con control remoto](/decogas/blog-img/modo-dry-del-aire-acondicionado.webp)
 
 ## Beneficios de un aire acondicionado con deshumidificador
 

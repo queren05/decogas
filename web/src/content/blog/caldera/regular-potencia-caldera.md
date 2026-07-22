@@ -12,7 +12,7 @@ Al realizar la instalación de una [caldera](https://decogas.com/calderas/) es n
 
 ## ¿Por qué es importante regular la potencia de la caldera?
 
-Regular la potencia de la caldera es fundamental para que este sistema de calefacción esté **adaptado al funcionamiento del quemador**, a las necesidades de sus circuitos de calefacción y de agua caliente sanitaria. ![Regulación de la potencia de la caldera](https://decogas.com/wp-content/uploads/2025/02/regulacion-potencia-caldera.jpg) Una regulación óptima de la potencia de tu caldera te **permite ahorrar energía** y te ayuda a mejorar el medio ambiente. A continuación te mostramos qué permite la regulación de potencia de tu caldera:
+Regular la potencia de la caldera es fundamental para que este sistema de calefacción esté **adaptado al funcionamiento del quemador**, a las necesidades de sus circuitos de calefacción y de agua caliente sanitaria. ![Regulación de la potencia de la caldera](/decogas/blog-img/regulacion-potencia-caldera.webp) Una regulación óptima de la potencia de tu caldera te **permite ahorrar energía** y te ayuda a mejorar el medio ambiente. A continuación te mostramos qué permite la regulación de potencia de tu caldera:
 
 -   Controlar las calderas en cascada.
 -   Administrar el número de circuitos de calefacción.

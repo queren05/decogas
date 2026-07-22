@@ -8,7 +8,7 @@ tagClass: "aire"
 breadcrumb: "Aire acondicionado"
 readingTime: 5
 ---
-![aire acondicionado inverter](https://decogas.com/wp-content/uploads/2025/02/aire-acondicionado-interver-1.jpg)
+![aire acondicionado inverter](/decogas/blog-img/aire-acondicionado-interver-1.webp)
 
 ¿Has oído hablar de la **tecnología inverter** pero no tienes claro qué significa ni cómo puede ayudarte en casa? Si estás valorando **cambiar tu sistema de calefacción** o **instalar una caldera** **más eficiente**, entender este concepto es esencial. La tecnología inverter ha cambiado por completo la forma en la que usamos la energía en el hogar.
 
@@ -52,7 +52,7 @@ Es especialmente **útil por la noche** o en habitaciones donde se busca tranqui
 
 El control progresivo del inverter reduce el esfuerzo mecánico que soportan los componentes del equipo. Esto se traduce **en menos desgaste y mayor durabilidad**. Al evitar ciclos de encendido y apagado forzados, se minimiza el riesgo de averías y se alarga la vida útil de la caldera o del sistema de climatización.
 
-![sistema aire acondicionado por conductos](https://decogas.com/wp-content/uploads/2025/02/aire-acondicionado-multisplit-y-de-conductos.jpg)
+![sistema aire acondicionado por conductos](/decogas/blog-img/aire-acondicionado-multisplit-y-de-conductos.webp)
 
 ## Aplicaciones de la tecnología inverter
 

@@ -8,7 +8,7 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 5
 ---
-![mano encendiendo calefacción](https://decogas.com/wp-content/uploads/2025/02/es-malo-encender-y-apagar-la-caldera-de-gas-1.jpg)
+![mano encendiendo calefacción](/decogas/blog-img/es-malo-encender-y-apagar-la-caldera-de-gas-1.webp)
 
 ¿Te has preguntado si **encender y apagar frecuentemente la** **[**caldera de gas**](https://decogas.com/calderas/)** afecta su rendimiento y tu factura energética? Este hábito puede influir en el **consumo de energía****,** el **desgaste de componentes** y la **eficiencia** de tu sistema de calefacción. En este artículo profundizaremos en el impacto de encender y apagar frecuentemente la caldera, así tendrás más herramientas para hacer un uso eficiente del sistema.
 
@@ -62,7 +62,7 @@ Aquí te contamos qué hacer si la [caldera de gas no arranca](/decogas/blog/cal
 
 ## Consecuencias económicas
 
-![persona encendiendo el termostato](https://decogas.com/wp-content/uploads/2025/02/es-malo-encender-y-apagar-la-caldera-de-gas-2.jpg)
+![persona encendiendo el termostato](/decogas/blog-img/es-malo-encender-y-apagar-la-caldera-de-gas-2.webp)
 
 El encendido y apagado frecuente de la caldera de gas no solo afecta su rendimiento, sino también tu economía a largo plazo.
 

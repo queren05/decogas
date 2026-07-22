@@ -8,7 +8,7 @@ tagClass: "aerotermia"
 breadcrumb: "Aerotermia"
 readingTime: 5
 ---
-![](https://decogas.com/wp-content/uploads/2025/08/geotermia-o-aerotermia​-1.jpg)
+![](/decogas/blog-img/geotermia-o-aerotermia-1.webp)
 
 ¿Te has preguntado alguna vez qué sistema de climatización es mejor para tu casa? Tal vez buscas ahorrar energía o apostar por una opción más ecológica. **Geotermia y [aerotermia](https://decogas.com/aerotermia/)** parecen soluciones muy avanzadas, pero ¿sabes en qué se diferencian?
 
@@ -50,7 +50,7 @@ Por su parte, la geotermia requiere un terreno disponible para instalar las sond
 
 Elegir bien dependerá siempre del espacio, el presupuesto y tus necesidades de confort.
 
-![Figura de casa junto a termómetro](https://decogas.com/wp-content/uploads/2025/08/geotermia-o-aerotermia​-2.jpg)
+![Figura de casa junto a termómetro](/decogas/blog-img/geotermia-o-aerotermia-2.webp)
 
 ## Ventajas de la aerotermia
 

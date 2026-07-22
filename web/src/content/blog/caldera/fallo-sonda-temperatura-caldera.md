@@ -8,7 +8,7 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 6
 ---
-![técnico reparando fallo sonda temperatura caldera](https://decogas.com/wp-content/uploads/2025/02/fallo-sonda-temperatura-caldera.jpg)
+![técnico reparando fallo sonda temperatura caldera](/decogas/blog-img/fallo-sonda-temperatura-caldera.webp)
 
 **¿Has notado que tu [caldera](https://decogas.com/calderas/) no funciona como debería?** Puede que el problema esté en la **sonda de temperatura**. Este componente es de gran importancia para el correcto funcionamiento de la caldera, regulando la temperatura del agua y garantizando un rendimiento óptimo.
 
@@ -40,7 +40,7 @@ Por otro lado, el sistema puede experimentar un **desgaste prematuro** debido a 
 
 ## Causas del fallo en la sonda de temperatura
 
-![hombre encontrando Causas del fallo en la sonda de temperatura](https://decogas.com/wp-content/uploads/2025/02/Causas-del-fallo-en-la-sonda-de-temperatura.jpg)
+![hombre encontrando Causas del fallo en la sonda de temperatura](/decogas/blog-img/causas-del-fallo-en-la-sonda-de-temperatura.webp)
 
 Es importante identificar las causas del fallo en la sonda de temperatura para prevenir futuros problemas y mantener la eficiencia de la caldera. Aquí exploramos las razones más comunes.
 
@@ -82,7 +82,7 @@ Sigue estos pasos para identificar un fallo en la sonda de temperatura:
 
 ## Soluciones para el fallo de la sonda de temperatura
 
-![hombre solucionando para el fallo de la sonda de temperatura](https://decogas.com/wp-content/uploads/2025/02/fallo-encendido-caldera-chaffoteaux.jpg)
+![hombre solucionando para el fallo de la sonda de temperatura](/decogas/blog-img/fallo-encendido-caldera-chaffoteaux.webp)
 
 Cuando la sonda de temperatura falla, hay varias soluciones que puedes considerar para resolver el problema y restaurar el funcionamiento adecuado de la caldera.
 

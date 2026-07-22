@@ -12,7 +12,7 @@ Al elegir una caldera para tu hogar, es necesario comprender las **diferencias e
 
 Conocer las ventajas y desventajas de cada tipo te permitirá tomar una decisión informada que se ajuste a tus necesidades específicas. Acompáñanos en este análisis detallado para descubrir **cuál es la opción más adecuada para ti**.
 
-![Mujer junto a calefacción](https://decogas.com/wp-content/uploads/2025/02/caldera-estanca-o-condensacion-1.jpg)
+![Mujer junto a calefacción](/decogas/blog-img/caldera-estanca-o-condensacion-1.webp)
 
 ## ¿Qué es una caldera estanca?
 
@@ -56,7 +56,7 @@ Las calderas estancas son más económicas de instalar y su mantenimiento tiende
 
 ## Normativa y regulaciones vigentes
 
-![Mujer leyendo junto a celefacción](https://decogas.com/wp-content/uploads/2025/02/caldera-estanca-o-condensacion-2.jpg)
+![Mujer leyendo junto a celefacción](/decogas/blog-img/caldera-estanca-o-condensacion-2.webp)
 
 En España, **las calderas de condensación son obligatorias en nuevas instalaciones y sustituciones** según la normativa europea de eficiencia energética. **Esta regulación busca reducir las emisiones contaminantes y fomentar sistemas más sostenibles.**
 

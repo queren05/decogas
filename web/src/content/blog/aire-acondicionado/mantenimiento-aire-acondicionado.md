@@ -32,7 +32,7 @@ Si ya sabes qué [tipo de aire acondicionado](/decogas/blog/aire-acondicionado/t
 
 Lo mejor es dejar el **mantenimiento de la parte exterior** en manos de profesionales. Ellos son los indicados para verificar la instalación y el rendimiento de tu aparato. En este proceso, el especialista comprobará que no hay ningún elemento que pueda obstruir las salidas o que no existen fugas, entre otras acciones.
 
-![Haciendo el mantenimiento del aire acondicionado](https://decogas.com/wp-content/uploads/2025/02/mantenimiento-aire-acondicionado.jpg)
+![Haciendo el mantenimiento del aire acondicionado](/decogas/blog-img/mantenimiento-aire-acondicionado.webp)
 
 Por el contrario, el **mantenimiento de la unidad interior** lo puedes realizar tú mismo; para ello, debes limpiar de forma periódica los filtros del aparato y limpiar el desagüe. De esta forma, evitas la acumulación de suciedad en el interior y el rendimiento de tu equipo no bajará en ningún momento. De esta manera, consigues que tu aire acondicionado de bajo consumo dure mucho más tiempo; además, este correcto mantenimiento facilita que el [nivel sonoro al que trabaja](/decogas/blog/aire-acondicionado/nivel-sonoro-aire-acondicionado-silencioso/) sea mucho más bajo.
 
@@ -54,7 +54,7 @@ Si el **desagüe se ha atascado**, o sientes que está en mal estado, puedes sop
 
 Para que el aire acondicionado funcione correctamente, es esencial **evitar la proliferación de bacterias** y también mantener en buen estado la **estética del aparato** y, por ello, lo recomendable es realizar una limpieza superficial de la unidad interior usando **productos no abrasivos**. Un ejemplo es usar un 10% de lejía disuelto en agua en un pulverizador y un trapo con fibras sintéticas para retirar la suciedad.
 
-![Cómo realizar el mantenimiento de un aire acondicionado](https://decogas.com/wp-content/uploads/2025/02/realizar-mantenimiento-aire-acondicionado.jpg)
+![Cómo realizar el mantenimiento de un aire acondicionado](/decogas/blog-img/realizar-mantenimiento-aire-acondicionado.webp)
 
 ## Mantenimiento de la unidad exterior
 

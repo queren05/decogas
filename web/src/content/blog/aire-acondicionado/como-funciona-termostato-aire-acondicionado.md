@@ -8,7 +8,7 @@ tagClass: "aire"
 breadcrumb: "Aire acondicionado"
 readingTime: 4
 ---
-![chica usando el termostato del aire acondicionado](https://decogas.com/wp-content/uploads/2025/02/chica-controlando-el-termostato.jpg)
+![chica usando el termostato del aire acondicionado](/decogas/blog-img/chica-controlando-el-termostato.webp)
 
 Mantener la temperatura del [aire acondicionado](https://decogas.com/aire-acondicionado/) en el hogar o la oficina es algo esencial para asegurar un óptimo confort y conseguir, además, una mayor eficiencia energética. Y todo se consigue gracias a un [termostato](https://decogas.com/termostatos-de-ambiente/) que nos ayuda a escoger la temperatura deseada, regular y controlar el aparato cuando alcanza la temperatura deseada. Pero para ahondar más en el aparato, vamos a contaros cómo funciona el **termostato en el aire acondicionado**.
 
@@ -44,7 +44,7 @@ Este aparato, aparte de controlar la temperatura, también **programa funciones
 
 Actualmente, han aparecido en el mercado los denominados termostatos inteligentes. Suponen un **mayor avance respecto a los cronotermostatos** ofreciendo funciones como son el control mediante WiFi, **gestión de la climatización** mediante app en smartphone desde cualquier parte, **programación remota**, pantallas táctiles en color y otras funciones interesantes.
 
-![termostato pantalla LCD](https://decogas.com/wp-content/uploads/2025/02/termostato-pantalla-LCD.jpg)
+![termostato pantalla LCD](/decogas/blog-img/termostato-pantalla-lcd.webp)
 
 ## **¿Qué ventajas tiene el termostato en el aire acondicionado?**
 

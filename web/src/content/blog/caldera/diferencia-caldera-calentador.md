@@ -16,7 +16,7 @@ Lo que tienen en común ambos aparatos del hogar nos permiten calentar el agua. 
 
 Para poder distinguirlos sin problemas, antes tenemos que saber cómo son y cómo trabajan.
 
-![diferencia entre caldera y calentador](https://decogas.com/wp-content/uploads/2025/02/diferencia-entre-caldera-y-calentador-400x400-1.jpg)
+![diferencia entre caldera y calentador](/decogas/blog-img/diferencia-entre-caldera-y-calentador-400x400-1.webp)
 
 ### **¿Qué es una caldera?**
 
@@ -50,7 +50,7 @@ Con Decogas puedes hacerte con los [calentadores](https://decogas.com/calentador
 
 Por cierto, vas a tener que **darte de alta con un distribuidor de gas natural** o tener **continuamente a mano una bombona de gas butano**.
 
-![calentador de agua](https://decogas.com/wp-content/uploads/2025/02/calentador-de-agua-601x400-1.jpg)
+![calentador de agua](/decogas/blog-img/calentador-de-agua-601x400-1.webp)
 
 ## **Funciones de una caldera frente a un calentador**
 

@@ -8,7 +8,7 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 6
 ---
-![modelo de casa con un gorro de invierno](https://decogas.com/wp-content/uploads/2025/02/temperatura-ideal-casa-invierno-1.jpg)
+![modelo de casa con un gorro de invierno](/decogas/blog-img/temperatura-ideal-casa-invierno-1.webp)
 
 ¿Sabías que la temperatura de tu hogar en **invierno** puede marcar la diferencia entre el confort y un gasto energético excesivo? Mantener una **temperatura ideal** no solo aporta bienestar, sino que también ayuda a ahorrar en calefacción y a reducir la huella de carbono.
 
@@ -54,7 +54,7 @@ Durante el día, en las estancias principales, la temperatura ideal oscila entre
 
 ## Factores que influyen en la temperatura ideal en invierno
 
-![pareja calentando sus pies en chimenea](https://decogas.com/wp-content/uploads/2025/02/temperatura-ideal-casa-invierno-3.jpg)
+![pareja calentando sus pies en chimenea](/decogas/blog-img/temperatura-ideal-casa-invierno-3.webp)
 
 Diversos factores afectan la temperatura interior del hogar en invierno. Conocerlos permite regular mejor el confort y optimizar el uso de la calefacción.
 
@@ -89,7 +89,7 @@ Mantener una temperatura confortable en casa no implica necesariamente un alto c
 
 ## Recomendaciones para ahorrar energía y mantener el confort
 
-![mujer trabajando en casa durante el invierno](https://decogas.com/wp-content/uploads/2025/02/temperatura-ideal-casa-invierno-2.jpg)
+![mujer trabajando en casa durante el invierno](/decogas/blog-img/temperatura-ideal-casa-invierno-2.webp)
 
 Ahorrar energía en invierno es posible sin sacrificar el confort. Estos consejos ayudan a reducir el consumo manteniendo el hogar cálido y agradable.
 

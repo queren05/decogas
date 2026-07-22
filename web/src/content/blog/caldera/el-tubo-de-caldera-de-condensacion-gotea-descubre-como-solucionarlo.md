@@ -10,7 +10,7 @@ readingTime: 3
 ---
 Si te preguntas **si el tubo de la caldera de condensación gotea**, estás en el lugar indicado. En este artículo, te **explicaremos las posibles causas de esta situación y cómo solucionarlo de forma efectiva**. El goteo del tubo de la caldera de condensación **puede ser una señal de un problema subyacente que necesita ser atendido** para evitar daños mayores y mantener el funcionamiento óptimo de tu caldera. Vamos a profundizar en cada aspecto relacionado con este tema para que puedas resolver el problema sin complicaciones.
 
-![Trabajador caldera.](https://decogas.com/wp-content/uploads/2025/02/trabajador-caldera.jpg)
+![Trabajador caldera.](/decogas/blog-img/trabajador-caldera.webp)
 
 ## Posibles causas del goteo en el tubo de caldera de condensación
 

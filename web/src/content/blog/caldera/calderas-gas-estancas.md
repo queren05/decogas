@@ -8,7 +8,7 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 4
 ---
-![calderas de gas estancas](https://decogas.com/wp-content/uploads/2025/02/calderas-de-gas-estancas.jpg)
+![calderas de gas estancas](/decogas/blog-img/calderas-de-gas-estancas.webp)
 
 **¿No sabes si elegir una caldera estanca o una de condensación?** Es una duda más común de lo que parece, sobre todo si estás reformando tu vivienda o cambiando un sistema antiguo. Ambas opciones sirven para **calentar el agua y mantener el confort en casa**, y forman parte de los distintos [tipos de sistemas de calefacción](/decogas/blog/caldera/tipos-sistemas-calefaccion/) que puedes instalar hoy en día, según tus necesidades y el tipo de vivienda.
 
@@ -32,7 +32,7 @@ Instalar una caldera estanca suele ser **más económico y rápido**, ya que no 
 
 En cambio, la caldera de condensación necesita un sistema de evacuación adaptado y un punto de desagüe. Aunque **su instalación es más costosa**, el ahorro energético a medio plazo compensa la inversión inicial en muchos casos, especialmente si lo comparas con otros [sistemas de calefacción más baratos](/decogas/blog/aerotermia/sistema-de-calefaccion-mas-barato/) disponibles.
 
-![hombre haciendo mantenimiento de calderas de gas estancas](https://decogas.com/wp-content/uploads/2025/02/Mantenimiento-y-durabilidad-de-las-calderas-de-gas-estancas.jpg)
+![hombre haciendo mantenimiento de calderas de gas estancas](/decogas/blog-img/mantenimiento-y-durabilidad-de-las-calderas-de-gas-estancas.webp)
 
 ## Normativa y regulación actual en España
 
@@ -74,7 +74,7 @@ Comparar estas características te ayudará a tomar una decisión más ajustada 
 
 ## Cuál elegir: recomendaciones según tu caso
 
-![padre e hija disfrutando las ventajas de las calderas de gas estancas](https://decogas.com/wp-content/uploads/2025/02/Ventajas-de-las-calderas-de-gas-estancas-frente-a-otros-tipos.jpg)
+![padre e hija disfrutando las ventajas de las calderas de gas estancas](/decogas/blog-img/ventajas-de-las-calderas-de-gas-estancas-frente-a-otros-tipos.webp)
 
 La mejor elección **depende del tipo de vivienda, el uso previsto y el presupuesto disponible**. En casas con varias plantas o donde la calefacción funciona muchas horas, una caldera de condensación ofrece mayor rendimiento y ahorro. El coste inicial se amortiza rápido.
 

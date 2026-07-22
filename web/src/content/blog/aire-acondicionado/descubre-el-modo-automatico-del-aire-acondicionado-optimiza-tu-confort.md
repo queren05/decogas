@@ -10,7 +10,7 @@ readingTime: 4
 ---
 Hoy en día, el aire acondicionado se ha convertido en un elemento esencial para mantener nuestro confort en ambientes interiores, ya sea en casa, en la oficina o en otros espacios cerrados. Uno de los avances más significativos en esta tecnología es la incorporación del «modo automático», una característica inteligente que nos permite disfrutar de una temperatura óptima y constante sin la necesidad de ajustes constantes. En este artículo, exploraremos a fondo el modo automático del aire acondicionado, sus ventajas y cómo utilizarlo para optimizar tu bienestar y ahorrar energía.
 
-![Mujer encendiendo aire acondicionado.](https://decogas.com/wp-content/uploads/2025/02/mujer-encendiendo-aire.jpg)
+![Mujer encendiendo aire acondicionado.](/decogas/blog-img/mujer-encendiendo-aire.webp)
 
 ## ¿Qué es el modo automático del aire acondicionado y cómo funciona?
 

@@ -14,7 +14,7 @@ El **funcionamiento de estas estufas** es sencillo: los pellets se almacenan en 
 
 Las estufas de pellets sin electricidad son una opción cada vez más popular en España: según los datos del Ministerio para la Transición Ecológica, el número de estufas de pellets sin electricidad instaladas en el país ha aumentado en un 20% en los últimos años.
 
-## ![estufas de pellets sin electricidad](https://decogas.com/wp-content/uploads/2025/02/estufas-de-pellets-sin-electricidad.jpg)¿Cómo funciona una estufa de pellets sin electricidad?
+## ![estufas de pellets sin electricidad](/decogas/blog-img/estufas-de-pellets-sin-electricidad.webp)¿Cómo funciona una estufa de pellets sin electricidad?
 
 Las estufas de pellets sin electricidad funcionan con **[pellets de madera](https://es.wikipedia.org/wiki/Pellet_de_madera)**, que son pequeños trozos de madera comprimidos que se queman para producir calor. Estas estufas son muy eficientes y económicas, y pueden ser una buena opción para aquellos que viven en zonas rurales donde la electricidad no está disponible.
 

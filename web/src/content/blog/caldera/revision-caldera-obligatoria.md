@@ -8,7 +8,7 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 5
 ---
-![Técnico haciendo la revision caldera obligatoria](https://decogas.com/wp-content/uploads/2025/02/revision-caldera-obligatoria-1.jpg)
+![Técnico haciendo la revision caldera obligatoria](/decogas/blog-img/revision-caldera-obligatoria-1.webp)
 
 Mantener tu **caldera de gas** en óptimas condiciones es fundamental para garantizar la seguridad y eficiencia energética de tu hogar. Además, cumplir con la **revisión obligatoria** no solo previene averías costosas, sino que también te protege de posibles sanciones legales.
 
@@ -72,7 +72,7 @@ Conocer y cumplir estos requisitos específicos asegura el funcionamiento correc
 
 ## Normativa vigente
 
-![Hombre instalando caldera de gas](https://decogas.com/wp-content/uploads/2025/02/revision-caldera-obligatoria-2.jpg)
+![Hombre instalando caldera de gas](/decogas/blog-img/revision-caldera-obligatoria-2.webp)
 
 La normativa sobre revisión de calderas busca garantizar la seguridad, eficiencia y cumplimiento de las disposiciones legales en el hogar.
 

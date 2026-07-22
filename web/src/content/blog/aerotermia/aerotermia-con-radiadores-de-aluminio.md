@@ -8,7 +8,7 @@ tagClass: "aerotermia"
 breadcrumb: "Aerotermia"
 readingTime: 3
 ---
-![aerotermia con radiadores](https://decogas.com/wp-content/uploads/2025/02/aerotermia-radiador.jpg)
+![aerotermia con radiadores](/decogas/blog-img/aerotermia-radiador.webp)
 
 Hoy hablaremos de la combinación de la aerotermia con radiadores de aluminio. Como expertos en el tema, estamos aquí para resolver tus dudas y proporcionarte información valiosa sobre este sistema de climatización eficiente Sigue leyendo para descubrir las ventajas y razones para considerar la [aerotermia](/decogas/blog/que-es-la-aerotermia/).
 

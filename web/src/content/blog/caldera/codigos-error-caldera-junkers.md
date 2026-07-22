@@ -8,7 +8,7 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 5
 ---
-![Códigos de error en calderas Junkers](https://decogas.com/wp-content/uploads/2025/02/Codigos-de-error-en-calderas-Junkers.jpg)
+![Códigos de error en calderas Junkers](/decogas/blog-img/codigos-de-error-en-calderas-junkers.webp)
 
 ¿Te has encontrado alguna vez con un código de error en tu [caldera Junkers](https://decogas.com/calderas/bosch/)? No te preocupes, estás en el lugar correcto. En este artículo te vamos a explicar de manera clara y sencilla cómo identificar y solucionar los **códigos de error más comunes** **en las calderas Junkers**. Conocer estos códigos te permitirá mantener tu sistema de calefacción funcionando de manera eficiente y segura. **¡Vamos allá!**
 
@@ -42,7 +42,7 @@ Los errores de corte afectan el rendimiento de la caldera, pero no necesariament
 
 ## Soluciones para códigos de error
 
-![Soluciones para códigos de error en calderas junkers](https://decogas.com/wp-content/uploads/2025/02/Soluciones-para-codigos-de-error.jpg)
+![Soluciones para códigos de error en calderas junkers](/decogas/blog-img/soluciones-para-codigos-de-error.webp)
 
 Es importante resolver los códigos de error de tu caldera Junkers para mantenerla en buen funcionamiento. Aquí te explicamos cómo solucionar algunos de los errores más comunes.
 

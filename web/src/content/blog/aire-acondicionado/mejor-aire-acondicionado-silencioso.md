@@ -14,7 +14,7 @@ Madrid es una ciudad que nunca duerme y, por ello, es **complicado dormir con la
 
 En la actualidad, existe una amplia variedad de [aires acondicionados](https://decogas.com/aire-acondicionado/) para tu vivienda; de esta forma, puedes adquirir aquel que mejor se adapta a tus necesidades. Un aire acondicionado silencioso es aquel que tiene un **nivel sonoro inferior a 24 dB**; además, suelen incorporar la función _Sleep_, disminuyendo aún más la presión sonora.
 
-![Máximo confort con un aire acondicionado silencioso en Madrid](https://decogas.com/wp-content/uploads/2025/02/confort-aire-acondicionado-silencioso.jpg)
+![Máximo confort con un aire acondicionado silencioso en Madrid](/decogas/blog-img/confort-aire-acondicionado-silencioso.webp)
 
 ## Factores para considerar un aire silencioso
 
@@ -62,7 +62,7 @@ Un aire acondicionado silencioso estándar suele tener una intensidad sonora ent
 
 Una de las principales ventajas de adquirir un aire acondicionado silencioso en Madrid es que **mezcla el confort y la salud**; de esta forma, puedes descansar mejor y tener una mejor salud auditiva, ya que el nivel sonoro no interferirá en las charlas, mientras ves la televisión, duermes o, simplemente, te relajas.
 
-![Dormir con un aire acondicionado en Madrid](https://decogas.com/wp-content/uploads/2025/02/dormir-aire-acondicionado-madrid.jpg)
+![Dormir con un aire acondicionado en Madrid](/decogas/blog-img/dormir-aire-acondicionado-madrid.webp)
 
 Por otro lado, estos sistemas de climatización incorporan la función _Smart Sleep_ o _Sleep_; de esta manera, puedes dormir con el aparato encendido y no tendrás que preocuparte de nada. Además, suelen disponer de la tecnología _Split_, un modo reposo que permite al aparato **modificar la temperatura y la salida del aire** para favorecer el descanso y, tras un cierto período de tiempo, se apaga de modo automático.
 

@@ -12,7 +12,7 @@ Cada vez más se utiliza la [bomba de calor](/decogas/blog/aire-acondicionado/ai
 
 En [Decogas](https://decogas.com/) te contamos todo lo que tienes que saber sobre cómo funcionan estos aparatos.
 
-![funciona la bomba de calor](https://decogas.com/wp-content/uploads/2025/02/bomba-de-calor-con-flores.jpg)
+![funciona la bomba de calor](/decogas/blog-img/bomba-de-calor-con-flores.webp)
 
 ## Partes de una bomba de calor
 
@@ -32,7 +32,7 @@ Este aparato funciona mediante los **principios de la termodinámica** y podemos
 3.  El vapor se carga de energía. Circula por el **condensador** ubicado en el calderín donde va dando energía al agua acumulada y volviendo a su estado líquido.
 4.  Por último, el fluido pasa por la **válvula de expansión** para transformar el fluido en su estado inicial de baja presión y temperatura.
 
-![funcionamiento de una bomba de calor](https://decogas.com/wp-content/uploads/2025/02/istockphoto-504287273-612x612-1.jpg)
+![funcionamiento de una bomba de calor](/decogas/blog-img/istockphoto-504287273-612x612-1.webp)
 
 ## Tipos de bomba de calor
 
@@ -69,7 +69,7 @@ El [COP](https://es.wikipedia.org/wiki/Coeficiente_de_operatividad) puede variar
 
 Se define como el **coeficiente de rendimiento de la unidad** y que representa toda la temporada de calefacción designada (mientras el SCOP es la temporada de calefacción determinada). Se calcula dividiendo la demanda anual de calefacción por el consumo anual de electricidad aplicada en la calefacción.
 
-![unidades exterior de bomba de calor](https://decogas.com/wp-content/uploads/2025/02/equipos-de-fuera-de-bomba-de-calor.jpg)
+![unidades exterior de bomba de calor](/decogas/blog-img/equipos-de-fuera-de-bomba-de-calor.webp)
 
 ## Bomba de calor para aire acondicionado
 

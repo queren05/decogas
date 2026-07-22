@@ -8,7 +8,7 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 6
 ---
-![detectar una fuga de gas](https://decogas.com/wp-content/uploads/2025/02/presion-de-gas.jpg)
+![detectar una fuga de gas](/decogas/blog-img/presion-de-gas.webp)
 
 Si tenemos una [caldera de gas](https://decogas.com/calderas/) en casa debemos vigilar con regularidad su funcionamiento y estar alerta ante cualquier dato que pueda señalar un problema. Una **fuga en la caldera de gas** puede ser un problema bastante grave, pudiendo llegar a ocasionar incendios o grandes explosiones. Por ello, es esencial saber **cómo detectar fugas de gas en la caldera**.
 
@@ -39,7 +39,7 @@ Para indicar donde están los puntos de gas más habituales, vamos a agrupar en 
 -   **Exterior de la caldera** (instalación y conductos). Producto de un poro creado en la tubería o en una soldadura, así como una deteriorada, un escape en una llave, el regulador o el contador de gas.
 -   **Dentro de la caldera**. En un poro de la tubería de gas, un escape en la [válvula de gas](/decogas/blog/caldera/valvula-seguridad-caldera/), una junta cuarteada o por efecto del revoco (calderas atmosféricas).
 
-![accidente provocado por explosión de gas](https://decogas.com/wp-content/uploads/2025/02/accidente-provocado-por-explosion-de-gas.jpg)
+![accidente provocado por explosión de gas](/decogas/blog-img/accidente-provocado-por-explosion-de-gas.webp)
 
 ## Cómo sé si hay una fuga de gas en mi caldera
 
@@ -61,7 +61,7 @@ El gas es conocido por ser un producto nocivo para la salud. Si notamos síntoma
 
 Cuando hay una fuga de gas en el hogar eso **altera los consumos energéticos normales**. Al gas que usamos de forma habitual en casa para lo que necesitemos, se sumará todo el flujo de gas que se está perdiendo por medio del escape. Y eso se verá reflejado en la factura a final de mes con un incremento en el consumo.
 
-![válvula de seguridad](https://decogas.com/wp-content/uploads/2025/02/valvula-de-gas.jpg)
+![válvula de seguridad](/decogas/blog-img/valvula-de-gas.webp)
 
 ## ¿Cómo actuar ante un escape de gas?
 
@@ -101,7 +101,7 @@ Dentro de las instalaciones de gas, como en cualquier otro tipo y modo de instal
 
 La **limpieza** también es un elemento crucial para un correcto funcionamiento de las instalaciones de gas, así como instalar ciertos puntos de ventilación o cerrar la llave de paso cuando estemos bastante tiempo fuera de casa
 
-![caldera de gas y técnico](https://decogas.com/wp-content/uploads/2025/02/caldera-de-gas-y-tecnico.jpg)
+![caldera de gas y técnico](/decogas/blog-img/caldera-de-gas-y-tecnico.webp)
 
 ## Consejos para el mantenimiento de la caldera
 

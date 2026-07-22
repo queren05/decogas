@@ -8,7 +8,7 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 5
 ---
-![plomero reparando fallo intercambiador caldera](https://decogas.com/wp-content/uploads/2025/02/fallo-intercambiador-caldera.jpg)
+![plomero reparando fallo intercambiador caldera](/decogas/blog-img/fallo-intercambiador-caldera.webp)
 
 Un **intercambiador de [caldera](https://decogas.com/calderas/)** es fundamental para el sistema de calefacción. Cuando falla, puede generar grandes inconvenientes, como la pérdida de eficiencia energética y el aumento del consumo. Vamos a explorar las causas más comunes del fallo del intercambiador de caldera, las soluciones efectivas y cómo puedes mantener tu caldera en óptimas condiciones. **Es importante entender estos aspectos para asegurar un funcionamiento eficiente y prolongar la vida útil de tu sistema de calefacción****.**
 
@@ -40,7 +40,7 @@ Los fallos mecánicos pueden deberse a diversos factores, como el desgaste natur
 
 ## Cómo detectar un fallo en el intercambiador de caldera
 
-![plomero detectando un fallo en el intercambiador de caldera](https://decogas.com/wp-content/uploads/2025/02/Como-detectar-un-fallo-en-el-intercambiador-de-caldera.jpg)
+![plomero detectando un fallo en el intercambiador de caldera](/decogas/blog-img/como-detectar-un-fallo-en-el-intercambiador-de-caldera.webp)
 
 Detectar a tiempo un fallo en el intercambiador de caldera es esencial para evitar problemas mayores. Aquí te mostramos los signos y herramientas más efectivos.
 

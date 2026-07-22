@@ -8,7 +8,7 @@ tagClass: "aerotermia"
 breadcrumb: "Aerotermia"
 readingTime: 4
 ---
-![calefactor en baño](https://decogas.com/wp-content/uploads/2025/02/Calefaccion-mas-barata.jpg)
+![calefactor en baño](/decogas/blog-img/calefaccion-mas-barata.webp)
 
 Elegir el sistema de calefacción más barato es fundamental para mantener el confort en el hogar sin sacrificar la eficiencia y el ahorro.
 
@@ -69,7 +69,7 @@ Reducir el gasto en calefacción es esencial para ahorrar dinero y energía. Aqu
 
 ## Elección del sistema de calefacción ideal
 
-![calefactor bajo una ventana](https://decogas.com/wp-content/uploads/2025/02/Eleccion-del-sistema-de-calefaccion-ideal.jpg)
+![calefactor bajo una ventana](/decogas/blog-img/eleccion-del-sistema-de-calefaccion-ideal.webp)
 
 Evaluar tus necesidades específicas y las características de tu hogar es el primer paso para elegir el sistema de calefacción más adecuado. Cada hogar es único, y lo que funciona para uno puede no ser la mejor opción para otro.
 

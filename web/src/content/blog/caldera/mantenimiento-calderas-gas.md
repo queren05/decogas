@@ -34,7 +34,7 @@ Sobre **el precio de la inspección de calderas de gas**, hay que saber que se c
 
 Se paga con la factura de gas de **la compañía comercializadora, no la compañía instaladora**. Por lo que debes negarte a pagar directamente al técnico inspector, ya que podría ser una práctica fraudulenta.
 
-![revisión caldera de gas](https://decogas.com/wp-content/uploads/2025/02/revision-caldera-de-gas-601x400-1.jpg)
+![revisión caldera de gas](/decogas/blog-img/revision-caldera-de-gas-601x400-1.webp)
 
 ## **Revisión de calderas de gas**
 
@@ -83,7 +83,7 @@ Existen entidades que ofrecen esta clase de servicios, tanto por cuenta propia c
 
 Los profesionales que se dediquen al mantenimiento y reparación del equipo, tienen que poseer **la condición de instaladores de gas y agentes de puesta en marcha, mantenimiento y reparación de aparatos a gas** (APMR). De esta manera se cumple lo establecido en el RD 919/2006.
 
-![revisión caldera hogar](https://decogas.com/wp-content/uploads/2025/02/revision-caldera-hogar-599x400-1.jpg)
+![revisión caldera hogar](/decogas/blog-img/revision-caldera-hogar-599x400-1.webp)
 
 ## **Precio de la revisión obligatoria de la caldera**
 

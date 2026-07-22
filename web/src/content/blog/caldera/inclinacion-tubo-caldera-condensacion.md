@@ -12,7 +12,7 @@ La [instalación correcta de una caldera](https://decogas.com/calderas/) de cond
 
 Es conveniente que sepamos todo lo necesario sobre las [**salidas de humos**](/decogas/blog/caldera/normativa-salida-humos-caldera-condensacion/) que tienen las calderas de condensación para quedarnos tranquilos o tomar medidas para cambiar la instalación si comprobamos que no está realizada de forma correcta.
 
-## ![tubo de condensación](https://decogas.com/wp-content/uploads/2025/02/istockphoto-1185875676-612x612-1.jpg)¿Cuál es la importancia de la inclinación del tubo de la caldera?
+## ![tubo de condensación](/decogas/blog-img/istockphoto-1185875676-612x612-1.webp)¿Cuál es la importancia de la inclinación del tubo de la caldera?
 
 El **sistema interno de una caldera** **de condensación** ayuda a recuperar, antes de expulsar los gases de la combustión fuera del hogar, una parte importante del **calor que está presente en los humos** salidos de la combustión. La recuperación de la energía enfría bastante la temperatura de estos gases bajándolos por debajo de los 50ºC y provocando que los veamos en forma de vapor.
 
@@ -28,7 +28,7 @@ De forma genérica, es aconsejable que la pendiente sea, al menos, de un 3% (5,5
 
 La inclinación impide que estos gases salgan por la salida de humos y que se mantengan en la parte inferior por obra de la gravedad, de forma que se **expulsen por el desagüe** (que es obligatorio instalar para las calderas de condensación).
 
-![sistema coaxial de tubos de caldera de condensación](https://decogas.com/wp-content/uploads/2025/02/istockphoto-1214229212-612x612-1.jpg)
+![sistema coaxial de tubos de caldera de condensación](/decogas/blog-img/istockphoto-1214229212-612x612-1.webp)
 
 ## ¿Qué tipos de salidas de humos para calderas de condensación existen?
 
@@ -56,7 +56,7 @@ Normalmente, los coaxiales tienen un máximo de 8 m en total, por lo que, en cas
 
 En total, se requieren **2 tubos de polipropileno de entre 8 a 20 metros** máximos que permiten ese tipo de instalación, **ambos de 8 cm de diámetro**. Como en los coaxiales, no necesitan de recogida de condensados puesto que la caldera está preparada para eso.
 
-![tabla de tubos de condensación](https://decogas.com/wp-content/uploads/2025/02/tabla-de-tubos-de-condensacion-1-1-800x243-1.jpg)
+![tabla de tubos de condensación](/decogas/blog-img/tabla-de-tubos-de-condensacion-1-1-800x243-1.webp)
 
 _Tabla de medidas de medidas de los tipos coaxiales y doble tubo en calderas de condensación_
 

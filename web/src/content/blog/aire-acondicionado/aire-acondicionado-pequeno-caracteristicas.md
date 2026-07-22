@@ -14,7 +14,7 @@ Una vivienda de pequeñas dimensiones, o una habitación con poco espacio, tambi
 
 Un aire acondicionado pequeño se caracteriza por disponer de una **potencia limitada**, la necesaria para enfriar una estancia pequeña; además, su estructura suele estar formada por materiales en ABS/aluminio, el plástico más resistente para cualquier golpe. Por otro lado, su peso determinará la **facilidad de trasladarlo** de una vivienda a otra.
 
-![Tipo de aire acondicionado pequeño](https://decogas.com/wp-content/uploads/2025/02/tipo-aire-acondicionado-pequeno.jpg)
+![Tipo de aire acondicionado pequeño](/decogas/blog-img/tipo-aire-acondicionado-pequeno.webp)
 
 ## Tipos de aires acondicionados pequeños
 

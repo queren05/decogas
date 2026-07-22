@@ -12,7 +12,7 @@ Disponer de un termostato es importante para ayudarnos a ahorrar energía y disf
 
 Saber [como funciona la calefacción](/decogas/blog/caldera/como-funciona-caldera-de-gas/) puede ayudarnos a la hora de ahorrar, ya que es uno de los elementos que más energía consume en el hogar, sobre todo en zonas climáticas más frías. Sin embargo, esa parte de consumo energético se puede reducir si recurrimos a un termostato.
 
-## ![termostato digital](https://decogas.com/wp-content/uploads/2025/02/istockphoto-621588062-612x612-1.jpg)Qué es y cómo funciona un termostato
+## ![termostato digital](/decogas/blog-img/istockphoto-621588062-612x612-1.webp)Qué es y cómo funciona un termostato
 
 Este dispositivo dispone de un sistema que **regula la temperatura de la [caldera](https://decogas.com/calderas/)** en función de la necesidad. Para ello, cuenta con un termómetro de ambiente que **mide la temperatura del ambiente** de la estancia donde está instalado. Una vez que actúa, compara la temperatura del lugar con la programada y lleva una monitorización continua de la misma.
 
@@ -33,7 +33,7 @@ Podemos encontrar modelos inalámbricos que funcionan mediante tecnología digit
 
 Suelen disponer de una **mayor variedad de funciones**. Por ejemplo, se puede escoger la hora de encendido y apagado de la calefacción que siempre mantenga una temperatura determinada, así como memoria para establecer de forma automática una temperatura diferente para el día y para la noche. E, incluso, si cuenta con sensores el poder detectar cuando hay personas en la estancia encenderse o apagarse si se da cuenta que se abre una ventana.
 
-![hombre configurando termostato](https://decogas.com/wp-content/uploads/2025/02/istockphoto-104507784-612x612-1-597x400-1.jpg)
+![hombre configurando termostato](/decogas/blog-img/istockphoto-104507784-612x612-1-597x400-1.webp)
 
 ## Antes de saber cómo instalar un termostato
 
@@ -65,7 +65,7 @@ Encendemos el termostato y la unidad de cohesión. Ponemos el termostato en modo
 
 Ya podemos emplazar la unidad de conexión a la pared cerca de la caldera y el termostato en una pared interior del hogar o sobre la mesa (si es inalámbrico).
 
-![técnico configurando termostato](https://decogas.com/wp-content/uploads/2025/02/istockphoto-465444524-612x612-1-600x400-1.jpg)
+![técnico configurando termostato](/decogas/blog-img/istockphoto-465444524-612x612-1-600x400-1.webp)
 
 ## ¿Dónde es mejor colocar el termostato?
 

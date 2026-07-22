@@ -8,7 +8,7 @@ tagClass: "aerotermia"
 breadcrumb: "Aerotermia"
 readingTime: 5
 ---
-![Bomba de calor moderna](https://decogas.com/wp-content/uploads/2025/08/vale-la-pena-aerotermia-con-radiadores-2.jpg)
+![Bomba de calor moderna](/decogas/blog-img/vale-la-pena-aerotermia-con-radiadores-2.webp)
 
 **¿Estás pensando en modernizar la calefacción de tu casa y te preguntas si realmente vale la pena [instalar aerotermia](https://decogas.com/aerotermia/) con radiadores?** Tal vez has escuchado hablar de sus ventajas en eficiencia y ahorro, pero sigues sin tener claro si es la opción adecuada para tu vivienda. ¿Cómo funciona exactamente este sistema? ¿Se adapta bien a los radiadores que ya tienes?
 
@@ -39,7 +39,7 @@ Puntos clave para identificar cada tipo de radiador:
 
 ## Beneficios y retos de la aerotermia con radiadores
 
-![Mujer relajada en casa](https://decogas.com/wp-content/uploads/2025/08/vale-la-pena-aerotermia-con-radiadores-1.jpg)
+![Mujer relajada en casa](/decogas/blog-img/vale-la-pena-aerotermia-con-radiadores-1.webp)
 
 La aerotermia con radiadores ofrece ventajas claras en eficiencia y sostenibilidad. **El consumo eléctrico es menor que con una caldera tradicional** y no depende de combustibles fósiles. Además, permite calefacción en invierno y refrigeración en verano si el sistema es reversible. Para descubrir otras formas de [calentar el hogar de manera eficiente](/decogas/blog/caldera/calentar-hogar-manera-eficiente/), esta guía aporta ideas prácticas.
 

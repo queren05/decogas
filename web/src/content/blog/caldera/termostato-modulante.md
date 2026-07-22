@@ -12,7 +12,7 @@ En la búsqueda constante de optimizar el consumo energético y mejorar la efici
 
 Estos dispositivos, más allá de ser un simple interruptor de encendido y apagado, tienen la capacidad de **adaptar el funcionamiento de la caldera a las necesidades específicas de calor del ambiente.** Así, no sólo garantizan un mayor confort, sino que también se convierten en aliados clave para el ahorro energético. Como [expertos en la instalación de calderas en Madrid](https://decogas.com/calderas/), nos sumergiremos en su funcionamiento, ventajas y aspectos a considerar para su instalación.
 
-![termostasto modulante](https://decogas.com/wp-content/uploads/2025/02/prevision-meteorologica-monitor-domotico.jpg)
+![termostasto modulante](/decogas/blog-img/prevision-meteorologica-monitor-domotico.webp)
 
 ## ¿Qué es un termostato modulante?
 

@@ -8,7 +8,7 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 5
 ---
-![error a00 caldera baxiroca novanox](https://decogas.com/wp-content/uploads/2025/02/error-a00-caldera-baxiroca-novanox.jpg)
+![error a00 caldera baxiroca novanox](/decogas/blog-img/error-a00-caldera-baxiroca-novanox.webp)
 
 ¿Te has encontrado con el **error A00 en tu caldera BaxiRoca Novanox**? Este código no es realmente un error, sino una información valiosa sobre el funcionamiento de tu caldera. Comprender qué significa y cómo resolverlo puede ahorrarte tiempo y preocupaciones. Vamos a explorar juntos cómo **acceder y utilizar el código A00** para mantener tu caldera en perfecto estado y asegurar que tu hogar siga siendo cálido y acogedor.
 
@@ -46,7 +46,7 @@ El mantenimiento regular es clave para evitar problemas como el código A00. **L
 
 ## Prevención de errores en la caldera BaxiRoca Novanox
 
-![técnico previniendo errores en la caldera BaxiRoca Novanox](https://decogas.com/wp-content/uploads/2025/02/Prevencion-de-errores-en-la-caldera-BaxiRoca-Novanox.jpg)
+![técnico previniendo errores en la caldera BaxiRoca Novanox](/decogas/blog-img/prevencion-de-errores-en-la-caldera-baxiroca-novanox.webp)
 
 En tu caldera BaxiRoca Novanox es fundamental para mantener su rendimiento y prolongar su vida útil. Aquí te ofrecemos algunas estrategias efectivas.
 

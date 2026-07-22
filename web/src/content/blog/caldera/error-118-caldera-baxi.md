@@ -8,7 +8,7 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 5
 ---
-![error 118 en caldera baxi](https://decogas.com/wp-content/uploads/2025/02/caldera-Baxi.jpg)
+![error 118 en caldera baxi](/decogas/blog-img/caldera-baxi.webp)
 
 El **error 118** **en una** **[caldera Baxi](https://decogas.com/calderas/baxi/)** suele estar relacionado con problemas de presión del agua, lo que impide su correcto funcionamiento. Esto puede ser frustrante, pero con algunas acciones sencillas, se puede solucionar fácilmente. Sigue leyendo para aprender **cómo resolver este error** **paso a paso** y evitar complicaciones mayores en tu sistema.
 
@@ -44,7 +44,7 @@ Un bloqueo o desgaste en la llave de llenado impedirá que se pueda aumentar la 
 
 ## Cómo solucionar el error 118 paso a paso
 
-![hombre solucionando error 118 en calderas baxi](https://decogas.com/wp-content/uploads/2025/02/Como-solucionar-el-error-118-paso-a-paso.jpg)
+![hombre solucionando error 118 en calderas baxi](/decogas/blog-img/como-solucionar-el-error-118-paso-a-paso.webp)
 
 Si te encuentras con el error 118 en tu caldera Baxi, hay varias medidas que puedes tomar para solucionarlo tú mismo.
 

@@ -14,7 +14,7 @@ readingTime: 4
 
 Si. Lo más normal es que al encender la calefacción, la presión de la caldera suba un poco, aunque siempre se debe mantener en un rango por encima de la presión en frío; en cualquier caso, la presión tiene que **mantenerse por debajo de 3 bares**, para que no se abra la válvula de seguridad.
 
-![La presión de la caldera sube con la calefacción](https://decogas.com/wp-content/uploads/2025/02/midiendo-presion-caldera.jpg) En **óptimas condiciones**, la presión de la caldera puede subir con la **calefacción a 1,8 y 2 bares**; si llega hasta 3 bares, esto hará que se abra la válvula de seguridad y es señal inequívoca de que hay un problema con el vaso de expansión.
+![La presión de la caldera sube con la calefacción](/decogas/blog-img/midiendo-presion-caldera.webp) En **óptimas condiciones**, la presión de la caldera puede subir con la **calefacción a 1,8 y 2 bares**; si llega hasta 3 bares, esto hará que se abra la válvula de seguridad y es señal inequívoca de que hay un problema con el vaso de expansión.
 
 ## ¿Por qué la presión de la caldera sube con la calefacción? Motivos
 

@@ -8,7 +8,7 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 5
 ---
-![Caldera de gas junto a billetes](https://decogas.com/wp-content/uploads/2025/07/cuanto-cuesta-una-caldera-1.jpg)
+![Caldera de gas junto a billetes](/decogas/blog-img/cuanto-cuesta-una-caldera-1.webp)
 
 No hay una única respuesta a la pregunta de **cuánto cuesta una caldera**. Todo depende del tipo, la marca y el nivel de eficiencia energética que busques. En el mercado actual, los precios pueden variar desde **600 € hasta más de 2.500 €**, sin contar la instalación.
 
@@ -64,7 +64,7 @@ Las calderas de gas natural son una opción muy extendida en zonas urbanas. Su v
 
 Los precios suelen rondar **entre 700 € y 1.800 €**. Aunque algunas son de tipo convencional, hoy en día casi todas las nuevas instalaciones usan modelos de condensación, ya que la normativa vigente limita el uso de las antiguas calderas atmosféricas.
 
-![Mujer calentando sus manos en caldera de gas](https://decogas.com/wp-content/uploads/2025/07/cuanto-cuesta-una-caldera-2.jpg)
+![Mujer calentando sus manos en caldera de gas](/decogas/blog-img/cuanto-cuesta-una-caldera-2.webp)
 
 ### Calderas de gas propano
 

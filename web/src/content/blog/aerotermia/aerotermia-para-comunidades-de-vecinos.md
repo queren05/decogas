@@ -8,7 +8,7 @@ tagClass: "aerotermia"
 breadcrumb: "Aerotermia"
 readingTime: 3
 ---
-![comunidad de vecinos](https://decogas.com/wp-content/uploads/2025/02/comunidad-vecinos.jpg)
+![comunidad de vecinos](/decogas/blog-img/comunidad-vecinos.webp)
 
 ¿Sabes cómo la [**aerotermia**](/decogas/blog/que-es-la-aerotermia/) puede beneficiar a tu comunidad de vecinos? Como expertos en aerotermia, hemos recopilado los datos más relevantes para resolver tus dudas y ayudarte a comprender los aspectos clave de este sistema de climatización eficiente y las ventajas que su instalación supone para las **comunidades de vecinos**.
 

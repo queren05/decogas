@@ -10,7 +10,7 @@ readingTime: 5
 ---
 Cada vez más vemos marcas y modelos, en cuanto a calefacción y climatización, que buscan **ser más eficientes y sencillos de usar**. Ya no es extraño que veamos paneles de mando de calderas con pantalla táctil e indicadores que facilitan increíblemente el trabajo de técnicos y usuarios. Aunque, en ocasiones, se puede dar lugar a que se produzcan [**problemas en las calderas**](/decogas/blog/caldera/principales-averias-calderas/) **que no sabemos de dónde proceden** ni qué podemos hacer. En este artículo vamos a intentar dar respuesta a la problemática de por qué **se enciende una luz roja en la [caldera](https://decogas.com/calderas/).**
 
-![por qué se enciende la luz roja](https://decogas.com/wp-content/uploads/2025/02/6675153617_5c10fefef5_o.jpg)
+![por qué se enciende la luz roja](/decogas/blog-img/6675153617-5c10fefef5-o.webp)
 
 ## ¿Por qué se enciende una luz roja en la caldera?
 
@@ -36,7 +36,7 @@ Normalmente, una **luz roja es sinónimo de bloqueo** debido a una avería que p
 
 Podemos encontrar que, en ciertas marcas de calderas, **la luz roja puede parpadear** y va acompañada de un **código de error en el display** (si lo tiene). Otras marcas **no incluyen la luz roja**, pero sí un código de error parpadeante. E, incluso, ciertos fabricantes en sus dispositivos añaden la luz roja pero **no en un foco LED**, sino en el color de la pantalla, que cambiará de luz verde a roja.
 
-![Código de error en caldera](https://decogas.com/wp-content/uploads/2025/02/como-puede-afectar-la-presion-del-agua-.a-tu-caldera.jpg)
+![Código de error en caldera](/decogas/blog-img/como-puede-afectar-la-presion-del-agua-a-tu-caldera.webp)
 
 ## ¿Qué hacer cuando se enciende una luz roja en la caldera?
 

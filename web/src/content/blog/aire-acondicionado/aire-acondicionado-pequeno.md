@@ -10,7 +10,7 @@ readingTime: 4
 ---
 La falta de espacio hace que, en muchas ocasiones, no puedas disponer de un sistema de refrigeración para tu vivienda. Por suerte, los fabricantes cada vez más aplican innovaciones tecnológicas para que los aires acondicionados sean más pequeños. Teniendo en cuenta todo esto, en este _post_ te mostramos todo lo que debes tener en cuenta para adquirir un **aire acondicionado pequeño en Madrid**.
 
-![Aire acondicionado pequeño en Madrid](https://decogas.com/wp-content/uploads/2025/02/aire-acondicionado-pequeno-madrid.jpg)
+![Aire acondicionado pequeño en Madrid](/decogas/blog-img/aire-acondicionado-pequeno-madrid.webp)
 
 ## Aspectos a tener en cuenta
 
@@ -59,7 +59,7 @@ En caso de los **modelos inverter**, estos autorregulan la temperatura del ambie
 
 Independientemente del tamaño de tu aire acondicionado, debes tener en cuenta que este sistema de climatización debe conseguir **satisfacer tus necesidades** y enfriar tu vivienda durante los días más cálidos del año. Por ello, es fundamental que, además de las dimensiones del aparato, tener en cuenta que el aparato disponga de una **potencia frigorífica suficiente** para enfriar tu vivienda con el mínimo consumo energético.
 
-![Características de un aire acondicionado pequeño](https://decogas.com/wp-content/uploads/2025/02/caracteristicas-aire-acondicionado-pequeno.jpg)
+![Características de un aire acondicionado pequeño](/decogas/blog-img/caracteristicas-aire-acondicionado-pequeno.webp)
 
 Lo más recomendable es que, para un consumo más eficiente, calcules unas **50 frigorías por metro cuadrado.** De esta manera, podrás mantener una temperatura homogénea y confortable en tu vivienda durante un mayor período de tiempo y con un consumo energético menor.
 

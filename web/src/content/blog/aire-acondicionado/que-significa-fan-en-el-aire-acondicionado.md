@@ -10,7 +10,7 @@ readingTime: 4
 ---
 Con la llegada de las olas de calor, nos apetece encender el [aire acondicionado](https://decogas.com/aire-acondicionado/) dentro de los hogares para estar fresquitos. En muchos modelos se incluyen funciones que desconocemos su uso. Un ejemplo de esto es **qué significa FAN en el aire acondicionado**.
 
-![chico manipulando el aire acondicionado con el mando a distancia](https://decogas.com/wp-content/uploads/2025/02/modo-fan-aire-acondicionado.jpg)
+![chico manipulando el aire acondicionado con el mando a distancia](/decogas/blog-img/modo-fan-aire-acondicionado.webp)
 
 Una de las recomendaciones más importantes que tenemos que seguir para evitar que se propaguen virus y otros patógenos es que es necesario renovar el aire interior de las viviendas y las oficinas de trabajo. En algunos casos se puede realizar abriendo puertas y ventanas, pero si no es posible, entonces es cuando necesitamos funciones como la FAN que realicen esta labor.
 
@@ -36,7 +36,7 @@ El aire acondicionado, trabajando en modo FAN, hace:
 -   La corriente resultante del aire no es fría ni caliente, la temperatura es la misma.
 -   Aunque el propio movimiento del aire produce un efecto refrescante.
 
-![aire acondicionado](https://decogas.com/wp-content/uploads/2025/02/significado-fan-del-aire-acondicionado-600x400-1.jpg)
+![aire acondicionado](/decogas/blog-img/significado-fan-del-aire-acondicionado-600x400-1.webp)
 
 ## **¿Cuándo usamos el modo Fan en el aire acondicionado?**
 

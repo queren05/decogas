@@ -16,7 +16,7 @@ El motivo es que la vivienda está fría y las estancias van a tardar mucho tiem
 
 La caldera inteligente siempre es un acierto para tu hogar, especialmente porque te permiten **encender la calefacción a distancia**. De esta forma, puedes elegir el momento ideal para encender tu calefacción para que, cuando llegues a casa de trabajar, tu casa esté a la temperatura que deseas.
 
-![Control de temperatura mediante el móvil](https://decogas.com/wp-content/uploads/2025/02/control-movil-temperatura-hogar.jpg)
+![Control de temperatura mediante el móvil](/decogas/blog-img/control-movil-temperatura-hogar.webp)
 
 Además **te ayudan a ahorrar energía**, lo que hace que tus gastos mensuales se reduzcan y, del mismo modo, ayude a mejorar el medio ambiente; por eso, es importante que si vas a comprar una nueva caldera sepas [cuál tienes que elegir](/decogas/blog/caldera/caldera-gas-elegir-comprar/). Por ejemplo, no es lo mismo una **caldera para una superficie** de 200 metros cuadrados que para una de [100 metros cuadrados](/decogas/blog/caldera/calderas-casas-100-m2/).
 
@@ -38,7 +38,7 @@ Una de las últimas innovaciones en el mundo de la calefacción es la programaci
 
 Para utilizar estas aplicaciones solo tienes que **instalar la APP en tu móvil** y, a través de ella, podrás encender o apagar la calefacción. Incluso puedes seleccionar el programa que deseas, regular la temperatura o ver el consumo.
 
-![Hombre configurando la temperatura de su casa desde el móvil](https://decogas.com/wp-content/uploads/2025/02/configurando-temperatura-movil.jpg)
+![Hombre configurando la temperatura de su casa desde el móvil](/decogas/blog-img/configurando-temperatura-movil.webp)
 
 ## Características de los termostatos inteligentes
 

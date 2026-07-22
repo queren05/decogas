@@ -16,7 +16,7 @@ De esta forma, independientemente de si se utiliza para una vivienda individual 
 
 Las **ventajas de las calderas de condensación son infinitas**, a continuación te mostramos algunas de las más importantes.
 
-![Caldera en una cocina](https://decogas.com/wp-content/uploads/2025/02/caldera-cocina.jpg)
+![Caldera en una cocina](/decogas/blog-img/caldera-cocina.webp)
 
 ### Eficiencia energética
 

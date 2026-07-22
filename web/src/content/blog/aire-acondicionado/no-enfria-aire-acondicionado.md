@@ -10,7 +10,7 @@ readingTime: 5
 ---
 Normalmente, cuando sentimos que el [aire acondicionado](https://decogas.com/aire-acondicionado/) no enfría es debido a un problema en la falta de gas, puesto que el gas de un aire acondicionado necesita cierta revisión, cambio o recarga cada cierto tiempo. Esto no tiene que ser así, sino que pueden ser otros motivos por el que **no enfría el aire acondicionado**, como es el caso de tener [piezas del aparato sucios o averiados](/decogas/blog/aire-acondicionado/mantenimiento-aire-acondicionado/).
 
-## ![aire acondicionado averiado](https://decogas.com/wp-content/uploads/2025/02/istockphoto-1256098103-612x612-1-600x400-1.jpg)Causas por las que no enfría el aire acondicionado
+## ![aire acondicionado averiado](/decogas/blog-img/istockphoto-1256098103-612x612-1-600x400-1.webp)Causas por las que no enfría el aire acondicionado
 
 Podemos encontrar **diversidad de causas** por las que no enfría el aire acondicionado ni climatiza como debería ser:
 
@@ -34,7 +34,7 @@ Al contrario, cuando el condensador del compresor es el que no trabaja, podemos 
 
 Si este mismo **ventilador realiza bastante ruido**, para saber si es el compresor, es necesario comprobar las tuberías. Si están a temperatura normal, eso significa que no funciona.
 
-![chica valorando su aire acondicionado](https://decogas.com/wp-content/uploads/2025/02/istockphoto-854397798-612x612-1-600x400-1.jpg)
+![chica valorando su aire acondicionado](/decogas/blog-img/istockphoto-854397798-612x612-1-600x400-1.webp)
 
 ### El ventilador interior o exterior no funciona
 
@@ -76,7 +76,7 @@ Cuando funciona el aire acondicionado, la máquina exterior **echa el aire calie
 
 Este problema puede producirse en aparatos que estén ubicados en terrazas y azoteas donde dé mucho el sol o porque la máquina esté introducida en algún tipo de cajón metálico y la ventilación no sea adecuada. Para solucionar este problema, tenemos que bajar la temperatura exterior.
 
-![aire acondicionado manejado de forma remota](https://decogas.com/wp-content/uploads/2025/02/istockphoto-1256851395-612x612-1-600x400-1.jpg)
+![aire acondicionado manejado de forma remota](/decogas/blog-img/istockphoto-1256851395-612x612-1-600x400-1.webp)
 
 ## ¿Cómo solucionar si no enfría el aire acondicionado?
 

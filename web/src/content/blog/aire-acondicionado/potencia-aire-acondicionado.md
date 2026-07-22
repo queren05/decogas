@@ -10,7 +10,7 @@ readingTime: 4
 ---
 Uno de los principales factores que debes analizar cuando vas a instalar un sistema de climatización en tu vivienda es cuál es la **potencia que necesitas**, para no derrochar energía y gastar luz de forma innecesaria; por eso, en este _post_ te ayudamos a saber cuál es la potencia del aire acondicionado que requiere tu vivienda.
 
-![Salón con aire acondicionado](https://decogas.com/wp-content/uploads/2025/02/aire-acondicionado-salon-1024x683-1.jpg)
+![Salón con aire acondicionado](/decogas/blog-img/aire-acondicionado-salon-1024x683-1.webp)
 
 ## ¿Qué es la potencia del aire acondicionado?
 
@@ -49,7 +49,7 @@ Por su parte, la potencia eléctrica suele ser **menor que la térmica**, pues s
 Saber cómo calcular las frigorías de un aire acondicionado es fundamental para elegir el mejor sistema de refrigeración para tu vivienda. Para hacerlo, lo único que tienes que conocer es el espacio que quieres climatizar. Como **base utilizaremos 100 frigorías** por cada metro cuadrado; de esta forma, para una habitación de unos 15 metros cuadrados se necesitaría un aparato de 1.500 frigorías/h.
 
 Una vez tengas esta cantidad, debes saber que **1 frigoría/h equivale a 1,163W**; es decir, el aparato anterior de 1.500 frigorías/h equivaldría a 1,75 kW.  
-![Pareja con aire acondicionado en la vivienda](https://decogas.com/wp-content/uploads/2025/02/pareja-aire-acondicionado.jpg)
+![Pareja con aire acondicionado en la vivienda](/decogas/blog-img/pareja-aire-acondicionado.webp)
 
 ### Tabla de potencias del aire acondicionado
 

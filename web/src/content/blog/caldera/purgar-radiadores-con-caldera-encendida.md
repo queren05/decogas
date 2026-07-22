@@ -12,7 +12,7 @@ Purgar un radiador es un proceso esencial para mantener la eficiencia de tu sist
 
 En este post, encontrarás los aspectos más destacados sobre esta práctica para que decidas si es la acción más conveniente para tus equipos, sean [radiadores Ferroli](https://decogas.com/radiadores/ferroli/), [Fondital](https://decogas.com/radiadores/fondital/), [Rayco](https://decogas.com/radiadores/rayco/) u otros. ¡Acompáñanos!
 
-![persona purgando radiador con caldera encendida](https://decogas.com/wp-content/uploads/2025/02/purgar-radiador-caldera-encendida.jpg)
+![persona purgando radiador con caldera encendida](/decogas/blog-img/purgar-radiador-caldera-encendida.webp)
 
 ## Importancia de la calefacción eficiente
 
@@ -45,7 +45,7 @@ Una vez completados los preparativos para el purgado con la caldera encendida, p
 
 Este proceso de purgado garantiza que el aire atrapado en los radiadores sea eliminado de manera efectiva, lo que mejora la eficiencia de tu sistema de calefacción y proporciona un ambiente más cálido y confortable en tu hogar.
 
-![hombre purgando radiador con caldera encendida](https://decogas.com/wp-content/uploads/2025/02/purgar-radiador.jpg)
+![hombre purgando radiador con caldera encendida](/decogas/blog-img/purgar-radiador.webp)
 
 ## Beneficios de purgar con la caldera encendida
 

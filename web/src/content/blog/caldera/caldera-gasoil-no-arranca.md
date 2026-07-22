@@ -10,7 +10,7 @@ readingTime: 7
 ---
 La [caldera](https://decogas.com/calderas/) es de los típicos electrodomésticos que nos acordamos que tenemos hasta que se [avería](/decogas/blog/caldera/principales-averias-calderas/). Algo que puede darse lugar si no le damos el adecuado mantenimiento. Si no sabes **por qué la caldera no arranca**, es mejor conocer las causas del por qué de este problema y cómo resolverlo.
 
-![chico bajo ducha agua fría](https://decogas.com/wp-content/uploads/2025/02/istockphoto-187248862-612x612-1.jpg)
+![chico bajo ducha agua fría](/decogas/blog-img/istockphoto-187248862-612x612-1.webp)
 
 ## Causas porque la caldera de gasoil se detiene
 
@@ -70,7 +70,7 @@ Si el problema es que en la **caldera no funciona el agua, pero sí la calefacci
 
 Este caso es contrario al anterior, donde hay **agua en los grifos, pero no en los radiadores**. La causa está vinculada con la **bomba de recirculación**. La bomba se encarga de mover el agua por el circuito de la caldera, radiadores y las conexiones y, en caso de que falle, el agua no circula correctamente y los radiadores no calientan.
 
-![Pantalla de caldera ](https://decogas.com/wp-content/uploads/2025/02/pantalla-lcd-caldera.jpg)
+![Pantalla de caldera ](/decogas/blog-img/pantalla-lcd-caldera.webp)
 
 ## ¿Cuándo es normal que el quemador se encienda y se apague?
 
@@ -94,7 +94,7 @@ A continuación, te damos pautas para que puedas reaccionar ante una avería en 
 -   **Botón Reset**. Para resetear, se presiona un botón ubicado en la parte delantera. En función del modelo, hay que dejar el botón presionando hasta que se reinicie o manejar ruedas selectoras. En caso de duda, consulta el manual del fabricante.
 -   **Cómo evitar que se pare la caldera de gasoil**. Se recomienda rellenar el depósito, cuando llega a los 200 l y apagar la caldera durante una hora y media. De esta forma, las impurezas del gasoil bajarán al fondo y no ensuciarán la caldera.
 
-![reparación caldera](https://decogas.com/wp-content/uploads/2025/02/reparacion-caldera.jpg)
+![reparación caldera](/decogas/blog-img/reparacion-caldera.webp)
 
 ## Advertencias
 

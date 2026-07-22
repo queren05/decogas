@@ -8,7 +8,7 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 7
 ---
-![hombre reparando bomba de calor en caldera](https://decogas.com/wp-content/uploads/2025/02/como-saber-si-falla-la-bomba-de-la-caldera-1.jpg)
+![hombre reparando bomba de calor en caldera](/decogas/blog-img/como-saber-si-falla-la-bomba-de-la-caldera-1.webp)
 
 Saber si **la bomba de tu caldera está fallando** puede evitarte grandes dolores de cabeza y gastos innecesarios. **Cuando la bomba no funciona bien, notarás que la calefacción no rinde como debería**. La presión del agua bajará, los radiadores no calentarán correctamente y, en algunos casos, incluso podrás oír ruidos extraños en el sistema. Estas señales son claves para identificar una falla en la bomba. En este artículo te explicamos cómo comprobar estos síntomas y cuándo deberías contactar a un técnico especializado.
 
@@ -46,7 +46,7 @@ Las fugas son particularmente peligrosas porque, si no se abordan de inmediato, 
 
 ## Cómo comprobar si la bomba de la caldera está funcionando correctamente
 
-![pareja sentada junto a sistema de calefacción](https://decogas.com/wp-content/uploads/2025/02/como-saber-si-falla-la-bomba-de-la-caldera-2.jpg)
+![pareja sentada junto a sistema de calefacción](/decogas/blog-img/como-saber-si-falla-la-bomba-de-la-caldera-2.webp)
 
 Es importante realizar verificaciones regulares en la bomba de tu caldera para asegurarte de que está funcionando de forma óptima. Estas comprobaciones pueden prevenir fallos graves.
 
@@ -88,7 +88,7 @@ Aunque las soluciones temporales pueden darte tiempo, no resolver el problema de
 
 ## ¿Qué hacer si la bomba de tu caldera necesita ser sustituida?
 
-![técnicos evaluando bomba de calor en caldera](https://decogas.com/wp-content/uploads/2025/02/como-saber-si-falla-la-bomba-de-la-caldera-3.jpg)
+![técnicos evaluando bomba de calor en caldera](/decogas/blog-img/como-saber-si-falla-la-bomba-de-la-caldera-3.webp)
 
 Si tu bomba ha dejado de funcionar correctamente, será necesario reemplazarla para asegurar el buen rendimiento del sistema de calefacción.
 

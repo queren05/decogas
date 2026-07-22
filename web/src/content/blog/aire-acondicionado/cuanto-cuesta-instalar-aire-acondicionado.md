@@ -8,7 +8,7 @@ tagClass: "aire"
 breadcrumb: "Aire acondicionado"
 readingTime: 6
 ---
-![hombre instalando el condensador de un aire acondicionado split](https://decogas.com/wp-content/uploads/2025/02/hvac-technician-working-capacitor-part-condensing-unit-2-1.jpg)
+![hombre instalando el condensador de un aire acondicionado split](/decogas/blog-img/hvac-technician-working-capacitor-part-condensing-unit-2-1.webp)
 
 La [instalación de un aire acondicionado](https://decogas.com/aire-acondicionado/) es una decisión importante que puede mejorar significativamente el confort en tu hogar, especialmente durante los meses más calurosos del año.
 
@@ -42,7 +42,7 @@ El **rango de precios** para los aires acondicionados portátiles puede variar d
 
 ## Factores que afectan el coste de instalación
 
-![hombre y mujer instalando aire acondicionado](https://decogas.com/wp-content/uploads/2025/02/medium-shot-people-wearing-helmets-1.jpg)
+![hombre y mujer instalando aire acondicionado](/decogas/blog-img/medium-shot-people-wearing-helmets-1.webp)
 
 La instalación de un aire acondicionado implica una serie de factores que pueden influir significativamente en el coste final. Estos factores deben ser considerados cuidadosamente para preparar un presupuesto adecuado y tomar decisiones informadas:
 

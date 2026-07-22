@@ -8,7 +8,7 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 4
 ---
-![mujer joven sentada en el suelo frente a chimenea](https://decogas.com/wp-content/uploads/2025/02/Calefaccion-en-casas-de-pueblo.jpg)
+![mujer joven sentada en el suelo frente a chimenea](/decogas/blog-img/calefaccion-en-casas-de-pueblo.webp)
 
 La elección de la calefacción adecuada es crucial para garantizar el **confort en las casas de pueblo**. Estas viviendas, a menudo con características arquitectónicas únicas y ubicadas en entornos rurales, requieren sistemas de calefacción que se adapten a sus necesidades específicas.
 
@@ -56,7 +56,7 @@ La elección entre estos tipos de calderas dependerá de factores como la **disp
 
 En este otro post te contamos todo acerca de [cuánto dura una caldera de gas](/decogas/blog/caldera/cuanto-dura-una-caldera-de-gas/).
 
-![hombre instalando sistema de calefacción en piso](https://decogas.com/wp-content/uploads/2025/02/Elegir-calefaccion-casa-de-pueblo.jpg)
+![hombre instalando sistema de calefacción en piso](/decogas/blog-img/elegir-calefaccion-casa-de-pueblo.webp)
 
 ## **Factores a considerar en la elección**
 

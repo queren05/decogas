@@ -12,7 +12,7 @@ Si tienes un sistema de [aerotermia](/decogas/blog/que-es-la-aerotermia/) en tu 
 
 En este artículo, te proporcionaremos **toda la información necesaria sobre el mantenimiento de la aerotermia,** desde contratos de mantenimiento que puedes gestionar contactándonos, hasta consejos prácticos para mantener tu equipo en óptimas condiciones.
 
-![mantenimiento aerotermia](https://decogas.com/wp-content/uploads/2025/02/mantenimiento-aerotermia.jpg)
+![mantenimiento aerotermia](/decogas/blog-img/mantenimiento-aerotermia.webp)
 
 ## ¿Qué es el mantenimiento de la aerotermia?
 
@@ -62,7 +62,7 @@ Es recomendable **optar por contratos que incluyan visitas periódicas de manten
 
 De esta manera, podrás disfrutar de un sistema eficiente y evitar posibles averías o pérdidas de rendimiento.
 
-![mantenimiento aerotermia precio mantenimiento aerotermia aerotermia mantenimiento mantenimiento aerotermia daikin contrato mantenimiento aerotermia mantenimiento aerotermia mitsubishi mantenimiento aerotermia panasonic mantenimiento aerotermia madrid ](https://decogas.com/wp-content/uploads/2025/02/mantenimiento-aerotermia-1.jpg)
+![mantenimiento aerotermia precio mantenimiento aerotermia aerotermia mantenimiento mantenimiento aerotermia daikin contrato mantenimiento aerotermia mantenimiento aerotermia mitsubishi mantenimiento aerotermia panasonic mantenimiento aerotermia madrid ](/decogas/blog-img/mantenimiento-aerotermia-1.webp)
 
 ## Preguntas Frecuentes:
 

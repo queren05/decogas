@@ -8,7 +8,7 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 5
 ---
-![pellets y fuego](https://decogas.com/wp-content/uploads/2025/02/pellets-para-estufa.jpg)
+![pellets y fuego](/decogas/blog-img/pellets-para-estufa.webp)
 
 **Instalar una estufa de pellets canalizable** supone una serie de ventajas en cuanto al medioambiente y el hogar. Las [estufas de pellets](https://decogas.com/estufas-pellets/) se destacan por climatizar los espacios de una forma más ecológica y sostenible. Esto hace que se **mantenga más el calor** en la vivienda y con **menor consumo**.
 
@@ -24,7 +24,7 @@ Esto hace que, si vivimos en una comunidad de viviendas, la **instalación de un
 
 ## Cómo canalizar una estufa de pellets
 
-![canalizar una estufa de pellets](https://decogas.com/wp-content/uploads/2025/02/estufa-pellets-negra-267x400-1.jpg)
+![canalizar una estufa de pellets](/decogas/blog-img/estufa-pellets-negra-267x400-1.webp)
 
 Para poder canalizar una estufa de pellets es necesario contar con **tubos específicos**, cartón de yeso y accesorios para eliminar el hollín. Los tubos horizontales no han de superar el metro para tener una **distribución más efectiva de la energía**. Además, otro elemento a tener en cuenta es el tamaño del ventilador, que dependerá igualmente de la potencia de la estufa escogida.
 
@@ -57,7 +57,7 @@ Podemos encontrar dos tipos de instalación para la salida de humos de las estuf
 -   **Tubos de pared simple**. Se emplean dentro de la vivienda, puesto que no crea tanta condensación la temperatura dentro de la vivienda.
 -   **Tubos de pared doble**. Se utiliza en el exterior, puesto que crea más condensación en el exterior debido al cambio de temperatura.
 
-![pellets y termostato calefacción](https://decogas.com/wp-content/uploads/2025/02/calefaccion-con-pellets.jpg)
+![pellets y termostato calefacción](/decogas/blog-img/calefaccion-con-pellets.webp)
 
 ## ¿Se puede sacar el tubo de la estufa de pellets recto en horizontal?
 

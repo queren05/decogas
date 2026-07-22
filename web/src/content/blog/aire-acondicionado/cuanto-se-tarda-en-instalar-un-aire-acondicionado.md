@@ -14,7 +14,7 @@ Entendemos que el tema de la instalación de un aire acondicionado despierta gra
 
 Por esta razón, nuestro objetivo es proporcionarte toda la información necesaria para que puedas abordar este proceso de manera efectiva.
 
-![Instalador de aire acondicionado ](https://decogas.com/wp-content/uploads/2025/02/cuanto-se-tarda-en-instalar-un-aire-acondicionado.png)
+![Instalador de aire acondicionado ](/decogas/blog-img/cuanto-se-tarda-en-instalar-un-aire-acondicionado.webp)
 
 ## Factores que influyen en el tiempo de instalación
 
@@ -102,7 +102,7 @@ Al tener en cuenta estos factores, puede asegurarse de elegir un instalador de a
 
 Además te recomendamos preguntarle a tu instalador si tambien realiza el [mantenimiento del aire acondicionado](/decogas/blog/aire-acondicionado/mantenimiento-aire-acondicionado/) y cada cuanto tiempo tienes que hacerlo.
 
-![Profesional en la instalación de aires acondicionados](https://decogas.com/wp-content/uploads/2025/02/instalar-aire-acondicionado.jpg)
+![Profesional en la instalación de aires acondicionados](/decogas/blog-img/instalar-aire-acondicionado.webp)
 
 ## Tiempos estimados de instalación
 

@@ -31,30 +31,30 @@ A continuación te mostramos **cuáles son algunos de los mejores** aires acondi
 
 Este aire acondicionado con bomba de calor dispone de una potencia frigorífica de 7.04 kW y una potencia calorífica de 7.33 kW. Además, el equipo Ferroli Diamant S24 cuenta con gas refrigerante R32, convirtiéndolo en un aparato eficiente; así como la posibilidad de **controlar el aparato mediante control WiFi** integrado en el equipo. Tiene una eficiencia energética A++/A+.
 
-![Ferroli](https://decogas.com/wp-content/uploads/2025/02/Ferroli-diamant-S24-280x280-1.jpg)
+![Ferroli](/decogas/blog-img/ferroli-diamant-s24-280x280-1.webp)
 
 ### Fujitsu ASY35Ui-LMC
 
 Fujitsu nos presenta un aire acondicionado que puede enfriar/calentar hasta 30 m2, ya que dispone de una potencia frigorífica de 4 kW y una calorífica de 5 kW. El modelo Fujitsu ASY35i-LMC nos regala un diseño compacto con solo 204 mm de fondo que le permite encajar en cualquier estancia. Por supuesto, tampoco nos podemos olvidar de que tiene una eficiencia energética A++.
 
-![fujitsu](https://decogas.com/wp-content/uploads/2025/02/L_fujitsu-asy-ui-lm-1-280x280-1.jpg)
+![fujitsu](/decogas/blog-img/l-fujitsu-asy-ui-lm-1-280x280-1.webp)
 
 ### Giatsu Aroma 2 GIA-S24AR
 
 El aire acondicionado que te presentamos ahora es Giatsu Aroma 2 Gia-S24AR2, un modelo split inverter que nos proporciona un caudal de aire frío de 6000 fg/h y una capacidad calorífica de 6250 kcal/h. Además, podemos escoger la opción de que incluya Wifi y se caracteriza por muy eficiente a nivel energético al ser de clase A++
 
-![Giatsu](https://decogas.com/wp-content/uploads/2025/02/giatsu-aroma-2-280x280-1.jpg)
+![Giatsu](/decogas/blog-img/giatsu-aroma-2-280x280-1.webp)
 
 ### Daikin Comfora TXP25M
 
 Es uno de los modelos más silenciosos que vamos a encontrar con sus únicos 20 dB de ruido. El modelo Daikin Comfora TXP25M dispone de una capacidad de refrigeración de 2.5 kW y una de calefacción de 3 kW. Incluye una unidad interior FTX25L y una exterior RXP25L que, en funcionamiento, logran una clase de eficiencia energética A++.
 
-![Daikin Comfora](https://decogas.com/wp-content/uploads/2025/02/Daikin-confora-280x280-1.jpg)
+![Daikin Comfora](/decogas/blog-img/daikin-confora-280x280-1.webp)
 
 ### Mitsubishi Electric MSZ-DM25VA
 
 El aire acondicionado Mitsubishi Electric MSZ-DM25VA está diseñado para dar frío/calor a una estancia de hasta 20 m2. Tiene una potencia nominal frigorífica de 2.5 kW y una bomba de calor que da una capacidad calorífica de 3.2 kW. Lo destacable de esta marca es que siempre incorporan los mejores avances en tecnología y tiene una eficiencia clase A+.
 
-![mitsubishi](https://decogas.com/wp-content/uploads/2025/02/L_aire-acondicionado-mitsubishi-msz-dm-va-280x280-1.jpg)
+![mitsubishi](/decogas/blog-img/l-aire-acondicionado-mitsubishi-msz-dm-va-280x280-1.webp)
 
 En definitiva, ahora que ya conoces cuáles son los mejores aires acondicionados con bomba de calor en Madrid, ¿a qué esperas para hacerte con el tuyo?

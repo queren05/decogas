@@ -12,7 +12,7 @@ readingTime: 4
 
 Estudios han demostrado que una habitación con una temperatura no óptima puede llevar a noches inquietas y a un sueño fragmentado. Esto se debe a que nuestro cuerpo lucha por alcanzar una temperatura corporal ideal para el descanso, lo que puede resultar en un sueño superficial y menos reparador.
 
-![Temperatura para dormir](https://decogas.com/wp-content/uploads/2025/02/temperatura-dormir-1.png)
+![Temperatura para dormir](/decogas/blog-img/temperatura-dormir-1.webp)
 
 ## ¿Cuál es la temperatura ideal para dormir?
 
@@ -37,7 +37,7 @@ Entre los puntos más importantes que debes tomar en cuenta para mantener una te
 
 La elección de la ropa de cama es también fundamental. En verano, opta por tejidos ligeros y transpirables como el algodón, mientras que en invierno, las sábanas más pesadas y mantas pueden proporcionar el aislamiento necesario para mantener una temperatura de sueño confortable.
 
-![Temperatura ideal para dormir](https://decogas.com/wp-content/uploads/2025/02/temperatura-ideal-dormir-1.png)
+![Temperatura ideal para dormir](/decogas/blog-img/temperatura-ideal-dormir-1.webp)
 
 ## El papel del sueño REM y la temperatura corporal
 

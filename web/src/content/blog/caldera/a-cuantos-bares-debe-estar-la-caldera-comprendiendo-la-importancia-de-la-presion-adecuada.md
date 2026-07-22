@@ -8,7 +8,7 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 5
 ---
-![bares exactos de la caldera](https://decogas.com/wp-content/uploads/2025/02/bares-caldera.jpg)
+![bares exactos de la caldera](/decogas/blog-img/bares-caldera.webp)
 
 La caldera es el corazón del sistema de calefacción de muchas viviendas y edificios, y, al igual que cualquier otro equipo complejo, **necesita ser operada en ciertas condiciones óptimas** para garantizar su correcto funcionamiento y durabilidad. Uno de los aspectos cruciales que a menudo se pasa por alto es la presión a la que debe trabajar, un factor que puede influir significativamente en la eficiencia y seguridad del equipo.
 

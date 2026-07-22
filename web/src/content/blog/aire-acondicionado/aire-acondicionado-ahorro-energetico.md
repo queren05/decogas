@@ -12,7 +12,7 @@ Si estás buscando información sobre cómo optimizar el uso de tu **sistema de 
 
 **Exploraremos diferentes estrategias y consejos prácticos para lograr un hogar fresco y confortable de manera eficiente.** Acompáñanos y descubre cómo aprovechar al máximo tu sistema de aire acondicionado sin comprometer el confort ni el medio ambiente.
 
-![aire acondicionado ahorro energetico ](https://decogas.com/wp-content/uploads/2025/02/aire-acondicionado-ahorro-energetico.jpg)
+![aire acondicionado ahorro energetico ](/decogas/blog-img/aire-acondicionado-ahorro-energetico.webp)
 
 ## Aire Acondicionado y Ahorro Energético
 
@@ -75,7 +75,7 @@ Además de ahorrar en tus facturas, estarás contribuyendo al cuidado del medio 
 
 ¡Disfruta del confort de tu hogar sin comprometer el ahorro y la eficiencia energética!
 
-![ahorro de energia que consume el aire acondicionadotemperatura ahorro aire acondicionado ahorro de energia en aire acondicionado ahorro energetico - aire acondicionado aire acondicionado ahorro energetico ahorro em aire acondicionado aire acondicionado temperatura & ahorro modo ahorro en aire acondicionado temperatura aire acondicionado para ahorro de energia aire acondicionado ahorro de energia](https://decogas.com/wp-content/uploads/2025/02/aire-acondicionado-ahorro-de-energia.jpg)
+![ahorro de energia que consume el aire acondicionadotemperatura ahorro aire acondicionado ahorro de energia en aire acondicionado ahorro energetico - aire acondicionado aire acondicionado ahorro energetico ahorro em aire acondicionado aire acondicionado temperatura & ahorro modo ahorro en aire acondicionado temperatura aire acondicionado para ahorro de energia aire acondicionado ahorro de energia](/decogas/blog-img/aire-acondicionado-ahorro-de-energia.webp)
 
 ## La Importancia del Ahorro de Energía en Aire Acondicionado
 

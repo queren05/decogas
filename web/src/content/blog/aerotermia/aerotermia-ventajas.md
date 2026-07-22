@@ -12,7 +12,7 @@ Exploraremos las numerosas **ventajas de la aerotermia**, un sistema innovador y
 
 Acompáñanos en este artículo para descubrir sus beneficios y cómo puede mejorar tu experiencia de climatización.
 
-![aerotermia ventajas](https://decogas.com/wp-content/uploads/2025/02/aerotermia-ventajas.jpg)
+![aerotermia ventajas](/decogas/blog-img/aerotermia-ventajas.webp)
 
 ## Aerotermia: funcionamiento y razones para elegirla
 

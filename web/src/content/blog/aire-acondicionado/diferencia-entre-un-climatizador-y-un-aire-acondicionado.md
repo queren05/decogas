@@ -10,13 +10,13 @@ readingTime: 4
 ---
 Lo más seguro que, a la hora de comprar un sistema de refrigeración para el hogar o la oficina, seguro que te preguntarás sobre las diferencias entre un climatizador y un [aire acondicionado](https://decogas.com/aire-acondicionado/). Mucha gente suele confundirlos y pueden llegar a adquirir aquel que no necesitan y que no cubren sus necesidades. Para sacarte de dudas, vamos a señalar las ventajas y las **diferencias entre un climatizador y un aire acondicionado**.
 
-![chica controlando el sistema de climamtización](https://decogas.com/wp-content/uploads/2025/02/aire-acondicionado.jpg)
+![chica controlando el sistema de climamtización](/decogas/blog-img/aire-acondicionado.webp)
 
 ## ¿Cómo funciona un climatizador evaporativo?
 
 Como el aire acondicionado, permite enfriar el aire y mantener un ambiente confortable y fresco. Pero, a diferencia del aire acondicionado, estos aparatos refrescan el aire mediante un filtrado a través del agua que reduce la temperatura y produce un frío húmedo. El aparato de climatización absorbe el aire caliente de la estancia, lo pasa por un filtro húmedo y lo convierte en aire fresco esparciéndolo al exterior gracias a un ventilador.
 
-![climatizador evaporativo](https://decogas.com/wp-content/uploads/2025/02/climatizador-evaporativo.jpg)
+![climatizador evaporativo](/decogas/blog-img/climatizador-evaporativo.webp)
 
 ### Ventajas de los climatizadores evaporativos
 
@@ -30,7 +30,7 @@ Ahora que sabemos cómo funcionan, vamos a señalar qué puntos fuertes tienen:
 
 ## ¿Cómo funciona un aire acondicionado?
 
-![control de aire acondicionado con mando a distancia](https://decogas.com/wp-content/uploads/2025/02/usando-el-aire-acondicionado-con-mando-a-distancia.jpg)
+![control de aire acondicionado con mando a distancia](/decogas/blog-img/usando-el-aire-acondicionado-con-mando-a-distancia.webp)
 
 El aire acondicionado se destaca por reducir la humedad del ambiente, produciendo un aire frío y seco. Esto hace que el ambiente tenga una [temperatura controlada](/decogas/blog/aire-acondicionado/temperatura-aire-acondicionado/) y seleccionada por el usuario.
 
@@ -60,7 +60,7 @@ Este tipo de aparatos también tienen sus ventajas frente a los anteriores:
 -   Permiten sistemas híbridos, por lo que es una tecnología más sostenible.
 -   Se pueden instalar con otros sistemas para mejorar la calidad del aire como son los filtros o sistemas sostenibles como son la recirculación de aire o recuperador de calor.
 
-![aire acondicionado averiado](https://decogas.com/wp-content/uploads/2025/02/istockphoto-1256098103-612x612-1-600x400-1.jpg)
+![aire acondicionado averiado](/decogas/blog-img/istockphoto-1256098103-612x612-1-600x400-1.webp)
 
 ## Diferencias entre un climatizador y un aire acondicionado
 

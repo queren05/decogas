@@ -10,7 +10,7 @@ readingTime: 6
 ---
 La era de las [calderas de gasoil](https://decogas.com/calderas-de-gasoil/) se aproxima a su ocaso. Impulsadas por normativas ambientales más estrictas y la urgente necesidad de **reducir las emisiones de CO2**, las regulaciones de la Unión Europea marcan un punto de inflexión. Este cambio, además de representar un desafío, también es una oportunidad para adoptar alternativas más limpias y eficientes. Descubre cómo este giro afecta a consumidores y qué opciones sostenibles emergen en el horizonte.
 
-![pareja escogiendo caldera](https://decogas.com/wp-content/uploads/2025/02/pareja-escogiendo-caldera.jpg)
+![pareja escogiendo caldera](/decogas/blog-img/pareja-escogiendo-caldera.webp)
 
 ## ¿Por qué se prohíben las calderas de gasoil?
 
@@ -34,7 +34,7 @@ A corto plazo, pueden servir como un paso intermedio para aquellos usuarios que 
 
 Las bombas de calor, en especial las aerotérmicas, emergen como la **solución más eficiente y sostenible** frente a las calderas de gasoil. Estos sistemas extraen energía del aire exterior para proporcionar calefacción y, en muchos casos, refrigeración, operando con una eficiencia energética notablemente alta.
 
-![bomba de calor instalada](https://decogas.com/wp-content/uploads/2025/02/2149250259-1.jpg)
+![bomba de calor instalada](/decogas/blog-img/2149250259-1.webp)
 
 Su capacidad para integrarse con electricidad generada a partir de fuentes renovables las convierte en una de las opciones más respetuosas con el medio ambiente disponibles actualmente. Además, la tecnología de las bombas de calor continúa avanzando, ofreciendo **mejoras en eficiencia y rendimiento** incluso en climas fríos.
 
@@ -63,7 +63,7 @@ Para los edificios existentes, las renovaciones que impliquen la **actualizació
 
 La transición hacia sistemas de calefacción más sostenibles y eficientes es un objetivo compartido por gobiernos y comunidades. Reconociendo los **desafíos económicos** que esta transformación puede implicar para los hogares y empresas, se han establecido diversas ayudas y subvenciones destinadas a facilitar el cambio.
 
-![hombre haciendo cuentas en calculadora](https://decogas.com/wp-content/uploads/2025/02/119-1.jpg)
+![hombre haciendo cuentas en calculadora](/decogas/blog-img/119-1.webp)
 
 Incentivos para la instalación de sistemas sostenibles
 

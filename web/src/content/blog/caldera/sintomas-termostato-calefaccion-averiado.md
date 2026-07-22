@@ -8,7 +8,7 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 5
 ---
-![hombre leyendo termostato](https://decogas.com/wp-content/uploads/2025/02/Zonas-climaticas-y-su-impacto-en-la-obligacion-de-instalar-contadores.jpg)
+![hombre leyendo termostato](/decogas/blog-img/zonas-climaticas-y-su-impacto-en-la-obligacion-de-instalar-contadores.webp)
 
 Si notas que tu calefacción no responde correctamente, como apagarse sin motivo o mantenerse encendida sin parar, podría significar que el **termostato de tu calefacción está averiado**. Estos **síntomas** suelen causar un aumento en las facturas de energía o una temperatura incómoda en tu hogar. **Detectar estos problemas a tiempo** es clave para evitar daños mayores. ¿Quieres saber más sobre cómo identificar estos signos y qué hacer al respecto? **Sigue leyendo** **para descubrir cómo resolverlo fácilmente.**
 
@@ -66,7 +66,7 @@ Un sistema de calefacción que trabaja continuamente sin pausa está más expues
 
 ## Soluciones y acciones para reparar un termostato de calefacción averiado
 
-![](https://decogas.com/wp-content/uploads/2025/02/Causas-del-fallo-en-la-sonda-de-temperatura.jpg)
+![](/decogas/blog-img/causas-del-fallo-en-la-sonda-de-temperatura.webp)
 
 Reparar un termostato defectuoso es de gran importancia para mantener la eficiencia de la calefacción en tu hogar. Hay varias acciones que puedes tomar para solucionar los problemas y prevenir fallos futuros.
 

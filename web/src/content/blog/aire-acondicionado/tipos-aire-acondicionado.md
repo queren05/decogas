@@ -16,7 +16,7 @@ El funcionamiento de un aire acondicionado es muy sencillo y se basa en los prin
 
 Este proceso consiste en extraer el calor del ambiente y transportarlo a otro lugar dejando, de este modo, un clima frío en la estancia. Normalmente, la refrigeración se lleva a cabo por un **sistema de compresión o de absorción**.
 
-![Familia en un dormitorio con un tipo de aire acondicionado](https://decogas.com/wp-content/uploads/2019/11/dormitorio-aire-acondicionado.jpg)
+![Familia en un dormitorio con un tipo de aire acondicionado](/decogas/blog-img/dormitorio-aire-acondicionado.webp)
 
 ## ¿Qué tener en cuenta a la hora de elegir un aire acondicionado?
 
@@ -90,7 +90,7 @@ En general, los aires acondicionados portátiles con tubo son una mejor opción 
 
 Estos sistemas de refrigeración incorporan un **evaporador y un condensador** dentro de una misma estructura. Los modelos partidos incluyen una unidad exterior, el condensador, y una interior, el evaporador. Ambas zonas están conectadas por sistemas de conducción frigorífica que permiten la circulación del aire refrigerado.
 
-![Familia en una vivienda con aire acondicionado](https://decogas.com/wp-content/uploads/2019/11/aire-acondicionado-familia.jpg)
+![Familia en una vivienda con aire acondicionado](/decogas/blog-img/aire-acondicionado-familia.webp)
 
 Dentro de los tipos de aire acondicionado partido podemos encontrar **distintas opciones** que pueden obtener un mayor rendimiento energético, por lo que son la mejor forma de disponer de un [aire acondicionado de bajo consumo](/decogas/blog/aire-acondicionado/aire-acondicionado-de-bajo-consumo/).
 

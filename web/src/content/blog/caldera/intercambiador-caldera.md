@@ -14,7 +14,7 @@ readingTime: 3
 
 El intercambiador de una caldera de gas es el elemento encargado de permitir el **cambio térmico** en el interior de tu caldera. De esta manera, tus productos pueden pasar de la combustión al final de la cámara y, con ello, aprovechar el **calor residual** por la condensación del vapor.
 
-![Técnico arreglando el intercambiador de una caldera](https://decogas.com/wp-content/uploads/2025/02/intercambiador-caldera.jpg)
+![Técnico arreglando el intercambiador de una caldera](/decogas/blog-img/intercambiador-caldera.webp)
 
 Dentro de los tipos de intercambiador que hay para una caldera destaca el **intercambiador de placas**. Este elemento consiste en varias placas metálicas unidas, por una junta, formando unos pasillos que conectan entre sí.
 

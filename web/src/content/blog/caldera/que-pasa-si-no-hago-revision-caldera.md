@@ -14,7 +14,7 @@ La revisión de tu caldera de gas es **fundamental y obligatoria.** La misión d
 
 La revisión de las calderas de gas viene regulada en el **Reglamento de las Instalaciones Térmicas en los Edificios, RITE**. En esta legislación se incluyen las condiciones que tiene que cumplir tu instalación climática, sea cual sea el [tipo de caldera que tengas](/decogas/blog/caldera/caldera-gas-elegir-comprar/). Esta revisión **debe realizarse cada dos años** y, en el caso de [calentadores de agua](https://decogas.com/calentadores/), cada 5 años.
 
-![Revisión caldera de gas](https://decogas.com/wp-content/uploads/2025/02/control-caldera-gas-alcobendas-1.jpg)
+![Revisión caldera de gas](/decogas/blog-img/control-caldera-gas-alcobendas-1.webp)
 
 ## ¿En qué consiste la inspección periódica reglamentaria de la instalación de gas natural?
 
@@ -45,7 +45,7 @@ Si, es **obligatorio**. Cualquier vivienda que tenga [instalada una caldera de g
 
 También es importante recordar que las [calderas de gasóil](https://decogas.com/calderas-de-gasoil/) y propano, entre otras, al emplear otro tipo de energía como combustión tienen que **revisarse anualmente**. En el caso de los calentadores de agua, la revisión es cada 5 años y el gas butano es de forma anual. Esta revisión no tiene nada que ver con la **inspección reglamentaria** que tiene que realizarse cada 5 años, 4 si vives en el País Vasco
 
-![Caldera de gas en la cocina de una casa](https://decogas.com/wp-content/uploads/2025/02/caldera-gas-hogar-1.jpg)
+![Caldera de gas en la cocina de una casa](/decogas/blog-img/caldera-gas-hogar-1.webp)
 
 ## ¿Qué pasa si no haces la revisión de la caldera?
 
@@ -69,7 +69,7 @@ Si no puedes estar en tu domicilio en el momento de la inspección, por algún i
 
 Los engaños han llevado a mucha gente a no fiarse cuando acude un profesional a realizar la revisión de su caldera. Es fundamental que, en estos casos, **sepas distinguirlos**; los estafadores suelen acudir a personas que viven solas y, por la supuesta revisión piden una cantidad económica en efectivo.
 
-![Técnico revisando una caldera de gas](https://decogas.com/wp-content/uploads/2025/02/hombre-instalando-caldera-gas-1.jpg)
+![Técnico revisando una caldera de gas](/decogas/blog-img/hombre-instalando-caldera-gas-1.webp)
 
 Por su parte, un **técnico autorizado nunca te pedirá dinero** porque el coste se incluye en la factura del siguiente mes. En caso de duda, lo primero que debes hacer es solicitar al profesional que se identifique con sus credenciales: el número de instalador certificado y su número otorgado por la dirección general de industria.
 

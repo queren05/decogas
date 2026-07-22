@@ -16,7 +16,7 @@ Este proceso es mucho más eficiente que el uso del [aire acondicionado](https:/
 
 Aquí hablaremos de **cómo utilizar la aerotermia con paneles solares** para mantenerse fresco en verano. También le daremos algunos consejos sobre cómo elegir el sistema adecuado para su hogar.
 
-![Equipo de aerotermia con paneles solares](https://decogas.com/wp-content/uploads/2025/02/aerotermia-con-placas-solares.png)
+![Equipo de aerotermia con paneles solares](/decogas/blog-img/aerotermia-con-placas-solares.webp)
 
 ## Aerotermia y energía solar: principios del sistema
 

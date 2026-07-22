@@ -26,7 +26,7 @@ El aire acondicionado Fujitsu ASY 335 Ui-LLCE destaca por su **potencia nominal 
 
 Del mismo modo, posee unos controles que hacen que su **manejo sea muy sencillo** y, además, cuando la estancia se vacíe no se enfriará excesivamente, ya que la temperatura ambiente no bajará de 10ºC.
 
-![](https://decogas.com/wp-content/uploads/2025/02/fujitsu-asy-35-ui-llce.jpg)
+![](/decogas/blog-img/fujitsu-asy-35-ui-llce.webp)
 
 ### Mitsubishi Electric MSZ-HR35VF
 
@@ -40,7 +40,7 @@ Esta permite eliminar la humedad del interior del aire acondicionado, con lo que
 
 También es importante señalar que el aire acondicionado Saunier Duval SDH 19-065 NW cuenta con una **impresionante eficiencia energética, A+**; es decir, su funcionamiento consume un 20% menos que un modelo similar de clase A.
 
-![](https://decogas.com/wp-content/uploads/2025/02/saunier-duval-sdh-19-065-nw.jpg)
+![](/decogas/blog-img/saunier-duval-sdh-19-065-nw.webp)
 
 ### Daitsu ASD24Ui-DN
 
@@ -48,6 +48,6 @@ Este aire acondicionado está pensado para estancias de hasta 50 m2; además, fo
 
 También es importante señalar que este sistema dispone de un estilo elegante moderno y desenfadado, lo que hace que sea ideal para combinar en cualquier vivienda. Del mismo modo, posee la función TURBO que permite **acelerar su potencia frigorífica o calorífica** y que cualquier habitación pueda coger la temperatura que deseas en un instante.
 
-![](https://decogas.com/wp-content/uploads/2025/02/daitsu-asd24ui-dn.jpg)
+![](/decogas/blog-img/daitsu-asd24ui-dn.webp)
 
 En definitiva, ahora que ya conoces cuáles son los aires acondicionados con 6000 frigorías más demandados en Madrid. Si tienes una estancia grande y quieres disfrutar de la mejor temperatura, estos equipos son la **alternativa más recomendable**. En nuestra tienda online los encontrarás al precio más bajo, ¿a qué esperas para hacerte con el tuyo?

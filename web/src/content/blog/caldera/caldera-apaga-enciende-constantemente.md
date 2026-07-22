@@ -14,7 +14,7 @@ Si tu caldera se apaga y enciende constantemente es posible que tengas una aver�
 
 Cuando se instala una caldera esta lleva incorporado un sistema de regulación que se encarga de **controlar la potencia** a la que trabaja tu calefacción; así podrás controlarla y su consumo será menor.
 
-![Encendido y apagado de una caldera](https://decogas.com/wp-content/uploads/2025/02/caldera-encendido-apagado.jpg)
+![Encendido y apagado de una caldera](/decogas/blog-img/caldera-encendido-apagado.webp)
 
 En el caso de no llevar este sistema, y **funcionar por el denominado Todo/Nada,** la caldera puede apagarse y encenderse constantemente. Este sistema apaga el calentador cuando este **alcanza la temperatura adecuada** y después volverá a encenderse.
 

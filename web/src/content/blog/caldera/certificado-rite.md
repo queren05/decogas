@@ -12,7 +12,7 @@ readingTime: 7
 
 ## ¿Qué es el certificado RITE?
 
-El Reglamento de Instalación Térmica en Edificios, más conocido como RITE, es la norma básica que marca las directrices que se deben cumplir para la instalación de un [sistema de calefacción](/decogas/blog/caldera/tipos-sistemas-calefaccion/)**, agua caliente y climatización**, como los que puedes encontrar en nuestra [tienda online](https://decogas.com/). ![Técnico revisando una caldera para otorgar el certificado RITE](https://decogas.com/wp-content/uploads/2025/02/revision-caldera-rite.jpg) El certificado RITE está regulado por el Reglamento RITE del RD 1027/2007, de 20 de julio, y exige **varios certificados** según el momento en de la instalación. Una vez finalizada dicha instalación, se realizan las pruebas de puesta en marcha del servicio, especificadas en la Instrucción Técnica 2 del RITE; si su resultado es positivo, el instalador y el director de dicha instalación **validarán el certificado RITE**. El certificado RITE se otorga de forma particular; es decir, se da a una persona pero nunca a una empresa. En otras palabras, las instalaciones térmicas deben estar pensadas para cumplir **cuatro exigencias**:
+El Reglamento de Instalación Térmica en Edificios, más conocido como RITE, es la norma básica que marca las directrices que se deben cumplir para la instalación de un [sistema de calefacción](/decogas/blog/caldera/tipos-sistemas-calefaccion/)**, agua caliente y climatización**, como los que puedes encontrar en nuestra [tienda online](https://decogas.com/). ![Técnico revisando una caldera para otorgar el certificado RITE](/decogas/blog-img/revision-caldera-rite.webp) El certificado RITE está regulado por el Reglamento RITE del RD 1027/2007, de 20 de julio, y exige **varios certificados** según el momento en de la instalación. Una vez finalizada dicha instalación, se realizan las pruebas de puesta en marcha del servicio, especificadas en la Instrucción Técnica 2 del RITE; si su resultado es positivo, el instalador y el director de dicha instalación **validarán el certificado RITE**. El certificado RITE se otorga de forma particular; es decir, se da a una persona pero nunca a una empresa. En otras palabras, las instalaciones térmicas deben estar pensadas para cumplir **cuatro exigencias**:
 
 -   Calidad del ambiente acústico.
 -   Calidad térmica del ambiente.
@@ -49,7 +49,7 @@ Para poder obtener el certificado RITE es necesario cumplir con una serie de **r
 -   Resultados de las pruebas de puesta en marcha: de acuerdo con la IT 2.
 -   **Declaración expresa**: debe garantizarse que la instalación cumple el proyecto o memoria técnica, así como todos los requisitos exigidos por el RITE.
 
-![Mantenimiento de una caldera para obtener el certificado RITE](https://decogas.com/wp-content/uploads/2025/02/mantenimiento-certificado-rite.jpg) También es importante señalar que las **comunidades autónomas pueden incluir requisitos adicionales** cuando se trate de instalaciones localizadas en su territorio; por ello, lo más recomendable es acudir al órgano competente de tu comunidad autónoma para saber si existen requisitos adicionales o solamente debes cumplir con los mínimos exigidos en la legislación vigente.
+![Mantenimiento de una caldera para obtener el certificado RITE](/decogas/blog-img/mantenimiento-certificado-rite.webp) También es importante señalar que las **comunidades autónomas pueden incluir requisitos adicionales** cuando se trate de instalaciones localizadas en su territorio; por ello, lo más recomendable es acudir al órgano competente de tu comunidad autónoma para saber si existen requisitos adicionales o solamente debes cumplir con los mínimos exigidos en la legislación vigente.
 
 ### Certificados exigidos
 
@@ -90,7 +90,7 @@ El titular de una instalación tiene una **serie de obligaciones**; a continuaci
 
 ## Certificado de la instalación
 
-Este certificado garantiza que la instalación **cumple con la normativa vigente** y que, por ello, se puede registrar cuando se ha finalizado la instalación térmica. Dicho registro se puede realizar en el órgano competente de la comunidad autónoma en la que se encuentra la instalación. ![Vivienda con certificado RITE para su caldera](https://decogas.com/wp-content/uploads/2025/02/caldera-invierno-certificado-rite.jpg)
+Este certificado garantiza que la instalación **cumple con la normativa vigente** y que, por ello, se puede registrar cuando se ha finalizado la instalación térmica. Dicho registro se puede realizar en el órgano competente de la comunidad autónoma en la que se encuentra la instalación. ![Vivienda con certificado RITE para su caldera](/decogas/blog-img/caldera-invierno-certificado-rite.webp)
 
 ### Certificado de mantenimiento
 

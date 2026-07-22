@@ -54,7 +54,7 @@ Es un mecanismo de alivio. Si la presión del sistema supera los 3 bares, esta v
 
 ### 6\. Salida de humos: ventilación y seguridad
 
-![componentes de una caldera](https://decogas.com/wp-content/uploads/2025/02/componentes-de-una-caldera-601x400-1.jpg)
+![componentes de una caldera](/decogas/blog-img/componentes-de-una-caldera-601x400-1.webp)
 
 Es el conducto (chimenea) por donde se expulsan los gases resultantes de la combustión. En los modelos actuales, se utilizan sistemas de doble flujo o coaxiales para asegurar que los gases nocivos no se filtren en la vivienda.
 
@@ -75,7 +75,7 @@ Tras años analizando el rendimiento de sistemas de calefacción, hemos comproba
 
 _Nuestra experiencia de más de una década en mantenimiento preventivo indica que el 40% de las averías en el intercambiador se deben a la acumulación de cal, algo que se puede evitar con limpiezas periódicas._
 
-![quemador parte de una caldera](https://decogas.com/wp-content/uploads/2025/02/quemador-parte-de-una-caldera-602x400-1.jpg)
+![quemador parte de una caldera](/decogas/blog-img/quemador-parte-de-una-caldera-602x400-1.webp)
 
 -   **Si la presión sube sola:** Es probable que la llave de llenado esté mal cerrada o que el vaso de expansión haya perdido su carga de aire.
 -   **Si la caldera hace ruidos de «ebullición»:** Suele indicar que el intercambiador está obstruido por cal o suciedad, impidiendo que el agua circule libremente.

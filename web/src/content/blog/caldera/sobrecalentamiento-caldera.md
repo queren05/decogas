@@ -8,7 +8,7 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 6
 ---
-![termostato indicando sobrecalentamiento en caldera](https://decogas.com/wp-content/uploads/2025/02/wheel-thermostat-adds-touch-modernity-while-effortlessly-controlling-radiator-temperatures-ai-generated_47726-12507-1.jpg)
+![termostato indicando sobrecalentamiento en caldera](/decogas/blog-img/wheel-thermostat-adds-touch-modernity-while-effortlessly-controlling-r.webp)
 
 El **sobrecalentamiento en la caldera** es un problema serio que afecta tanto la eficiencia del sistema como la seguridad del hogar. Identificar las causas comunes, como fallos en el termostato o problemas de circulación del agua, es de gran importancia para prevenir daños graves. En este artículo exploraremos las señales de alerta, soluciones efectivas y la importancia del mantenimiento preventivo para garantizar un funcionamiento óptimo y seguro de tu caldera.
 
@@ -66,7 +66,7 @@ Es necesario identificar y eliminar estos bloqueos para mantener la caldera func
 
 ## Soluciones efectivas para el sobrecalentamiento
 
-![hombre apagando caldera por sobrecalentamiento](https://decogas.com/wp-content/uploads/2025/02/close-up-hand-turning-up-heater_23-2149335140-1.jpg)
+![hombre apagando caldera por sobrecalentamiento](/decogas/blog-img/close-up-hand-turning-up-heater-23-2149335140-1.webp)
 
 Existen varias soluciones efectivas para abordar el sobrecalentamiento en una caldera. Veamos cuáles son:
 

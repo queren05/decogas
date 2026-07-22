@@ -8,7 +8,7 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 4
 ---
-![técnico reparando error ea caldera junkers](https://decogas.com/wp-content/uploads/2025/02/error-ea-caldera-junkers.jpg)
+![técnico reparando error ea caldera junkers](/decogas/blog-img/error-ea-caldera-junkers.webp)
 
 ¿Te has encontrado con el **error EA** en tu **[caldera Junkers](https://decogas.com/calderas/bosch/)** y no sabes qué hacer? No te preocupes, estamos aquí para ayudarte. En este post te explicaremos las causas más comunes de este problema y cómo puedes solucionarlo.
 
@@ -58,7 +58,7 @@ Al solucionar el error EA, es posible que necesites reemplazar algunas piezas. L
 
 ## Consejos para evitar el error EA
 
-![Consejos para evitar el error EA](https://decogas.com/wp-content/uploads/2025/02/Consejos-para-evitar-el-error-EA.jpg)
+![Consejos para evitar el error EA](/decogas/blog-img/consejos-para-evitar-el-error-ea.webp)
 
 Prevenir el error EA en tu caldera Junkers es posible con algunas medidas simples y efectivas. Aquí te dejo algunos consejos prácticos:
 

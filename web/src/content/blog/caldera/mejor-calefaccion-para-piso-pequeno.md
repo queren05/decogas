@@ -8,7 +8,7 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 6
 ---
-![pequeño calefactor siendo tocado](https://decogas.com/wp-content/uploads/2025/02/front-view-hand-touching-heater-1.jpg)
+![pequeño calefactor siendo tocado](/decogas/blog-img/front-view-hand-touching-heater-1.webp)
 
 Elegir cuál es la **mejor calefacción para un piso pequeño** es una decisión crucial que impacta tanto en el confort del hogar como en el consumo energético.
 
@@ -36,7 +36,7 @@ Al elegir la calefacción para un piso pequeño, es necesario considerar varios 
 
 ## Tipos de calefacción para espacios reducidos
 
-![mujer en casa junto a su calefactor](https://decogas.com/wp-content/uploads/2025/02/woman-home-1.jpg)
+![mujer en casa junto a su calefactor](/decogas/blog-img/woman-home-1.webp)
 
 La elección del sistema de calefacción adecuado para un piso pequeño es crucial para garantizar un ambiente confortable y eficiente. Existen varias opciones disponibles, cada una con sus propias ventajas y desventajas. A continuación, exploramos los tipos de calefacción más adecuados para espacios reducidos:
 

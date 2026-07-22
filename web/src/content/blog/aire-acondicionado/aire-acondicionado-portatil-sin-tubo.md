@@ -16,7 +16,7 @@ También abordaremos las diferencias entre los modelos con y sin tubo, y explora
 
 > ¡Sigue leyendo para descubrir todo lo que necesitas saber sobre esta alternativa práctica para mantenerte fresco en los días calurosos de verano!
 
-![aire acondicionado portátil sin tubo](https://decogas.com/wp-content/uploads/2025/02/aire-acondicionado-portatil-sin-tubo.jpg)
+![aire acondicionado portátil sin tubo](/decogas/blog-img/aire-acondicionado-portatil-sin-tubo.webp)
 
 ## ¿Qué es un aire acondicionado portátil sin tubo?
 

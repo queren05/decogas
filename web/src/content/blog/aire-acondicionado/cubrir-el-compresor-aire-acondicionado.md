@@ -8,7 +8,7 @@ tagClass: "aire"
 breadcrumb: "Aire acondicionado"
 readingTime: 5
 ---
-![funda para tapar aire acondicionado](https://decogas.com/wp-content/uploads/2025/02/funda-aire-acondicionado.jpg)
+![funda para tapar aire acondicionado](/decogas/blog-img/funda-aire-acondicionado.webp)
 
 El [aire acondicionado](https://decogas.com/aire-acondicionado/) es un elemento esencial durante los días de mayor calor durante el verano y nos permite disfrutar del mayor confort en el hogar, independientemente de la temperatura que exista en el exterior. Pero, cuando llega la temporada de frío y si no tiene [bomba de calor](/decogas/blog/aire-acondicionado/aire-acondicionado-con-bomba-de-calor/), se deja de usar y necesita cierta protección contra la suciedad. Además, es un aparato grande que, en muchas ocasiones, no sabemos muy bien cómo integrar en la decoración del hogar o fachada del edificio. Pero si no es posible ocultarlo a la vista de forma sencilla, podemos siempre **cubrir el compresor del aire acondicionado** con innovadoras ideas. En este artículo os mostramos geniales ideas para conseguir que el aparato luzca también con estilo.
 
@@ -20,7 +20,7 @@ La forma más sencilla de ocultar o cubrir la [unidad exterior del aire acondici
 
 Si bien es cierto que estas máquinas están preparadas para un uso exterior, nunca viene mal tomar otras medidas para **mejorar el [mantenimiento del aire acondicionado](/decogas/blog/aire-acondicionado/mantenimiento-aire-acondicionado/) y su correcto funcionamiento** y, por consiguiente, lograr ampliar su vida útil por más tiempo.
 
-![cubrir el compresor del aire acondiconado al aire libre](https://decogas.com/wp-content/uploads/2025/02/caseta-para-aire-acondicionado.jpg)
+![cubrir el compresor del aire acondiconado al aire libre](/decogas/blog-img/caseta-para-aire-acondicionado.webp)
 
 ## Ideas para cubrir el compresor del aire acondicionado
 
@@ -52,7 +52,7 @@ Por el contrario, si buscamos dar un uso mucho más decorativo, una idea es hace
 
 Una idea totalmente original y con estilo claramente vegetal, es camuflar la unidad exterior con rejillas metálicas e incorporar plantas artificiales para lograr una ilusión de que estamos ante una **enredadera** y no dar la sensación que bajo ella hay una parte del aire acondicionado.
 
-![aires acondicionados tapados en fachada](https://decogas.com/wp-content/uploads/2025/02/tapar-aire-acondicionado-rejilla.jpg)
+![aires acondicionados tapados en fachada](/decogas/blog-img/tapar-aire-acondicionado-rejilla.webp)
 
 ### Modo banco
 

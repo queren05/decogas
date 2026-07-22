@@ -14,7 +14,7 @@ A la hora de adquirir un sistema de climatización para tu vivienda es fundament
 
 En la actualidad, existe una amplia variedad de [aires acondicionados](https://decogas.com/aire-acondicionado/) entre los que puedes elegir, en función de tus gustos y necesidades. La **eficiencia energética** es uno de los factores que debes tener en cuenta, ya que de ella depende directamente el consumo eléctrico de tu nuevo aparato.
 
-![¿Por qué comprar un aire acondicionado +++?](https://decogas.com/wp-content/uploads/2025/02/aire-acondicionado-a.jpg)
+![¿Por qué comprar un aire acondicionado +++?](/decogas/blog-img/aire-acondicionado-a.webp)
 
 La **eficiencia energética** de un aparato podemos comprobarla mediante una **etiqueta energética** que incluye el electrodoméstico en el momento de la compra. Desde 2021, en la etiqueta energética podemos comprobar que la escala de eficiencia va desde la letra A (más eficiente) a la letra G (menos eficiente). Por lo tanto, un [**aire acondicionado A**](https://decogas.com/aire-acondicionado/) será el más sostenible y eficiente**.**
 
@@ -37,7 +37,7 @@ En otras palabras, cuanto más alto es el número de estos coeficientes, más ef
 
 El transporte público, el alquiler del piso, la luz, la calefacción o el coche son algunos de los **gastos mensuales a los que debes enfrentarte**, especialmente si vives en Madrid; por ello, la instalación de aires acondicionados en la provincia no ha parado de aumentar en los últimos años.
 
-![Motivos para comprar un aire acondicionado A+++](https://decogas.com/wp-content/uploads/2025/02/motivos-aire-acondicionado-a.jpg)
+![Motivos para comprar un aire acondicionado A+++](/decogas/blog-img/motivos-aire-acondicionado-a.webp)
 
 El transporte público, el alquiler del piso, la luz, la calefacción o el coche son algunos de los **gastos mensuales a los que debes enfrentarte**, especialmente si vives en Madrid; por ello, la instalación de aires acondicionados en la provincia no ha parado de aumentar en los últimos años.
 

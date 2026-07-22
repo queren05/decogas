@@ -8,7 +8,7 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 6
 ---
-![caldera de gas sobre pared azul](https://decogas.com/wp-content/uploads/2025/02/mejores-marcas-de-calderas-de-gas-1.jpg)
+![caldera de gas sobre pared azul](/decogas/blog-img/mejores-marcas-de-calderas-de-gas-1.webp)
 
 **Elegir una buena [caldera de gas](https://decogas.com/calderas/) puede marcar una gran diferencia en el ahorro y la eficiencia de tu sistema de calefacción.** Con tantas marcas en el mercado, cada una con sus propias ventajas y especificaciones, es fácil sentirse abrumado.
 
@@ -74,7 +74,7 @@ Vaillant utiliza materiales reciclables y tecnologías sostenibles en sus produc
 
 ## Recomendaciones de calderas para autónomos y pequeñas empresas
 
-![pareja calentando sus manos en calefacción](https://decogas.com/wp-content/uploads/2025/02/mejores-marcas-de-calderas-de-gas-2.jpg)
+![pareja calentando sus manos en calefacción](/decogas/blog-img/mejores-marcas-de-calderas-de-gas-2.webp)
 
 Para autónomos y pequeñas empresas, elegir la caldera adecuada puede marcar una gran diferencia en eficiencia, confort y ahorro económico.
 

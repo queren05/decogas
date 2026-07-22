@@ -16,7 +16,7 @@ En la actualidad, el 99% de los hogares en España pierden calor por no contar c
 
 Por eso, los aislantes térmicos para paredes interiores son la mejor opción para ahorrar dinero a final de mes. Se calcula que la instalación de un buen aislamiento térmico te permite un **ahorro de hasta un 70% de energía**; de ahí la importancia de elegir el [mejor aislante térmico para tu casa](/decogas/blog/caldera/mejor-aislante-termico-casa/).
 
-![Vivienda con aislantes térmicos para paredes interiores](https://decogas.com/wp-content/uploads/2025/02/vivienda-aislante-termico-paredes-interires.jpg)
+![Vivienda con aislantes térmicos para paredes interiores](/decogas/blog-img/vivienda-aislante-termico-paredes-interires.webp)
 
 ## Tipos de aislantes térmicos para paredes interiores
 
@@ -41,7 +41,7 @@ Los mejores aislantes térmicos para paredes interiores son aquellos que protege
 
 Los aislantes térmicos para paredes interiores **pueden aplicarse de distintas formas** para, sin tener que renunciar a tu fachada, puedas disfrutar de todos sus beneficios.
 
-![Aislamiento térmico interior por inyectado](https://decogas.com/wp-content/uploads/2025/02/aislamiento-termico-interior-inyectado.jpg)
+![Aislamiento térmico interior por inyectado](/decogas/blog-img/aislamiento-termico-interior-inyectado.webp)
 
 ### Inyectado o insuflado
 

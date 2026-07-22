@@ -16,7 +16,7 @@ Pero, ¿sabes qué es una caldera de condensación? En este _post_ te vamos a ex
 
 Las calderas de condensación son el modo de climatización por gas más eficiente. Al contar con las últimas innovaciones tecnológicas, estas calderas son más respetuosas con el medio ambiente y ofrecen un **menor consumo de gas;** de hecho,las [mejores calderas de condensación](/decogas/blog/caldera/mejores-calderas-condensacion/) ofrecen un **ahorro del gas del 15 y el 30%.**
 
-![Caldera de condensación en una vivienda](https://decogas.com/wp-content/uploads/2025/02/caldera-condensacion.jpg)
+![Caldera de condensación en una vivienda](/decogas/blog-img/caldera-condensacion.webp)
 
 Por otro lado, estas calderas de condensación pueden **instalarse en los radiadores o por suelo radiante**. Además, una de las principales características de estos generadores es que, cuanto más tiempo estén en funcionamiento más alta será su rentabilidad.
 
@@ -52,7 +52,7 @@ Es **fundamental** que, cuando vayas a instalar una caldera de condensación, co
 
 Los modelos de condensación disponen de una **pendiente en la chimenea** de mayor tamaño y que va hacia la caldera; de esta forma, se recoge el calor condensado en forma de vapor y te permite aprovecharlo.
 
-![Radiador de caldera de condensación](https://decogas.com/wp-content/uploads/2025/02/radiador-caldera-condensacion.jpg)
+![Radiador de caldera de condensación](/decogas/blog-img/radiador-caldera-condensacion.webp)
 
 En relación al **material de construcción**, la caldera estanca está fabricada en aluminio y la de condensación en polipropileno, previniendo que los vapores condensados corroan la chimenea; además, **evita posibles fugas.**
 

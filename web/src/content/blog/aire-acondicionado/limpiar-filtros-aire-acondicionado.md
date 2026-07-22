@@ -10,7 +10,7 @@ readingTime: 6
 ---
 Si disponemos de un sistema de climatización en casa o el trabajo seguro que, a la hora de limpiarlo, nos ha entrado las dudas de cómo hacerlo con los filtros de aire acondicionado. Y es que es una pregunta necesaria, ya que el [mantenimiento de los aires acondicionados](/decogas/blog/aire-acondicionado/mantenimiento-aire-acondicionado/) es una obligación para mantener el rendimiento del aparato en óptimas condiciones y por la propia salud de lo usuarios. Por eso, en este post os vamos a contar la forma de **limpiar los filtros del [aire acondicionado](https://decogas.com/aire-acondicionado/)**, tanto de modelos split como de [aires acondicionados por conductos](https://decogas.com/aire-acondicionado/por-conductos/).
 
-![comparación filtros limpios y sucios](https://decogas.com/wp-content/uploads/2025/02/istockphoto-1292606122-612x612-1.jpg)
+![comparación filtros limpios y sucios](/decogas/blog-img/istockphoto-1292606122-612x612-1.webp)
 
 ## ¿Qué mantenimiento necesita mi aire acondicionado?
 
@@ -27,7 +27,7 @@ Sea o no los filtros, el mantenimiento es esencial para el buen funcionamiento d
 -   **Rendimiento**. La acumulación de polvo y otras partículas en los filtros empeora el flujo de aire. El equipo tiene que realizar un sobreesfuerzo para funcionar correctamente, provocando un aumento del consumo. Ese consumo no solo afecta a la economía, sino que también acorta la vida útil del equipo.
 -   **Calidad del aire**. Cuando los filtros no tienen mantenimiento, aparecen malos olores. Si no se limpian de forma correcta, pierden capacidad para atrapar las partículas y alérgenos en el aire.
 
-![chica comprobando el flujo de aire frío de un aire acondicionado](https://decogas.com/wp-content/uploads/2025/02/istockphoto-1325708905-612x612-1.jpg)
+![chica comprobando el flujo de aire frío de un aire acondicionado](/decogas/blog-img/istockphoto-1325708905-612x612-1.webp)
 
 ## ¿Cada cuánto hay que limpiar los filtros del aire acondicionado?
 
@@ -39,7 +39,7 @@ Si nos centramos en los modelos splits, la mayoría de fabricantes recomiendan l
 
 Un aire acondicionado sucio no podrá funcionar de manera correcta en cada uno de los [modos del aire acondicionado](/decogas/blog/aire-acondicionado/modos-aire-acondicionado/), impidiéndote controlar la temperatura del lugar de forma adecuada.
 
-![Chica limpiando filtro de aire acondicionado](https://decogas.com/wp-content/uploads/2025/02/istockphoto-1358089581-612x612-1.jpg)
+![Chica limpiando filtro de aire acondicionado](/decogas/blog-img/istockphoto-1358089581-612x612-1.webp)
 
 ## Cómo limpiar los filtros del aire acondicionado split
 
@@ -67,7 +67,7 @@ Lo dejamos secar al aire libre y con papel absorbente. Los tubos situados tras l
 
 Introducimos de nuevo los filtros en el aparato y cerramos la tapa. Pasamos un trapo por el aparato para eliminar restos de polvo y volvemos a conectar el aire acondicionado.
 
-![limpiando filtro de aire acondicionado](https://decogas.com/wp-content/uploads/2025/02/istockphoto-1321143449-612x612-1.jpg)
+![limpiando filtro de aire acondicionado](/decogas/blog-img/istockphoto-1321143449-612x612-1.webp)
 
 ## Cómo limpiar los filtros del aire acondicionado por conductos
 

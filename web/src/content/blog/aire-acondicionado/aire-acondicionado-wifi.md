@@ -20,7 +20,7 @@ Es muy probable que, si vas a adquirir un equipo de aire acondicionado, veas mod
 -   **Mantenimiento**: muchos equipos te permiten realizar saber cómo se encuentra tu aparato, para ver si es necesaria una revisión.
 -   **Control de consumo**: gracias a esta opción puedes saber cuánto consume tu aire acondicionado.
 
-![Mujer controlando un aire acondicionado con WiFi con el teléfono móvil](https://decogas.com/wp-content/uploads/2025/02/mujer-movil-aire-acondicionado.jpg)
+![Mujer controlando un aire acondicionado con WiFi con el teléfono móvil](/decogas/blog-img/mujer-movil-aire-acondicionado.webp)
 
 ## Tipos de aire acondicionado con WiFi
 

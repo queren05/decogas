@@ -34,7 +34,7 @@ La **manguera de desagüe**, de la que hablamos en el párrafo anterior, se obst
 
 Aunque parezcan poco importantes, los **filtros** son parte de la mayoría de los problemas de funcionamiento de un aire acondicionado. Por eso, hacerle un mantenimiento recurrente a los filtros evitará el problema de que el aire acondicionado pierde agua por unidad exterior.
 
-![limpiar-filtros](https://decogas.com/wp-content/uploads/2025/02/limpiar-filtros-600x400-1.jpg)
+![limpiar-filtros](/decogas/blog-img/limpiar-filtros-600x400-1.webp)
 
 ### **Obstrucción exterior**
 

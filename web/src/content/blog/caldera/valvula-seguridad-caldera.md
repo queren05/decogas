@@ -22,7 +22,7 @@ La válvula de seguridad de las [calderas de gas](https://decogas.com/calderas/)
 
 Deben estar hechas con **materiales apropiados que soporten los incrementos de presión y temperatura**. Además, tienen que ser resistentes a posibles corrosiones por el agua. Asimismo, la válvula de seguridad de una caldera tiene que estar creada de forma que las roturas de sus componentes no atranquen la expulsión del líquido.
 
-![válvula seguridad](https://decogas.com/wp-content/uploads/2025/02/valvula-seguridad-601x400-1.jpg)
+![válvula seguridad](/decogas/blog-img/valvula-seguridad-601x400-1.webp)
 
 ### ¿Cómo funciona una válvula de seguridad?
 

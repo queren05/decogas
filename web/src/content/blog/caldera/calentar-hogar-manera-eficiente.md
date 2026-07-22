@@ -12,7 +12,7 @@ readingTime: 6
 
 **En esta guía, vamos a enseñarte cómo conseguirlo de forma práctica y accesible.** Desde aprovechar mejor las alfombras y cortinas térmicas hasta ajustar las persianas y utilizar aparatos portátiles como estufas o radiadores eléctricos, descubrirás consejos útiles que realmente funcionan. Lo importante es lograr un equilibrio entre comodidad, ahorro y sostenibilidad. ¿Listo para transformar tu hogar en un espacio más cálido y acogedor? ¡Vamos a ello!
 
-![calentar hogar](https://decogas.com/wp-content/uploads/2025/02/calentar-hogar.jpg)
+![calentar hogar](/decogas/blog-img/calentar-hogar.webp)
 
 ### La importancia de mantener un calor adecuado en invierno
 
@@ -83,7 +83,7 @@ La seguridad es primordial al usar cualquier tipo de calefactor. Es importante s
 
 Instalar detectores de humo y monóxido de carbono en el hogar puede proporcionar una capa adicional de seguridad. Estos dispositivos son esenciales, especialmente en casas con sistemas de calefacción a base de combustibles.
 
-![Calentar la casa con un radiador](https://decogas.com/wp-content/uploads/2025/02/calentar-casa-radiador-1.png)
+![Calentar la casa con un radiador](/decogas/blog-img/calentar-casa-radiador-1.webp)
 
 ## Innovaciones y tendencias en calefacción doméstica
 

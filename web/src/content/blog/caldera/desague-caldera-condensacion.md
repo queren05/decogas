@@ -14,7 +14,7 @@ Disponer en tu vivienda de una [caldera de condensación](/decogas/blog/caldera/
 
 Las calderas de condensación, como las que puedes encontrar en nuestra [tienda online](https://decogas.com/), ofrecen una alta eficiencia y ayudan a **mejorar el medio ambiente**, ya que realizan una recirculación de humos en el interior que permite aprovechar su calor. Al aprovechar este calor interior, este se acaba enfriando y condensando, creando **gotas de agua** que se recogen en el interior, en una bandeja que debe vaciarse cada cierto tiempo.
 
-![radiadores en las calderas de condensación](https://decogas.com/wp-content/uploads/2025/02/radiadores-calderas-condensacion.jpg)
+![radiadores en las calderas de condensación](/decogas/blog-img/radiadores-calderas-condensacion.webp)
 
 Por ello, el desagüe es fundamental a la hora de instalar una caldera de condensación, ya que permite que el agua condensada salga de la caldera. Para que te hagas una idea, una caldera corriente, con la calefacción encendida, suele **generar entre 1 y 2 litros de agua diarios**; por ello, si no se dispone de desagüe tendrás que vaciar la bandeja, como mínimo, 3 veces al día para evitar un desbordamiento.
 
@@ -26,7 +26,7 @@ En cualquier caso, la instalación de una nueva caldera de condensación debe **
 
 Desde 2015, en toda la Unión Europea se comenzaron a implantar medidas para **reducir las emisiones contaminantes** de las calderas y disminuir la cantidad de CO2 que vertían a la atmósfera, lo que suponía un gran riesgo ambiental.
 
-![Caldera de condensación con desagüe](https://decogas.com/wp-content/uploads/2025/02/caldera-condensacion-desague.jpg)
+![Caldera de condensación con desagüe](/decogas/blog-img/caldera-condensacion-desague.webp)
 
 ## Cómo hacer un desagüe para una caldera de condensación
 

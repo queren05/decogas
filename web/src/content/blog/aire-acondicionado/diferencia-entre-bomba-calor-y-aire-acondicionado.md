@@ -10,7 +10,7 @@ readingTime: 5
 ---
 Aunque comúnmente se crea, una [bomba de calor](/decogas/blog/aire-acondicionado/aire-acondicionado-con-bomba-de-calor/) es diferente a un [aire acondicionado](https://decogas.com/aire-acondicionado/). Y es que se suelen confundir porque su funcionamiento es similar, ya que emplean la energía del aire. Sin embargo, son distintos y en [Decogas](https://decogas.com/) te vamos a señalar cuál es la **diferencia entre bomba de calor y aire acondicionado**.
 
-![diferencia entre bomba de calor y aire acondicionado](https://decogas.com/wp-content/uploads/2025/02/equipo-interior-aire-acondicionado.jpg)
+![diferencia entre bomba de calor y aire acondicionado](/decogas/blog-img/equipo-interior-aire-acondicionado.webp)
 
 ## ¿Cómo se diferencia entre bomba de calor y aire acondicionado?
 
@@ -39,7 +39,7 @@ En función de donde obtengan la energía, también podemos hacer otra división
 -   **Geotermia**. Utiliza la energía conseguida a través del subsuelo. Tiene una instalación y un mantenimiento sencillos, así como llegar a generar 6 kWh por cada 1 kWh usado. Puede funcionar las 24h del día los 365 días del año.
 -   **Hidrónicas**. Utilizan tanto la fuerza del subsuelo como del agua, además de ser un sistema muy respetuoso con el medio ambiente. Son capaces de producir climatización fría como caliente y tienen una instalación y mantenimiento sencillo.
 
-![técnico arreglando equipo de climatización](https://decogas.com/wp-content/uploads/2025/02/tecnico-con-unidad-exterior.jpg)
+![técnico arreglando equipo de climatización](/decogas/blog-img/tecnico-con-unidad-exterior.webp)
 
 ### Aire acondicionado
 
@@ -70,7 +70,7 @@ Las bombas de calor aerotérmicas tienen grandes ventajas si se comparan con el 
 -   **Es un sistema eléctrico**. Funcionan con electricidad, pero su energía la obtienen gratuitamente de elementos como el aire, agua o tierra para conseguir calor.
 -   **Emplea energía limpia y renovable**. Tiene menos impacto y es más respetuosa con el medio ambiente que los sistemas con combustión (calderas, quemadores de gas, etc.), y ayuda a [mejorar la eficiencia energética en los edificios](/decogas/blog/caldera/mejorar-eficiencia-energetica-edificios/). Así mismo, no contribuye a las emisiones de CO2 y es un sistema más seguro.
 
-![unidad exterior de bomba de calor](https://decogas.com/wp-content/uploads/2025/02/unidades-exteriores-de-bomba-de-calor.jpg)
+![unidad exterior de bomba de calor](/decogas/blog-img/unidades-exteriores-de-bomba-de-calor.webp)
 
 ## Otros criterios para diferenciar una bomba de calor de un aire acondicionado
 
@@ -91,7 +91,7 @@ Si no sabemos qué sistema nos conviene más, vamos a señalar para qué son id�
 -   La vivienda es pequeña con pocas habitaciones.
 -   La vivienda cuenta con muchas habitaciones (aire por conductos).
 
-![control de temperatura de aire acondicionado](https://decogas.com/wp-content/uploads/2025/02/aire-acondicionado-1.jpg)
+![control de temperatura de aire acondicionado](/decogas/blog-img/aire-acondicionado-1.webp)
 
 ### Cuando utilizar una bomba de calor
 

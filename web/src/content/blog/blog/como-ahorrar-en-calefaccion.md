@@ -8,7 +8,7 @@ tagClass: "caldera"
 breadcrumb: "Consejos"
 readingTime: 3
 ---
-![mujer sonriente sentada cerca de calefactor](https://decogas.com/wp-content/uploads/2025/02/Como-ahorrar-en-calefaccion.jpg)
+![mujer sonriente sentada cerca de calefactor](/decogas/blog-img/como-ahorrar-en-calefaccion.webp)
 
 El gasto en calefacción representa una parte significativa del presupuesto doméstico, especialmente en los meses más fríos. Conocer **cómo** **ahorrar en calefacción** no solo alivia la presión económica, sino que también contribuye a un uso más eficiente de la energía.
 
@@ -34,7 +34,7 @@ Otro aspecto importante es el **mantenimiento regular de los sistemas de calefac
 
 ## **Estrategias de ahorro en calefacción**
 
-![mano tomando monedas junto a silueta de casa](https://decogas.com/wp-content/uploads/2025/02/Estrategias-de-ahorro-en-calefaccion.jpg)
+![mano tomando monedas junto a silueta de casa](/decogas/blog-img/estrategias-de-ahorro-en-calefaccion.webp)
 
 Estas estrategias de ahorro en calefacción te ayudarán a optimizar el uso de la energía en tu casa.
 

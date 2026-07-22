@@ -8,7 +8,7 @@ tagClass: "aerotermia"
 breadcrumb: "Aerotermia"
 readingTime: 3
 ---
-![acs con aerotermia](https://decogas.com/wp-content/uploads/2025/02/ducha-bano.jpg)
+![acs con aerotermia](/decogas/blog-img/ducha-bano.webp)
 
 En este artículo, nos vamos a enfocar en la **instalación de aerotermia para el suministro de agua caliente sanitaria**, su instalación, los beneficios que supone y algunos consejos útiles. ¿Te estás planteando su instalación? ¡Sigue leyendo para obtener toda la información que necesitas!
 

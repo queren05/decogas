@@ -8,7 +8,7 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 5
 ---
-![Mujer junto a caldera de gas](https://decogas.com/wp-content/uploads/2025/02/tipos-de-caldera-gas-1.jpg)
+![Mujer junto a caldera de gas](/decogas/blog-img/tipos-de-caldera-gas-1.webp)
 
 ¿Te has preguntado qué **tipo de [caldera de gas](https://decogas.com/calderas/)** es la más adecuada para tu hogar? Elegir el sistema correcto puede marcar la diferencia en **ahorro energético**, **confort y sostenibilidad**. Existen diferentes opciones según tus necesidades, desde las más eficientes hasta las que cumplen normativas estrictas.
 
@@ -52,7 +52,7 @@ Conoce cuál es la [caldera ideal para una casa de 100m2](/decogas/blog/caldera/
 
 ## Factores clave para elegir una caldera de gas
 
-![Radiador blanco](https://decogas.com/wp-content/uploads/2025/02/tipos-de-caldera-gas-2.jpg)
+![Radiador blanco](/decogas/blog-img/tipos-de-caldera-gas-2.webp)
 
 Elegir la caldera adecuada implica analizar varios aspectos que impactan el confort, la eficiencia energética y la inversión económica de tu hogar.
 

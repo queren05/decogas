@@ -10,7 +10,7 @@ readingTime: 4
 ---
 ¿Te has preguntado alguna vez sobre la **presión adecuada para tu caldera**? En este artículo, responderemos esa pregunta y te proporcionaremos **información valiosa** para que puedas mantener tu **caldera en óptimas condiciones**. Así que sigue leyendo y descubre todo lo que necesitas saber sobre la presión de la caldera.
 
-![Hombre ajustando la caldera.](https://decogas.com/wp-content/uploads/2025/02/hombre-ajustando-caldera.jpg)
+![Hombre ajustando la caldera.](/decogas/blog-img/hombre-ajustando-caldera.webp)
 
 ## ¿Qué es la presión de la caldera?
 

@@ -13,7 +13,7 @@ Seguramente alguna vez te hayas preguntado a cuántos grados debes poner tu [air
 ## ¿Cuál es la temperatura ideal del aire acondicionado en tu hogar?
 
 Lo más recomendable es la temperatura ideal del aire acondicionado **no tenga una diferencia mayor de 12 grados con el exterior**. Normalmente, si la vivienda se encuentra a unos 24 – 25ºC es suficiente para sentirse cómodo.  
-![Pareja viendo la televisión a la temperatura ideal del aire acondicionado](https://decogas.com/wp-content/uploads/2025/02/pareja-aire-acondicionado-vivienda.jpg)Lo que debes evitar es que, si llegas a casa y traes calor de la calle, bajes más la temperatura; en estos, lo más recomendable es que esperes unos minutos a que tu cuerpo se aclimate a este cambio de temperatura.
+![Pareja viendo la televisión a la temperatura ideal del aire acondicionado](/decogas/blog-img/pareja-aire-acondicionado-vivienda.webp)Lo que debes evitar es que, si llegas a casa y traes calor de la calle, bajes más la temperatura; en estos, lo más recomendable es que esperes unos minutos a que tu cuerpo se aclimate a este cambio de temperatura.
 
 Lo mejor es que en verano la casa tenga una temperatura entre los 24 y los 26ºC; por su parte, en **invierno** debe oscilar entre los 20 y los 23ºC.
 

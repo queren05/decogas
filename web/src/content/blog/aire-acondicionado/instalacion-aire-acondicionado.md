@@ -12,7 +12,7 @@ Bienvenido a nuestra **guía completa sobre cómo instalar un aire acondicionado
 
 En este artículo, **te proporcionaremos todos los pasos necesarios para realizar una instalación exitosa**, así como consejos y recomendaciones útiles para optimizar el proceso.
 
-![Instalación de aire acondicionado](https://decogas.com/wp-content/uploads/2025/02/Instalacion-de-aire-acondicionado.jpg)
+![Instalación de aire acondicionado](/decogas/blog-img/instalacion-de-aire-acondicionado.webp)
 
 ## Instalando un Aire Acondicionado para Mayor Comodidad
 
@@ -106,7 +106,7 @@ Una vez que hayas completado la instalación de ambas unidades, realiza las sigu
 4.  **Realiza las pruebas de rendimiento** necesarias para verificar que el aire acondicionado enfríe adecuadamente el ambiente.
 5.  **Realiza cualquier ajuste adicional** según sea necesario para optimizar el rendimiento y la eficiencia del aire acondicionado.
 
-## ![Instalación de aire acondicionado y mantenimiento del mismo](https://decogas.com/wp-content/uploads/2025/02/instalacion-aire-acondicionado.jpg)
+## ![Instalación de aire acondicionado y mantenimiento del mismo](/decogas/blog-img/instalacion-aire-acondicionado.webp)
 
 ## Cómo elegir un modelo más silencioso
 

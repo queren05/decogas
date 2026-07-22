@@ -14,7 +14,7 @@ Es fundamental disponer de un **sistema de tuberías en perfecto estado** en tu 
 
 La cal obstruye las tuberías debido a la **dureza del agua** de la zona en la que te encuentres. Esto ocurre porque este agua dura tiene un **alto índice de minerales**, lo que provoca que se produzcan muchas rocas en el líquido, conocidas como cal. Este agua se filtra en la tubería y puede provocar muchos problemas.  
 
-![Cómo quitar la cal de la tubería de la caldera](https://decogas.com/wp-content/uploads/2025/02/quitar-cal-caldera.jpg)
+![Cómo quitar la cal de la tubería de la caldera](/decogas/blog-img/quitar-cal-caldera.webp)
 
 ## ¿Cómo se origina la cal?
 
@@ -51,7 +51,7 @@ Si finalmente vas a utilizar un producto químico para **eliminar el sarro y la 
 -   Lee todas las indicaciones de uso del producto.
 -   Elige un producto que se adecúe al tipo de tubería que tienes.
 
-### ![Quitando la cal de la tubería](https://decogas.com/wp-content/uploads/2025/02/tuberias-cal-caldera.jpg)
+### ![Quitando la cal de la tubería](/decogas/blog-img/tuberias-cal-caldera.webp)
 
 ### Ácido muriático
 

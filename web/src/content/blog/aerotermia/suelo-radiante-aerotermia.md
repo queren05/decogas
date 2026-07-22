@@ -12,7 +12,7 @@ readingTime: 6
 
 Descubriremos cómo funciona esta tecnología, sus ventajas y desventajas, y responderemos las preguntas más comunes que surgen al considerar esta opción para tu hogar.
 
-![Hogar con instalación de aerotermia con suelo radiante](https://decogas.com/wp-content/uploads/2025/02/aerotermia-con-suelo-radiante.jpg)
+![Hogar con instalación de aerotermia con suelo radiante](/decogas/blog-img/aerotermia-con-suelo-radiante.webp)
 
 ## ¿Qué es el suelo radiante con aerotermia?
 
@@ -81,7 +81,7 @@ La combinación de suelo radiante y aerotermia ofrece numerosos beneficios para 
 -   **Diseño versátil:** El suelo radiante se instala debajo del suelo, lo que permite liberar espacio en las paredes y no interfiere con la decoración de tu hogar. Además, al no tener radiadores visibles, se obtiene una distribución del calor más homogénea y se eliminan las corrientes de aire.
 -   **Sistema silencioso:** Tanto la aerotermia como el suelo radiante son sistemas silenciosos, lo que contribuye a un ambiente tranquilo y sin ruidos molestos.
 
-![](https://decogas.com/wp-content/uploads/2025/02/aerotermia-con-suelo-radiante-1.jpg)
+![](/decogas/blog-img/aerotermia-con-suelo-radiante-1.webp)
 
 Funcionamiento de la aerotermia con suelo radiante
 

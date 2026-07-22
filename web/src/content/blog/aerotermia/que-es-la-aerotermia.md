@@ -14,7 +14,7 @@ También veremos cómo la aerotermia puede proporcionar una solución ideal para
 
 > ¡Sigue leyendo para descubrir todo lo que necesitas saber sobre esta innovadora tecnología de climatización!
 
-![que es la aerotermia](https://decogas.com/wp-content/uploads/2025/02/que-es-la-aerotermia.jpg)
+![que es la aerotermia](/decogas/blog-img/que-es-la-aerotermia.webp)
 
 ## Aerotermia: definición, funcionamiento y aplicaciones
 

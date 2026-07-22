@@ -16,7 +16,7 @@ Sin entrar en terminología técnica, es importante que comprendas cuál es la f
 
 El sistema utiliza el agua para transportar calor a los radiadores y calienta el agua para proveernos de agua caliente. Esto hace que la **presión** aumente. A fin de evitar el fallo de la caldera, entra en acción el vaso de expansión, que absorbe la presión.
 
-![técnico caldera](https://decogas.com/wp-content/uploads/2025/02/tecnico-arreglando-una-caldera.jpg)
+![técnico caldera](/decogas/blog-img/tecnico-arreglando-una-caldera.webp)
 
 En él, hay una pieza clave: la **válvula de seguridad**. Si está averiada, es probable que la caldera gotee agua, momento en el que habrá que actuar con rapidez y cerrar el circuito. A continuación veremos cómo cortar el agua de la caldera para que esta avería no vaya a más.
 

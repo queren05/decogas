@@ -14,7 +14,7 @@ readingTime: 4
 
 La tecnología Inverter se caracteriza por permitir la regulación de la temperatura; es decir, el aire acondicionado arranca buscando llegar a la **temperatura correcta de frío y calor** y, cuando la obtiene, la mantiene consiguiendo el máximo confort. Para realizarlo, los aires acondicionados Inverter, también conocidos como aires acondicionados de frío o calor, actúan con un ciclo eléctrico que **solo utiliza la energía necesaria**, consiguiendo un ahorro de hasta un 50% en la factura de la luz; además, se encarga de regular su compresor, lo que aporta una mayor durabilidad al aparato.
 
-![Aire acondicionado de frío o calor](https://decogas.com/wp-content/uploads/2025/02/aire-acondicionado-frio-calor.jpg)
+![Aire acondicionado de frío o calor](/decogas/blog-img/aire-acondicionado-frio-calor.webp)
 
 ## Ventajas del aire acondicionado frío o calor en Madrid
 

@@ -16,7 +16,7 @@ Para quienes no estén pensando en comprar y vender, tampoco cabe duda de que la
 
 La eficiencia energética **mide el consumo de energía** que se necesita para satisfacer una demanda, ya sea de una vivienda o de un edificio. Su objetivo es reducir el consumo de energía para producir más utilizando los menores recursos.
 
-![eficiencia energetica hogares](https://decogas.com/wp-content/uploads/2025/02/eficiencia-energetica-712x400-1.jpg)
+![eficiencia energetica hogares](/decogas/blog-img/eficiencia-energetica-712x400-1.webp)
 
 ### Cómo se calcula la eficiencia energética en edificios
 
@@ -34,7 +34,7 @@ De esta forma, un edificio con una **mayor clasificación energética ahorrará 
 
 Además, es un certificado obligatorio que, exceptuando casos muy puntuales, deben aportarse por los propietarios de un inmueble cuando la vivienda se va a alquilar o se va a realizar una compraventa.
 
-![Calculando cómo mejorar la eficiencia energética en edificos](https://decogas.com/wp-content/uploads/2025/02/calculadora-gastos-edificio.jpg)
+![Calculando cómo mejorar la eficiencia energética en edificos](/decogas/blog-img/calculadora-gastos-edificio.webp)
 
 ## Mejorar la eficiencia energética en los edificios
 
@@ -51,7 +51,7 @@ El mejor momento para realizar una mejora en la eficiencia energética en edific
 -   **Sustitución del Agua Caliente Sanitario por otro más eficiente**.
 -   **Mantenimiento de los sistemas de climatización**: su renovación es fundamental, pero su buen mantenimiento lo es aun más.
 
-![Ahorro gracias a una buena eficiencia energética en edificos](https://decogas.com/wp-content/uploads/2025/02/ahorro-energia-edificio.jpg)
+![Ahorro gracias a una buena eficiencia energética en edificos](/decogas/blog-img/ahorro-energia-edificio.webp)
 
 ## Otros consejos para ahorrar energía
 

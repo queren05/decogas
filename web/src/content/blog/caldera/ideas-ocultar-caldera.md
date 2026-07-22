@@ -8,7 +8,7 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 5
 ---
-![caldera oculta en mueble](https://decogas.com/wp-content/uploads/2025/02/istockphoto-1049213560-612x612-1-267x400-1.jpg)
+![caldera oculta en mueble](/decogas/blog-img/istockphoto-1049213560-612x612-1-267x400-1.webp)
 
 Las [calderas](https://decogas.com/calderas/) son un elemento esencial hoy en día en los hogares, sobre todo, para tener agua caliente y calentar el ambiente gracias a la calefacción. Muchas veces las vemos en terrazas y balcones o en la cocina. Incluso los más afortunados pueden llegar a instalarlas en sus garajes o sótanos. Pero normalmente nos faltan **ideas para ocultar una caldera**.
 
@@ -44,7 +44,7 @@ Igualmente, recuerda que hay elementos que nunca se han de cubrir ni pintar como
 
 ### Un armario
 
-![carpinteros montando muebles en una cocina](https://decogas.com/wp-content/uploads/2025/02/istockphoto-1093917492-612x612-1-600x400-1.jpg)
+![carpinteros montando muebles en una cocina](/decogas/blog-img/istockphoto-1093917492-612x612-1-600x400-1.webp)
 
 Para mantener la estética del lugar donde esté instalada la caldera, puedes usar uno de los armarios que componen la cocina para ocultar la caldera. De esta forma, mantendrás la uniformidad dentro de la estancia y pasará desapercibida para ojos ajenos fuera de casa.
 

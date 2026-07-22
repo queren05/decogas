@@ -8,7 +8,7 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 6
 ---
-![cuánto dura una caldera](https://decogas.com/wp-content/uploads/2025/02/durar-una-caldera-de-gas.jpg)
+![cuánto dura una caldera](/decogas/blog-img/durar-una-caldera-de-gas.webp)
 
 Puede suceder que tu caldera tenga muchos años y que comience a fallar de vez en cuando. Cuando eso pasa, solemos llamar al servicio técnico para que cambie la pieza que falla o solucionar un problema del circuito o de la caldera. Pero entonces nos comienza a entrar la duda de **cuánto dura una caldera de gas**.
 
@@ -24,7 +24,7 @@ Saber cuánto dura una caldera dependerá de los siguientes elementos que debemo
 -   **Revisiones periódicas**. Es necesario revisar el [funcionamiento de la caldera](/decogas/blog/caldera/como-funciona-caldera-de-gas/) y su instalación por un profesional, para que todo funcione correctamente y no aparezcan fallos de ningún tipo.
 -   **Antigüedad de la caldera**. Se recomienda que por lo general, tras 10 o 15 años, se recurra a los expertos que realizan la revisión para saber si es necesario o no cambiar la caldera. Aunque es un gasto que siempre intentamos evitar, la verdad es que una nueva caldera es mucho más eficiente, por lo que a largo plazo se consume menos energía y se gasta menos dinero.
 
-![caldera de gas y técnico](https://decogas.com/wp-content/uploads/2025/02/caldera-de-gas-y-tecnico.jpg)
+![caldera de gas y técnico](/decogas/blog-img/caldera-de-gas-y-tecnico.webp)
 
 ## La calidad de sus componentes influirá en la vida útil de la caldera
 
@@ -50,7 +50,7 @@ Normalmente, los técnicos expertos nos recomiendan **cambiar la caldera cada 10
 
 La reparación de [averías en calderas](/decogas/blog/caldera/principales-averias-calderas/), sobre todo en los aparatos más antiguos, necesita de un **desembolso de dinero** importante. Si el técnico que mantiene la caldera comienza a encontrar **difícil encontrar piezas para reparar la caldera**, entonces es el momento en que sabremos que es necesario en breve cambiar el aparato.
 
-![chico reparando la caldera](https://decogas.com/wp-content/uploads/2025/02/chico-reparando-la-caldera.jpg)
+![chico reparando la caldera](/decogas/blog-img/chico-reparando-la-caldera.webp)
 
 ### La caldera ya no es tan eficiente
 
@@ -85,7 +85,7 @@ Aunque no nos guste la idea de cambiar la caldera, sobre todo en términos econ�
 -   Conseguiremos la **temperatura ideal** que se traduce en un mayor confort en el hogar.
 -   **El cambio de caldera es rápido** (unas horas) y se notan los cambios desde el primer momento.
 
-![chica regulando el termostato](https://decogas.com/wp-content/uploads/2025/02/chica-configurando-el-termostato.jpg)
+![chica regulando el termostato](/decogas/blog-img/chica-configurando-el-termostato.webp)
 
 ## Alargar la vida útil de la caldera
 

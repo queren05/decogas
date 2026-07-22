@@ -8,7 +8,7 @@ tagClass: "aerotermia"
 breadcrumb: "Aerotermia"
 readingTime: 6
 ---
-![Sistema de climatización en un piso](https://decogas.com/wp-content/uploads/2023/07/aerotermia-en-un-piso-1.jpg)
+![Sistema de climatización en un piso](/decogas/blog-img/aerotermia-en-un-piso-1.webp)
 
 ¿Te has preguntado alguna vez si realmente merece la pena **instalar [aerotermia](https://decogas.com/aerotermia/) en un piso**? Descubrir cómo funciona este sistema puede cambiar por completo tu forma de entender la climatización en casa. Si buscas **ahorro energético y mayor confort**, sigue leyendo. Aquí encontrarás información clara y directa sobre eficiencia, instalación y mantenimiento de la aerotermia en viviendas.
 
@@ -80,7 +80,7 @@ En **edificios comunitarios**, es recomendable consultar la normativa y el permi
 
 ## Requisitos y consideraciones para la instalación
 
-![aerotermia en un piso](https://decogas.com/wp-content/uploads/2025/02/aerotermia-en-un-piso.png)
+![aerotermia en un piso](/decogas/blog-img/aerotermia-en-un-piso.webp)
 
 Antes de instalar aerotermia en un piso, es fundamental analizar la vivienda y sus características. **El aislamiento, el espacio disponible y la orientación** pueden influir en el rendimiento final del sistema.
 

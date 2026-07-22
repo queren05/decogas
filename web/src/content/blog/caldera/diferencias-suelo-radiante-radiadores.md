@@ -35,7 +35,7 @@ Es **más eficiente** y funciona por un sistema de tuberías que lleva el agua, 
 
 Puedes instalarlo la [aerotermia en tu piso](/decogas/blog/aerotermia/aerotermia-piso/) o en tu casa, sin ningún problema.
 
-![Suelo radiante en una vivienda](https://decogas.com/wp-content/uploads/2025/02/suelo-radiante.jpg)
+![Suelo radiante en una vivienda](/decogas/blog-img/suelo-radiante.webp)
 
 El suelo radiante suele combinarse con una bomba de calor y, gracias a su funcionamiento a baja temperatura, permite un **mayor confort térmico** que asegura un ahorro energético. En este sistema de calefacción, la temperatura ideal para un funcionamiento óptimo se encuentra entre los 30ºC y los 40ºC.
 
@@ -45,7 +45,7 @@ Además, ofrece un mayor [aislamiento térmico](/decogas/blog/caldera/mejor-aisl
 
 Son los **más populares para climatizar una vivienda**. En este caso, el agua tiene que alcanzar una temperatura cercana a los 80ºC para calentar la estancia, por lo que su utilización supone un mayor gasto energético. Por otro lado, pueden existir radiadores que trabajen a una baja temperatura, pero **necesitará entre 55ºC y 60ºC para climatizar el ambiente**, superior a la necesaria en el caso del suelo radiante.
 
-![Salón de una casa con suelo radiante](https://decogas.com/wp-content/uploads/2025/02/casa-suelo-radiantec.jpg)
+![Salón de una casa con suelo radiante](/decogas/blog-img/casa-suelo-radiantec.webp)
 
 También es importante señalar el espacio que ocupan, puesto que **se encuentran siempre visibles**; por el contrario, a diferencia del suelo radiante, no es necesario realizar grandes obras de instalación para poder disfrutar de ellos.
 

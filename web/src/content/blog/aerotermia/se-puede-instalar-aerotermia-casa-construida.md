@@ -8,7 +8,7 @@ tagClass: "aerotermia"
 breadcrumb: "Aerotermia"
 readingTime: 5
 ---
-![Unidad exterior de aerotermia en vivienda unifamiliar](https://decogas.com/wp-content/uploads/2025/08/se-puede-instalar-aerotermia-en-una-casa-ya-construida-1.jpg)
+![Unidad exterior de aerotermia en vivienda unifamiliar](/decogas/blog-img/se-puede-instalar-aerotermia-en-una-casa-ya-construida-1.webp)
 
 **Instalar [aerotermia](https://decogas.com/aerotermia/) en una casa ya construida** es una decisión que puede transformar la forma en la que climatizas tu hogar y produces agua caliente sanitaria. Si buscas reducir tu factura energética y apostar por una solución más sostenible, es normal que te preguntes si esta tecnología es viable en una vivienda con años de uso.
 
@@ -56,7 +56,7 @@ Un estudio previo permite **calcular la carga térmica de la vivienda y elegir l
 
 ## Opciones de instalación en viviendas ya construidas
 
-![Mujer en sofá con bebida caliente](https://decogas.com/wp-content/uploads/2025/08/se-puede-instalar-aerotermia-en-una-casa-ya-construida-2.jpg)
+![Mujer en sofá con bebida caliente](/decogas/blog-img/se-puede-instalar-aerotermia-en-una-casa-ya-construida-2.webp)
 
 En casas ya habitadas, **la instalación puede realizarse adaptando el sistema a la estructura existente**. La colocación de la unidad exterior debe planificarse para garantizar una correcta ventilación y minimizar el ruido. Si estás considerando opciones para un entorno más compacto, quizás te interese saber si es viable poner [aerotermia en un piso](/decogas/blog/aerotermia/aerotermia-piso/).
 

@@ -16,7 +16,7 @@ Es importante que, si vas a cambiar de equipo, elijas un aire acondicionado de b
 
 La **eficiencia energética** de un aire acondicionado es la cantidad que se produce por cada kW consumido a nivel energético. En el caso del aire acondicionado, hablamos de SEER y de EER. Cuanto mayor sea la energía creada por kW gastado, más eficiente resultará el equipo. Es decir, el aire acondicionado más eficiente es el que dispone de mayor SEER.
 
-![Vivienda con aire acondicionado de bajo consumo](https://decogas.com/wp-content/uploads/2025/02/aire-acondicionado-bajo-consumo.jpg)
+![Vivienda con aire acondicionado de bajo consumo](/decogas/blog-img/aire-acondicionado-bajo-consumo.webp)
 
 Eso sí, hay que tener precaución, puesto que no solo basta con que sea eficiente, también ha de ir acompañado de factores como la fiabilidad. Si el equipo no es robusto, la eficiencia del aparato se desvanece.
 
@@ -42,7 +42,7 @@ Por último, dicho resultado habría que multiplicarlo por 0’122699, el factor
 
 900 kWh x 0’122699 (factor energía) = **110’43 consumo**
 
-![Instalando un aire acondicionado de bajo consumo](https://decogas.com/wp-content/uploads/2025/02/instalando-aire-acondicionado-bajo-consumo.jpg)
+![Instalando un aire acondicionado de bajo consumo](/decogas/blog-img/instalando-aire-acondicionado-bajo-consumo.webp)
 
 ## Factores que influyen en tu aire acondicionado de bajo consumo
 

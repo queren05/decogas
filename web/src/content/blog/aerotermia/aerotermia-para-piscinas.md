@@ -8,7 +8,7 @@ tagClass: "aerotermia"
 breadcrumb: "Aerotermia"
 readingTime: 3
 ---
-![piscina calentada con aerotermia](https://decogas.com/wp-content/uploads/2025/02/piscina-aerotermia.jpg)
+![piscina calentada con aerotermia](/decogas/blog-img/piscina-aerotermia.webp)
 
 En este artículo, te proporcionaremos detalles completos sobre los beneficios de instalar aerotermia para piscinas, cómo se instala y algunos consejos prácticos. Sigue leyendo para obtener toda la información que necesitas para disfrutar de una piscina cálida y eficiente.
 

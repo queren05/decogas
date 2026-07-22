@@ -12,7 +12,7 @@ Si tu **[caldera](https://decogas.com/calderas/) pierde agua a chorros**, puede 
 
 Muchas veces, cuando se estropea la caldera porque pierde mucha agua, nos preguntamos cuál puede ser el motivo. Por eso, en este artículo, os contamos todo lo que necesitas saber.
 
-![fugas de agua de caldera](https://decogas.com/wp-content/uploads/2025/02/istockphoto-1023951092-612x612-1.jpg)
+![fugas de agua de caldera](/decogas/blog-img/istockphoto-1023951092-612x612-1.webp)
 
 ## Motivos por los que una caldera pierde agua
 
@@ -44,7 +44,7 @@ La mayoría de sistemas de calefacción usan el **sistema GFCS** (o sistema de i
 
 Las fugas de agua son debidas a que se **produce un desgaste de los materiales** del intercambiador de calor por la presión cambiante del agua en las tuberías. Para saber si tiene fugas, se han de sustituir los componentes defectuosos o desgastados del mismo.
 
-![salida de agua a chorros](https://decogas.com/wp-content/uploads/2025/02/istockphoto-1372564903-612x612-1.jpg)
+![salida de agua a chorros](/decogas/blog-img/istockphoto-1372564903-612x612-1.webp)
 
 ## La caldera pierde agua a chorros
 
@@ -74,7 +74,7 @@ Siempre se recomienda **purgar los radiadores**. Se puede hacer al que esté má
 
 Es recomendable hacer esta acción una vez al año, ya que facilita que el agua caliente circule sin problemas por el sistema de calefacción.
 
-![fuga de agua de caldera](https://decogas.com/wp-content/uploads/2025/02/istockphoto-1061727682-612x612-1.jpg)
+![fuga de agua de caldera](/decogas/blog-img/istockphoto-1061727682-612x612-1.webp)
 
 ### Problema limitado a la caldera y no a la instalación
 

@@ -8,7 +8,7 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 4
 ---
-![alcancías con ahorros por calefacción en el hogar](https://decogas.com/wp-content/uploads/2025/02/es-rentable-la-calefaccion-por-acumuladores-2-2.jpg)
+![alcancías con ahorros por calefacción en el hogar](/decogas/blog-img/es-rentable-la-calefaccion-por-acumuladores-2-2.webp)
 
 La **calefacción por acumuladores** puede parecer una solución atractiva para mantener tu hogar cálido. Pero, **¿realmente es rentable?** El sistema funciona acumulando calor durante las horas nocturnas, cuando la tarifa eléctrica es más baja, y liberándolo durante el día. **Esto permite un ahorro significativo si se gestiona bien el consumo**. Sin embargo, es importante considerar ciertos factores como que te contamos a continuación.
 
@@ -48,7 +48,7 @@ A lo largo de varios años, el uso de acumuladores bien gestionados puede genera
 
 ## Desventajas y desafíos de la calefacción por acumuladores
 
-![maqueta de casa abrigada](https://decogas.com/wp-content/uploads/2025/02/es-rentable-la-calefaccion-por-acumuladores-1.jpg)
+![maqueta de casa abrigada](/decogas/blog-img/es-rentable-la-calefaccion-por-acumuladores-1.webp)
 
 A pesar de sus beneficios, los acumuladores de calor también presentan ciertas limitaciones que deben considerarse antes de su instalación.
 

@@ -10,7 +10,7 @@ readingTime: 4
 ---
 El consumo energético de los electrodomésticos como el [aire acondicionado](https://decogas.com/aire-acondicionado/) es una preocupación en todos los hogares y más desde que el precio de la luz se ha disparado. Ante esta necesidad de [ahorrar en consumo](/decogas/blog/aire-acondicionado/aire-acondicionado-de-bajo-consumo/), buscamos equipos cada vez más eficientes. Por ello, en este post te explicamos, **cuánto gasta un aire acondicionado con bomba de calor**.
 
-![Controlando aire acondicionado con mando a distancia](https://decogas.com/wp-content/uploads/2025/02/istockphoto-516596256-612x612-1.jpg)
+![Controlando aire acondicionado con mando a distancia](/decogas/blog-img/istockphoto-516596256-612x612-1.webp)
 
 ## **¿Cómo funciona una bomba de calor?**
 
@@ -28,7 +28,7 @@ Se estima que la media de consumo en España es de unos 10.000 kW/h de calor al 
 
 Y, si la eficiencia de la bomba es mayor, por ejemplo 4, el gasto del aparato sería en torno a los 2.500 kW.
 
-![chica utilizando el aire acondicionado](https://decogas.com/wp-content/uploads/2025/02/chica-utilizando-el-aire-acondicionado.jpg)
+![chica utilizando el aire acondicionado](/decogas/blog-img/chica-utilizando-el-aire-acondicionado.webp)
 
 ## **¿Cuánto gasta un aire acondicionado con bomba de calor al mes?**
 
@@ -50,7 +50,7 @@ Las bombas de calor tienen grandes ventajas frente a otros sistemas de calefacci
 -   **Poco ruido**. Tiene un [funcionamiento silencioso](/decogas/blog/aire-acondicionado/nivel-sonoro-aire-acondicionado-silencioso/), ya sea la unidad interior como exterior.
 -   **Calefacción rápida**. Es capaz de calentar estancias más rápidamente que las calderas tradicionales.
 
-![aire acondicionado encendido](https://decogas.com/wp-content/uploads/2025/02/aire-acondicionado-con-bomba-de-calor.jpg)
+![aire acondicionado encendido](/decogas/blog-img/aire-acondicionado-con-bomba-de-calor.webp)
 
 ## **¿Qué consume más, el aire acondicionado convencional o por bomba de calor?**
 

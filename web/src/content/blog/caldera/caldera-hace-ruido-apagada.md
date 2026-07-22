@@ -10,7 +10,7 @@ readingTime: 4
 ---
 Si alguna vez te has preguntado **por qué tu caldera hace ruido apagada**, has llegado al lugar adecuado. En este artículo, **abordaremos las posibles causas detrás de este molesto problema** y te **proporcionaremos soluciones prácticas** para que puedas disfrutar de un **funcionamiento silencioso y eficiente de tu caldera**. Entender las razones detrás de estos ruidos te ayudará a identificar y resolver el problema sin necesidad de recurrir a un técnico especializado. Acompáñanos mientras exploramos las causas y soluciones para el enigma de la caldera ruidosa apagada.
 
-![Mujer apagando la caldera.](https://decogas.com/wp-content/uploads/2025/02/mujer-apagando-caldera.jpg)
+![Mujer apagando la caldera.](/decogas/blog-img/mujer-apagando-caldera.webp)
 
 ## Posibles causas de ruidos en una caldera apagada
 

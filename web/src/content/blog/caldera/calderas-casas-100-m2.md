@@ -10,7 +10,7 @@ readingTime: 3
 ---
 No todas las calderas sirven para la misma superficie, algunas están pensadas para pequeñas habitaciones y otras, en cambio, para amplios espacios; por eso, es importante que sepas [qué caldera de gas elegir](/decogas/blog/caldera/caldera-gas-elegir-comprar/). A continuación te decimos que potencia necesita tu vivienda para que no te vuelvas a preguntar **qué caldera necesitas para 100 metros cuadrados.**
 
-![Grifo con agua caliente](https://decogas.com/wp-content/uploads/2019/10/agua-caliente-grifo.jpg)
+![Grifo con agua caliente](/decogas/blog-img/agua-caliente-grifo.webp)
 
 ## ¿Qué caldera necesitas para 100 metros cuadrados?
 

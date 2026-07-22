@@ -8,7 +8,7 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 5
 ---
-# ![hombre reparando fallo encendido caldera chaffoteaux](https://decogas.com/wp-content/uploads/2025/02/fallo-encendido-caldera-chaffoteaux.jpg)
+# ![hombre reparando fallo encendido caldera chaffoteaux](/decogas/blog-img/fallo-encendido-caldera-chaffoteaux.webp)
 
 Enfrentarse a un **fallo de encendido en tu caldera Chaffoteaux** puede ser frustrante, especialmente en los días fríos. Este problema es común y puede deberse a varias causas. Aquí te vamos a explicar cómo identificar y solucionar estos problemas. Queremos que tengas toda la información necesaria para resolverlo y asegurar que tu hogar se mantenga cálido y confortable.
 
@@ -52,7 +52,7 @@ Además de la limpieza, es importante realizar revisiones periódicas. **Un téc
 
 ## Consejos de seguridad
 
-![detectores de humo](https://decogas.com/wp-content/uploads/2025/02/Consejos-de-seguridad-calderas.jpg)
+![detectores de humo](/decogas/blog-img/consejos-de-seguridad-calderas.webp)
 
 Mantener la seguridad es esencial cuando se trata de calderas de gas. Siguiendo estos consejos, puedes prevenir accidentes y garantizar un entorno seguro en tu hogar.
 

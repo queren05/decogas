@@ -16,7 +16,7 @@ El modo _Cool_, también conocido como **modo de refrigeración**, es una de las
 
 Esta denominación deriva del término en inglés _Cool Down_ que en castellano se traduce como ‘enfriarse’. Es decir, esta función hace que el aire acondicionado **emita aire frío** para que la habitación alcance la temperatura que has programado con anterioridad. Es fácil de ubicar en el mando a distancia, puesto que suele venir señalado con el símbolo de un copo de nieve o la denominación “_cool_” (no confundir con _dry_, que tiene un símbolo de gota y se refiere a la función de deshumidificar).
 
-![Aire acondicionado con función Cool](https://decogas.com/wp-content/uploads/2025/02/aire-acondicionado-cool.jpg)
+![Aire acondicionado con función Cool](/decogas/blog-img/aire-acondicionado-cool.webp)
 
 Debido a esto, se aconseja activar esta función durante los meses de verano, una época donde es necesario refrigerar el interior de la estancia. Así mismo, conseguiremos establecer una temperatura predeterminada que no causará un gran impacto climático y nos ayudará a ahorrar energía.
 

@@ -8,7 +8,7 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 6
 ---
-![técnico solucionando averías comunes en calderas saunier duval](https://decogas.com/wp-content/uploads/2025/02/saunier-duval-averias-frecuentes-1.jpg)
+![técnico solucionando averías comunes en calderas saunier duval](/decogas/blog-img/saunier-duval-averias-frecuentes-1.webp)
 
 Cuando surgen problemas en las **[calderas Saunier Duval](https://decogas.com/calderas/saunier-duval/)**, puede ser frustrante y preocupante. Entender las **averías más comunes y cómo solucionarlas** ayuda a evitar contratiempos y asegura que tu sistema de calefacción funcione correctamente.
 
@@ -54,7 +54,7 @@ Si la eficiencia es una prioridad para ti, conoce [cómo ahorrar en calefacción
 
 ## Códigos de error más comunes en calderas Saunier Duval
 
-![error a00 caldera baxiroca novanox](https://decogas.com/wp-content/uploads/2025/02/error-a00-caldera-baxiroca-novanox.jpg)
+![error a00 caldera baxiroca novanox](/decogas/blog-img/error-a00-caldera-baxiroca-novanox.webp)
 
 Las calderas Saunier Duval muestran códigos de error específicos cuando detectan algún fallo. Conocer estos códigos ayuda a identificar problemas y soluciones.
 

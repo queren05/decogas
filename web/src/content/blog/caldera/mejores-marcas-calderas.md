@@ -8,7 +8,7 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 6
 ---
-![mejores marcas de calderas](https://decogas.com/wp-content/uploads/2025/02/mejores-marcas-de-calderas.jpg)
+![mejores marcas de calderas](/decogas/blog-img/mejores-marcas-de-calderas.webp)
 
 ¿Buscas la caldera perfecta para tu hogar? Estás en el lugar indicado. En este artículo descubrirás las **mejores marcas de calderas disponibles** en el mercado. Analizaremos su eficiencia, rendimiento y durabilidad. Te ayudaremos a tomar una decisión informada, basada en datos reales sobre su rendimiento.
 
@@ -74,7 +74,7 @@ Elegir la caldera adecuada puede mejorar significativamente la eficiencia y el c
 
 ## Comparativa de las mejores marcas
 
-![Comparativa de las mejores marcas de calderas](https://decogas.com/wp-content/uploads/2025/02/Comparativa-de-las-mejores-marcas.jpg)
+![Comparativa de las mejores marcas de calderas](/decogas/blog-img/comparativa-de-las-mejores-marcas.webp)
 
 Comparar las diferentes marcas de calderas de gas te ayudará a tomar una decisión informada. Aquí analizamos aspectos clave como eficiencia, costes de instalación y mantenimiento, y durabilidad.
 

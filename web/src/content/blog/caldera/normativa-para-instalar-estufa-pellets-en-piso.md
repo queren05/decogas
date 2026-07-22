@@ -12,7 +12,7 @@ Para las personas que desean mejorar su sistema de calefacción o reducir su imp
 
 La norma [UNE-EN ISO 17829:2016](https://www.une.org/encuentra-tu-norma/busca-tu-norma/norma?c=N0056485) en España cubre todos los aspectos relacionados con los aparatos de calefacción alimentados con pellets, especificando valores de eficiencia energética, emisiones de gases y otros requisitos. Además, los códigos de edificación y otras normativas desempeñan un papel importante a la hora de determinar qué tipo de instalación es posible en cada caso concreto.
 
-## ![pellets para estufa](https://decogas.com/wp-content/uploads/2025/02/normativa-estufa-pellets.jpg)Emisiones de gases según la normativa para instalar una estufa de pellets
+## ![pellets para estufa](/decogas/blog-img/normativa-estufa-pellets.webp)Emisiones de gases según la normativa para instalar una estufa de pellets
 
 Para utilizar los aparatos de calefacción de pellets de forma segura, es importante asegurarse de que sus **emisiones están dentro de los límites legales**. La norma de los biocombustibles sólidos establece un estándar para las estufas de pellets y otros aparatos de calefacción alimentados con pellets en España. Esta norma establece que todas las estufas deben cumplir ciertos criterios relativos a la emisión de gases. Por ejemplo, todos los aparatos **no deben producir más de 100 g/m3** de partículas durante un determinado periodo de tiempo.
 

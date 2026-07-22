@@ -14,7 +14,7 @@ Una de las dudas más frecuentes a la hora de instalar un sistema de refrigeraci
 
 Lo primero que debes hacer cuando vas a instalar el aire acondicionado en tu vivienda es elegir un sitio seguro, con una **distancia de unos 10 y 20 metros** entre la unidad interior y la exterior; además, es fundamental [realizar un mantenimiento](/decogas/blog/aire-acondicionado/mantenimiento-aire-acondicionado/) periódico para solventar posibles averías.
 
-![Instalación de una unidad exterior del aire acondicionado en el balcón](https://decogas.com/wp-content/uploads/2025/02/aire-acondicionado-instalado-balcon-1024x683-1.jpg)
+![Instalación de una unidad exterior del aire acondicionado en el balcón](/decogas/blog-img/aire-acondicionado-instalado-balcon-1024x683-1.webp)
 
 Del mismo modo, debes seleccionar un espacio con **posibilidad de instalar un desagüe** y una red eléctrica; además, tiene que estar protegido de cualquier inclemencia meteorológica.
 

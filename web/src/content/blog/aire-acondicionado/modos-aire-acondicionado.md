@@ -16,7 +16,7 @@ Descubre las opciones disponibles, desde el modo de refrigeración hasta el modo
 
 > ¡Sigue leyendo para obtener consejos prácticos y valiosos!
 
-![modos aire acondicionado](https://decogas.com/wp-content/uploads/2025/02/modos-aire-acondicionado.jpg)
+![modos aire acondicionado](/decogas/blog-img/modos-aire-acondicionado.webp)
 
 ## Modo de Refrigeración: Mantén el Frescor en los Días Calurosos
 
@@ -118,7 +118,7 @@ Recuerda que **la eficiencia y el rendimiento del aire acondicionado pueden vari
 
 ### Símbolos de los aires acondicionados
 
-![modos aire acondicionado](https://decogas.com/wp-content/uploads/2025/02/modos-aire-acondicionado-2.jpg)
+![modos aire acondicionado](/decogas/blog-img/modos-aire-acondicionado-2.webp)
 
 ---
 

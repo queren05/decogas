@@ -12,7 +12,7 @@ Cuando salimos unos días de casa, ya sea por vacaciones u otro tipo de viajes, 
 
 La realidad es que, si mantenemos la caldera encendida no supone ningún riesgo en cuanto a si se puede o no averiar en nuestra ausencia, aunque es posible que, si hay una fuga de agua, el daño sea mayor cuando volvamos a casa y no podamos frenarlo a tiempo.
 
-![reiniciar caldera gasoil](https://decogas.com/wp-content/uploads/2025/02/istockphoto-899860798-612x612-1.jpg)
+![reiniciar caldera gasoil](/decogas/blog-img/istockphoto-899860798-612x612-1.webp)
 
 ## ¿Es recomendable o no apagar la caldera de gasoil?
 
@@ -44,7 +44,7 @@ Si nuestra instalación tiene radiadores, la recomendación es no cerrarlos dura
 
 Esto se recomienda ya que abrir y cerrar continuamente el paso del agua por los radiadores puede perjudicar el mecanismo y las válvulas. Por eso, es mejor poner el modo verano (si lo tenemos en la caldera) para evitar goteos o pérdidas.
 
-![válvula radiador](https://decogas.com/wp-content/uploads/2025/02/istockphoto-1166999686-612x612-1.jpg)
+![válvula radiador](/decogas/blog-img/istockphoto-1166999686-612x612-1.webp)
 
 En consecuencia, si apagamos la caldera durante el verano, por ejemplo, tenemos que recordar **encenderla de nuevo cuando llegue el invierno**. En ciertos lugares, la temperatura puede descender tanto que puede aparecer el riesgo de congelación de agua. Aunque, por suerte, la mayoría de modelos disponen de **dispositivos que las protegen contra heladas o antihielo**, pero para que funcionen han de estar encendidos.
 

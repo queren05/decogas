@@ -14,7 +14,7 @@ readingTime: 4
 
 También le daremos algunos consejos sobre cómo elegir el aire acondicionado adecuado para sus necesidades.
 
-![Aire acondicionado instalado en la pared.](https://decogas.com/wp-content/uploads/2025/02/Cambiar-aire-acondicionado-de-sitio.png)
+![Aire acondicionado instalado en la pared.](/decogas/blog-img/cambiar-aire-acondicionado-de-sitio.webp)
 
 ## Cuándo cambiar el aire acondicionado
 

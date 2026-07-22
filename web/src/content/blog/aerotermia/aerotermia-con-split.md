@@ -8,7 +8,7 @@ tagClass: "aerotermia"
 breadcrumb: "Aerotermia"
 readingTime: 4
 ---
-![aerotermia con split](https://decogas.com/wp-content/uploads/2025/02/aerotermia-split.jpg)
+![aerotermia con split](/decogas/blog-img/aerotermia-split.webp)
 
 Como sabes, en [Decogas](https://decogas.com) somos expertos en aerotermia, por lo que hoy vamos a abordar el funcionamiento de la aerotermia con split, un sistema de climatización muy eficiente y versátil. Como expertos en [aerotermia](/decogas/blog/que-es-la-aerotermia/), estamos aquí para proporcionarte información detallada sobre este tema. Sigue leyendo para descubrir las [ventajas de la aerotermia](/decogas/blog/aerotermia/aerotermia-ventajas/) y mucho más.
 

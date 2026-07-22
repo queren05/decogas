@@ -14,7 +14,7 @@ Estas instalaciones basadas en circuitos de agua tienen como componente principa
 
 Aunque no es el único tipo de combustible, también existen las de propano y butano que son usados para calentar el agua, pero el gas natural es el más práctico y seguro. Pero para saber más continúa leyendo.
 
-![Botones de control de caldera de gas](https://decogas.com/wp-content/uploads/2025/02/istockphoto-184404449-612x612-1.jpg)
+![Botones de control de caldera de gas](/decogas/blog-img/istockphoto-184404449-612x612-1.webp)
 
 ## ¿Cómo funciona una caldera de gas?
 
@@ -83,7 +83,7 @@ Las calderas de gas también tienen desventajas que hay que tener en cuenta.
 
 ## ¿Cómo usar una caldera de gas de forma eficiente?
 
-![caldera de gas en pared de azulejos](https://decogas.com/wp-content/uploads/2025/02/istockphoto-1143114691-612x612-1-280x280-1.jpg)
+![caldera de gas en pared de azulejos](/decogas/blog-img/istockphoto-1143114691-612x612-1-280x280-1.webp)
 
 Podemos encontrar dos elementos que valorar para que una caldera de gas funcione de forma eficiente, pero que, ante su desconocimiento, hará que no podamos sacar el máximo provecho de lo que nos ofrece.
 

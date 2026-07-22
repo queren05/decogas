@@ -12,7 +12,7 @@ Las **hidro estufas** **de pellets** son una forma de calefacción eficiente, s
 
 Estas estufas también son muy fáciles de usar, ya que solo requieren una vez al día la carga de pellets. Han sido reconocidas por organismos como la Unión Europea que ha aprobado una serie de normas para garantizar la calidad de los productos y la seguridad de los usuarios. Estas normas establecen los **requisitos mínimos para la instalación y uso** de estas estufas, así como para el combustible utilizado.
 
-## ![hidroestufa con pellets](https://decogas.com/wp-content/uploads/2025/02/metiendo-pellets-en-una-estufa.jpg)Eficiencia de las hidro estufas de pellets
+## ![hidroestufa con pellets](/decogas/blog-img/metiendo-pellets-en-una-estufa.webp)Eficiencia de las hidro estufas de pellets
 
 ¿Estás pensando en cambiar tu calefacción tradicional por una más eficiente? ¿Quieres conocer los beneficios de una hidro estufa de pellets para tu hogar?
 

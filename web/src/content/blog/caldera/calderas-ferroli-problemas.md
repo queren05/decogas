@@ -8,7 +8,7 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 9
 ---
-![técnico reparando problemas en calderas ferroli](https://decogas.com/wp-content/uploads/2025/02/plumber-looking-book-while-inspecting-heating-system_1048944-18467089.jpg)
+![técnico reparando problemas en calderas ferroli](/decogas/blog-img/plumber-looking-book-while-inspecting-heating-system-1048944-18467089.webp)
 
 Las [calderas Ferroli](https://decogas.com/calderas/ferroli/) son conocidas por su eficiencia y fiabilidad, pero como cualquier equipo, pueden presentar problemas con el tiempo. En este artículo hablaremos sobre los **problemas más comunes de las calderas Ferroli** y te brindaremos soluciones prácticas. Desde problemas de encendido hasta fallos en la presión, humos y quemadores, aquí encontrarás guías detalladas y consejos útiles para mantener tu caldera en perfecto funcionamiento. Descubre cómo identificar y resolver estos problemas para asegurar el confort en tu hogar.
 
@@ -46,7 +46,7 @@ Si aún no das con la solución, aquí te contamos con más detalle [cómo encen
 
 ### Presión de la caldera
 
-![técnico reparando problemas de presión en caldera Ferroli](https://decogas.com/wp-content/uploads/2025/02/26539-1.jpg)
+![técnico reparando problemas de presión en caldera Ferroli](/decogas/blog-img/26539-1.webp)
 
 La presión de la caldera es vital para su funcionamiento. Si la presión es demasiado baja o demasiado alta, la caldera no funcionará correctamente y puede sufrir daños.
 
@@ -110,7 +110,7 @@ El ventilador de una caldera Ferroli es fundamental para la expulsión adecuada 
 
 ### Problemas con el quemador
 
-![técnico reparando problemas con el quemador en caldera Ferroli](https://decogas.com/wp-content/uploads/2025/02/2149334225-1.jpg)
+![técnico reparando problemas con el quemador en caldera Ferroli](/decogas/blog-img/2149334225-1.webp)
 
 Los problemas con el quemador pueden afectar significativamente el funcionamiento de una caldera Ferroli. Averías en el quemador o electrodos desalineados pueden impedir que la caldera encienda correctamente y proporcione el calor necesario.
 
@@ -174,7 +174,7 @@ En este otro post ampliamos la información sobre [qué hacer si la caldera pier
 
 ## Problemas con la circulación del agua
 
-![técnico reparando una caldera Ferroli](https://decogas.com/wp-content/uploads/2025/02/man-repairing-boiler-medical-mask_93200-4099-1.jpg)
+![técnico reparando una caldera Ferroli](/decogas/blog-img/man-repairing-boiler-medical-mask-93200-4099-1.webp)
 
 La circulación adecuada del agua es vital para el funcionamiento de una caldera Ferroli. Problemas como el bloqueo de la bomba de recirculación o una llave de entrada averiada pueden impedir la correcta circulación del agua.
 

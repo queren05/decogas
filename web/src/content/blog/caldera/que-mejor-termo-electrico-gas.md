@@ -8,7 +8,7 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 4
 ---
-![mujer con su perro junto a calefacción](https://decogas.com/wp-content/uploads/2025/02/que-es-mejor-termo-electrico-o-de-gas-1.jpg)
+![mujer con su perro junto a calefacción](/decogas/blog-img/que-es-mejor-termo-electrico-o-de-gas-1.webp)
 
 **¿No sabes si instalar una [caldera](https://decogas.com/calderas/) o un termo eléctrico?** Es normal tener dudas. Ambos sistemas sirven para **calentar** **agua sanitaria**, pero no funcionan igual ni ofrecen las mismas prestaciones. Elegir uno u otro puede marcar la diferencia en tu **consumo energético, comodidad diaria y coste a largo plazo**.
 
@@ -58,7 +58,7 @@ En cambio, **la caldera resulta más adecuada para hogares con alto consumo**, d
 
 ## Cómo saber cuál es mejor para tu vivienda
 
-![padre e hija en casa con calefacción](https://decogas.com/wp-content/uploads/2025/02/que-es-mejor-termo-electrico-o-de-gas-2.jpg)
+![padre e hija en casa con calefacción](/decogas/blog-img/que-es-mejor-termo-electrico-o-de-gas-2.webp)
 
 Elegir entre caldera o termo eléctrico requiere tener claras las características de la vivienda y del uso que se hará del agua caliente. **No hay una opción universal que funcione para todos los casos**. La decisión debe adaptarse a las necesidades concretas de cada hogar.
 

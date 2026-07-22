@@ -18,7 +18,7 @@ A continuación, te contamos cómo calcular **la potencia calorífica que neces
 
 Existen una gran cantidad de fórmulas, pero para que te sientas más seguro te las mostraremos todas. Nos encargaremos de que las entiendas perfectamente.
 
-![calcular potencia calorífica](https://decogas.com/wp-content/uploads/2025/02/L_Potencia-calorifica.jpg)
+![calcular potencia calorífica](/decogas/blog-img/l-potencia-calorifica.webp)
 
 ## Fórmula de cálculo de la potencia calorífica
 

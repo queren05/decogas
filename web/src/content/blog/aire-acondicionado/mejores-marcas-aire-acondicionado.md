@@ -12,7 +12,7 @@ Hoy en día existe una fuerte competencia entre las **mejores marcas de aire aco
 
 Aquí te contamos cuáles son las mejores marcas de aire acondicionado y qué distingue a cada una, así podrás tomar una decisión informada cuando llegue el momento de comprar.
 
-![mujer encendiendo aire acondicionado con control](https://decogas.com/wp-content/uploads/2025/02/2149216632-1.jpg)
+![mujer encendiendo aire acondicionado con control](/decogas/blog-img/2149216632-1.webp)
 
 ## ¿Por qué es importante elegir bien?
 
@@ -34,7 +34,7 @@ Según expertos y consumidores, las siguientes son las mejores marcas de aire ac
 
 En **Decogas** nos distinguimos por ofrecer productos de la mejor calidad y a los mejores precios del mercado. Es por eso que en nuestro catálogo encontrarás aires acondicionados de todas estas marcas.
 
-![aire acondicionado en pared](https://decogas.com/wp-content/uploads/2025/02/ai-generated-8110911_1280-1.jpg)
+![aire acondicionado en pared](/decogas/blog-img/ai-generated-8110911-1280-1.webp)
 
 ## Preguntas frecuentes
 

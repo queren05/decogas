@@ -12,7 +12,7 @@ Ni mucho frío ni mucho calor. El objetivo del aire acondicionado es crear un am
 
 Si quieres saber **a qué temperatura poner el aire acondicionado**, aquí te vamos a dar algunas recomendaciones generales, así podrás optimizar el uso de este aparato.
 
-![mujer arropada en el sillón con taza en sus manos](https://decogas.com/wp-content/uploads/2025/02/cute-upset-blue-eyed-lady-posing-purple-plaid-looking-away-1.jpg)
+![mujer arropada en el sillón con taza en sus manos](/decogas/blog-img/cute-upset-blue-eyed-lady-posing-purple-plaid-looking-away-1.webp)
 
 ## ¿Por qué es importante la temperatura adecuada?
 
@@ -47,7 +47,7 @@ Estos los principales que beneficios que disfrutarás una vez que aprendas a reg
 
 ## La relación entre temperatura y consumo energético
 
-![hombre con termostato en tus manos](https://decogas.com/wp-content/uploads/2025/02/man-turning-off-thermostat-during-energy-crisis-1.jpg)
+![hombre con termostato en tus manos](/decogas/blog-img/man-turning-off-thermostat-during-energy-crisis-1.webp)
 
 La relación entre la temperatura del aire acondicionado y el consumo energético es directa: **bajar la temperatura aumenta significativamente el consumo de energía**. Por cada grado que se reduce en el termostato para enfriar el ambiente, el consumo energético puede incrementarse hasta un 8 %.
 

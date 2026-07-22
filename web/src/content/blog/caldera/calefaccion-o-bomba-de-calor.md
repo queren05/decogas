@@ -12,7 +12,7 @@ La caldera de gas y la bomba de calor han sido de los sistemas de calefacción m
 
 ## Características técnicas de ambos sistemas
 
-![calefacción o bomba de calor](https://decogas.com/wp-content/uploads/2025/02/mujer-pensativa.jpg)
+![calefacción o bomba de calor](/decogas/blog-img/mujer-pensativa.webp)
 
 Gracias al desarrollo y los avances en la tecnología, en las viviendas actuales podemos disfrutar de un **óptimo confort térmico** a diario. Esto se consigue gracias a sistemas que nos ayudan a mantener y mejorar las temperaturas en el hogar.
 
@@ -26,7 +26,7 @@ Este sistema se caracteriza porque tiene un **alto rendimiento** si lo comparamo
 
 Por otro lado, **no consume combustible fósil** o materia prima, por lo que no produce contaminantes que van al exterior. Y eso hace que sea doblemente eficiente y sostenible.
 
-![unidad exterior de bomba de calor](https://decogas.com/wp-content/uploads/2025/02/istockphoto-499571158-612x612-1.jpg)
+![unidad exterior de bomba de calor](/decogas/blog-img/istockphoto-499571158-612x612-1.webp)
 
 ### Caldera de gas
 
@@ -34,7 +34,7 @@ La [caldera de gas](https://decogas.com/calderas/) es un sistema conocido por us
 
 En cuanto a su funcionamiento, algunos modelos permiten utilizar un **[acumulador en la caldera](/decogas/blog/caldera/instalar-acumulador-a-caldera/)** que mantiene el agua caliente que supone un ahorro considerable.
 
-![calefacción por caldera de gas](https://decogas.com/wp-content/uploads/2025/02/radiador.jpg)
+![calefacción por caldera de gas](/decogas/blog-img/radiador.webp)
 
 ## Comparación: calefacción o bomba de calor
 
@@ -58,7 +58,7 @@ Si hablamos de rendimiento, la **bomba de calor gana por goleada**. Para hacerno
 
 Así mismo, la bomba de calor tiene deficiencias en los cambios en la temperatura. Por ejemplo, la **caldera no depende de la temperatura ambiente** para funcionar óptimamente, mientras que el otro sistema no puede funcionar a pleno rendimiento si la temperatura ambiente es menor de 5ºC o superior a 35ºC.
 
-![termostato para temperatura](https://decogas.com/wp-content/uploads/2025/02/termostato-1.jpg)
+![termostato para temperatura](/decogas/blog-img/termostato-1.webp)
 
 ### Emisiones CO2
 

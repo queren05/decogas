@@ -28,7 +28,7 @@ Para resolver este problema, en primer lugar, debes tranquilizarte. Puede ser un
 
 Tras haber verificado los factores anteriores, te contamos **por qué la caldera enciende, pero no calienta el** **agua**, además de detallarte qué hacer dependiendo de cada caso:
 
-![agua fría caldera encendida](https://decogas.com/wp-content/uploads/2025/02/agua-fria-caldera-encendida-601x400-1.jpg)
+![agua fría caldera encendida](/decogas/blog-img/agua-fria-caldera-encendida-601x400-1.webp)
 
 ### No sale agua caliente y se calientan los radiadores
 

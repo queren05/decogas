@@ -8,7 +8,7 @@ tagClass: "aerotermia"
 breadcrumb: "Aerotermia"
 readingTime: 5
 ---
-![Pareja joven y sonriente sentada en apartamento](https://decogas.com/wp-content/uploads/2025/02/Mejor-sistema-de-calefaccion-para-pisos.jpg)
+![Pareja joven y sonriente sentada en apartamento](/decogas/blog-img/mejor-sistema-de-calefaccion-para-pisos.webp)
 
 La elección del sistema de calefacción es crucial para garantizar el confort en cualquier vivienda, especialmente en los pisos. La **diversidad de opciones** disponibles puede ser abrumadora, pero entender las necesidades específicas de tu espacio es el primer paso para tomar una decisión informada.
 
@@ -72,7 +72,7 @@ Además de su confort, el suelo radiante es **altamente eficiente** desde el pun
 
 ## **Factores clave en la elección de calefacción**
 
-![manos cerca de calefactor](https://decogas.com/wp-content/uploads/2025/02/Eleccion-de-calefaccion.jpg)
+![manos cerca de calefactor](/decogas/blog-img/eleccion-de-calefaccion.webp)
 
 Al elegir el sistema de calefacción ideal para tu piso, considera estos aspectos cruciales:
 

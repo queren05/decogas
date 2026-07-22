@@ -8,7 +8,7 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 3
 ---
-Contar con agua caliente sanitaria (ACS) **es imprescindible para la salud y comodidad en el hogar**. En el momento de elegir el sistema de ACS encontrarás modelos que se instalan con un acumulador, con termo eléctrico o calentadores de gas. **El modelo ideal dependerá de tus necesidades.** Por eso, hoy te hablamos de cada una de las opciones que encontrarás en el mercado. Así sabrás qué decisión tomar. ![acumuladores](https://decogas.com/wp-content/uploads/2025/02/L_acumuladores.jpg)
+Contar con agua caliente sanitaria (ACS) **es imprescindible para la salud y comodidad en el hogar**. En el momento de elegir el sistema de ACS encontrarás modelos que se instalan con un acumulador, con termo eléctrico o calentadores de gas. **El modelo ideal dependerá de tus necesidades.** Por eso, hoy te hablamos de cada una de las opciones que encontrarás en el mercado. Así sabrás qué decisión tomar. ![acumuladores](/decogas/blog-img/l-acumuladores.webp)
 
 [Te llamamos gratis](https://decogas.com/contacto/)
 

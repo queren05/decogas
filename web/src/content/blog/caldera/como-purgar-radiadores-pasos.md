@@ -55,7 +55,7 @@ También conviene **revisar el manómetro antes de comenzar**, anotando el valor
 
 ## Cómo realizar el proceso de purga paso a paso
 
-![Pasos para purgar tu radiador](https://decogas.com/wp-content/uploads/2025/02/pasos-purgar-radiador.jpg)
+![Pasos para purgar tu radiador](/decogas/blog-img/pasos-purgar-radiador.webp)
 
 Purgar los radiadores es un procedimiento sencillo que puedes hacer tú mismo si sigues unos pasos claros y con cuidado.
 
@@ -67,7 +67,7 @@ Cuando el circuito esté frío, **asegúrate de que la presión del sistema est�
 
 ### Paso 2: Colocar el recipiente bajo la válvula
 
-![Purgando un radiador con un recipiente debajo](https://decogas.com/wp-content/uploads/2025/02/purgando-radiador-recipiente.jpg)
+![Purgando un radiador con un recipiente debajo](/decogas/blog-img/purgando-radiador-recipiente.webp)
 
 **Sitúa el recipiente justo debajo de la válvula de purga**. Suele estar en un lateral del radiador, en la parte superior. Este paso es importante para evitar que el agua que salga manche el suelo o las paredes.
 

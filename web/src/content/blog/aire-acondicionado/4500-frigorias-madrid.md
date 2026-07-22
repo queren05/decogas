@@ -20,7 +20,7 @@ Una de las principales ventajas del aire acondicionado Fujitsu ASY 25 Ui-LLCE es
 
 Del mismo modo, cuenta con una **clase energética A++**, lo que garantiza un ahorro energético del 20%, en relación con elementos similares de categoría A+, y ayuda a mejorar el medio ambiente. Además, dispone de un display desde el que puedes **controlar la temperatura de la habitación**, para que no se enfríe excesivamente cuando se vacíe y puedas controlar el gasto energético.
 
-![](https://decogas.com/wp-content/uploads/2025/02/fujitsu-asy-25-ui-llce.jpg)
+![](/decogas/blog-img/fujitsu-asy-25-ui-llce.webp)
 
 ### Daitsu ASD9Ui-DN
 
@@ -28,7 +28,7 @@ El aire acondicionado Daitsu ASD9Ui-DN es ideal porque cuentan con un sistema de
 
 Por otro lado, es fundamental destacar que este aire acondicionado tiene una **clase energética A++**, lo que permite un ahorro anual del 20% en tu factura de la luz; esto unido al 30% de ahorro del sistema de refrigeración _Inverter_ hace que tu consumo energético disminuya rápidamente.
 
-![](https://decogas.com/wp-content/uploads/2025/02/aire-acondicionado-barato.jpg)
+![](/decogas/blog-img/aire-acondicionado-barato.webp)
 
 ### Mitsubishi Electric MSZ-SF50VE
 
@@ -38,7 +38,7 @@ También es importante señalar que este aire acondicionado de la firma japonesa
 
 Del mismo modo, la tecnología _Replace_ es ideal porque permite una **instalación más rápida**, sencilla, sin generar residuos y más respetuosa con el medio ambiente.
 
-![](https://decogas.com/wp-content/uploads/2025/02/mitsubishi-electric-msz-sf50ve-e1602853400884.jpg)
+![](/decogas/blog-img/mitsubishi-electric-msz-sf50ve-e1602853400884.webp)
 
 ### Saunier Duval SDH 19-050 NW
 
@@ -46,7 +46,7 @@ Si quieres climatizar tu vivienda con un aire acondicionado con un diseño **ele
 
 Este aire acondicionado incorpora la **función X-Fan**, para eliminar la humedad del interior y evitar la aparición de bacterias y la corrosión; del mismo modo, gracias a su eficiencia energética A+ podrás ahorrar en tu factura mientras disfrutar de una temperatura perfecta en tu vivienda, con un nivel sonoro mínimo, cuyo volumen máximo será 35 dB.
 
-![](https://decogas.com/wp-content/uploads/2025/02/saunier-duval-sdh-19-050-nw.jpg)
+![](/decogas/blog-img/saunier-duval-sdh-19-050-nw.webp)
 
 ### Fujitsu ASY 35 Ui-LLCE
 
@@ -54,7 +54,7 @@ El aire acondicionado Fujitsu ASY 35 Ui-LLCE es ideal porque te permite disfruta
 
 Por otro lado, no tienes que preocuparte por si la habitación está excesivamente fría, puedes programar este aire acondicionado para que la temperatura de la estancia siempre sea superior a 10ºC; del mismo modo, gracias a su **clasificación energética A++**, puedes ahorrar en tus facturas eléctricas anuales hasta un 20%.
 
-![](https://decogas.com/wp-content/uploads/2025/02/fujitsu-asy-35-ui-llce.jpg)
+![](/decogas/blog-img/fujitsu-asy-35-ui-llce.webp)
 
 ## ¿El aire acondicionado de 4500 frigorías cuántos metros cuadrados cubre?
 

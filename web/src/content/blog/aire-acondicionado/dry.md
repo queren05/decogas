@@ -12,7 +12,7 @@ Con el verano, el calor hace acto de presencia y, en muchos hogares, es necesari
 
 Es obvio que cada negocio, hogar u estancia dispone de un ambiente diferente en función de su localización, distribución, orientación o amplitud. Y estas variables hay que tenerlas en cuenta a la hora de poner a funcionar nuestro equipo y, en este caso, también valorar la humedad presente en el ambiente.
 
-![aire acondicionado con control remoto](https://decogas.com/wp-content/uploads/2025/02/modo-dry-del-aire-acondicionado.jpg)Aquí te vamos a contar qué es el modo Dry y qué ventajas nos ofrece al seleccionarlo en nuestro aire acondicionado.
+![aire acondicionado con control remoto](/decogas/blog-img/modo-dry-del-aire-acondicionado.webp)Aquí te vamos a contar qué es el modo Dry y qué ventajas nos ofrece al seleccionarlo en nuestro aire acondicionado.
 
 ## **¿Qué es el modo Dry?**
 
@@ -33,7 +33,7 @@ Además, nos ayuda a mejorar en salud, sobre todo cuando la humedad exterior sue
 -   Infecciones respiratorias, así como asma y alergias.
 -   Gran beneficio para personas que viven en zonas húmedas o que se sitúen cerca del mar.
 
-![modo Dry](https://decogas.com/wp-content/uploads/2025/02/modo-dry.jpg)
+![modo Dry](/decogas/blog-img/modo-dry.webp)
 
 ## **Ventajas de modo Dry**
 
@@ -58,7 +58,7 @@ La mejor forma de utilizar este modo es cuando la temperatura y el clima del ext
 
 Además, es importante no utilizarlo nunca cuando el ambiente en el interior sea seco, puesto que puede ser contraproducente su utilización. Es decir, puede llegar a causar problemas respiratorios y agravar otras enfermedades.
 
-![mujer valorando el aire acondicionado](https://decogas.com/wp-content/uploads/2025/02/mujer-valorando-el-aire-acondicionado.jpg)
+![mujer valorando el aire acondicionado](/decogas/blog-img/mujer-valorando-el-aire-acondicionado.webp)
 
 ## **Modo Dry vs modo Cool**
 
