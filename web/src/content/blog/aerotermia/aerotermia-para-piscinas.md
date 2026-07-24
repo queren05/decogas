@@ -8,15 +8,15 @@ tagClass: "aerotermia"
 breadcrumb: "Aerotermia"
 readingTime: 3
 ---
-![piscina calentada con aerotermia](/decogas/blog-img/piscina-aerotermia.webp)
+![piscina calentada con aerotermia](/blog-img/piscina-aerotermia.webp)
 
 En este artículo, te proporcionaremos detalles completos sobre los beneficios de instalar aerotermia para piscinas, cómo se instala y algunos consejos prácticos. Sigue leyendo para obtener toda la información que necesitas para disfrutar de una piscina cálida y eficiente.
 
 ## ¿Qué es la aerotermia para piscinas?
 
-La [aerotermia](/decogas/blog/que-es-la-aerotermia/) es una tecnología que aprovecha el calor presente en el aire para calentar el agua de la piscina de manera eficiente y sostenible. En lugar de depender de combustibles fósiles, este sistema utiliza una **bomba de calor** para transferir el calor del aire al agua de la piscina, proporcionando una temperatura agradable para el baño durante todo el año.
+La [aerotermia](/blog/que-es-la-aerotermia/) es una tecnología que aprovecha el calor presente en el aire para calentar el agua de la piscina de manera eficiente y sostenible. En lugar de depender de combustibles fósiles, este sistema utiliza una **bomba de calor** para transferir el calor del aire al agua de la piscina, proporcionando una temperatura agradable para el baño durante todo el año.
 
-Una de las [ventajas principales de la aerotermia](/decogas/blog/aerotermia/aerotermia-ventajas/) para piscinas es que puede ofrecer un calentamiento eficiente **incluso en condiciones climáticas adversas**, lo que la convierte en una opción popular para aquellos que desean extender la temporada de uso de su piscina.
+Una de las [ventajas principales de la aerotermia](/blog/aerotermia/aerotermia-ventajas/) para piscinas es que puede ofrecer un calentamiento eficiente **incluso en condiciones climáticas adversas**, lo que la convierte en una opción popular para aquellos que desean extender la temporada de uso de su piscina.
 
 ## Disfruta de un baño en invierno gracias a la instalación de aerotermia en tu piscina
 
@@ -34,7 +34,7 @@ Antes de empezar, es fundamental evaluar las **necesidades energéticas de la pi
 
 ### Selección del Sistema de Aerotermia
 
-El siguiente paso es seleccionar el sistema de aerotermia adecuado. Existen [diferencias entre los sistemas aire-agua y aire-aire de aerotermia](/decogas/blog/aerotermia/diferencia-aire-agua-aire-aire-aerotermia/) y en el caso de una piscina, necesitarás una **bomba de calor aire-agua**. Además, estos sistemas vienen en diferentes tamaños y capacidades. Selecciona uno que sea suficiente para tus necesidades.
+El siguiente paso es seleccionar el sistema de aerotermia adecuado. Existen [diferencias entre los sistemas aire-agua y aire-aire de aerotermia](/blog/aerotermia/diferencia-aire-agua-aire-aire-aerotermia/) y en el caso de una piscina, necesitarás una **bomba de calor aire-agua**. Además, estos sistemas vienen en diferentes tamaños y capacidades. Selecciona uno que sea suficiente para tus necesidades.
 
 ### Ubicación de la Bomba de Calor
 

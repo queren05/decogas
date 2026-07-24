@@ -8,11 +8,11 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 4
 ---
-Para las personas que desean mejorar su sistema de calefacción o reducir su impacto ambiental, tener una [estufa de pellets](/decogas/index.html#contacto) en un piso es una opción cada vez más popular. Sin embargo, antes de invertir en una estufa de pellets, es importante conocer la **normativa para instalar una estufa de pellets** para garantizar una instalación correcta y segura del aparato.
+Para las personas que desean mejorar su sistema de calefacción o reducir su impacto ambiental, tener una [estufa de pellets](/index.html#contacto) en un piso es una opción cada vez más popular. Sin embargo, antes de invertir en una estufa de pellets, es importante conocer la **normativa para instalar una estufa de pellets** para garantizar una instalación correcta y segura del aparato.
 
 La norma [UNE-EN ISO 17829:2016](https://www.une.org/encuentra-tu-norma/busca-tu-norma/norma?c=N0056485) en España cubre todos los aspectos relacionados con los aparatos de calefacción alimentados con pellets, especificando valores de eficiencia energética, emisiones de gases y otros requisitos. Además, los códigos de edificación y otras normativas desempeñan un papel importante a la hora de determinar qué tipo de instalación es posible en cada caso concreto.
 
-## ![pellets para estufa](/decogas/blog-img/normativa-estufa-pellets.webp)Emisiones de gases según la normativa para instalar una estufa de pellets
+## ![pellets para estufa](/blog-img/normativa-estufa-pellets.webp)Emisiones de gases según la normativa para instalar una estufa de pellets
 
 Para utilizar los aparatos de calefacción de pellets de forma segura, es importante asegurarse de que sus **emisiones están dentro de los límites legales**. La norma de los biocombustibles sólidos establece un estándar para las estufas de pellets y otros aparatos de calefacción alimentados con pellets en España. Esta norma establece que todas las estufas deben cumplir ciertos criterios relativos a la emisión de gases. Por ejemplo, todos los aparatos **no deben producir más de 100 g/m3** de partículas durante un determinado periodo de tiempo.
 
@@ -43,7 +43,7 @@ Garantizar una salida de humos es una tarea de vital importancia para **evitar i
 -   La salida de humos debe estar situada en un **lugar seguro, sin riesgo de incendio**.
 -   Debe realizarse una **inspección anual** **por un técnico cualificado** para comprobar el correcto funcionamiento de la estufa y la salida de humos.
 
-Además, es importante que el usuario sepa [**cuánto tiempo puede estar encendida una estufa de pellets**](/decogas/blog/caldera/cuanto-tiempo-puede-estar-encendida-una-estufa-de-pellets/) para evitar problemas de salud y riesgo de incendio. Por ello, es recomendable leer el **manual de instrucciones** que acompaña al producto y seguir las recomendaciones del fabricante, aparte de conocer la normativa para instalar una estufa de pellets.
+Además, es importante que el usuario sepa [**cuánto tiempo puede estar encendida una estufa de pellets**](/blog/caldera/cuanto-tiempo-puede-estar-encendida-una-estufa-de-pellets/) para evitar problemas de salud y riesgo de incendio. Por ello, es recomendable leer el **manual de instrucciones** que acompaña al producto y seguir las recomendaciones del fabricante, aparte de conocer la normativa para instalar una estufa de pellets.
 
 ## Mantenimiento según normativa para instalar una estufa de pellets
 

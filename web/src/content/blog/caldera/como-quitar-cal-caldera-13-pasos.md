@@ -8,21 +8,21 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 5
 ---
-Es fundamental disponer de un **sistema de tuberías en perfecto estado** en tu [caldera de gas](/decogas/calderas.html) para que el agua llegue limpia a tu vivienda. Además, por estos elementos tiramos el agua residual que queda cuando lavas los platos; por ello, es muy importante saber cómo quitar la cal de la caldera.
+Es fundamental disponer de un **sistema de tuberías en perfecto estado** en tu [caldera de gas](/calderas.html) para que el agua llegue limpia a tu vivienda. Además, por estos elementos tiramos el agua residual que queda cuando lavas los platos; por ello, es muy importante saber cómo quitar la cal de la caldera.
 
 ## ¿Por qué se obstruyen las tuberías con la cal?
 
 La cal obstruye las tuberías debido a la **dureza del agua** de la zona en la que te encuentres. Esto ocurre porque este agua dura tiene un **alto índice de minerales**, lo que provoca que se produzcan muchas rocas en el líquido, conocidas como cal. Este agua se filtra en la tubería y puede provocar muchos problemas.  
 
-![Cómo quitar la cal de la tubería de la caldera](/decogas/blog-img/quitar-cal-caldera.webp)
+![Cómo quitar la cal de la tubería de la caldera](/blog-img/quitar-cal-caldera.webp)
 
 ## ¿Cómo se origina la cal?
 
 La cal es una sustancia alcalina, de origen natural, **compuesta de magnesio y calcio**. Suele ser de color blanco, o ligeramente gris, dependiendo de la dureza del agua. Los **riesgos para la salud son muy bajos** pero su presencia obstruye las tuberías e impide el correcto funcionamiento de tu caldera; por ello, es fundamental eliminar la cal para prevenir los atascos en las tuberías.
 
-[Te llamamos gratis](/decogas/index.html#contacto)
+[Te llamamos gratis](/index.html#contacto)
 
-Es común que este problema ocurra en los sistemas de calefacción; por ello, lo más recomendable es disponer de una [buena caldera de condensación](/decogas/blog/caldera/mejores-calderas-condensacion/) fabricada con los **mejores materiales**.
+Es común que este problema ocurra en los sistemas de calefacción; por ello, lo más recomendable es disponer de una [buena caldera de condensación](/blog/caldera/mejores-calderas-condensacion/) fabricada con los **mejores materiales**.
 
 ## Proceso de limpieza de cal de un sistema cerrado de calefacción
 
@@ -51,7 +51,7 @@ Si finalmente vas a utilizar un producto químico para **eliminar el sarro y la 
 -   Lee todas las indicaciones de uso del producto.
 -   Elige un producto que se adecúe al tipo de tubería que tienes.
 
-### ![Quitando la cal de la tubería](/decogas/blog-img/tuberias-cal-caldera.webp)
+### ![Quitando la cal de la tubería](/blog-img/tuberias-cal-caldera.webp)
 
 ### Ácido muriático
 
@@ -83,6 +83,6 @@ El **proceso** de cómo quitar la cal de la caldera puede realizarse con distint
 
 Aunque sea duro reconocerlo, no, **no se puede evitar el surgimiento de la cal** en las tuberías. Lo que se debe hacer es limpiarlas regularmente, para que luego los problemas no sean mayores. Por eso es fundamental que sepas **cómo quitar la cal a la caldera de forma efectiva** con los métodos que te hemos comentado anteriormente.
 
-[Te llamamos gratis](/decogas/index.html#contacto)
+[Te llamamos gratis](/index.html#contacto)
 
-Desde Decogas tratamos de ayudar en la [instalación de calderas](/decogas/calderas.html), termos y aires acondicionados. Tenemos un equipo propio de instaladores especializados, para que no tengas ningún problema. Además, puedes venir a visitarnos a nuestra tienda física cuando quieras.
+Desde Decogas tratamos de ayudar en la [instalación de calderas](/calderas.html), termos y aires acondicionados. Tenemos un equipo propio de instaladores especializados, para que no tengas ningún problema. Además, puedes venir a visitarnos a nuestra tienda física cuando quieras.

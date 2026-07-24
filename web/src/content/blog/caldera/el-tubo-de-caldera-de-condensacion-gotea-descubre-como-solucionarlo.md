@@ -10,11 +10,11 @@ readingTime: 3
 ---
 Si te preguntas **si el tubo de la caldera de condensación gotea**, estás en el lugar indicado. En este artículo, te **explicaremos las posibles causas de esta situación y cómo solucionarlo de forma efectiva**. El goteo del tubo de la caldera de condensación **puede ser una señal de un problema subyacente que necesita ser atendido** para evitar daños mayores y mantener el funcionamiento óptimo de tu caldera. Vamos a profundizar en cada aspecto relacionado con este tema para que puedas resolver el problema sin complicaciones.
 
-![Trabajador caldera.](/decogas/blog-img/trabajador-caldera.webp)
+![Trabajador caldera.](/blog-img/trabajador-caldera.webp)
 
 ## Posibles causas del goteo en el tubo de caldera de condensación
 
-Antes de abordar la solución, es importante **identificar la raíz del problema**. El goteo del tubo de la [caldera de condensación](/decogas/calderas.html) **puede deberse a diversas razones**. A continuación, mencionamos las más comunes:
+Antes de abordar la solución, es importante **identificar la raíz del problema**. El goteo del tubo de la [caldera de condensación](/calderas.html) **puede deberse a diversas razones**. A continuación, mencionamos las más comunes:
 
 -   **Condensación excesiva**: La condensación es una **característica normal** en las calderas de condensación, pero **un goteo constante puede ser indicativo de una cantidad anormal de condensación** acumulada.
 -   **Tubo obstruido**: Si el tubo de **desagüe está bloqueado por suciedad, residuos o congelación**, el **agua de condensación no puede drenar correctamente** y podría filtrarse.
@@ -49,6 +49,6 @@ Recuerda que si no te sientes seguro realizando las reparaciones por ti mismo, *
 
 ## Conclusión
 
-En resumen, si el tubo de caldera de condensación gotea, **debes actuar rápidamente para identificar la causa y aplicar las soluciones adecuadas.** El mantenimiento preventivo y una [instalación correcta de la caldera](/decogas/calderas.html) son clave para evitar este problema en el futuro. Al tomar las medidas necesarias, podrás disfrutar de tu caldera de condensación sin preocupaciones y maximizar su eficiencia energética. Recuerda siempre priorizar la seguridad y, en caso de duda, contar con la asistencia de un profesional calificado.
+En resumen, si el tubo de caldera de condensación gotea, **debes actuar rápidamente para identificar la causa y aplicar las soluciones adecuadas.** El mantenimiento preventivo y una [instalación correcta de la caldera](/calderas.html) son clave para evitar este problema en el futuro. Al tomar las medidas necesarias, podrás disfrutar de tu caldera de condensación sin preocupaciones y maximizar su eficiencia energética. Recuerda siempre priorizar la seguridad y, en caso de duda, contar con la asistencia de un profesional calificado.
 
 Esperamos que esta guía te haya sido de ayuda y que puedas resolver el goteo del tubo de caldera de condensación de manera exitosa. Si tienes más preguntas o necesitas asesoramiento adicional, no dudes en ponerte en contacto con nosotros. Estamos aquí para ayudarte en todo lo que necesites relacionado con calderas de condensación y cualquier otro tema relacionado.

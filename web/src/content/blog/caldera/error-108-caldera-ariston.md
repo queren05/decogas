@@ -8,9 +8,9 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 4
 ---
-![técnico reparando error 108 caldera ariston](/decogas/blog-img/error-108-caldera-ariston.webp)
+![técnico reparando error 108 caldera ariston](/blog-img/error-108-caldera-ariston.webp)
 
-¿Te has encontrado con el **error 108** en tu **[caldera Ariston](/decogas/calderas.html)** y no sabes qué hacer? No te preocupes, este problema de presión baja es común y tiene soluciones simples. Aquí te explicamos paso a paso cómo identificar las causas y arreglarlo de manera eficiente. Asegúrate de seguir nuestras indicaciones para que tu caldera vuelva a funcionar correctamente y sin complicaciones.
+¿Te has encontrado con el **error 108** en tu **[caldera Ariston](/calderas.html)** y no sabes qué hacer? No te preocupes, este problema de presión baja es común y tiene soluciones simples. Aquí te explicamos paso a paso cómo identificar las causas y arreglarlo de manera eficiente. Asegúrate de seguir nuestras indicaciones para que tu caldera vuelva a funcionar correctamente y sin complicaciones.
 
 ## ¿Qué es el error 108 en las calderas Ariston?
 
@@ -32,13 +32,13 @@ El error 108 **se muestra claramente en el panel de control** de la caldera Aris
 
 ## Soluciones para el error 108
 
-![Soluciones para el error 108](/decogas/blog-img/soluciones-para-el-error-108.webp)
+![Soluciones para el error 108](/blog-img/soluciones-para-el-error-108.webp)
 
 Resolver el error 108 en una caldera Ariston es vital para mantener su eficiencia. Aquí encontrarás métodos prácticos para ajustar la presión y garantizar un funcionamiento óptimo.
 
 ### Reajustar la presión del agua
 
-Es esencial reajustar y [subir la presión de la caldera](/decogas/blog/caldera/subir-presion-caldera/) para corregir el error 108. **Apaga la caldera, abre la llave de llenado hasta alcanzar 1-1.5 bares y cierra la llave**. Verifica el manómetro para asegurar que la presión se ha estabilizado. Si persiste la baja presión, puede haber una fuga que requiere reparación.
+Es esencial reajustar y [subir la presión de la caldera](/blog/caldera/subir-presion-caldera/) para corregir el error 108. **Apaga la caldera, abre la llave de llenado hasta alcanzar 1-1.5 bares y cierra la llave**. Verifica el manómetro para asegurar que la presión se ha estabilizado. Si persiste la baja presión, puede haber una fuga que requiere reparación.
 
 ### Verificación y limpieza de la válvula de seguridad
 
@@ -57,7 +57,7 @@ Para que puedas solucionar el error 108 en tu caldera Ariston de forma más prec
 3.  **Ajusta la presión:** Abre la llave de llenado lentamente hasta alcanzar 1-1.5 bares. Cierra la llave de llenado.
 4.  **Inspecciona la válvula de seguridad:** Limpia cualquier residuo que pueda estar bloqueándola.
 5.  **Revisa el circuito de agua:** Busca fugas y purga los radiadores para eliminar el aire atrapado.
-6.  **[Enciende la caldera](/decogas/blog/caldera/como-encender-caldera/):** Verifica si el error ha desaparecido. Si persiste, contacta a un técnico especializado.
+6.  **[Enciende la caldera](/blog/caldera/como-encender-caldera/):** Verifica si el error ha desaparecido. Si persiste, contacta a un técnico especializado.
 
 ## Preguntas frecuentes
 
@@ -75,4 +75,4 @@ No es recomendable usar la caldera con el error 108, ya que la baja presión pue
 
 El **error 108 en las calderas Ariston** es un problema común pero manejable. Identificar las causas y seguir las soluciones adecuadas puede resolverlo eficazmente.
 
-Mantener un control regular de la presión y realizar un mantenimiento preventivo son claves para evitar futuros problemas. Si necesitas ayuda, no dudes en contactar nuestros profesionales en [reparación de calderas](/decogas/calderas.html) para garantizar el buen funcionamiento de tu caldera.
+Mantener un control regular de la presión y realizar un mantenimiento preventivo son claves para evitar futuros problemas. Si necesitas ayuda, no dudes en contactar nuestros profesionales en [reparación de calderas](/calderas.html) para garantizar el buen funcionamiento de tu caldera.

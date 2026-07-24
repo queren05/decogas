@@ -8,13 +8,13 @@ tagClass: "aire"
 breadcrumb: "Aire acondicionado"
 readingTime: 4
 ---
-El consumo energético de los electrodomésticos como el [aire acondicionado](/decogas/aires.html) es una preocupación en todos los hogares y más desde que el precio de la luz se ha disparado. Ante esta necesidad de [ahorrar en consumo](/decogas/blog/aire-acondicionado/aire-acondicionado-de-bajo-consumo/), buscamos equipos cada vez más eficientes. Por ello, en este post te explicamos, **cuánto gasta un aire acondicionado con bomba de calor**.
+El consumo energético de los electrodomésticos como el [aire acondicionado](/aires.html) es una preocupación en todos los hogares y más desde que el precio de la luz se ha disparado. Ante esta necesidad de [ahorrar en consumo](/blog/aire-acondicionado/aire-acondicionado-de-bajo-consumo/), buscamos equipos cada vez más eficientes. Por ello, en este post te explicamos, **cuánto gasta un aire acondicionado con bomba de calor**.
 
-![Controlando aire acondicionado con mando a distancia](/decogas/blog-img/istockphoto-516596256-612x612-1.webp)
+![Controlando aire acondicionado con mando a distancia](/blog-img/istockphoto-516596256-612x612-1.webp)
 
 ## **¿Cómo funciona una bomba de calor?**
 
-Antes de saber cuánto gasta un [aire acondicionado con bomba de calor](/decogas/blog/aire-acondicionado/aire-acondicionado-con-bomba-de-calor/), vamos a señalar cómo es su funcionamiento. De este modo, sabremos hasta qué punto vamos a poder ahorrar a nivel energético.
+Antes de saber cuánto gasta un [aire acondicionado con bomba de calor](/blog/aire-acondicionado/aire-acondicionado-con-bomba-de-calor/), vamos a señalar cómo es su funcionamiento. De este modo, sabremos hasta qué punto vamos a poder ahorrar a nivel energético.
 
 Una de las ventajas de instalar una bomba de calor es que nos **ayuda a calentar las estancias durante el invierno** y enfriarlas durante la época de calor. Todo en un único dispositivo.
 
@@ -28,7 +28,7 @@ Se estima que la media de consumo en España es de unos 10.000 kW/h de calor al 
 
 Y, si la eficiencia de la bomba es mayor, por ejemplo 4, el gasto del aparato sería en torno a los 2.500 kW.
 
-![chica utilizando el aire acondicionado](/decogas/blog-img/chica-utilizando-el-aire-acondicionado.webp)
+![chica utilizando el aire acondicionado](/blog-img/chica-utilizando-el-aire-acondicionado.webp)
 
 ## **¿Cuánto gasta un aire acondicionado con bomba de calor al mes?**
 
@@ -44,18 +44,18 @@ Las bombas de calor tienen grandes ventajas frente a otros sistemas de calefacci
 -   **Reversible**. Se puede disfrutar de climatización todo el año.
 -   **Combinable**. Se puede combinar con una instalación fotovoltaica, convirtiendo el sistema en un conjunto autónomo y renovable.
 -   **Ecológica**. Las emisiones de CO2 son menores que las calderas de combustión de gas o fósiles.
--   **Ahorro energético**. Los equipos con [tecnología Inverter](/decogas/blog/aire-acondicionado/ventajas-aire-acondicionado-inverter-madrid/) aseguran un consumo en calefacción menor de aquellos que no la tienen.
+-   **Ahorro energético**. Los equipos con [tecnología Inverter](/blog/aire-acondicionado/ventajas-aire-acondicionado-inverter-madrid/) aseguran un consumo en calefacción menor de aquellos que no la tienen.
 -   **Vida útil**. La bomba de calor puede durar hasta 15 años. Con un buen mantenimiento se puede extender hasta los 20-25 años.
 -   **Versátil**. Es un sistema de climatización que es adaptable al tamaño de la estancia, vivienda o local.
--   **Poco ruido**. Tiene un [funcionamiento silencioso](/decogas/blog/aire-acondicionado/nivel-sonoro-aire-acondicionado-silencioso/), ya sea la unidad interior como exterior.
+-   **Poco ruido**. Tiene un [funcionamiento silencioso](/blog/aire-acondicionado/nivel-sonoro-aire-acondicionado-silencioso/), ya sea la unidad interior como exterior.
 -   **Calefacción rápida**. Es capaz de calentar estancias más rápidamente que las calderas tradicionales.
 
-![aire acondicionado encendido](/decogas/blog-img/aire-acondicionado-con-bomba-de-calor.webp)
+![aire acondicionado encendido](/blog-img/aire-acondicionado-con-bomba-de-calor.webp)
 
 ## **¿Qué consume más, el aire acondicionado convencional o por bomba de calor?**
 
-Los sistemas de climatización con bomba de calor suponen un ahorro al contener en un **único aparato la refrigeración y la calefacción**. Ambas opciones pueden variar en función de la época del año. Por el contrario, un [aire acondicionado](/decogas/aires.html) convencional solo tiene aire frío.
+Los sistemas de climatización con bomba de calor suponen un ahorro al contener en un **único aparato la refrigeración y la calefacción**. Ambas opciones pueden variar en función de la época del año. Por el contrario, un [aire acondicionado](/aires.html) convencional solo tiene aire frío.
 
-En cuanto al [consumo de los aires convencionales](/decogas/blog/aire-acondicionado/cuanto-consume-aire-acondicionado/), por cada kW de energía calorífica consumen 1 kW de electricidad. Las bombas de calor, por su parte, pueden **crear hasta 4 kW** de energía de climatización por cada kW de electricidad, haciendo que sea más ventajoso contar con ellas.
+En cuanto al [consumo de los aires convencionales](/blog/aire-acondicionado/cuanto-consume-aire-acondicionado/), por cada kW de energía calorífica consumen 1 kW de electricidad. Las bombas de calor, por su parte, pueden **crear hasta 4 kW** de energía de climatización por cada kW de electricidad, haciendo que sea más ventajoso contar con ellas.
 
 En definitiva, si valoramos cuánto **gasta un aire acondicionado con bomba de calor** frente a otros sistemas de calefacción, escoger este aparato nos hará ganar en ahorro, eficiencia y ser más respetuosos con el medio ambiente.

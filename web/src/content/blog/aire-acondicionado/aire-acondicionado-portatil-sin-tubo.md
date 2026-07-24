@@ -12,11 +12,11 @@ Si estás buscando una solución de climatización sin complicaciones y fácil d
 
 En este artículo, te explicaremos en detalle **qué es el aire acondicionado portátil sin tubo y cómo puede ser una opción conveniente para refrescar tu hogar.**
 
-También abordaremos las diferencias entre los modelos con y sin tubo, y exploraremos las ventajas y beneficios que ofrecen. Sigue nuestros consejos en [**aires acondicionados**](/decogas/aires.html) en nuestro blog.
+También abordaremos las diferencias entre los modelos con y sin tubo, y exploraremos las ventajas y beneficios que ofrecen. Sigue nuestros consejos en [**aires acondicionados**](/aires.html) en nuestro blog.
 
 > ¡Sigue leyendo para descubrir todo lo que necesitas saber sobre esta alternativa práctica para mantenerte fresco en los días calurosos de verano!
 
-![aire acondicionado portátil sin tubo](/decogas/blog-img/aire-acondicionado-portatil-sin-tubo.webp)
+![aire acondicionado portátil sin tubo](/blog-img/aire-acondicionado-portatil-sin-tubo.webp)
 
 ## ¿Qué es un aire acondicionado portátil sin tubo?
 
@@ -71,7 +71,7 @@ Aquí hay una tabla que resume las ventajas y desventajas de los aires acondicio
 
 Las ventajas de un aire acondicionado portátil sin tubo incluyen:
 
--   La [instalación del aire acondicionado](/decogas/blog/aire-acondicionado/instalacion-aire-acondicionado/) portátil es más simple que los aires acondicionados con tubo.
+-   La [instalación del aire acondicionado](/blog/aire-acondicionado/instalacion-aire-acondicionado/) portátil es más simple que los aires acondicionados con tubo.
 -   **No requieren una unidad exterior,** por lo que pueden ser utilizados en apartamentos o casas con poca o ninguna ventilación.
 -   Son más portátiles, por lo que **pueden ser transportados fácilmente** de una habitación a otra.
 
@@ -100,8 +100,8 @@ El precio de un aire acondicionado portátil sin tubo varía en función de la m
 
 En conclusión, el aire acondicionado portátil sin tubo es una alternativa versátil y práctica para mantener tu hogar fresco durante los días calurosos. A diferencia de los sistemas tradicionales de aire acondicionado, este tipo de dispositivo no requiere una instalación complicada ni la necesidad de un desagüe.
 
-Si bien el aire acondicionado portátil sin tubo ofrece comodidad y facilidad de uso, es esencial recordar no [dejarlo encendido todo el día](/decogas/blog/aire-acondicionado/aire-acondicionado-encendido-todo-el-dia/) para evitar un consumo excesivo de energía. Es recomendable utilizarlo de manera eficiente y ajustar la temperatura según tus necesidades y preferencias.
+Si bien el aire acondicionado portátil sin tubo ofrece comodidad y facilidad de uso, es esencial recordar no [dejarlo encendido todo el día](/blog/aire-acondicionado/aire-acondicionado-encendido-todo-el-dia/) para evitar un consumo excesivo de energía. Es recomendable utilizarlo de manera eficiente y ajustar la temperatura según tus necesidades y preferencias.
 
-Cuando se trata de la [conexión del desagüe del aire acondicionado](/decogas/blog/aire-acondicionado/donde-conectar-el-desague-del-aire-acondicionado/), es importante seguir las instrucciones del fabricante y encontrar un lugar adecuado para su drenaje. Esto evitará problemas de condensación y garantizará el correcto funcionamiento del dispositivo.
+Cuando se trata de la [conexión del desagüe del aire acondicionado](/blog/aire-acondicionado/donde-conectar-el-desague-del-aire-acondicionado/), es importante seguir las instrucciones del fabricante y encontrar un lugar adecuado para su drenaje. Esto evitará problemas de condensación y garantizará el correcto funcionamiento del dispositivo.
 
-En resumen, el aire acondicionado portátil sin tubo brinda la comodidad y el enfriamiento necesario para hacer frente a los días más calurosos. ¡Estaremos encantados de ayudarte a encontrar la solución de climatización adecuada para ti y tu hogar con nuestros [aires acondicionados](/decogas/aires.html)!
+En resumen, el aire acondicionado portátil sin tubo brinda la comodidad y el enfriamiento necesario para hacer frente a los días más calurosos. ¡Estaremos encantados de ayudarte a encontrar la solución de climatización adecuada para ti y tu hogar con nuestros [aires acondicionados](/aires.html)!

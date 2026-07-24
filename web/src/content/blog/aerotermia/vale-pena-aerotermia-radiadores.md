@@ -8,15 +8,15 @@ tagClass: "aerotermia"
 breadcrumb: "Aerotermia"
 readingTime: 5
 ---
-![Bomba de calor moderna](/decogas/blog-img/vale-la-pena-aerotermia-con-radiadores-2.webp)
+![Bomba de calor moderna](/blog-img/vale-la-pena-aerotermia-con-radiadores-2.webp)
 
-**¿Estás pensando en modernizar la calefacción de tu casa y te preguntas si realmente vale la pena [instalar aerotermia](/decogas/index.html#contacto) con radiadores?** Tal vez has escuchado hablar de sus ventajas en eficiencia y ahorro, pero sigues sin tener claro si es la opción adecuada para tu vivienda. ¿Cómo funciona exactamente este sistema? ¿Se adapta bien a los radiadores que ya tienes?
+**¿Estás pensando en modernizar la calefacción de tu casa y te preguntas si realmente vale la pena [instalar aerotermia](/index.html#contacto) con radiadores?** Tal vez has escuchado hablar de sus ventajas en eficiencia y ahorro, pero sigues sin tener claro si es la opción adecuada para tu vivienda. ¿Cómo funciona exactamente este sistema? ¿Se adapta bien a los radiadores que ya tienes?
 
 Si buscas respuestas claras, experiencias reales y una opinión sincera basada en el uso práctico, quédate. Vamos a contarte todo lo que necesitas saber antes de decidirte.
 
 ## ¿Qué es la aerotermia y cómo funciona con radiadores?
 
-La [aerotermia](/decogas/blog/aerotermia/que-es-la-aerotermia/) es una **tecnología que utiliza la energía contenida en el aire exterior para climatizar una vivienda**. Se basa en una bomba de calor que transfiere el calor del aire del exterior al interior, permitiendo calentar agua para el sistema de calefacción. Este proceso es eficiente incluso cuando las temperaturas exteriores son bajas, lo que la convierte en una opción sostenible para la climatización doméstica.
+La [aerotermia](/blog/aerotermia/que-es-la-aerotermia/) es una **tecnología que utiliza la energía contenida en el aire exterior para climatizar una vivienda**. Se basa en una bomba de calor que transfiere el calor del aire del exterior al interior, permitiendo calentar agua para el sistema de calefacción. Este proceso es eficiente incluso cuando las temperaturas exteriores son bajas, lo que la convierte en una opción sostenible para la climatización doméstica.
 
 El **funcionamiento con radiadores** es sencillo, pero es clave que los radiadores sean compatibles, ya que la aerotermia trabaja mejor con sistemas de baja temperatura. Muchos hogares que buscan actualizar su calefacción se plantean si es posible aprovechar los radiadores existentes o si es imprescindible cambiarlos. Esta decisión depende del tipo de radiadores, el aislamiento de la vivienda y el clima de la zona.
 
@@ -39,9 +39,9 @@ Puntos clave para identificar cada tipo de radiador:
 
 ## Beneficios y retos de la aerotermia con radiadores
 
-![Mujer relajada en casa](/decogas/blog-img/vale-la-pena-aerotermia-con-radiadores-1.webp)
+![Mujer relajada en casa](/blog-img/vale-la-pena-aerotermia-con-radiadores-1.webp)
 
-La aerotermia con radiadores ofrece ventajas claras en eficiencia y sostenibilidad. **El consumo eléctrico es menor que con una caldera tradicional** y no depende de combustibles fósiles. Además, permite calefacción en invierno y refrigeración en verano si el sistema es reversible. Para descubrir otras formas de [calentar el hogar de manera eficiente](/decogas/blog/caldera/calentar-hogar-manera-eficiente/), esta guía aporta ideas prácticas.
+La aerotermia con radiadores ofrece ventajas claras en eficiencia y sostenibilidad. **El consumo eléctrico es menor que con una caldera tradicional** y no depende de combustibles fósiles. Además, permite calefacción en invierno y refrigeración en verano si el sistema es reversible. Para descubrir otras formas de [calentar el hogar de manera eficiente](/blog/caldera/calentar-hogar-manera-eficiente/), esta guía aporta ideas prácticas.
 
 Sin embargo, existen retos. El principal es **adaptar los radiadores o instalar nuevos de baja temperatura**, lo que implica una inversión inicial. En viviendas antiguas, puede ser necesario mejorar el aislamiento para conseguir el rendimiento esperado. La obra y el cambio de radiadores suelen preocupar, pero bien planificados, los beneficios a largo plazo superan estos inconvenientes.
 
@@ -73,15 +73,15 @@ Factores que influyen en el coste:
 
 ### ¿Qué mantenimiento requiere el sistema?
 
-La aerotermia necesita un **mantenimiento sencillo**. Un técnico revisa el estado de la bomba de calor, limpia los filtros y comprueba que el sistema hidráulico funciona bien. También es fundamental mantener los radiadores en buen estado, por lo que conviene saber **[cómo purgar los radiadores correctamente](/decogas/blog/caldera/como-purgar-radiadores-pasos/)**. Este mantenimiento suele hacerse una vez al año.
+La aerotermia necesita un **mantenimiento sencillo**. Un técnico revisa el estado de la bomba de calor, limpia los filtros y comprueba que el sistema hidráulico funciona bien. También es fundamental mantener los radiadores en buen estado, por lo que conviene saber **[cómo purgar los radiadores correctamente](/blog/caldera/como-purgar-radiadores-pasos/)**. Este mantenimiento suele hacerse una vez al año.
 
-La mayoría de los usuarios encuentran que el sistema es menos exigente que una [caldera de gas tradicional](/decogas/calderas.html). El mantenimiento regular alarga la vida útil y asegura el mejor rendimiento.
+La mayoría de los usuarios encuentran que el sistema es menos exigente que una [caldera de gas tradicional](/calderas.html). El mantenimiento regular alarga la vida útil y asegura el mejor rendimiento.
 
 ### ¿Cómo se gestiona la temperatura interior?
 
 **La gestión de la temperatura es intuitiva**. Los sistemas actuales permiten controlar la temperatura desde un termostato o una aplicación móvil. Así se puede ajustar el confort de cada estancia y programar horarios.
 
-Mantener una temperatura constante, **alrededor de 22 grados**, ayuda a maximizar el ahorro. Para saber cuál es la temperatura ideal en casa durante el invierno y optimizar el rendimiento, consulta nuestra guía sobre [temperatura ideal en casa en invierno](/decogas/blog/caldera/temperatura-ideal-casa-invierno/). En caso de duda, siempre es mejor consultar con un especialista.
+Mantener una temperatura constante, **alrededor de 22 grados**, ayuda a maximizar el ahorro. Para saber cuál es la temperatura ideal en casa durante el invierno y optimizar el rendimiento, consulta nuestra guía sobre [temperatura ideal en casa en invierno](/blog/caldera/temperatura-ideal-casa-invierno/). En caso de duda, siempre es mejor consultar con un especialista.
 
 ### ¿Qué potencia de bomba es necesaria?
 

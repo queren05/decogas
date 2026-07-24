@@ -12,7 +12,7 @@ Las averías en las calderas se pueden deber a **muchos motivos**; en este _post
 
 ## Averías en las calderas por presiones de agua
 
-Que tu caldera no funcione puede afectar por completo a tu día a día; en la actualidad, cada vez son más las personas que disponen de una [caldera de gas](/decogas/calderas.html) en su vivienda. Su **correcto funcionamiento** depende de diversos factores, entre los que destacan el suministro eléctrico y la presión del agua y del combustible. ![Arreglando la avería de una caldera](/decogas/blog-img/arreglo-averia-caldera.webp) Cuando uno de estos tres factores falla es cuando se suele producir una avería en las calderas. Estos sistemas de calefacción cuentan con un manómetro que permite conocer la presión del agua; esta aparece en bar, una unidad de medida de presión. Lo más recomendable es que la caldera tenga una **carga de presión en frío**, con bomba parada, entorno a 1,2 bar, con un margen de +/- 25%. A continuación te mostramos cuáles son los problemas que suelen originarse cuando tu sistema de calefacción tiene una **presión de agua inadecuada**.
+Que tu caldera no funcione puede afectar por completo a tu día a día; en la actualidad, cada vez son más las personas que disponen de una [caldera de gas](/calderas.html) en su vivienda. Su **correcto funcionamiento** depende de diversos factores, entre los que destacan el suministro eléctrico y la presión del agua y del combustible. ![Arreglando la avería de una caldera](/blog-img/arreglo-averia-caldera.webp) Cuando uno de estos tres factores falla es cuando se suele producir una avería en las calderas. Estos sistemas de calefacción cuentan con un manómetro que permite conocer la presión del agua; esta aparece en bar, una unidad de medida de presión. Lo más recomendable es que la caldera tenga una **carga de presión en frío**, con bomba parada, entorno a 1,2 bar, con un margen de +/- 25%. A continuación te mostramos cuáles son los problemas que suelen originarse cuando tu sistema de calefacción tiene una **presión de agua inadecuada**.
 
 ### Baja presión de carga
 
@@ -28,7 +28,7 @@ Una baja presión de carga puede **provocar un sobrecalentamiento**, ya que la f
 
 Esto suele ocurrir cuando la caldera está funcionando, habiendo arrancado con unos 1,8 bar, y de repente se produce un **disparo de la válvula de seguridad**. En estos casos, la válvula de seguridad de la calefacción puede llegar hasta los 3 bar y liberar presión.
 
-[Te llamamos gratis](/decogas/index.html#contacto)
+[Te llamamos gratis](/index.html#contacto)
 
 El **incremento de presión del agua** durante su funcionamiento está relacionado con la masa de agua total que circula por el interior de los radiadores. El vaso de expansión se encarga de absorber el incremento de presión; si este no lo hace, la válvula de seguridad se abrirá para liberar la presión.
 
@@ -38,13 +38,13 @@ El paso del tiempo puede hacer que el intercambiador de placas de la caldera se 
 
 ### Sobrepresión provocada por hidrólisis
 
-La hidrólisis es una **reacción físico química del agua** que, una vez introducida en tu circuito de calefacción, entra en contacto con distintos materiales y provoca que se libere el Hidrógeno contenido en la masa de agua; este proceso tiene un tiempo limitado y una solución sencilla, el único inconveniente es que puede costar detectar la causa. ![Comprobando si existe una avería en la caldera](/decogas/blog-img/reparacion-averia-caldera.webp) Lo más habitual es que te encuentres con que el **manómetro de tu caldera tiene altas temperaturas** y aunque intentes bajar la presión del agua de los radiadores, al día siguiente vivirás la misma escena. Esto se debe a que la reacción físico química del agua en el interior está afectada por la hidrólisis y, en muchas ocasiones, interviene el trato dado al **interior de los radiadores** durante su elaboración. Para solucionar este problema, lo más recomendable es dotar al circuito de una **purga automática** y garantizar que no existen fugas.
+La hidrólisis es una **reacción físico química del agua** que, una vez introducida en tu circuito de calefacción, entra en contacto con distintos materiales y provoca que se libere el Hidrógeno contenido en la masa de agua; este proceso tiene un tiempo limitado y una solución sencilla, el único inconveniente es que puede costar detectar la causa. ![Comprobando si existe una avería en la caldera](/blog-img/reparacion-averia-caldera.webp) Lo más habitual es que te encuentres con que el **manómetro de tu caldera tiene altas temperaturas** y aunque intentes bajar la presión del agua de los radiadores, al día siguiente vivirás la misma escena. Esto se debe a que la reacción físico química del agua en el interior está afectada por la hidrólisis y, en muchas ocasiones, interviene el trato dado al **interior de los radiadores** durante su elaboración. Para solucionar este problema, lo más recomendable es dotar al circuito de una **purga automática** y garantizar que no existen fugas.
 
 ### Sobrepresión provocada por llaves de carga
 
 Uno de los elementos más importantes de las calderas, y que más se utilizan, son las llaves de carga; es **importante que siempre estén cerradas**, para evitar que entre agua en el circuito y en la caldera. Normalmente, suelen encontrarse en una **tubería o en el circuito de calefacción**, aunque hay ocasiones en las que están duplicadas y puedes localizarlas en ambos espacios. Si una llave de llenado no cierra correctamente puede provocar que aumente la presión del agua sanitaria hasta los 4 bar, haciendo que se dispare la válvula de seguridad.
 
-[Te llamamos gratis](/decogas/index.html#contacto)
+[Te llamamos gratis](/index.html#contacto)
 
 ## Otros fallos habituales
 
@@ -53,12 +53,12 @@ Además de estas averías en las calderas ocasionadas por presiones de agua, exi
 -   **No sale agua caliente pero se calientan los radiadores**: hay un problema en la válvula de 3 vías, una pieza encargada de dar paso al agua caliente y a la calefacción; la solución es cambiar dicha pieza. También puede haber un error en el circuito electrónico y que este no mande señal a la válvula.
 -   **La caldera no arranca**: suele ser porque el caudalímetro está roto o atascado; en esta ocasión, la solución es limpiarlo o, si el problema persiste, cambiarlo.
 -   **Arranca pero no sale agua caliente**: la llama se enciende pero no sale agua caliente; en esta ocasión, hay un problema en la válvula de 3 vías. Si no se llega a encender la llama, la avería estará en el motor, el extractor o en un detector de seguridad.
--   **La caldera hace ruidos raros**: lo más probable es que si tu sistema de calefacción realiza silbidos o ruidos raros es que tenga aire en su interior; para solucionarlo, lo mejor es que [purgues los radiadores](/decogas/blog/caldera/como-purgar-radiadores-pasos/). En el caso de los modelos más antiguos, es posible que este sonido se deba a un fallo de la bomba que tengas que reparar.
+-   **La caldera hace ruidos raros**: lo más probable es que si tu sistema de calefacción realiza silbidos o ruidos raros es que tenga aire en su interior; para solucionarlo, lo mejor es que [purgues los radiadores](/blog/caldera/como-purgar-radiadores-pasos/). En el caso de los modelos más antiguos, es posible que este sonido se deba a un fallo de la bomba que tengas que reparar.
 -   **No sale suficiente agua caliente**: puede haber un exceso de caudal que reduce la demanda de agua: esto ocurre porque el intercambiador sanitario está dañado, puede ocurrir porque se trate de una pieza muy antigua, o que haya una obstrucción por cal.
 -   **No funciona la calefacción**: puede deberse a distintos motivos. Los más habituales son que el termostato no mande señala a la caldera (un problema en la pila o porque el dispositivo esté dañado), falta de comunicación entre la caldera y el termostato (fallo en un cable de conexión) o porque no funcione la válvula de 3 vías.
 -   **Bloqueo de la caldera**: si tu sistema de calefacción interrumpe su funcionamiento normal y se bloquea, mostrará un aviso o error que te ayudará a conocer la avería.
 
-![Grifo gotea por fuga de agua de la caldera](/decogas/blog-img/fuga-agua-caldera.webp)
+![Grifo gotea por fuga de agua de la caldera](/blog-img/fuga-agua-caldera.webp)
 
 ## Averías en las calderas por pérdidas de agua
 
@@ -70,8 +70,8 @@ Además de estos fallos, es muy frecuente que una caldera sufra pérdidas de agu
 
 ## ¿Por qué es importante un buen mantenimiento de la caldera?
 
-Para garantizar un correcto funcionamiento de tu caldera es importante realizar un **buen mantenimiento**; para ello, tienes que [revisar la caldera](/decogas/blog/caldera/que-pasa-si-no-hago-revision-caldera/) y el circuito de calefacción, al menos, una vez al año. De esta forma, garantizas la **eficiencia energética de tu caldera** y evitas las emisiones de gases contaminantes a la atmósfera; además, aseguras la seguridad de los miembros de tu familia. Una caldera averiada o que funciona de forma incorrecta puede aumentar su consumo y, además, no ofrece el mismo calor ni confort. Ahora que ya conoces las **principales averías de las calderas de gas**, no dudes en comprobar qué ocurre en tu sistema de calefacción, para solucionarlo cuanto antes y continuar disfrutando de la mejor temperatura en tu vivienda, con la máxima seguridad.
+Para garantizar un correcto funcionamiento de tu caldera es importante realizar un **buen mantenimiento**; para ello, tienes que [revisar la caldera](/blog/caldera/que-pasa-si-no-hago-revision-caldera/) y el circuito de calefacción, al menos, una vez al año. De esta forma, garantizas la **eficiencia energética de tu caldera** y evitas las emisiones de gases contaminantes a la atmósfera; además, aseguras la seguridad de los miembros de tu familia. Una caldera averiada o que funciona de forma incorrecta puede aumentar su consumo y, además, no ofrece el mismo calor ni confort. Ahora que ya conoces las **principales averías de las calderas de gas**, no dudes en comprobar qué ocurre en tu sistema de calefacción, para solucionarlo cuanto antes y continuar disfrutando de la mejor temperatura en tu vivienda, con la máxima seguridad.
 
-[Te llamamos gratis](/decogas/index.html#contacto)
+[Te llamamos gratis](/index.html#contacto)
 
 Desde Decogas tratamos de ayudar en la instalación de calderas, termos y aires acondicionados. Tenemos un equipo propio de instaladores especializados, para que no tengas ningún problema. Además, puedes venir a visitarnos a nuestra tienda física cuando quieras.

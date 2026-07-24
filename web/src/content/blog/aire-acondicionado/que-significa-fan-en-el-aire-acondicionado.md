@@ -8,9 +8,9 @@ tagClass: "aire"
 breadcrumb: "Aire acondicionado"
 readingTime: 4
 ---
-Con la llegada de las olas de calor, nos apetece encender el [aire acondicionado](/decogas/aires.html) dentro de los hogares para estar fresquitos. En muchos modelos se incluyen funciones que desconocemos su uso. Un ejemplo de esto es **qué significa FAN en el aire acondicionado**.
+Con la llegada de las olas de calor, nos apetece encender el [aire acondicionado](/aires.html) dentro de los hogares para estar fresquitos. En muchos modelos se incluyen funciones que desconocemos su uso. Un ejemplo de esto es **qué significa FAN en el aire acondicionado**.
 
-![chico manipulando el aire acondicionado con el mando a distancia](/decogas/blog-img/modo-fan-aire-acondicionado.webp)
+![chico manipulando el aire acondicionado con el mando a distancia](/blog-img/modo-fan-aire-acondicionado.webp)
 
 Una de las recomendaciones más importantes que tenemos que seguir para evitar que se propaguen virus y otros patógenos es que es necesario renovar el aire interior de las viviendas y las oficinas de trabajo. En algunos casos se puede realizar abriendo puertas y ventanas, pero si no es posible, entonces es cuando necesitamos funciones como la FAN que realicen esta labor.
 
@@ -36,7 +36,7 @@ El aire acondicionado, trabajando en modo FAN, hace:
 -   La corriente resultante del aire no es fría ni caliente, la temperatura es la misma.
 -   Aunque el propio movimiento del aire produce un efecto refrescante.
 
-![aire acondicionado](/decogas/blog-img/significado-fan-del-aire-acondicionado-600x400-1.webp)
+![aire acondicionado](/blog-img/significado-fan-del-aire-acondicionado-600x400-1.webp)
 
 ## **¿Cuándo usamos el modo Fan en el aire acondicionado?**
 
@@ -44,7 +44,7 @@ Cuando el calor se vuelve extremo debido a las olas de calor en verano, rápidam
 
 La realidad es que bajar la temperatura mucho para enfriar rápidamente la estancia es uno de los **mitos que circulan en los aires acondicionados**. Esta acción lo que hace es **aumentar el consumo energético** y no refrescará de forma eficiente el ambiente. Por lo tanto, es mucho mejor mantener unos grados más altos y que la temperatura se mantenga para conseguir ahorrar en electricidad.
 
-Una forma de conseguir esto último es **conocer y saber controlar el modo FAN** del aire acondicionado. Esta función nos ayudará a tener un mejor rendimiento y [funcionamiento del aire acondicionado](/decogas/blog/aire-acondicionado/funcionamiento-aire-acondicionado/) y [bajar el consumo](/decogas/blog/aire-acondicionado/aire-acondicionado-de-bajo-consumo/) en la factura de la luz.
+Una forma de conseguir esto último es **conocer y saber controlar el modo FAN** del aire acondicionado. Esta función nos ayudará a tener un mejor rendimiento y [funcionamiento del aire acondicionado](/blog/aire-acondicionado/funcionamiento-aire-acondicionado/) y [bajar el consumo](/blog/aire-acondicionado/aire-acondicionado-de-bajo-consumo/) en la factura de la luz.
 
 ## **¿Qué otros iconos podemos encontrar en el mando a distancia del aire acondicionado?**
 
@@ -53,7 +53,7 @@ Ahora que ya conocemos cómo funciona el modo FAN del equipo de climatización, 
 -   **Sleep**. Podemos programar el equipo para que funcione cuando deseemos.
 -    **Mode**. Se puede escoger entre los distintos modos de funcionamiento.
 -   **Auto**. El aparato funcionará en modo automático.
--   [**Cool**](/decogas/blog/aire-acondicionado/boton-cool/). El equipo expulsa aire frío.
+-   [**Cool**](/blog/aire-acondicionado/boton-cool/). El equipo expulsa aire frío.
 -   **Dry**. Sería la función de deshumidificador, donde el aparato expulsa aire seco para eliminar la humedad del ambiente.
 -   **FanSpeed**. Aumenta o reduce la velocidad del ventilador.
 -   **Temperature**. Para subir o bajar la temperatura del aire acondicionado.

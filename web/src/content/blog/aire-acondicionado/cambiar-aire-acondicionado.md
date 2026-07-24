@@ -8,21 +8,21 @@ tagClass: "aire"
 breadcrumb: "Aire acondicionado"
 readingTime: 4
 ---
-**El aire acondicionado es una forma estupenda de mantenerse fresco durante los calurosos meses de verano.** Pero, ¿qué ocurre cuando su [aire acondicionado](/decogas/aires.html) empieza a estropearse? Simple es hora de cambiar el aire acondicionado o repararlo.
+**El aire acondicionado es una forma estupenda de mantenerse fresco durante los calurosos meses de verano.** Pero, ¿qué ocurre cuando su [aire acondicionado](/aires.html) empieza a estropearse? Simple es hora de cambiar el aire acondicionado o repararlo.
 
-¿O simplemente necesita [instalar un aire acondicionado](/decogas/blog/aire-acondicionado/instalacion-aire-acondicionado/) nuevo? Te enseñaremos **cuando y como cambiar tu aire acondicionado.**
+¿O simplemente necesita [instalar un aire acondicionado](/blog/aire-acondicionado/instalacion-aire-acondicionado/) nuevo? Te enseñaremos **cuando y como cambiar tu aire acondicionado.**
 
 También le daremos algunos consejos sobre cómo elegir el aire acondicionado adecuado para sus necesidades.
 
-![Aire acondicionado instalado en la pared.](/decogas/blog-img/cambiar-aire-acondicionado-de-sitio.webp)
+![Aire acondicionado instalado en la pared.](/blog-img/cambiar-aire-acondicionado-de-sitio.webp)
 
 ## Cuándo cambiar el aire acondicionado
 
 Hay algunas **señales que indican que ha llegado el momento de cambiar el aire acondicionado.** Estos incluyen:
 
--   Su aire acondicionado no enfría la habitación tan bien como antes, se controla la [temperatura del aire acondicionado](/decogas/blog/aire-acondicionado/temperatura-aire-acondicionado/).
+-   Su aire acondicionado no enfría la habitación tan bien como antes, se controla la [temperatura del aire acondicionado](/blog/aire-acondicionado/temperatura-aire-acondicionado/).
 -   Su aire acondicionado hace ruidos extraños.
--   Su [aire acondicionado gotea](/decogas/blog/aire-acondicionado/gotea-agua-aire-acondicionado/) o pierde agua.
+-   Su [aire acondicionado gotea](/blog/aire-acondicionado/gotea-agua-aire-acondicionado/) o pierde agua.
 -   Su aire acondicionado tiene más de 10 años.
 
 Si usted está experimentando cualquiera de estos problemas, es hora de empezar a pensar en conseguir un nuevo acondicionador de aire.
@@ -57,9 +57,9 @@ Una vez que haya considerado estos factores, puede empezar a buscar acondicionad
 
 ## ¿Qué tipos de aires acondicionados son más fáciles de cambiar?
 
-**Los [tipos de aires acondicionados](/decogas/blog/aire-acondicionado/tipos-aire-acondicionado/) son más fáciles de mover** **que los aires acondicionados portatiles de ventana o los aires acondicionados de unidad dividida.** Pueden colocarse en cualquier habitación de la casa, sin la necesidad de hacer un agujero en la pared o el techo para instalar la unidad exterior.
+**Los [tipos de aires acondicionados](/blog/aire-acondicionado/tipos-aire-acondicionado/) son más fáciles de mover** **que los aires acondicionados portatiles de ventana o los aires acondicionados de unidad dividida.** Pueden colocarse en cualquier habitación de la casa, sin la necesidad de hacer un agujero en la pared o el techo para instalar la unidad exterior.
 
-**Los aires acondicionados portátiles con tubo** **son un poco más difíciles de mover que los aires acondicionados [portátiles sin tubo,](/decogas/blog/aire-acondicionado/aire-acondicionado-portatil-sin-tubo/)** porque requieren una manguera que se conecte a una ventana o puerta para expulsar el aire caliente. Sin embargo, siguen siendo más fáciles de mover que los otros tipos de aires acondicionados.
+**Los aires acondicionados portátiles con tubo** **son un poco más difíciles de mover que los aires acondicionados [portátiles sin tubo,](/blog/aire-acondicionado/aire-acondicionado-portatil-sin-tubo/)** porque requieren una manguera que se conecte a una ventana o puerta para expulsar el aire caliente. Sin embargo, siguen siendo más fáciles de mover que los otros tipos de aires acondicionados.
 
 **Los aires acondicionados portátiles sin tubo son los más fáciles de mover, porque no requieren una manguera.** Sin embargo, también son los menos eficientes y pueden ser más ruidosos que los otros tipos de aires acondicionados.
 
@@ -75,7 +75,7 @@ Además de la información en esta entrada del blog, hay algunas otras cosas que
 
 **Mantenimiento:** Los aparatos de aire acondicionado requieren un mantenimiento regular para que funcionen correctamente. Este mantenimiento suele incluir la limpieza de los filtros y la comprobación de los niveles de refrigerante.
 
-Espero que esta entrada del blog haya sido útil. Si tiene más preguntas, no dude en ponerse en contacto con nosotros en [Madrid.](/decogas/calderas.html)
+Espero que esta entrada del blog haya sido útil. Si tiene más preguntas, no dude en ponerse en contacto con nosotros en [Madrid.](/calderas.html)
 
 ## Conclusión
 

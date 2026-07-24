@@ -61,7 +61,7 @@ Estos materiales no solo ofrecen un excelente aislamiento térmico, sino que tam
 
 ## Tipos de materiales de aislamiento térmico
 
-![Aislante térmico en una fachada](/decogas/blog-img/aislante-termico-fachada-2.webp)
+![Aislante térmico en una fachada](/blog-img/aislante-termico-fachada-2.webp)
 
 ### Poliuretano: versatilidad y eficiencia
 

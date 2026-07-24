@@ -8,19 +8,19 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 4
 ---
-¿La presión de tu caldera es muy alta? ¿Se sube sola cuando la enciendes? En este _post_ te mostramos los **principales motivos** por los que la presión de la caldera sube con la calefacción; también te contamos [cómo bajar esta presión](/decogas/blog/caldera/como-bajar-presion-caldera/).
+¿La presión de tu caldera es muy alta? ¿Se sube sola cuando la enciendes? En este _post_ te mostramos los **principales motivos** por los que la presión de la caldera sube con la calefacción; también te contamos [cómo bajar esta presión](/blog/caldera/como-bajar-presion-caldera/).
 
 ## ¿Es normal que suba un poco la presión de la caldera al encenderla?
 
 Si. Lo más normal es que al encender la calefacción, la presión de la caldera suba un poco, aunque siempre se debe mantener en un rango por encima de la presión en frío; en cualquier caso, la presión tiene que **mantenerse por debajo de 3 bares**, para que no se abra la válvula de seguridad.
 
-![La presión de la caldera sube con la calefacción](/decogas/blog-img/midiendo-presion-caldera.webp) En **óptimas condiciones**, la presión de la caldera puede subir con la **calefacción a 1,8 y 2 bares**; si llega hasta 3 bares, esto hará que se abra la válvula de seguridad y es señal inequívoca de que hay un problema con el vaso de expansión.
+![La presión de la caldera sube con la calefacción](/blog-img/midiendo-presion-caldera.webp) En **óptimas condiciones**, la presión de la caldera puede subir con la **calefacción a 1,8 y 2 bares**; si llega hasta 3 bares, esto hará que se abra la válvula de seguridad y es señal inequívoca de que hay un problema con el vaso de expansión.
 
 ## ¿Por qué la presión de la caldera sube con la calefacción? Motivos
 
-Uno de los principales motivos por los que la presión de la caldera sube con la calefacción es porque el vaso de expansión, encargado de absorber el exceso de presión, no está actuando de forma adecuada. Antes de nada, lo primero que debes comprobar es si la **llave de llenado está bien cerrada**, ya que puede estar abierta y que por eso la calefacción gotee o pierda agua. En este caso, lo más recomendable es [purgar un radiador](/decogas/blog/caldera/como-purgar-radiadores-pasos/) cualquiera y saques agua; de esta forma, bajarás la presión del circuito.
+Uno de los principales motivos por los que la presión de la caldera sube con la calefacción es porque el vaso de expansión, encargado de absorber el exceso de presión, no está actuando de forma adecuada. Antes de nada, lo primero que debes comprobar es si la **llave de llenado está bien cerrada**, ya que puede estar abierta y que por eso la calefacción gotee o pierda agua. En este caso, lo más recomendable es [purgar un radiador](/blog/caldera/como-purgar-radiadores-pasos/) cualquiera y saques agua; de esta forma, bajarás la presión del circuito.
 
-[Te llamamos gratis](/decogas/index.html#contacto)
+[Te llamamos gratis](/index.html#contacto)
 
 A continuación te mostramos los **principales motivos** por los que se produce un aumento de la presión de la caldera:
 
@@ -38,8 +38,8 @@ También puede ocurrir que la presión de la caldera suba incluso cuando está a
 
 ## Reparación
 
-Lo más recomendable es que, si la presión de la caldera sube demasiado, te pongas en **contacto con un [técnico especialista](/decogas/index.html)**, que tenga la homologación como Agente de Puesta en Marcha, Mantenimiento y Reparación (APMR); además, es imprescindible que disponga del carnet de instalador de gas autorizado. Debes **evitar reparar tú mismo, o manipular, la caldera**, o que lo haga alguien que no sea profesional, ya que puede ser peligroso. Ahora que ya sabes los **principales motivos** por los que la presión de la caldera sube con la calefacción, si ves que tu sistema de calefacción aumenta considerablemente su presión no dudes en comprobar cuál es el motivo y ponerte en contacto con profesionales, para evitar problemas mayores y garantizar en todo momento la seguridad de la vivienda.
+Lo más recomendable es que, si la presión de la caldera sube demasiado, te pongas en **contacto con un [técnico especialista](/index.html)**, que tenga la homologación como Agente de Puesta en Marcha, Mantenimiento y Reparación (APMR); además, es imprescindible que disponga del carnet de instalador de gas autorizado. Debes **evitar reparar tú mismo, o manipular, la caldera**, o que lo haga alguien que no sea profesional, ya que puede ser peligroso. Ahora que ya sabes los **principales motivos** por los que la presión de la caldera sube con la calefacción, si ves que tu sistema de calefacción aumenta considerablemente su presión no dudes en comprobar cuál es el motivo y ponerte en contacto con profesionales, para evitar problemas mayores y garantizar en todo momento la seguridad de la vivienda.
 
-[Te llamamos gratis](/decogas/index.html#contacto)
+[Te llamamos gratis](/index.html#contacto)
 
 Desde Decogas tratamos de ayudar en la instalación de calderas, termos y aires acondicionados. Tenemos un equipo propio de instaladores especializados, para que no tengas ningún problema. Además, puedes venir a visitarnos a nuestra tienda física cuando quieras.

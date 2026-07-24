@@ -8,19 +8,19 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 6
 ---
-![termostato indicando sobrecalentamiento en caldera](/decogas/blog-img/wheel-thermostat-adds-touch-modernity-while-effortlessly-controlling-r.webp)
+![termostato indicando sobrecalentamiento en caldera](/blog-img/wheel-thermostat-adds-touch-modernity-while-effortlessly-controlling-r.webp)
 
 El **sobrecalentamiento en la caldera** es un problema serio que afecta tanto la eficiencia del sistema como la seguridad del hogar. Identificar las causas comunes, como fallos en el termostato o problemas de circulación del agua, es de gran importancia para prevenir daños graves. En este artículo exploraremos las señales de alerta, soluciones efectivas y la importancia del mantenimiento preventivo para garantizar un funcionamiento óptimo y seguro de tu caldera.
 
 ## Causas comunes del sobrecalentamiento
 
-El sobrecalentamiento en una [caldera](/decogas/calderas.html) puede deberse a varios factores. Conocer estas causas es esencial para evitar daños mayores y **mantener el sistema funcionando eficientemente**.
+El sobrecalentamiento en una [caldera](/calderas.html) puede deberse a varios factores. Conocer estas causas es esencial para evitar daños mayores y **mantener el sistema funcionando eficientemente**.
 
 ### Fallos en el termostato
 
 El termostato es un componente vital que **regula la temperatura del agua en la caldera**. Si está defectuoso o mal calibrado, puede no medir correctamente la temperatura, lo que provoca que la caldera trabaje más de lo necesario. Esto, además de aumentar la temperatura de manera peligrosa, también puede causar un consumo energético innecesario.
 
-Además, un termostato defectuoso puede llevar a fluctuaciones de temperatura, lo que **afecta el confort del hogar** y puede provocar otros problemas en el sistema de calefacción. Es importante asegurarse de que el termostato esté siempre en buen estado y calibrado adecuadamente. Si necesitas reemplazarlo, aquí te contamos [cómo instalar un termostato en una caldera de gasoil](/decogas/blog/caldera/instalar-termostato-en-caldera-gasoil/).
+Además, un termostato defectuoso puede llevar a fluctuaciones de temperatura, lo que **afecta el confort del hogar** y puede provocar otros problemas en el sistema de calefacción. Es importante asegurarse de que el termostato esté siempre en buen estado y calibrado adecuadamente. Si necesitas reemplazarlo, aquí te contamos [cómo instalar un termostato en una caldera de gasoil](/blog/caldera/instalar-termostato-en-caldera-gasoil/).
 
 ### Problemas de circulación del agua
 
@@ -56,17 +56,17 @@ Además, un aumento constante de la presión puede indicar un **problema en el s
 
 La baja presión en la caldera puede ser igual de problemática. Cuando la presión cae por debajo de un cierto nivel, la caldera puede no arrancar para evitar daños. Esto puede causar **ruidos en la bomba y en el circuito** debido al aire atrapado.
 
-Una presión demasiado baja puede ser causada por **fugas en el sistema** o una **bomba de circulación defectuosa**. Asegurarse de que la presión se mantenga dentro de los rangos recomendados es importante para evitar el sobrecalentamiento y otros problemas. Aquí te brindamos algunos consejos sobre [cómo subir la presión de la caldera](/decogas/blog/caldera/subir-presion-caldera/).
+Una presión demasiado baja puede ser causada por **fugas en el sistema** o una **bomba de circulación defectuosa**. Asegurarse de que la presión se mantenga dentro de los rangos recomendados es importante para evitar el sobrecalentamiento y otros problemas. Aquí te brindamos algunos consejos sobre [cómo subir la presión de la caldera](/blog/caldera/subir-presion-caldera/).
 
 ### Bloqueos en el sistema
 
 Los bloqueos en el sistema de calefacción pueden ser causados por residuos, aire en los radiadores o acumulación de cal. Estos bloqueos **impiden el flujo adecuado del agua**, lo que puede provocar un sobrecalentamiento localizado.
 
-Es necesario identificar y eliminar estos bloqueos para mantener la caldera funcionando eficientemente. La **limpieza regular del sistema** y la **[purga de los radiadores](/decogas/blog/caldera/como-purgar-radiadores-pasos/#:~:text=Abre%20la%20llave%3A%20usa%20un,ya%20ha%20salido%20el%20aire.)** son prácticas esenciales para evitar estos problemas.
+Es necesario identificar y eliminar estos bloqueos para mantener la caldera funcionando eficientemente. La **limpieza regular del sistema** y la **[purga de los radiadores](/blog/caldera/como-purgar-radiadores-pasos/#:~:text=Abre%20la%20llave%3A%20usa%20un,ya%20ha%20salido%20el%20aire.)** son prácticas esenciales para evitar estos problemas.
 
 ## Soluciones efectivas para el sobrecalentamiento
 
-![hombre apagando caldera por sobrecalentamiento](/decogas/blog-img/close-up-hand-turning-up-heater-23-2149335140-1.webp)
+![hombre apagando caldera por sobrecalentamiento](/blog-img/close-up-hand-turning-up-heater-23-2149335140-1.webp)
 
 Existen varias soluciones efectivas para abordar el sobrecalentamiento en una caldera. Veamos cuáles son:
 
@@ -74,7 +74,7 @@ Existen varias soluciones efectivas para abordar el sobrecalentamiento en una ca
 
 La verificación y calibración del termostato es una de las primeras acciones que se deben tomar para solucionar el sobrecalentamiento. Un termostato correctamente calibrado asegura que la caldera funcione a la temperatura adecuada.
 
-Esta tarea debe ser realizada por un profesional en la [reparación de calderas](/decogas/calderas.html), ya que **una calibración incorrecta puede causar más problemas**. Asegurarse de que el termostato esté en perfectas condiciones es clave para el buen funcionamiento del sistema de calefacción.
+Esta tarea debe ser realizada por un profesional en la [reparación de calderas](/calderas.html), ya que **una calibración incorrecta puede causar más problemas**. Asegurarse de que el termostato esté en perfectas condiciones es clave para el buen funcionamiento del sistema de calefacción.
 
 ### Mantenimiento de radiadores y tuberías
 
@@ -107,7 +107,7 @@ El mantenimiento preventivo de una caldera debe realizarse al menos una vez al a
 
 ### ¿Es normal que la caldera expulse agua?
 
-La expulsión de agua por la válvula de seguridad puede indicar una presión excesiva en el sistema. Un pequeño goteo ocasional puede ser normal, pero una fuga constante requiere atención inmediata. Revisa la presión de tu caldera y consulta a un profesional si el problema persiste. En este otro post te explicamos con más detalles [qué hacer si la caldera pierde agua a chorros](/decogas/blog/caldera/caldera-pierde-agua-a-chorros/).
+La expulsión de agua por la válvula de seguridad puede indicar una presión excesiva en el sistema. Un pequeño goteo ocasional puede ser normal, pero una fuga constante requiere atención inmediata. Revisa la presión de tu caldera y consulta a un profesional si el problema persiste. En este otro post te explicamos con más detalles [qué hacer si la caldera pierde agua a chorros](/blog/caldera/caldera-pierde-agua-a-chorros/).
 
 ### ¿Por qué mi caldera hace ruidos extraños?
 

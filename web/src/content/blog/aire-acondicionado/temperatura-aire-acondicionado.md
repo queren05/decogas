@@ -8,12 +8,12 @@ tagClass: "aire"
 breadcrumb: "Aire acondicionado"
 readingTime: 4
 ---
-Seguramente alguna vez te hayas preguntado a cuántos grados debes poner tu [aire acondicionado](/decogas/aires.html) para que tu casa mantenga una **temperatura confortable** y, al mismo tiempo, no constiparte; por eso, en este _post_ te vamos a mostrar cuál es la temperatura del aire acondicionado ideal para tu hogar.
+Seguramente alguna vez te hayas preguntado a cuántos grados debes poner tu [aire acondicionado](/aires.html) para que tu casa mantenga una **temperatura confortable** y, al mismo tiempo, no constiparte; por eso, en este _post_ te vamos a mostrar cuál es la temperatura del aire acondicionado ideal para tu hogar.
 
 ## ¿Cuál es la temperatura ideal del aire acondicionado en tu hogar?
 
 Lo más recomendable es la temperatura ideal del aire acondicionado **no tenga una diferencia mayor de 12 grados con el exterior**. Normalmente, si la vivienda se encuentra a unos 24 – 25ºC es suficiente para sentirse cómodo.  
-![Pareja viendo la televisión a la temperatura ideal del aire acondicionado](/decogas/blog-img/pareja-aire-acondicionado-vivienda.webp)Lo que debes evitar es que, si llegas a casa y traes calor de la calle, bajes más la temperatura; en estos, lo más recomendable es que esperes unos minutos a que tu cuerpo se aclimate a este cambio de temperatura.
+![Pareja viendo la televisión a la temperatura ideal del aire acondicionado](/blog-img/pareja-aire-acondicionado-vivienda.webp)Lo que debes evitar es que, si llegas a casa y traes calor de la calle, bajes más la temperatura; en estos, lo más recomendable es que esperes unos minutos a que tu cuerpo se aclimate a este cambio de temperatura.
 
 Lo mejor es que en verano la casa tenga una temperatura entre los 24 y los 26ºC; por su parte, en **invierno** debe oscilar entre los 20 y los 23ºC.
 
@@ -45,11 +45,11 @@ En ambos casos, la temperatura debe estar sujeta a una humedad relativa, entre e
 
 A continuación, te mostramos unos consejos que te pueden ayudar a **mejorar el uso** de tu aire acondicionado.
 
--   [Mantenimiento del aire acondicionado](/decogas/blog/aire-acondicionado/mantenimiento-aire-acondicionado/): es imprescindible para que el aire acondicionado tenga un **buen rendimiento**.
+-   [Mantenimiento del aire acondicionado](/blog/aire-acondicionado/mantenimiento-aire-acondicionado/): es imprescindible para que el aire acondicionado tenga un **buen rendimiento**.
 -   **Instalar el deflector**: evita que el aire caiga de forma directa.
 -   **Ventila la estancia**: es fundamental ventilar, cada mañana, todas las habitaciones. De esta manera renuevas el oxígeno y evitas la recirculación del aire.
 -   **Solo cuando sea necesario**: es una tontería encender el aire acondicionado, en modo frío, si vas a necesitar una chaqueta; por eso, solo debes utilizarlo cuando lo necesites.
--   **Mejor si tiene un [sistema de aire acondicionado Inverter](/decogas/aires.html)**: garantizan un mejor rendimiento, una temperatura estable y un ahorro importante.
+-   **Mejor si tiene un [sistema de aire acondicionado Inverter](/aires.html)**: garantizan un mejor rendimiento, una temperatura estable y un ahorro importante.
 
 ## Temperatura para una mejor eficiencia energética
 
@@ -67,8 +67,8 @@ Para que el uso del **aire acondicionado sea más eficiente** y tengamos un ahor
 A continuación te damos algunos **consejos** que te ayudarán a conseguir la temperatura ideal de aire acondicionado:
 
 -   **Velocidad del caudal**: elige una velocidad que mantenga la estancia a una buena temperatura sin utilizar su máxima potencia.
--   **Usa las opciones de programación**: puedes enfriar tu vivienda progresivamente sin gastar mucha energía; además, los [modelos con conexión WiFi](/decogas/blog/aire-acondicionado/aire-acondicionado-wifi/) son perfectos para ello.
--   **Zonificación**: los [aires acondicionados por conductos](/decogas/blog/aire-acondicionado/aire-acondicionado-conductos/) se pueden programar según distintas zonas.
+-   **Usa las opciones de programación**: puedes enfriar tu vivienda progresivamente sin gastar mucha energía; además, los [modelos con conexión WiFi](/blog/aire-acondicionado/aire-acondicionado-wifi/) son perfectos para ello.
+-   **Zonificación**: los [aires acondicionados por conductos](/blog/aire-acondicionado/aire-acondicionado-conductos/) se pueden programar según distintas zonas.
 -   **Programar movimiento de lamas**. Es mejor que las lamas apunten hacia el techo, de esta forma se mejorará en eficiencia y en salud, ya que no incidirán tampoco directamente en las personas.
 
-Cómo ves, disfrutar del **máximo confort** y conseguir la temperatura ideal del aire acondicionado en tu vivienda es muy sencillo; por eso, ¿a qué esperas para hacerte ya con tu [aire acondicionado](/decogas/aires.html)? Además, si no sabes qué modelo comprar lo mejor es que [consultes a nuestros expertos](/decogas/index.html#contacto), ellos estarán encantados de ayudarte.
+Cómo ves, disfrutar del **máximo confort** y conseguir la temperatura ideal del aire acondicionado en tu vivienda es muy sencillo; por eso, ¿a qué esperas para hacerte ya con tu [aire acondicionado](/aires.html)? Además, si no sabes qué modelo comprar lo mejor es que [consultes a nuestros expertos](/index.html#contacto), ellos estarán encantados de ayudarte.

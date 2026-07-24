@@ -12,7 +12,7 @@ readingTime: 6
 
 **En esta guía, vamos a enseñarte cómo conseguirlo de forma práctica y accesible.** Desde aprovechar mejor las alfombras y cortinas térmicas hasta ajustar las persianas y utilizar aparatos portátiles como estufas o radiadores eléctricos, descubrirás consejos útiles que realmente funcionan. Lo importante es lograr un equilibrio entre comodidad, ahorro y sostenibilidad. ¿Listo para transformar tu hogar en un espacio más cálido y acogedor? ¡Vamos a ello!
 
-![calentar hogar](/decogas/blog-img/calentar-hogar.webp)
+![calentar hogar](/blog-img/calentar-hogar.webp)
 
 ### La importancia de mantener un calor adecuado en invierno
 
@@ -26,7 +26,7 @@ Actualmente son muchas las formas que se tienen a disposición para mantener la 
 
 ### Estufas y radiadores
 
-Las estufas y [radiadores](/decogas/index.html#contacto) son opciones populares para calentar la casa. **Las estufas, especialmente las de pellets, son eficientes y pueden calentar grandes espacios.** Sin embargo, requieren mantenimiento regular y un suministro constante de combustible.
+Las estufas y [radiadores](/index.html#contacto) son opciones populares para calentar la casa. **Las estufas, especialmente las de pellets, son eficientes y pueden calentar grandes espacios.** Sin embargo, requieren mantenimiento regular y un suministro constante de combustible.
 
 **Los radiadores, por otro lado, pueden ser más fáciles de instalar y mantener.** Aunque son eficientes, pueden no ser la mejor opción para casas grandes o mal aisladas, ya que pueden no distribuir el calor de manera uniforme.
 
@@ -38,7 +38,7 @@ La eficiencia energética es un factor clave al elegir calefactores eléctricos.
 
 ### Estufas de biomasa y pellets
 
-Las estufas de biomasa y [estufas de pellets](/decogas/index.html#contacto) representan una solución ecológica y eficiente. **Utilizan materiales renovables y emiten menos contaminantes que los sistemas tradicionales de calefacción**. Son ideales para aquellos que buscan una opción sostenible.
+Las estufas de biomasa y [estufas de pellets](/index.html#contacto) representan una solución ecológica y eficiente. **Utilizan materiales renovables y emiten menos contaminantes que los sistemas tradicionales de calefacción**. Son ideales para aquellos que buscan una opción sostenible.
 
 El calor generado por estas estufas es a menudo más agradable y constante. Aunque la inversión inicial puede ser mayor, el ahorro en energía y el impacto ambiental positivo hacen que valga la pena.
 
@@ -83,7 +83,7 @@ La seguridad es primordial al usar cualquier tipo de calefactor. Es importante s
 
 Instalar detectores de humo y monóxido de carbono en el hogar puede proporcionar una capa adicional de seguridad. Estos dispositivos son esenciales, especialmente en casas con sistemas de calefacción a base de combustibles.
 
-![Calentar la casa con un radiador](/decogas/blog-img/calentar-casa-radiador-1.webp)
+![Calentar la casa con un radiador](/blog-img/calentar-casa-radiador-1.webp)
 
 ## Innovaciones y tendencias en calefacción doméstica
 

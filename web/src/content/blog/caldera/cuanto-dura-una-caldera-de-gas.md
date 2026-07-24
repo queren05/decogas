@@ -8,11 +8,11 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 6
 ---
-![cuánto dura una caldera](/decogas/blog-img/durar-una-caldera-de-gas.webp)
+![cuánto dura una caldera](/blog-img/durar-una-caldera-de-gas.webp)
 
 Puede suceder que tu caldera tenga muchos años y que comience a fallar de vez en cuando. Cuando eso pasa, solemos llamar al servicio técnico para que cambie la pieza que falla o solucionar un problema del circuito o de la caldera. Pero entonces nos comienza a entrar la duda de **cuánto dura una caldera de gas**.
 
-Cuando llegamos a un punto en que la [caldera de gas](/decogas/calderas.html) empieza a fallar cada dos por tres, nos planteamos si será mejor cambiarla, ya que el gasto de las continuas reparaciones puede ser mayor que adquirir una nueva.
+Cuando llegamos a un punto en que la [caldera de gas](/calderas.html) empieza a fallar cada dos por tres, nos planteamos si será mejor cambiarla, ya que el gasto de las continuas reparaciones puede ser mayor que adquirir una nueva.
 
 Normalmente será el técnico quien nos indique **cuándo es conveniente cambiar la caldera**. Pero nosotros te queremos ayudar y en este artículo te lo contaremos todo sobre **la duración de una caldera**, por qué falla y cómo alargar su vida útil.
 
@@ -21,10 +21,10 @@ Normalmente será el técnico quien nos indique **cuándo es conveniente cambiar
 Saber cuánto dura una caldera dependerá de los siguientes elementos que debemos tener en cuenta:
 
 -   **Instalación de la caldera**. Si queremos que nos dure mucho tiempo, es importante que la instalación sea hecha por un profesional acreditado que se encargue de realizar un montaje adecuado para la caldera.
--   **Revisiones periódicas**. Es necesario revisar el [funcionamiento de la caldera](/decogas/blog/caldera/como-funciona-caldera-de-gas/) y su instalación por un profesional, para que todo funcione correctamente y no aparezcan fallos de ningún tipo.
+-   **Revisiones periódicas**. Es necesario revisar el [funcionamiento de la caldera](/blog/caldera/como-funciona-caldera-de-gas/) y su instalación por un profesional, para que todo funcione correctamente y no aparezcan fallos de ningún tipo.
 -   **Antigüedad de la caldera**. Se recomienda que por lo general, tras 10 o 15 años, se recurra a los expertos que realizan la revisión para saber si es necesario o no cambiar la caldera. Aunque es un gasto que siempre intentamos evitar, la verdad es que una nueva caldera es mucho más eficiente, por lo que a largo plazo se consume menos energía y se gasta menos dinero.
 
-![caldera de gas y técnico](/decogas/blog-img/caldera-de-gas-y-tecnico.webp)
+![caldera de gas y técnico](/blog-img/caldera-de-gas-y-tecnico.webp)
 
 ## La calidad de sus componentes influirá en la vida útil de la caldera
 
@@ -48,9 +48,9 @@ Normalmente, los técnicos expertos nos recomiendan **cambiar la caldera cada 10
 
 ### La caldera exige reparaciones frecuentes
 
-La reparación de [averías en calderas](/decogas/blog/caldera/principales-averias-calderas/), sobre todo en los aparatos más antiguos, necesita de un **desembolso de dinero** importante. Si el técnico que mantiene la caldera comienza a encontrar **difícil encontrar piezas para reparar la caldera**, entonces es el momento en que sabremos que es necesario en breve cambiar el aparato.
+La reparación de [averías en calderas](/blog/caldera/principales-averias-calderas/), sobre todo en los aparatos más antiguos, necesita de un **desembolso de dinero** importante. Si el técnico que mantiene la caldera comienza a encontrar **difícil encontrar piezas para reparar la caldera**, entonces es el momento en que sabremos que es necesario en breve cambiar el aparato.
 
-![chico reparando la caldera](/decogas/blog-img/chico-reparando-la-caldera.webp)
+![chico reparando la caldera](/blog-img/chico-reparando-la-caldera.webp)
 
 ### La caldera ya no es tan eficiente
 
@@ -71,7 +71,7 @@ Antes hemos mencionado que la frecuencia de ciertas averías en las calderas pue
 -   **Exceso de monóxido de carbono**
 -   **Se apaga la caldera**. Un motivo común es un fallo en la sonda de temperatura o la falta de suministro de gas.
 -   **Tubo exterior de la salida de humos**. El tubo de extracción de gases esté roto.
--   **Ruidos extraños o goteos**. El goteo puede suponer que esté fallando la [válvula de seguridad](/decogas/blog/caldera/valvula-seguridad-caldera/) de la caldera.
+-   **Ruidos extraños o goteos**. El goteo puede suponer que esté fallando la [válvula de seguridad](/blog/caldera/valvula-seguridad-caldera/) de la caldera.
 -   **Sin agua caliente**. Puede deberse a una bajada de presión y es un problema que aparece con el tiempo. El circuito se queda sin agua y se soluciona rellenando la presión de 1.5 bares.
 
 ## Ventajas de cambiar la caldera de gas
@@ -85,7 +85,7 @@ Aunque no nos guste la idea de cambiar la caldera, sobre todo en términos econ�
 -   Conseguiremos la **temperatura ideal** que se traduce en un mayor confort en el hogar.
 -   **El cambio de caldera es rápido** (unas horas) y se notan los cambios desde el primer momento.
 
-![chica regulando el termostato](/decogas/blog-img/chica-configurando-el-termostato.webp)
+![chica regulando el termostato](/blog-img/chica-configurando-el-termostato.webp)
 
 ## Alargar la vida útil de la caldera
 

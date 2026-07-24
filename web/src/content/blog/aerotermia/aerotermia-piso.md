@@ -8,9 +8,9 @@ tagClass: "aerotermia"
 breadcrumb: "Aerotermia"
 readingTime: 6
 ---
-![Sistema de climatización en un piso](/decogas/blog-img/aerotermia-en-un-piso-1.webp)
+![Sistema de climatización en un piso](/blog-img/aerotermia-en-un-piso-1.webp)
 
-¿Te has preguntado alguna vez si realmente merece la pena **instalar [aerotermia](/decogas/index.html#contacto) en un piso**? Descubrir cómo funciona este sistema puede cambiar por completo tu forma de entender la climatización en casa. Si buscas **ahorro energético y mayor confort**, sigue leyendo. Aquí encontrarás información clara y directa sobre eficiencia, instalación y mantenimiento de la aerotermia en viviendas.
+¿Te has preguntado alguna vez si realmente merece la pena **instalar [aerotermia](/index.html#contacto) en un piso**? Descubrir cómo funciona este sistema puede cambiar por completo tu forma de entender la climatización en casa. Si buscas **ahorro energético y mayor confort**, sigue leyendo. Aquí encontrarás información clara y directa sobre eficiencia, instalación y mantenimiento de la aerotermia en viviendas.
 
 ¿Quieres saber si tu piso es adecuado? ¿Tienes dudas sobre el espacio o la inversión? Este artículo te lo cuenta todo, desde la experiencia y el uso real.
 
@@ -18,11 +18,11 @@ readingTime: 6
 
 La aerotermia es un **sistema de climatización que aprovecha la energía del aire exterior para calentar o enfriar el interior de una vivienda y producir agua caliente sanitaria**. Utiliza una bomba de calor que extrae la energía térmica del aire, incluso cuando las temperaturas exteriores son bajas.
 
-Si te planteas alternativas, puedes consultar nuestra guía sobre [geotermia o aerotermia](/decogas/blog/geotermia-o-aerotermia) para comparar ambos sistemas. El proceso se basa en un principio físico sencillo: **el aire siempre contiene energía**, y la tecnología permite aprovecharla para generar confort térmico con un consumo eléctrico muy reducido.}.
+Si te planteas alternativas, puedes consultar nuestra guía sobre [geotermia o aerotermia](/blog/geotermia-o-aerotermia) para comparar ambos sistemas. El proceso se basa en un principio físico sencillo: **el aire siempre contiene energía**, y la tecnología permite aprovecharla para generar confort térmico con un consumo eléctrico muy reducido.}.
 
-En la práctica, **instalar aerotermia en un piso significa contar con una solución integral** que puede sustituir a los sistemas de calefacción tradicionales y aires acondicionados convencionales. Si estás valorando cuál es el [mejor sistema de calefacción para un piso](/decogas/blog/aerotermia/mejor-sistema-de-calefaccion-para-un-piso/), puede que la aerotermia sea la respuesta. El sistema es compatible tanto con radiadores de baja temperatura como con **suelo radiante o fancoils**. Su funcionamiento silencioso y la ausencia de combustión hacen que sea una opción cada vez más elegida en viviendas urbana.
+En la práctica, **instalar aerotermia en un piso significa contar con una solución integral** que puede sustituir a los sistemas de calefacción tradicionales y aires acondicionados convencionales. Si estás valorando cuál es el [mejor sistema de calefacción para un piso](/blog/aerotermia/mejor-sistema-de-calefaccion-para-un-piso/), puede que la aerotermia sea la respuesta. El sistema es compatible tanto con radiadores de baja temperatura como con **suelo radiante o fancoils**. Su funcionamiento silencioso y la ausencia de combustión hacen que sea una opción cada vez más elegida en viviendas urbana.
 
-Si deseas conocer cómo funciona el [suelo radiante con aerotermia](/decogas/blog/aerotermia/suelo-radiante-aerotermia/), aquí explicamos en qué casos es ideal y cómo se integra en viviendas.
+Si deseas conocer cómo funciona el [suelo radiante con aerotermia](/blog/aerotermia/suelo-radiante-aerotermia/), aquí explicamos en qué casos es ideal y cómo se integra en viviendas.
 
 ## Ventajas y desventajas de instalar aerotermia en un piso
 
@@ -80,7 +80,7 @@ En **edificios comunitarios**, es recomendable consultar la normativa y el permi
 
 ## Requisitos y consideraciones para la instalación
 
-![aerotermia en un piso](/decogas/blog-img/aerotermia-en-un-piso.webp)
+![aerotermia en un piso](/blog-img/aerotermia-en-un-piso.webp)
 
 Antes de instalar aerotermia en un piso, es fundamental analizar la vivienda y sus características. **El aislamiento, el espacio disponible y la orientación** pueden influir en el rendimiento final del sistema.
 
@@ -106,4 +106,4 @@ El mantenimiento de la aerotermia **es sencillo y poco costoso**. Basta con real
 
 En el uso diario, el sistema puede gestionarse fácilmente desde un **panel de control digital** o una **aplicación móvil**. Un buen mantenimiento asegura que la aerotermia mantenga su alta eficiencia y prolonga la vida útil de los equipos.
 
-La **aerotermia en un piso** ofrece eficiencia, confort y sostenibilidad. Si buscas reducir tus facturas y mejorar tu hogar, este sistema puede ser la solución ideal. ¿Te gustaría saber cuánto podrías ahorrar? [Ponte en contacto con nosotros](/decogas/index.html#contacto) y solicita un presupuesto personalizado sin compromiso.
+La **aerotermia en un piso** ofrece eficiencia, confort y sostenibilidad. Si buscas reducir tus facturas y mejorar tu hogar, este sistema puede ser la solución ideal. ¿Te gustaría saber cuánto podrías ahorrar? [Ponte en contacto con nosotros](/index.html#contacto) y solicita un presupuesto personalizado sin compromiso.

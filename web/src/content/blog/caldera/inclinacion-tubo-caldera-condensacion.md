@@ -8,17 +8,17 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 5
 ---
-La [instalación correcta de una caldera](/decogas/calderas.html) de condensación es esencial para la seguridad y bienestar de cualquier hogar, ya que permite satisfacer muchas necesidades en el día a día en casa, ya sea para usarlo de forma sanitaria o como calefacción. Y que elementos como la **inclinación del tubo de caldera de condensación** estén bien instalados.
+La [instalación correcta de una caldera](/calderas.html) de condensación es esencial para la seguridad y bienestar de cualquier hogar, ya que permite satisfacer muchas necesidades en el día a día en casa, ya sea para usarlo de forma sanitaria o como calefacción. Y que elementos como la **inclinación del tubo de caldera de condensación** estén bien instalados.
 
-Es conveniente que sepamos todo lo necesario sobre las [**salidas de humos**](/decogas/blog/caldera/normativa-salida-humos-caldera-condensacion/) que tienen las calderas de condensación para quedarnos tranquilos o tomar medidas para cambiar la instalación si comprobamos que no está realizada de forma correcta.
+Es conveniente que sepamos todo lo necesario sobre las [**salidas de humos**](/blog/caldera/normativa-salida-humos-caldera-condensacion/) que tienen las calderas de condensación para quedarnos tranquilos o tomar medidas para cambiar la instalación si comprobamos que no está realizada de forma correcta.
 
-## ![tubo de condensación](/decogas/blog-img/istockphoto-1185875676-612x612-1.webp)¿Cuál es la importancia de la inclinación del tubo de la caldera?
+## ![tubo de condensación](/blog-img/istockphoto-1185875676-612x612-1.webp)¿Cuál es la importancia de la inclinación del tubo de la caldera?
 
 El **sistema interno de una caldera** **de condensación** ayuda a recuperar, antes de expulsar los gases de la combustión fuera del hogar, una parte importante del **calor que está presente en los humos** salidos de la combustión. La recuperación de la energía enfría bastante la temperatura de estos gases bajándolos por debajo de los 50ºC y provocando que los veamos en forma de vapor.
 
 De esta forma, las calderas de condensación echan vapor los conductos que, al entrar en contacto con la **temperatura ambiente exterior**, parte de este humo blanco se transforma en líquido.
 
-Por eso, los tubos de los conductos de la caldera han de estar instalados con cierta pendiente ascendente desde la caldera hacia el exterior del hogar, para que los condensados creados puedan mantenerse en la caldera y estar adecuadamente [**conectados a un desagüe**](/decogas/blog/caldera/desague-caldera-condensacion/).
+Por eso, los tubos de los conductos de la caldera han de estar instalados con cierta pendiente ascendente desde la caldera hacia el exterior del hogar, para que los condensados creados puedan mantenerse en la caldera y estar adecuadamente [**conectados a un desagüe**](/blog/caldera/desague-caldera-condensacion/).
 
 ## ¿Qué ángulo de inclinación se recomienda para la salida de humos?
 
@@ -28,7 +28,7 @@ De forma genérica, es aconsejable que la pendiente sea, al menos, de un 3% (5,5
 
 La inclinación impide que estos gases salgan por la salida de humos y que se mantengan en la parte inferior por obra de la gravedad, de forma que se **expulsen por el desagüe** (que es obligatorio instalar para las calderas de condensación).
 
-![sistema coaxial de tubos de caldera de condensación](/decogas/blog-img/istockphoto-1214229212-612x612-1.webp)
+![sistema coaxial de tubos de caldera de condensación](/blog-img/istockphoto-1214229212-612x612-1.webp)
 
 ## ¿Qué tipos de salidas de humos para calderas de condensación existen?
 
@@ -56,7 +56,7 @@ Normalmente, los coaxiales tienen un máximo de 8 m en total, por lo que, en cas
 
 En total, se requieren **2 tubos de polipropileno de entre 8 a 20 metros** máximos que permiten ese tipo de instalación, **ambos de 8 cm de diámetro**. Como en los coaxiales, no necesitan de recogida de condensados puesto que la caldera está preparada para eso.
 
-![tabla de tubos de condensación](/decogas/blog-img/tabla-de-tubos-de-condensacion-1-1-800x243-1.webp)
+![tabla de tubos de condensación](/blog-img/tabla-de-tubos-de-condensacion-1-1-800x243-1.webp)
 
 _Tabla de medidas de medidas de los tipos coaxiales y doble tubo en calderas de condensación_
 

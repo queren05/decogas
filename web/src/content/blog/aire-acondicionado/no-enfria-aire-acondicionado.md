@@ -8,9 +8,9 @@ tagClass: "aire"
 breadcrumb: "Aire acondicionado"
 readingTime: 5
 ---
-Normalmente, cuando sentimos que el [aire acondicionado](/decogas/aires.html) no enfría es debido a un problema en la falta de gas, puesto que el gas de un aire acondicionado necesita cierta revisión, cambio o recarga cada cierto tiempo. Esto no tiene que ser así, sino que pueden ser otros motivos por el que **no enfría el aire acondicionado**, como es el caso de tener [piezas del aparato sucios o averiados](/decogas/blog/aire-acondicionado/mantenimiento-aire-acondicionado/).
+Normalmente, cuando sentimos que el [aire acondicionado](/aires.html) no enfría es debido a un problema en la falta de gas, puesto que el gas de un aire acondicionado necesita cierta revisión, cambio o recarga cada cierto tiempo. Esto no tiene que ser así, sino que pueden ser otros motivos por el que **no enfría el aire acondicionado**, como es el caso de tener [piezas del aparato sucios o averiados](/blog/aire-acondicionado/mantenimiento-aire-acondicionado/).
 
-## ![aire acondicionado averiado](/decogas/blog-img/istockphoto-1256098103-612x612-1-600x400-1.webp)Causas por las que no enfría el aire acondicionado
+## ![aire acondicionado averiado](/blog-img/istockphoto-1256098103-612x612-1-600x400-1.webp)Causas por las que no enfría el aire acondicionado
 
 Podemos encontrar **diversidad de causas** por las que no enfría el aire acondicionado ni climatiza como debería ser:
 
@@ -34,7 +34,7 @@ Al contrario, cuando el condensador del compresor es el que no trabaja, podemos 
 
 Si este mismo **ventilador realiza bastante ruido**, para saber si es el compresor, es necesario comprobar las tuberías. Si están a temperatura normal, eso significa que no funciona.
 
-![chica valorando su aire acondicionado](/decogas/blog-img/istockphoto-854397798-612x612-1-600x400-1.webp)
+![chica valorando su aire acondicionado](/blog-img/istockphoto-854397798-612x612-1-600x400-1.webp)
 
 ### El ventilador interior o exterior no funciona
 
@@ -50,7 +50,7 @@ Si los filtros están sucios, se crea un **descenso de compresión del gas** de 
 
 Esto conlleva a que el **consumo eléctrico aumente** y pueda llegar a detenerse porque sale el presostato, un sistema de seguridad que se activa en caso de que la presión sea muy alta o baja. Esto se produce porque no se ha realizado un correcto mantenimiento.
 
-Para la [limpieza de los filtros](/decogas/blog/aire-acondicionado/limpiar-filtros-aire-acondicionado/) se recomienda usar agua caliente y un cepillo de cerdas blandas.
+Para la [limpieza de los filtros](/blog/aire-acondicionado/limpiar-filtros-aire-acondicionado/) se recomienda usar agua caliente y un cepillo de cerdas blandas.
 
 ### Ventilador interior descuidado
 
@@ -62,7 +62,7 @@ Otra situación puede ser cuando el ventilador se ensucia y se **crean olores de
 
 Aunque parezca una tontería, mucha gente se **equivoca o cofunde al poner en funcionamiento el aire acondicionado**, puesto que **no saben como configurarlo** correctamente. Y, muchas veces, la mayoría de problemas del aire acondicionado proceden de una mala configuración del control remoto.
 
-Siempre tenemos que asegurarnos de que tenemos puesto el aire en modo frío, que corresponde a la tecla del mando que tiene un copo de nieve o la palabra “[cool](/decogas/blog/aire-acondicionado/boton-cool/)”, ya que en ocasiones se confunde con el modo deshumidificador (gota de agua).
+Siempre tenemos que asegurarnos de que tenemos puesto el aire en modo frío, que corresponde a la tecla del mando que tiene un copo de nieve o la palabra “[cool](/blog/aire-acondicionado/boton-cool/)”, ya que en ocasiones se confunde con el modo deshumidificador (gota de agua).
 
 ### Ten paciencia al arrancar el equipo
 
@@ -76,7 +76,7 @@ Cuando funciona el aire acondicionado, la máquina exterior **echa el aire calie
 
 Este problema puede producirse en aparatos que estén ubicados en terrazas y azoteas donde dé mucho el sol o porque la máquina esté introducida en algún tipo de cajón metálico y la ventilación no sea adecuada. Para solucionar este problema, tenemos que bajar la temperatura exterior.
 
-![aire acondicionado manejado de forma remota](/decogas/blog-img/istockphoto-1256851395-612x612-1-600x400-1.webp)
+![aire acondicionado manejado de forma remota](/blog-img/istockphoto-1256851395-612x612-1-600x400-1.webp)
 
 ## ¿Cómo solucionar si no enfría el aire acondicionado?
 

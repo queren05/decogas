@@ -8,7 +8,7 @@ tagClass: "aire"
 breadcrumb: "Aire acondicionado"
 readingTime: 5
 ---
-![aire acondicionado inverter](/decogas/blog-img/aire-acondicionado-interver-1.webp)
+![aire acondicionado inverter](/blog-img/aire-acondicionado-interver-1.webp)
 
 ¿Has oído hablar de la **tecnología inverter** pero no tienes claro qué significa ni cómo puede ayudarte en casa? Si estás valorando **cambiar tu sistema de calefacción** o **instalar una caldera** **más eficiente**, entender este concepto es esencial. La tecnología inverter ha cambiado por completo la forma en la que usamos la energía en el hogar.
 
@@ -28,17 +28,17 @@ La tecnología inverter aporta una serie de beneficios que se notan tanto en el 
 
 Una de las ventajas más evidentes del sistema inverter es el **ahorro constante de energía**. Al adaptar su funcionamiento en tiempo real, el equipo evita los arranques forzados y trabaja solo con la potencia necesaria.
 
-Esto se traduce en un **consumo menor**, especialmente en hogares donde la calefacción o el aire acondicionado se usan durante muchas horas al día. Si te preocupa tener el [aire acondicionado encendido todo el día](/decogas/blog/aire-acondicionado/aire-acondicionado-encendido-todo-el-dia/), el inverter se muestra como la mejor opción para evitar despilfarros.
+Esto se traduce en un **consumo menor**, especialmente en hogares donde la calefacción o el aire acondicionado se usan durante muchas horas al día. Si te preocupa tener el [aire acondicionado encendido todo el día](/blog/aire-acondicionado/aire-acondicionado-encendido-todo-el-dia/), el inverter se muestra como la mejor opción para evitar despilfarros.
 
 ### Reducción del consumo eléctrico
 
 El funcionamiento progresivo del inverter evita los picos de consumo eléctrico que generan los sistemas tradicionales al encenderse y apagarse. Este control más fino permite un **uso más eficiente de la energía**, reduciendo el impacto sobre la factura mensual.
 
-Además, **protege mejor la instalación eléctrica del hogar** y facilita la combinación con fuentes renovables como los paneles solares. Esto se traduce en ahorro real: puedes saber [cuánto gasta un aire acondicionado sin inverter](/decogas/blog/aire-acondicionado/cuanto-gasta-aire-acondicionado/) comparado con un sistema más eficiente.
+Además, **protege mejor la instalación eléctrica del hogar** y facilita la combinación con fuentes renovables como los paneles solares. Esto se traduce en ahorro real: puedes saber [cuánto gasta un aire acondicionado sin inverter](/blog/aire-acondicionado/cuanto-gasta-aire-acondicionado/) comparado con un sistema más eficiente.
 
 ### Mayor confort térmico en el hogar
 
-Gracias a su regulación continua, **el inverter mantiene una temperatura estable sin cambios bruscos**. Esto mejora notablemente la sensación de confort, sobre todo en invierno o en días calurosos. Además, ayuda a mantener la [temperatura ideal en casa durante el invierno](/decogas/blog/caldera/temperatura-ideal-casa-invierno/), lo que garantiza un ambiente realmente cómodo en todas las estancias.
+Gracias a su regulación continua, **el inverter mantiene una temperatura estable sin cambios bruscos**. Esto mejora notablemente la sensación de confort, sobre todo en invierno o en días calurosos. Además, ayuda a mantener la [temperatura ideal en casa durante el invierno](/blog/caldera/temperatura-ideal-casa-invierno/), lo que garantiza un ambiente realmente cómodo en todas las estancias.
 
 No hay subidas ni bajadas repentinas de temperatura, lo que **evita molestias y crea un ambiente más agradable** en cualquier estancia de la vivienda.
 
@@ -52,7 +52,7 @@ Es especialmente **útil por la noche** o en habitaciones donde se busca tranqui
 
 El control progresivo del inverter reduce el esfuerzo mecánico que soportan los componentes del equipo. Esto se traduce **en menos desgaste y mayor durabilidad**. Al evitar ciclos de encendido y apagado forzados, se minimiza el riesgo de averías y se alarga la vida útil de la caldera o del sistema de climatización.
 
-![sistema aire acondicionado por conductos](/decogas/blog-img/aire-acondicionado-multisplit-y-de-conductos.webp)
+![sistema aire acondicionado por conductos](/blog-img/aire-acondicionado-multisplit-y-de-conductos.webp)
 
 ## Aplicaciones de la tecnología inverter
 
@@ -79,4 +79,4 @@ Seleccionar un buen equipo inverter no depende solo de la marca. Hay que valorar
 
 También conviene tener en cuenta la calidad del **servicio postventa** y la **facilidad de instalación**. Un sistema eficiente pierde valor si no se instala correctamente o si no hay soporte técnico fiable. Una buena elección se basa tanto en el equipo como en el profesional que lo pone en marcha.
 
-En resumen, la tecnología inverter mejora la eficiencia, el confort y el ahorro energético en tu hogar. Si estás pensando en instalar una caldera o actualizar tu sistema, **podemos ayudarte a elegir la mejor opción**. [Contacta con nosotros](/decogas/index.html#contacto) y solicita tu presupuesto sin compromiso. Te asesoramos de forma personalizada.
+En resumen, la tecnología inverter mejora la eficiencia, el confort y el ahorro energético en tu hogar. Si estás pensando en instalar una caldera o actualizar tu sistema, **podemos ayudarte a elegir la mejor opción**. [Contacta con nosotros](/index.html#contacto) y solicita tu presupuesto sin compromiso. Te asesoramos de forma personalizada.

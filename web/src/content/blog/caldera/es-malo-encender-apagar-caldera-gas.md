@@ -8,9 +8,9 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 5
 ---
-![mano encendiendo calefacción](/decogas/blog-img/es-malo-encender-y-apagar-la-caldera-de-gas-1.webp)
+![mano encendiendo calefacción](/blog-img/es-malo-encender-y-apagar-la-caldera-de-gas-1.webp)
 
-¿Te has preguntado si **encender y apagar frecuentemente la** **[**caldera de gas**](/decogas/calderas.html)** afecta su rendimiento y tu factura energética? Este hábito puede influir en el **consumo de energía****,** el **desgaste de componentes** y la **eficiencia** de tu sistema de calefacción. En este artículo profundizaremos en el impacto de encender y apagar frecuentemente la caldera, así tendrás más herramientas para hacer un uso eficiente del sistema.
+¿Te has preguntado si **encender y apagar frecuentemente la** **[**caldera de gas**](/calderas.html)** afecta su rendimiento y tu factura energética? Este hábito puede influir en el **consumo de energía****,** el **desgaste de componentes** y la **eficiencia** de tu sistema de calefacción. En este artículo profundizaremos en el impacto de encender y apagar frecuentemente la caldera, así tendrás más herramientas para hacer un uso eficiente del sistema.
 
 ## Funcionamiento de una caldera de gas
 
@@ -25,7 +25,7 @@ Una caldera de gas consta de varios elementos clave que trabajan en conjunto par
 -   **Bomba de circulación**: mueve el agua caliente hacia los radiadores o grifos.
 -   **Termostato**: regula la temperatura deseada en el ambiente o en el agua.
 
-Conoce [cuánto cuesta una caldera](/decogas/blog/caldera/cuanto-cuesta-una-caldera/).
+Conoce [cuánto cuesta una caldera](/blog/caldera/cuanto-cuesta-una-caldera/).
 
 ### Proceso de combustión y generación de calor
 
@@ -38,7 +38,7 @@ El funcionamiento de la caldera sigue estos pasos:
 
 ## Efectos del encendido y apagado frecuente
 
-Apagar y [encender la caldera](/decogas/blog/caldera/como-encender-caldera/) de gas en intervalos cortos puede tener impactos importantes en su rendimiento, consumo energético y costes de mantenimiento.
+Apagar y [encender la caldera](/blog/caldera/como-encender-caldera/) de gas en intervalos cortos puede tener impactos importantes en su rendimiento, consumo energético y costes de mantenimiento.
 
 ### Desgaste de componentes internos
 
@@ -52,17 +52,17 @@ Al encender la caldera, el sistema necesita más energía para alcanzar la tempe
 
 Mantener la caldera encendida de manera constante a baja intensidad es, a menudo, una opción más económica que apagarla y volver a encenderla repetidamente.
 
-En este otro post te contamos [cuáles son las calderas de gas que menos consumen](/decogas/blog/caldera/calderas-que-menos-consumen/).
+En este otro post te contamos [cuáles son las calderas de gas que menos consumen](/blog/caldera/calderas-que-menos-consumen/).
 
 ### Impacto en la eficiencia energética
 
 El funcionamiento intermitente de la caldera **dificulta que alcance su máximo rendimiento**. Las calderas están diseñadas para ser más eficientes cuando mantienen una temperatura estable; los ciclos de encendido y apagado impiden este equilibrio, afectando su eficiencia y aumentando tanto el consumo de gas como las emisiones.
 
-Aquí te contamos qué hacer si la [caldera de gas no arranca](/decogas/blog/caldera/caldera-gasoil-no-arranca/).
+Aquí te contamos qué hacer si la [caldera de gas no arranca](/blog/caldera/caldera-gasoil-no-arranca/).
 
 ## Consecuencias económicas
 
-![persona encendiendo el termostato](/decogas/blog-img/es-malo-encender-y-apagar-la-caldera-de-gas-2.webp)
+![persona encendiendo el termostato](/blog-img/es-malo-encender-y-apagar-la-caldera-de-gas-2.webp)
 
 El encendido y apagado frecuente de la caldera de gas no solo afecta su rendimiento, sino también tu economía a largo plazo.
 

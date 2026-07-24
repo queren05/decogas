@@ -8,7 +8,7 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 5
 ---
-![Técnico haciendo la revision caldera obligatoria](/decogas/blog-img/revision-caldera-obligatoria-1.webp)
+![Técnico haciendo la revision caldera obligatoria](/blog-img/revision-caldera-obligatoria-1.webp)
 
 Mantener tu **caldera de gas** en óptimas condiciones es fundamental para garantizar la seguridad y eficiencia energética de tu hogar. Además, cumplir con la **revisión obligatoria** no solo previene averías costosas, sino que también te protege de posibles sanciones legales.
 
@@ -20,11 +20,11 @@ Revisar periódicamente la caldera de gas es un paso imprescindible para garanti
 
 ### Seguridad y eficiencia energética
 
-Una caldera revisada asegura un hogar más seguro al **prevenir las [posibles averías en calderas](/decogas/blog/caldera/principales-averias-calderas/), como fugas de gas o acumulaciones peligrosas de monóxido de carbono**.
+Una caldera revisada asegura un hogar más seguro al **prevenir las [posibles averías en calderas](/blog/caldera/principales-averias-calderas/), como fugas de gas o acumulaciones peligrosas de monóxido de carbono**.
 
 Además, **el mantenimiento optimiza su rendimiento**, lo que significa que consumirás menos gas para obtener el mismo calor, reduciendo costes y contribuyendo a la protección del medio ambiente con menos emisiones.
 
-Aquí te contamos cuáles son las [calderas de gas que menos consumen](/decogas/blog/caldera/calderas-que-menos-consumen/).
+Aquí te contamos cuáles son las [calderas de gas que menos consumen](/blog/caldera/calderas-que-menos-consumen/).
 
 ### Prevención de averías y costes innecesarios
 
@@ -72,7 +72,7 @@ Conocer y cumplir estos requisitos específicos asegura el funcionamiento correc
 
 ## Normativa vigente
 
-![Hombre instalando caldera de gas](/decogas/blog-img/revision-caldera-obligatoria-2.webp)
+![Hombre instalando caldera de gas](/blog-img/revision-caldera-obligatoria-2.webp)
 
 La normativa sobre revisión de calderas busca garantizar la seguridad, eficiencia y cumplimiento de las disposiciones legales en el hogar.
 
@@ -90,7 +90,7 @@ Conservar el **certificado de revisión** es indispensable, ya que puede ser req
 
 ## Consecuencias de no realizar la revisión
 
-[Omitir la revisión de la caldera](/decogas/blog/caldera/que-pasa-si-no-hago-revision-caldera/) puede tener repercusiones graves, desde sanciones legales hasta riesgos para la seguridad del hogar.
+[Omitir la revisión de la caldera](/blog/caldera/que-pasa-si-no-hago-revision-caldera/) puede tener repercusiones graves, desde sanciones legales hasta riesgos para la seguridad del hogar.
 
 ### Riesgos para la seguridad
 
@@ -104,12 +104,12 @@ No cumplir con las revisiones obligatorias puede derivar en **multas impuestas p
 
 El mantenimiento regular de la caldera es clave para optimizar su rendimiento, alargar su vida útil y garantizar tu seguridad.
 
--   **Revisa la presión regularmente:** Asegúrate de que la presión esté en los niveles recomendados por el fabricante, generalmente entre 1 y 2 bares. En este otro post te explicamos [cómo reducir la presión de forma segura](/decogas/blog/caldera/como-bajar-presion-caldera/).
--   **[Purga los radiadores](/decogas/blog/caldera/como-purgar-radiadores-pasos/) antes de la temporada de uso intenso:** Eliminar el aire acumulado mejora la eficiencia del sistema y asegura una distribución uniforme del calor.
+-   **Revisa la presión regularmente:** Asegúrate de que la presión esté en los niveles recomendados por el fabricante, generalmente entre 1 y 2 bares. En este otro post te explicamos [cómo reducir la presión de forma segura](/blog/caldera/como-bajar-presion-caldera/).
+-   **[Purga los radiadores](/blog/caldera/como-purgar-radiadores-pasos/) antes de la temporada de uso intenso:** Eliminar el aire acumulado mejora la eficiencia del sistema y asegura una distribución uniforme del calor.
 -   **Limpia los filtros de forma periódica:** Los filtros sucios dificultan el funcionamiento de la caldera, aumentando el consumo de gas y reduciendo su vida útil.
 -   **Contrata un servicio de mantenimiento preventivo:** Un técnico autorizado puede detectar y solucionar pequeños problemas antes de que se conviertan en averías graves.
 -   **Evita el uso prolongado en verano:** Si no necesitas calefacción durante los meses cálidos, enciende la caldera ocasionalmente para evitar que las piezas se bloqueen.
 
 ## Contacta con profesionales para la revisión de tu caldera
 
-Garantiza la seguridad y eficiencia de tu sistema confiando en expertos. Ofrecemos un servicio profesional de [mantenimiento de calderas](/decogas/calderas.html), adaptado a tus necesidades. Nuestros técnicos autorizados realizan revisiones completas, asegurando que tu equipo cumpla con la normativa vigente. Evita riesgos y sanciones. [Contacta con nosotros](/decogas/index.html#contacto) hoy mismo y disfruta de un hogar cálido y seguro.
+Garantiza la seguridad y eficiencia de tu sistema confiando en expertos. Ofrecemos un servicio profesional de [mantenimiento de calderas](/calderas.html), adaptado a tus necesidades. Nuestros técnicos autorizados realizan revisiones completas, asegurando que tu equipo cumpla con la normativa vigente. Evita riesgos y sanciones. [Contacta con nosotros](/index.html#contacto) hoy mismo y disfruta de un hogar cálido y seguro.

@@ -20,7 +20,7 @@ Es muy probable que, si vas a adquirir un equipo de aire acondicionado, veas mod
 -   **Mantenimiento**: muchos equipos te permiten realizar saber cómo se encuentra tu aparato, para ver si es necesaria una revisión.
 -   **Control de consumo**: gracias a esta opción puedes saber cuánto consume tu aire acondicionado.
 
-![Mujer controlando un aire acondicionado con WiFi con el teléfono móvil](/decogas/blog-img/mujer-movil-aire-acondicionado.webp)
+![Mujer controlando un aire acondicionado con WiFi con el teléfono móvil](/blog-img/mujer-movil-aire-acondicionado.webp)
 
 ## Tipos de aire acondicionado con WiFi
 
@@ -53,9 +53,9 @@ A continuación te mostramos algunas de las **principales ventajas** de este equ
 Además de las ventajas que te hemos comentado anteriormente, los aires acondicionados con WiFi te permiten disfrutar de los **siguientes beneficios**.
 
 -   **Capacidad**: lo mejor es que elijas un aire acondicionado con una capacidad de refrigeración entre 100 y 140 metros cuadrados.
--   **Bajo ruido**: para obtener un mayor confort, te recomendamos que optes por un [aire acondicionado silencioso](/decogas/blog/aire-acondicionado/nivel-sonoro-aire-acondicionado-silencioso/).
+-   **Bajo ruido**: para obtener un mayor confort, te recomendamos que optes por un [aire acondicionado silencioso](/blog/aire-acondicionado/nivel-sonoro-aire-acondicionado-silencioso/).
 -   **Ahorro de energía**. Lo ideal es contar con un aparato con una eficiencia energética A, para asegurarnos de que ahorramos en energía y ser más respetuosos con el medio ambiente Igualmente, un correcto uso de los termostatos y servicios en la nube nos ayudará a controlar y regular el aparato.
 -   **Monitorización del consumo**. Podemos encontrar aplicaciones conectadas a los equipos para conocer su consumo energético en tiempo real y tomar medidas para el ahorro. Además, esta monitorización se puede realizar mediante aplicaciones instaladas en el smartphone o tablet.
 -   **Control por voz**. Podemos gestionar el aire acondicionado mediante órdenes por voz. Esto se consigue gracias a la combinación de aires acondicionados con WiFi y la domótica del hogar empleando Alexa, por ejemplo.
 
-¿Quieres un aire acondicionado con WiFi? Si la respuesta es sí, ponte en [contacto con nosotros](/decogas/index.html#contacto). Nuestros especialistas te ayudarán a elegir el **modelo que más se adapte a tus necesidades**.
+¿Quieres un aire acondicionado con WiFi? Si la respuesta es sí, ponte en [contacto con nosotros](/index.html#contacto). Nuestros especialistas te ayudarán a elegir el **modelo que más se adapte a tus necesidades**.

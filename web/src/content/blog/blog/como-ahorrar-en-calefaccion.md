@@ -8,7 +8,7 @@ tagClass: "caldera"
 breadcrumb: "Consejos"
 readingTime: 3
 ---
-![mujer sonriente sentada cerca de calefactor](/decogas/blog-img/como-ahorrar-en-calefaccion.webp)
+![mujer sonriente sentada cerca de calefactor](/blog-img/como-ahorrar-en-calefaccion.webp)
 
 El gasto en calefacción representa una parte significativa del presupuesto doméstico, especialmente en los meses más fríos. Conocer **cómo** **ahorrar en calefacción** no solo alivia la presión económica, sino que también contribuye a un uso más eficiente de la energía.
 
@@ -22,7 +22,7 @@ La **calefacción de gas** es una de las más populares, conocida por su eficien
 
 Por otro lado, la **calefacción eléctrica** es una alternativa común en áreas donde el acceso al gas natural es limitado. Aunque puede ser más costosa en términos de consumo energético, la calefacción eléctrica ofrece ventajas como una instalación más sencilla y un mantenimiento reducido.
 
-Además de estas dos opciones principales, existen otras alternativas de calefacción, como las [**estufas de pellets**](/decogas/index.html#contacto), **sistemas de calefacción por biomasa** y **bombas de calor geotérmicas**. Estas opciones suelen ser más sostenibles y ecológicas, aprovechando fuentes de energía renovables.
+Además de estas dos opciones principales, existen otras alternativas de calefacción, como las [**estufas de pellets**](/index.html#contacto), **sistemas de calefacción por biomasa** y **bombas de calor geotérmicas**. Estas opciones suelen ser más sostenibles y ecológicas, aprovechando fuentes de energía renovables.
 
 Sin embargo, su instalación y coste inicial pueden ser más elevados, aunque a menudo se compensan con un menor gasto energético a largo plazo y beneficios medioambientales.
 
@@ -34,7 +34,7 @@ Otro aspecto importante es el **mantenimiento regular de los sistemas de calefac
 
 ## **Estrategias de ahorro en calefacción**
 
-![mano tomando monedas junto a silueta de casa](/decogas/blog-img/estrategias-de-ahorro-en-calefaccion.webp)
+![mano tomando monedas junto a silueta de casa](/blog-img/estrategias-de-ahorro-en-calefaccion.webp)
 
 Estas estrategias de ahorro en calefacción te ayudarán a optimizar el uso de la energía en tu casa.
 
@@ -46,13 +46,13 @@ Es recomendable realizar una **inspección anual** por parte de un profesional. 
 
 ### **Elección de calderas de bajo consumo**
 
-Optar por [calderas de bajo consumo](/decogas/calderas.html) puede representar una inversión inicial más alta, pero el **ahorro a largo plazo** en la factura de gas es considerable. Estas calderas utilizan menos gas para generar la misma cantidad de calor, siendo más respetuosas con el medio ambiente.
+Optar por [calderas de bajo consumo](/calderas.html) puede representar una inversión inicial más alta, pero el **ahorro a largo plazo** en la factura de gas es considerable. Estas calderas utilizan menos gas para generar la misma cantidad de calor, siendo más respetuosas con el medio ambiente.
 
 Al elegir una caldera, es importante considerar su **etiqueta de eficiencia energética** y buscar modelos que se adapten a las necesidades específicas de la vivienda y el patrón de uso de la calefacción.
 
 ### **Purgado y mantenimiento de radiadores**
 
-[Purgar los radiadores](/decogas/blog/caldera/purgar-radiadores-con-caldera-encendida/) al menos una vez al año es importante para eliminar el aire atrapado que puede impedir la **correcta circulación del calor**. Esto mejora la eficiencia y ayuda a mantener una temperatura agradable en el hogar.
+[Purgar los radiadores](/blog/caldera/purgar-radiadores-con-caldera-encendida/) al menos una vez al año es importante para eliminar el aire atrapado que puede impedir la **correcta circulación del calor**. Esto mejora la eficiencia y ayuda a mantener una temperatura agradable en el hogar.
 
 El mantenimiento regular de los radiadores, incluyendo la limpieza y la revisión de posibles fugas, asegura que funcionen de manera eficiente, contribuyendo al ahorro en la factura de gas.
 

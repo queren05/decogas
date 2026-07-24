@@ -8,13 +8,13 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 4
 ---
-![Pareja sonriente sentada frente al calefactor](/decogas/blog-img/que-pasa-si-se-cierra-un-radiador-de-la-calefaccion.webp)
+![Pareja sonriente sentada frente al calefactor](/blog-img/que-pasa-si-se-cierra-un-radiador-de-la-calefaccion.webp)
 
 La eficiencia energética es un aspecto crucial en el uso de sistemas de calefacción. Muchos usuarios se preguntan qué pasa si se cierra un radiador de la calefacción y cómo afectará esto a su consumo de gas y a la **distribución del calor en su hogar**. Este artículo busca resolver estas dudas, proporcionando información detallada y práctica.
 
 ## **Importancia del uso eficiente de los radiadores**
 
-El uso eficiente de los [radiadores](/decogas/index.html#contacto) puede significar un ahorro considerable en la factura de gas. Cerrar radiadores innecesarios en habitaciones no utilizadas puede **reducir el consumo de gas**, pero es importante entender cómo y cuándo hacerlo.
+El uso eficiente de los [radiadores](/index.html#contacto) puede significar un ahorro considerable en la factura de gas. Cerrar radiadores innecesarios en habitaciones no utilizadas puede **reducir el consumo de gas**, pero es importante entender cómo y cuándo hacerlo.
 
 La eficiencia de un radiador no solo depende de su estado, sino también de cómo se utiliza. Un manejo adecuado de las **válvulas y manetas de los radiadores** puede mejorar significativamente la eficiencia del sistema de calefacción.
 
@@ -42,7 +42,7 @@ El uso de válvulas termostáticas es especialmente útil en sistemas de calefac
 
 ## **Impacto de cerrar un radiador**
 
-![Hombre apaga radiador](/decogas/blog-img/hombre-apagando-radiador.webp)
+![Hombre apaga radiador](/blog-img/hombre-apagando-radiador.webp)
 
 Cerrar un radiador puede tener un impacto significativo en el sistema de calefacción. Aunque puede llevar a un ahorro de gas en ciertas circunstancias, también puede **afectar negativamente** la eficiencia general del sistema.
 
@@ -66,7 +66,7 @@ Para optimizar el rendimiento de tu sistema de calefacción, sigue estos consejo
 
 -   **Identificar radiadores innecesarios**: Revisa cada habitación y determina si realmente necesitas todos los radiadores activos. En espacios poco utilizados, como una despensa o un almacén, cerrar los radiadores puede reducir significativamente el consumo de gas y la factura energética.
 -   **Manejo adecuado de válvulas y manetas**: Aprende a utilizar correctamente las válvulas y manetas de tus radiadores. Las válvulas termostáticas permiten un control más preciso de la temperatura en cada habitación, lo que contribuye a un uso más eficiente de la energía.
--   **Purgar el circuito de agua regularmente**: Elimina las bolsas de aire en los radiadores purgándolos al menos una vez al año. Esto mejora la circulación del agua caliente y la eficiencia del sistema de calefacción. Aquí te explicamos de manera muy detallada cómo [purgar los radiadores](/decogas/blog/caldera/purgar-radiadores-con-caldera-encendida/) con la caldera encendida.
+-   **Purgar el circuito de agua regularmente**: Elimina las bolsas de aire en los radiadores purgándolos al menos una vez al año. Esto mejora la circulación del agua caliente y la eficiencia del sistema de calefacción. Aquí te explicamos de manera muy detallada cómo [purgar los radiadores](/blog/caldera/purgar-radiadores-con-caldera-encendida/) con la caldera encendida.
 -   **Mantenimiento preventivo**: Realiza revisiones anuales de tus radiadores y de la caldera para asegurarte de que todo funciona correctamente. Un sistema bien mantenido es más eficiente y tiene una vida útil más larga.
 -   **Evitar obstáculos frente a los radiadores**: Mantén los radiadores libres de muebles u objetos que puedan bloquear la emisión de calor. Esto asegura una distribución uniforme del calor y mejora la eficiencia general del sistema.
 -   **Uso inteligente del termostato**: Configura el termostato a una temperatura confortable pero razonable. Reducir la temperatura en solo un grado puede generar un ahorro significativo en el consumo de gas.

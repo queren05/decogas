@@ -12,7 +12,7 @@ Exploraremos las numerosas **ventajas de la aerotermia**, un sistema innovador y
 
 Acompáñanos en este artículo para descubrir sus beneficios y cómo puede mejorar tu experiencia de climatización.
 
-![aerotermia ventajas](/decogas/blog-img/aerotermia-ventajas.webp)
+![aerotermia ventajas](/blog-img/aerotermia-ventajas.webp)
 
 ## Aerotermia: funcionamiento y razones para elegirla
 
@@ -44,7 +44,7 @@ La aerotermia ofrece una serie de beneficios significativos en comparación con 
 
 **Un servicio de mantenimiento profesional garantizará el óptimo rendimiento de tu sistema** y evitará posibles averías o problemas.
 
-En Decogas, ofrecemos servicios de mantenimiento de [aerotermia en Madrid](/decogas/index.html#contacto), con profesionales altamente capacitados que te brindarán asesoramiento y cuidado especializado para tu sistema.
+En Decogas, ofrecemos servicios de mantenimiento de [aerotermia en Madrid](/index.html#contacto), con profesionales altamente capacitados que te brindarán asesoramiento y cuidado especializado para tu sistema.
 
 ---
 
@@ -58,7 +58,7 @@ En Decogas, ofrecemos servicios de mantenimiento de [aerotermia en Madrid](/deco
 
 ### ¿Cuándo merece la pena aerotermia?
 
-La aerotermia merece la pena cuando se busca una solución de **calefacción y refrigeración eficiente y ecológica.** También es una buena opción para viviendas con una buena orientación solar, ya que las unidades exteriores pueden aprovechar el calor del sol para calentar el aire coo el caso de los sistemas de [aerotermia con paneles solares](/decogas/blog/aerotermia-con-placas-solares/).
+La aerotermia merece la pena cuando se busca una solución de **calefacción y refrigeración eficiente y ecológica.** También es una buena opción para viviendas con una buena orientación solar, ya que las unidades exteriores pueden aprovechar el calor del sol para calentar el aire coo el caso de los sistemas de [aerotermia con paneles solares](/blog/aerotermia-con-placas-solares/).
 
 ### ¿Qué ahorro supone la aerotermia?
 
@@ -70,8 +70,8 @@ Si estás pensando en instalar aerotermia en tu hogar, te recomiendo que hagas u
 
 ---
 
-**En conclusión, la aerotermia es una excelente opción para la climatización de viviendas en Madrid y otras regiones.** Sus ventajas son notables, especialmente [al compararla con los sistemas tradicionales de agua y aire](/decogas/blog/aerotermia/diferencia-aire-agua-aire-aire-aerotermia/).
+**En conclusión, la aerotermia es una excelente opción para la climatización de viviendas en Madrid y otras regiones.** Sus ventajas son notables, especialmente [al compararla con los sistemas tradicionales de agua y aire](/blog/aerotermia/diferencia-aire-agua-aire-aire-aerotermia/).
 
-**La aerotermia destaca por su eficiencia energética**, su respeto por el medio ambiente y su capacidad para proporcionar tanto calefacción como refrigeración. Además, la opción de [aerotermia con split](/decogas/blog/aerotermia/aerotermia-con-split/) ofrece una mayor flexibilidad y control en la distribución del aire en diferentes espacios.
+**La aerotermia destaca por su eficiencia energética**, su respeto por el medio ambiente y su capacidad para proporcionar tanto calefacción como refrigeración. Además, la opción de [aerotermia con split](/blog/aerotermia/aerotermia-con-split/) ofrece una mayor flexibilidad y control en la distribución del aire en diferentes espacios.
 
 **En definitiva, la aerotermia es una solución innovadora y sostenible que brinda confort y ahorro energético a los hogares.** Si estás buscando una alternativa eficiente, no dudes en considerar la aerotermia para disfrutar de todas estas ventajas en tu vivienda.

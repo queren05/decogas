@@ -10,9 +10,9 @@ readingTime: 5
 ---
 Comprobar la **resistencia de una estufa de pellet** es una tarea sencilla que cualquier usuario puede realizar. Esta tarea es importante para garantizar el buen funcionamiento y la seguridad de la estufa, así como para asegurar que los parámetros de rendimiento sean los adecuados.
 
-La resistencia de una [estufa de pellet](/decogas/index.html#contacto) es uno de los elementos clave para su buen funcionamiento. Está presente en todas las estufas pellet y es la responsable de convertir la energía eléctrica en calor para calentar el ambiente. Por lo tanto, es importante comprobar su estado para asegurar que la estufa funcione correctamente. Y debe realizarse de acuerdo con las **instrucciones del fabricante** y las **normas de seguridad establecidas por la Comisión Europea**.
+La resistencia de una [estufa de pellet](/index.html#contacto) es uno de los elementos clave para su buen funcionamiento. Está presente en todas las estufas pellet y es la responsable de convertir la energía eléctrica en calor para calentar el ambiente. Por lo tanto, es importante comprobar su estado para asegurar que la estufa funcione correctamente. Y debe realizarse de acuerdo con las **instrucciones del fabricante** y las **normas de seguridad establecidas por la Comisión Europea**.
 
-![llenando estufa con pellets](/decogas/blog-img/echando-pellets-en-estufa-negra-tuvo9.webp)En este artículo, en [Decogas](/decogas/index.html#contacto) te explicaremos cómo comprobar la resistencia de una estufa [pellet](https://es.wikipedia.org/wiki/Pellet_de_madera). Además, cómo detectar posibles problemas en la resistencia y qué hacer si se detectan.
+![llenando estufa con pellets](/blog-img/echando-pellets-en-estufa-negra-tuvo9.webp)En este artículo, en [Decogas](/index.html#contacto) te explicaremos cómo comprobar la resistencia de una estufa [pellet](https://es.wikipedia.org/wiki/Pellet_de_madera). Además, cómo detectar posibles problemas en la resistencia y qué hacer si se detectan.
 
 ## ¿Cómo solucionar el problema cuando la estufa a pellet no enciende?
 
@@ -40,7 +40,7 @@ También es recomendable realizar una **limpieza profunda de la estufa una vez a
 
 Por último, comprueba que la combustión sea correcta. Esto se puede hacer observando el **color de la llama y el humo que sale de la chimenea**. Si la llama es azul y el humo es blanco, significa que la combustión es correcta. Por el contrario, si la llama es amarilla o el humo es negro, es posible que la estufa no esté funcionando bien.
 
-> Un pequeño inciso… tenemos un post en el que tratamos [cómo limpiar los tubos de la estufa de pellets](/decogas/blog/caldera/como-limpiar-los-tubos-de-las-estufas-de-pellets/), algo que te vendrá muy bien conocer.
+> Un pequeño inciso… tenemos un post en el que tratamos [cómo limpiar los tubos de la estufa de pellets](/blog/caldera/como-limpiar-los-tubos-de-las-estufas-de-pellets/), algo que te vendrá muy bien conocer.
 
 ## Resetea tu estufa de pellet: Guía paso a paso
 
@@ -79,4 +79,4 @@ Es importante tener en cuenta que, si la alarma 5 se activa, hay que **apagar la
 
 ## Conclusión
 
-Mantener en buenas condiciones una estufa es algo esencial para asegurarnos que podamos utilizarla [encendida el tiempo suficiente](/decogas/blog/caldera/cuanto-tiempo-puede-estar-encendida-una-estufa-de-pellets/). Entre los elementos a evaluar, tenemos que comprobar la **resistencia de una estufa de pellet** para que el funcionamiento sea óptimo.
+Mantener en buenas condiciones una estufa es algo esencial para asegurarnos que podamos utilizarla [encendida el tiempo suficiente](/blog/caldera/cuanto-tiempo-puede-estar-encendida-una-estufa-de-pellets/). Entre los elementos a evaluar, tenemos que comprobar la **resistencia de una estufa de pellet** para que el funcionamiento sea óptimo.

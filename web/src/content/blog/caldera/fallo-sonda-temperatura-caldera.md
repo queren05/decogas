@@ -8,23 +8,23 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 6
 ---
-![técnico reparando fallo sonda temperatura caldera](/decogas/blog-img/fallo-sonda-temperatura-caldera.webp)
+![técnico reparando fallo sonda temperatura caldera](/blog-img/fallo-sonda-temperatura-caldera.webp)
 
-**¿Has notado que tu [caldera](/decogas/calderas.html) no funciona como debería?** Puede que el problema esté en la **sonda de temperatura**. Este componente es de gran importancia para el correcto funcionamiento de la caldera, regulando la temperatura del agua y garantizando un rendimiento óptimo.
+**¿Has notado que tu [caldera](/calderas.html) no funciona como debería?** Puede que el problema esté en la **sonda de temperatura**. Este componente es de gran importancia para el correcto funcionamiento de la caldera, regulando la temperatura del agua y garantizando un rendimiento óptimo.
 
 Un fallo en esta pieza puede llevar a ineficiencias y altos costos de energía. En este artículo te explicaremos **cómo identificar y solucionar problemas comunes con la sonda de temperatura** para que tu caldera vuelva a funcionar perfectamente.
 
 ## ¿Qué es una sonda de temperatura en una caldera?
 
-La sonda de temperatura en una caldera es un **dispositivo que mide la temperatura del agua dentro del sistema**. Este componente envía datos al termostato de la caldera para regular la temperatura, asegurando que el sistema funcione de manera eficiente y segura. Sin esta regulación, la [caldera podría sobrecalentarse](/decogas/blog/caldera/sobrecalentamiento-caldera/) o no calentar lo suficiente, lo que afecta el confort y la eficiencia energética de tu hogar.
+La sonda de temperatura en una caldera es un **dispositivo que mide la temperatura del agua dentro del sistema**. Este componente envía datos al termostato de la caldera para regular la temperatura, asegurando que el sistema funcione de manera eficiente y segura. Sin esta regulación, la [caldera podría sobrecalentarse](/blog/caldera/sobrecalentamiento-caldera/) o no calentar lo suficiente, lo que afecta el confort y la eficiencia energética de tu hogar.
 
 Las calderas modernas utilizan diferentes tipos de sondas de temperatura, cada una con sus características específicas. Algunas sondas son más **precisas y rápidas**, mientras que otras están diseñadas para ser más **duraderas y resistentes** a las condiciones extremas.
 
-Aquí te contamos [cómo ahorrar en calefacción](/decogas/blog/como-ahorrar-en-calefaccion/).
+Aquí te contamos [cómo ahorrar en calefacción](/blog/como-ahorrar-en-calefaccion/).
 
 ## Señales de un fallo en la sonda de temperatura
 
-Es fundamental saber identificar las señales de un fallo en la sonda de temperatura para mantener el funcionamiento eficiente de la caldera, ya que esta es una de las [principales averías en las calderas](/decogas/blog/caldera/principales-averias-calderas/). Estas señales pueden manifestarse de varias maneras y afectan directamente al rendimiento del sistema de calefacción.
+Es fundamental saber identificar las señales de un fallo en la sonda de temperatura para mantener el funcionamiento eficiente de la caldera, ya que esta es una de las [principales averías en las calderas](/blog/caldera/principales-averias-calderas/). Estas señales pueden manifestarse de varias maneras y afectan directamente al rendimiento del sistema de calefacción.
 
 ### Indicadores comunes de un mal funcionamiento
 
@@ -40,13 +40,13 @@ Por otro lado, el sistema puede experimentar un **desgaste prematuro** debido a 
 
 ## Causas del fallo en la sonda de temperatura
 
-![hombre encontrando Causas del fallo en la sonda de temperatura](/decogas/blog-img/causas-del-fallo-en-la-sonda-de-temperatura.webp)
+![hombre encontrando Causas del fallo en la sonda de temperatura](/blog-img/causas-del-fallo-en-la-sonda-de-temperatura.webp)
 
 Es importante identificar las causas del fallo en la sonda de temperatura para prevenir futuros problemas y mantener la eficiencia de la caldera. Aquí exploramos las razones más comunes.
 
 ### Problemas de presión en la caldera
 
-Una **presión incorrecta** en el sistema de calefacción puede provocar fallos en la sonda de temperatura. Si la [presión de la caldera](/decogas/blog/caldera/presion-caldera-adecuada/) es demasiado alta, puede dañar la sonda y otros componentes de la caldera. Por otro lado, una presión demasiado baja puede hacer que la sonda no funcione correctamente, lo que afecta la lectura de la temperatura del agua. Conoce [cómo subir la presión de la caldera](/decogas/blog/caldera/subir-presion-caldera/).
+Una **presión incorrecta** en el sistema de calefacción puede provocar fallos en la sonda de temperatura. Si la [presión de la caldera](/blog/caldera/presion-caldera-adecuada/) es demasiado alta, puede dañar la sonda y otros componentes de la caldera. Por otro lado, una presión demasiado baja puede hacer que la sonda no funcione correctamente, lo que afecta la lectura de la temperatura del agua. Conoce [cómo subir la presión de la caldera](/blog/caldera/subir-presion-caldera/).
 
 ### Desgaste natural y mantenimiento insuficiente
 
@@ -82,7 +82,7 @@ Sigue estos pasos para identificar un fallo en la sonda de temperatura:
 
 ## Soluciones para el fallo de la sonda de temperatura
 
-![hombre solucionando para el fallo de la sonda de temperatura](/decogas/blog-img/fallo-encendido-caldera-chaffoteaux.webp)
+![hombre solucionando para el fallo de la sonda de temperatura](/blog-img/fallo-encendido-caldera-chaffoteaux.webp)
 
 Cuando la sonda de temperatura falla, hay varias soluciones que puedes considerar para resolver el problema y restaurar el funcionamiento adecuado de la caldera.
 
@@ -96,7 +96,7 @@ En ocasiones, **limpiar la sonda de cualquier residuo acumulado** puede mejorar 
 
 Si los ajustes y las reparaciones básicas no resuelven el problema, es posible que necesites **reemplazar la sonda de temperatura**. Reemplazar la sonda puede ser una solución efectiva y a menudo económica para problemas persistentes.
 
-Consulta el manual de la caldera para obtener instrucciones específicas sobre cómo realizar el reemplazo, o contacta a un **técnico cualificado en [reparación de calderas](/decogas/calderas.html)** si prefieres no hacerlo tú mismo.
+Consulta el manual de la caldera para obtener instrucciones específicas sobre cómo realizar el reemplazo, o contacta a un **técnico cualificado en [reparación de calderas](/calderas.html)** si prefieres no hacerlo tú mismo.
 
 ### Medidas de seguridad a tener en cuenta
 

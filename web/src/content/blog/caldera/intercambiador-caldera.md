@@ -8,13 +8,13 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 3
 ---
-¿Sabes qué es el intercambiador de una caldera? Seguramente alguna vez hayas oído hablar de él cuando has analizados los [distintos tipos de caldera](/decogas/blog/caldera/caldera-gas-elegir-comprar/) que hay. En este _post_ **te lo** **explicamos todo sobre este elemento**.
+¿Sabes qué es el intercambiador de una caldera? Seguramente alguna vez hayas oído hablar de él cuando has analizados los [distintos tipos de caldera](/blog/caldera/caldera-gas-elegir-comprar/) que hay. En este _post_ **te lo** **explicamos todo sobre este elemento**.
 
 ## ¿Qué es el intercambiador de una caldera?
 
 El intercambiador de una caldera de gas es el elemento encargado de permitir el **cambio térmico** en el interior de tu caldera. De esta manera, tus productos pueden pasar de la combustión al final de la cámara y, con ello, aprovechar el **calor residual** por la condensación del vapor.
 
-![Técnico arreglando el intercambiador de una caldera](/decogas/blog-img/intercambiador-caldera.webp)
+![Técnico arreglando el intercambiador de una caldera](/blog-img/intercambiador-caldera.webp)
 
 Dentro de los tipos de intercambiador que hay para una caldera destaca el **intercambiador de placas**. Este elemento consiste en varias placas metálicas unidas, por una junta, formando unos pasillos que conectan entre sí.
 
@@ -26,7 +26,7 @@ Cada fabricante lo puede **ubicar en una parte distinta de la caldera** pero, no
 
 Una vez que ya sabemos que es el intercambiador de una caldera, ahora vamos a conocer los **distintos tipos que podemos encontrar**. Podemos encontrar tres clases: intercambiador de condensación, intercambiador primario e intercambiador de placas. Dentro de este último, observamos que existe un modelo soldado y un modelo atornillado.
 
-[Te llamamos gratis](/decogas/index.html#contacto)
+[Te llamamos gratis](/index.html#contacto)
 
 ### Soldado
 
@@ -53,8 +53,8 @@ A continuación te damos **algunos consejos** que pueden ayudarte a prevenir est
 -   Enciende las bombas con las válvulas cerradas, nunca al revés.
 -   Si crees que ha habido algún golpe, ponte en contacto con técnicos que puedan analizar tu caldera para evitar daños mayores.
 
-Si a pesar de todo ello crees que tu caldera **ha perdido eficacia y ya no funciona como antes**, lo mejor es que optes por [pedir presupuesto](/decogas/index.html#contacto) para cambiarla por una nueva.
+Si a pesar de todo ello crees que tu caldera **ha perdido eficacia y ya no funciona como antes**, lo mejor es que optes por [pedir presupuesto](/index.html#contacto) para cambiarla por una nueva.
 
-[Te llamamos gratis](/decogas/index.html#contacto)
+[Te llamamos gratis](/index.html#contacto)
 
 Desde Decogas tratamos de ayudar en la instalación de calderas, termos y aires acondicionados. Tenemos un equipo propio de instaladores especializados, para que no tengas ningún problema. Además, puedes venir a visitarnos a nuestra tienda física cuando quieras.

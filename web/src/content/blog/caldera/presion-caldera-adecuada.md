@@ -10,7 +10,7 @@ readingTime: 4
 ---
 ¿Te has preguntado alguna vez sobre la **presión adecuada para tu caldera**? En este artículo, responderemos esa pregunta y te proporcionaremos **información valiosa** para que puedas mantener tu **caldera en óptimas condiciones**. Así que sigue leyendo y descubre todo lo que necesitas saber sobre la presión de la caldera.
 
-![Hombre ajustando la caldera.](/decogas/blog-img/hombre-ajustando-caldera.webp)
+![Hombre ajustando la caldera.](/blog-img/hombre-ajustando-caldera.webp)
 
 ## ¿Qué es la presión de la caldera?
 
@@ -39,14 +39,14 @@ Si la presión está por **debajo del rango recomendado**, es probable que neces
 
 Si la presión de la caldera es demasiado alta, es **importante tomar medidas para reducirla de inmediato**. Una presión excesiva **puede sobrecargar la caldera y provocar daños en el equipo**, lo que podría resultar en una **avería costosa o incluso en una situación peligrosa**. En este caso, la caldera podría necesitar una **revisión y ajuste por parte de un técnico calificado.**
 
-Por otro lado, si la **presión es demasiado baja**, esto puede indicar una [**pérdida de agua en el sistema**](/decogas/blog/caldera/caldera-pierde-agua-a-chorros/), lo que podría estar **relacionado con fugas en las tuberías o en los radiadores**. Además de **afectar el rendimiento del sistema**, una baja presión también puede llevar a que la **caldera se apague automáticamente** como medida de protección. En este caso, es **importante encontrar la fuente de la pérdida de agua** y solucionar el problema adecuadamente.
+Por otro lado, si la **presión es demasiado baja**, esto puede indicar una [**pérdida de agua en el sistema**](/blog/caldera/caldera-pierde-agua-a-chorros/), lo que podría estar **relacionado con fugas en las tuberías o en los radiadores**. Además de **afectar el rendimiento del sistema**, una baja presión también puede llevar a que la **caldera se apague automáticamente** como medida de protección. En este caso, es **importante encontrar la fuente de la pérdida de agua** y solucionar el problema adecuadamente.
 
 ## ¿Cómo ajustar la presión de la caldera?
 
-Ajustar la presión de la caldera **es una tarea que debe hacerse con cuidado y siguiendo las instrucciones del fabricante**. Si necesitas [**aumentar la presión**](/decogas/blog/caldera/subir-presion-caldera/), puedes hacerlo mediante el **mecanismo de llenado o la llave de llenado que tenga tu caldera**. Es importante hacerlo de forma gradual y detener el llenado cada ciertos segundos para permitir que el agua se distribuya correctamente en el sistema.
+Ajustar la presión de la caldera **es una tarea que debe hacerse con cuidado y siguiendo las instrucciones del fabricante**. Si necesitas [**aumentar la presión**](/blog/caldera/subir-presion-caldera/), puedes hacerlo mediante el **mecanismo de llenado o la llave de llenado que tenga tu caldera**. Es importante hacerlo de forma gradual y detener el llenado cada ciertos segundos para permitir que el agua se distribuya correctamente en el sistema.
 
 En el caso de que necesites **reducir la presión**, puedes hacerlo **mediante el purgado de radiadores o el mecanismo de purga de la caldera.** Al purgar, liberarás el exceso de aire del sistema, lo que ayudará a disminuir la presión. Como siempre, es fundamental seguir las instrucciones del fabricante y tener precaución para evitar daños en la caldera.
 
 ## Conclusión
 
-La presión de la **[caldera](/decogas/calderas.html)** es un **aspecto crucial para su funcionamiento eficiente y seguro**. Mantenerla en el **rango adecuado es esencial para evitar problemas y garantizar un rendimiento óptimo** del equipo. Siempre **consulta el manual de usuario** de tu caldera para conocer las especificaciones y recomendaciones del fabricante. Esperamos que esta información te haya sido útil y que ahora tengas una mejor comprensión sobre la presión de la caldera y cómo mantenerla adecuada. Si tienes más preguntas o necesitas asistencia, no dudes en ponerte en contacto con nosotros. En Decogas estamos aquí para ayudarte. **¡Gracias por leernos!**
+La presión de la **[caldera](/calderas.html)** es un **aspecto crucial para su funcionamiento eficiente y seguro**. Mantenerla en el **rango adecuado es esencial para evitar problemas y garantizar un rendimiento óptimo** del equipo. Siempre **consulta el manual de usuario** de tu caldera para conocer las especificaciones y recomendaciones del fabricante. Esperamos que esta información te haya sido útil y que ahora tengas una mejor comprensión sobre la presión de la caldera y cómo mantenerla adecuada. Si tienes más preguntas o necesitas asistencia, no dudes en ponerte en contacto con nosotros. En Decogas estamos aquí para ayudarte. **¡Gracias por leernos!**

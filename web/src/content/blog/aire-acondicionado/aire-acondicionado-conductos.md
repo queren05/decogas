@@ -12,9 +12,9 @@ Si deseas mantener tu vivienda climatizada todo el año y, al mismo tiempo, est�
 
 ## ¿Qué es el aire acondicionado por conductos?
 
-El [aire acondicionado](/decogas/aires.html) por conductos es un sistema de refrigeración que permite la **circulación del aire por unos conductos centralizados**. Este método de climatización se instala sobre un falso techo y está compuesto por un aparato exterior, uno interior y los conductos repartidos por toda la vivienda.
+El [aire acondicionado](/aires.html) por conductos es un sistema de refrigeración que permite la **circulación del aire por unos conductos centralizados**. Este método de climatización se instala sobre un falso techo y está compuesto por un aparato exterior, uno interior y los conductos repartidos por toda la vivienda.
 
-![Salón con aire acondicionado por conductos](/decogas/blog-img/salon-aire-acondicionado-conductos.webp)
+![Salón con aire acondicionado por conductos](/blog-img/salon-aire-acondicionado-conductos.webp)
 
 La **ventaja principal** de este sistema se encuentra en la rapidez de la refrigeración, o calefacción, puesto que funciona solo con un aparato interior; de esta forma, se consigue la temperatura deseada de forma homogénea y trabaja con un bajo nivel sonoro.
 
@@ -37,7 +37,7 @@ Por el contrario, estas son **algunas de las desventajas** del aire acondicionad
 
 -   Es necesario realizar obra, porque la instalación se realiza sobre un falso techo.
 -   Su desembolso es mayor que el de los aires acondicionados _Split._
--   Limpieza constante para un correcto [mantenimiento del aire acondicionado](/decogas/blog/aire-acondicionado/mantenimiento-aire-acondicionado/) por conductos.
+-   Limpieza constante para un correcto [mantenimiento del aire acondicionado](/blog/aire-acondicionado/mantenimiento-aire-acondicionado/) por conductos.
 
 ## ¿Qué tener en cuenta al elegir un aire acondicionado por conductos?
 
@@ -51,7 +51,7 @@ A continuación te mostramos algunos **aspectos a tener en cuenta** para elegir 
 
 ### Eficiencia energética del aire acondicionado por conductos
 
-El consumo energético es un **aspecto fundamental** a la hora de adquirir un sistema de refrigeración; por eso, es necesario saber cuáles son las ventajas de [elegir un aire acondicionado de bajo consumo](/decogas/blog/aire-acondicionado/aire-acondicionado-de-bajo-consumo/).
+El consumo energético es un **aspecto fundamental** a la hora de adquirir un sistema de refrigeración; por eso, es necesario saber cuáles son las ventajas de [elegir un aire acondicionado de bajo consumo](/blog/aire-acondicionado/aire-acondicionado-de-bajo-consumo/).
 
 Para obtener la **mayor eficiencia energética**, los conductos deben tener un buen aislamiento hermético que evite cualquier posible pérdida de energía y, además, debe garantizar un buen confort térmico y un ahorro económico.
 
@@ -61,7 +61,7 @@ Una de las ventajas del aire acondicionado por conductos es su **eficiencia ener
 
 Si decides adquirir un aire acondicionado por conductos debes saber que existen **distintos tipos de rejillas**. Además, es importante recordar que estos sistemas deben contar, en cada habitación, con dos rejillas: una para coger el aire y otra para expulsarlo. Estas son los distintos tipos que te puedes encontrar.
 
-![Aire acondicionado por conductos en un salón](/decogas/blog-img/aire-acondicionado-conductos.webp)
+![Aire acondicionado por conductos en un salón](/blog-img/aire-acondicionado-conductos.webp)
 
 ### Rejillas de impulsión
 
@@ -91,9 +91,9 @@ Por último, el aire acondicionado por conductos puede disponer de rejillas moto
 
 En Decogas trabajamos con las **mejores marcas** fabricantes de aires acondicionados por conductos:
 
--   [Mitsubishi](/decogas/marcas/mitsubishi-electric.html): permiten el control remoto a través de los [aires acondicionados con WiFi](/decogas/blog/aire-acondicionado/aire-acondicionado-wifi/). Además, disponen de la tecnología DC Inverter y ofrecen la posibilidad de climatizar la vivienda por zonas.
--   [Fujitsu](/decogas/marcas/fujitsu.html): son muy silenciosos y, además, disponen de una gran eficiencia energética.
--   [Daikin](/decogas/marcas/daikin.html): esta marca está especializada en la climatización efectiva de tu vivienda. Además, trabajan con un bajo nivel sonoro.
+-   [Mitsubishi](/marcas/mitsubishi-electric.html): permiten el control remoto a través de los [aires acondicionados con WiFi](/blog/aire-acondicionado/aire-acondicionado-wifi/). Además, disponen de la tecnología DC Inverter y ofrecen la posibilidad de climatizar la vivienda por zonas.
+-   [Fujitsu](/marcas/fujitsu.html): son muy silenciosos y, además, disponen de una gran eficiencia energética.
+-   [Daikin](/marcas/daikin.html): esta marca está especializada en la climatización efectiva de tu vivienda. Además, trabajan con un bajo nivel sonoro.
 
 ## ¿Cuáles son los mejores aires por conductos? Opiniones de otros clientes
 

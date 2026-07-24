@@ -8,9 +8,9 @@ tagClass: "aerotermia"
 breadcrumb: "Aerotermia"
 readingTime: 3
 ---
-![comunidad de vecinos](/decogas/blog-img/comunidad-vecinos.webp)
+![comunidad de vecinos](/blog-img/comunidad-vecinos.webp)
 
-¿Sabes cómo la [**aerotermia**](/decogas/blog/que-es-la-aerotermia/) puede beneficiar a tu comunidad de vecinos? Como expertos en aerotermia, hemos recopilado los datos más relevantes para resolver tus dudas y ayudarte a comprender los aspectos clave de este sistema de climatización eficiente y las ventajas que su instalación supone para las **comunidades de vecinos**.
+¿Sabes cómo la [**aerotermia**](/blog/que-es-la-aerotermia/) puede beneficiar a tu comunidad de vecinos? Como expertos en aerotermia, hemos recopilado los datos más relevantes para resolver tus dudas y ayudarte a comprender los aspectos clave de este sistema de climatización eficiente y las ventajas que su instalación supone para las **comunidades de vecinos**.
 
 ## Ventajas de la aerotermia para comunidades de vecinos
 
@@ -32,7 +32,7 @@ En términos de potencia, es fundamental dimensionar adecuadamente la instalaci�
 
 El consumo de energía en un sistema de aerotermia puede variar en función de diferentes variables. Entre ellas se encuentran:
 
--   La eficiencia energética del sistema. Te recordamos que tenemos un post en nuestro blog en el que explicamos [cómo mejorar la eficiencia energética en edificios](/decogas/blog/caldera/mejorar-eficiencia-energetica-edificios/).
+-   La eficiencia energética del sistema. Te recordamos que tenemos un post en nuestro blog en el que explicamos [cómo mejorar la eficiencia energética en edificios](/blog/caldera/mejorar-eficiencia-energetica-edificios/).
 -   El aislamiento térmico del edificio.
 -   La temperatura de consigna deseada en cada estancia.
 -   Los hábitos de los vecinos, como horarios de ocupación y preferencias de temperatura.
@@ -54,4 +54,4 @@ Es recomendable contar con un profesional especializado en aerotermia para lleva
 
 En resumen, la aerotermia se presenta como una opción eficiente y sostenible para climatizar comunidades de vecinos. Su capacidad para aprovechar la energía del aire y reducir los costos energéticos la convierte en una alternativa cada vez más popular. Además, ofrece beneficios medioambientales al **reducir las emisiones de CO2** y la dependencia de combustibles fósiles.
 
-Si estás considerando la aerotermia para tu comunidad de vecinos, puedes consultarnos en [Decogas](/decogas/index.html) sin ningún compromiso, estaremos encantados de asesorarte, evaluar tus necesidades específicas y brindarte la mejor solución adaptada a tu edificio y requerimientos. ¡No dudes en dar el paso hacia la eficiencia energética y el confort en tu comunidad de vecinos!
+Si estás considerando la aerotermia para tu comunidad de vecinos, puedes consultarnos en [Decogas](/index.html) sin ningún compromiso, estaremos encantados de asesorarte, evaluar tus necesidades específicas y brindarte la mejor solución adaptada a tu edificio y requerimientos. ¡No dudes en dar el paso hacia la eficiencia energética y el confort en tu comunidad de vecinos!

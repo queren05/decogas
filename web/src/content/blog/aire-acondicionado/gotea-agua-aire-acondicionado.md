@@ -34,7 +34,7 @@ La **manguera de desagüe**, de la que hablamos en el párrafo anterior, se obst
 
 Aunque parezcan poco importantes, los **filtros** son parte de la mayoría de los problemas de funcionamiento de un aire acondicionado. Por eso, hacerle un mantenimiento recurrente a los filtros evitará el problema de que el aire acondicionado pierde agua por unidad exterior.
 
-![limpiar-filtros](/decogas/blog-img/limpiar-filtros-600x400-1.webp)
+![limpiar-filtros](/blog-img/limpiar-filtros-600x400-1.webp)
 
 ### **Obstrucción exterior**
 
@@ -59,4 +59,4 @@ Si tu aire acondicionado pierde agua por unidad exterior o simplemente quieres e
 
 En resumen, si tu **aire acondicionado pierde agua por unidad exterior** es porque tiene problemas con la bandeja, manguera, filtros, gas o fue mal instalado. Busca la ayuda de un profesional para que resuelvas el problema permanentemente.
 
-Si nada funciona es hora de [cambiar tu aire acondicionado](/decogas/blog/aire-acondicionado/cambiar-aire-acondicionado/).
+Si nada funciona es hora de [cambiar tu aire acondicionado](/blog/aire-acondicionado/cambiar-aire-acondicionado/).

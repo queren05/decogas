@@ -8,9 +8,9 @@ tagClass: "aire"
 breadcrumb: "Aire acondicionado"
 readingTime: 4
 ---
-![chica usando el termostato del aire acondicionado](/decogas/blog-img/chica-controlando-el-termostato.webp)
+![chica usando el termostato del aire acondicionado](/blog-img/chica-controlando-el-termostato.webp)
 
-Mantener la temperatura del [aire acondicionado](/decogas/aires.html) en el hogar o la oficina es algo esencial para asegurar un óptimo confort y conseguir, además, una mayor eficiencia energética. Y todo se consigue gracias a un [termostato](/decogas/index.html) que nos ayuda a escoger la temperatura deseada, regular y controlar el aparato cuando alcanza la temperatura deseada. Pero para ahondar más en el aparato, vamos a contaros cómo funciona el **termostato en el aire acondicionado**.
+Mantener la temperatura del [aire acondicionado](/aires.html) en el hogar o la oficina es algo esencial para asegurar un óptimo confort y conseguir, además, una mayor eficiencia energética. Y todo se consigue gracias a un [termostato](/index.html) que nos ayuda a escoger la temperatura deseada, regular y controlar el aparato cuando alcanza la temperatura deseada. Pero para ahondar más en el aparato, vamos a contaros cómo funciona el **termostato en el aire acondicionado**.
 
 ## **¿Qué es y cómo funciona un termostato en el aire acondicionado?**
 
@@ -44,11 +44,11 @@ Este aparato, aparte de controlar la temperatura, también **programa funciones
 
 Actualmente, han aparecido en el mercado los denominados termostatos inteligentes. Suponen un **mayor avance respecto a los cronotermostatos** ofreciendo funciones como son el control mediante WiFi, **gestión de la climatización** mediante app en smartphone desde cualquier parte, **programación remota**, pantallas táctiles en color y otras funciones interesantes.
 
-![termostato pantalla LCD](/decogas/blog-img/termostato-pantalla-lcd.webp)
+![termostato pantalla LCD](/blog-img/termostato-pantalla-lcd.webp)
 
 ## **¿Qué ventajas tiene el termostato en el aire acondicionado?**
 
-El ajuste ideal del termostato en el aire acondicionado es aquel que nos **permite conseguir la [temperatura ideal](/decogas/blog/aire-acondicionado/temperatura-aire-acondicionado/)** o confort. Es decir, la temperatura para conseguir satisfacer nuestras necesidades y comodidad. Por ejemplo, lo ideal para una sala de estar es tener una **temperatura entre los 19º a 21ºC**. Sin embargo, esto dependerá mucho de la persona.
+El ajuste ideal del termostato en el aire acondicionado es aquel que nos **permite conseguir la [temperatura ideal](/blog/aire-acondicionado/temperatura-aire-acondicionado/)** o confort. Es decir, la temperatura para conseguir satisfacer nuestras necesidades y comodidad. Por ejemplo, lo ideal para una sala de estar es tener una **temperatura entre los 19º a 21ºC**. Sin embargo, esto dependerá mucho de la persona.
 
 Teniendo en cuenta esto, las **ventajas del termostato son**:
 
@@ -61,12 +61,12 @@ Teniendo en cuenta esto, las **ventajas del termostato son**:
 
 ## **Consejos para ahorrar energía con el aire acondicionado**
 
-Ahora que sabemos las ventajas del aire acondicionado, también vamos a indicar qué otros consejos podemos llevar a cabo para [**ahorrar energía con nuestro aire acondicionado**.](/decogas/blog/aire-acondicionado-ahorro-energetico/) Algunos de ellos pueden hacernos ahorrar hasta un 60% de consumo.
+Ahora que sabemos las ventajas del aire acondicionado, también vamos a indicar qué otros consejos podemos llevar a cabo para [**ahorrar energía con nuestro aire acondicionado**.](/blog/aire-acondicionado-ahorro-energetico/) Algunos de ellos pueden hacernos ahorrar hasta un 60% de consumo.
 
 -   Apagar la refrigeración o la calefacción cuando no estemos en la estancia o el hogar.
 -   Mantener una temperatura entre los 20 a 23ºC.
 -   Situar el termostato en lugares lejos de fuentes de calor para que su funcionamiento sea más eficiente.
 -   Evitar los escapes de calor o frío en las estancias.
--   Hacer un [mantenimiento correcto del aire acondicionado](/decogas/blog/aire-acondicionado/mantenimiento-aire-acondicionado/) y el termostato para evitar errores que hagan gastar más energía.
+-   Hacer un [mantenimiento correcto del aire acondicionado](/blog/aire-acondicionado/mantenimiento-aire-acondicionado/) y el termostato para evitar errores que hagan gastar más energía.
 
 Como hemos podido ver, el termostato es una opción ideal para instalar junto a nuestros sistemas de climatización. Conociendo cómo **funciona el termostato en el aire acondicionado** nos aseguramos ahorrar en consumo energético y tener un mejor control de la temperatura.

@@ -8,9 +8,9 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 3
 ---
-No todas las calderas sirven para la misma superficie, algunas están pensadas para pequeñas habitaciones y otras, en cambio, para amplios espacios; por eso, es importante que sepas [qué caldera de gas elegir](/decogas/blog/caldera/caldera-gas-elegir-comprar/). A continuación te decimos que potencia necesita tu vivienda para que no te vuelvas a preguntar **qué caldera necesitas para 100 metros cuadrados.**
+No todas las calderas sirven para la misma superficie, algunas están pensadas para pequeñas habitaciones y otras, en cambio, para amplios espacios; por eso, es importante que sepas [qué caldera de gas elegir](/blog/caldera/caldera-gas-elegir-comprar/). A continuación te decimos que potencia necesita tu vivienda para que no te vuelvas a preguntar **qué caldera necesitas para 100 metros cuadrados.**
 
-![Grifo con agua caliente](/decogas/blog-img/agua-caliente-grifo.webp)
+![Grifo con agua caliente](/blog-img/agua-caliente-grifo.webp)
 
 ## ¿Qué caldera necesitas para 100 metros cuadrados?
 
@@ -19,11 +19,11 @@ No todas las calderas sirven para la misma superficie, algunas están pensadas p
 -   Vaillant Ecotec Plus VMW ES 236/5-5: es una caldera de gas mixta pensada para calentar superficies **hasta 150 metros cuadrados**. Tiene una potencia de 19 kW para calefacción y 23’5 kW para agua caliente sanitaria. Además, tiene un caudal de agua caliente de 13’5l/min.
 -   Saunier Duval Thema Condens 25: es una caldera compacta con sistema de acumulación pensada para superficies para **130 metros cuadrados como máximo**.Tiene una potencia de 19 kW para calefacción y 25 kW para agua caliente. Además, tiene un caudal de de agua caliente de 14’6l/min.
 
-[Te llamamos gratis](/decogas/index.html#contacto)
+[Te llamamos gratis](/index.html#contacto)
 
 ## Calcula la potencia de tu caldera
 
-Lo primero que necesitas saber es cuál es la [potencia calorífica de cada habitación](/decogas/blog/caldera/calcular-potencia-calorifica-habitacion/). Normalmente, esta es la potencia que necesitará tu caldera, en función de tu zona y el tamaño de tu vivienda.
+Lo primero que necesitas saber es cuál es la [potencia calorífica de cada habitación](/blog/caldera/calcular-potencia-calorifica-habitacion/). Normalmente, esta es la potencia que necesitará tu caldera, en función de tu zona y el tamaño de tu vivienda.
 
 -   **20 – 23 kW:** es la potencia mínima indispensable para suministrar agua caliente sanitaria a una vivienda pequeña. Suele emplearse en climas cálidos con temperaturas suaves durante todo el año.
 -   **24 – 26 kW:** es la más empleada en España y suele ser suficiente para utilizar en climas templados.
@@ -43,6 +43,6 @@ A continuación te explicamos la forma de **calcular los vatios** que necesita u
 
 Después, debes **multiplicar cada potencia por los metros cuadrados** que tiene cada una de las habitaciones. El resultado de la suma de cada una de las habitaciones hay que dividirlo entre 860, para pasar de Kcal/h a Kw/h. De esta forma ya tendrías los vatios que necesita tu caldera de gas.
 
-[Te llamamos gratis](/decogas/index.html#contacto)
+[Te llamamos gratis](/index.html#contacto)
 
-Desde Decogas tratamos de ayudar en la [instalación de calderas](/decogas/calderas.html), termos y aires acondicionados. Tenemos un equipo propio de instaladores especializados, para que no tengas ningún problema. Además, puedes venir a visitarnos a nuestra tienda física cuando quieras.
+Desde Decogas tratamos de ayudar en la [instalación de calderas](/calderas.html), termos y aires acondicionados. Tenemos un equipo propio de instaladores especializados, para que no tengas ningún problema. Además, puedes venir a visitarnos a nuestra tienda física cuando quieras.

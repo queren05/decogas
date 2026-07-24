@@ -12,7 +12,7 @@ La caldera de gas y la bomba de calor han sido de los sistemas de calefacción m
 
 ## Características técnicas de ambos sistemas
 
-![calefacción o bomba de calor](/decogas/blog-img/mujer-pensativa.webp)
+![calefacción o bomba de calor](/blog-img/mujer-pensativa.webp)
 
 Gracias al desarrollo y los avances en la tecnología, en las viviendas actuales podemos disfrutar de un **óptimo confort térmico** a diario. Esto se consigue gracias a sistemas que nos ayudan a mantener y mejorar las temperaturas en el hogar.
 
@@ -20,21 +20,21 @@ Una pregunta usual de los usuarios es **cuál de estos dos sistemas les benefici
 
 ### Bomba de calor
 
-La [bomba de calor](/decogas/blog/aire-acondicionado/aire-acondicionado-con-bomba-de-calor/) nos ofrece calefacción y refrigeración mediante la **extracción del calor del aire del ambiente**. Está compuesto por un circuito por el que viaja un gas refrigerante que ayuda al aparato a aprovechar el calor del exterior para calentar la vivienda.
+La [bomba de calor](/blog/aire-acondicionado/aire-acondicionado-con-bomba-de-calor/) nos ofrece calefacción y refrigeración mediante la **extracción del calor del aire del ambiente**. Está compuesto por un circuito por el que viaja un gas refrigerante que ayuda al aparato a aprovechar el calor del exterior para calentar la vivienda.
 
 Este sistema se caracteriza porque tiene un **alto rendimiento** si lo comparamos con otros sistemas de calefacción. Dispone de un valor **COP entre 2 a 6** (lo común es 4). En otras palabras, por cada 1 kWh que consume, puede producir unos 2- 6 kWh de calor y conseguir un rendimiento del 600%.
 
 Por otro lado, **no consume combustible fósil** o materia prima, por lo que no produce contaminantes que van al exterior. Y eso hace que sea doblemente eficiente y sostenible.
 
-![unidad exterior de bomba de calor](/decogas/blog-img/istockphoto-499571158-612x612-1.webp)
+![unidad exterior de bomba de calor](/blog-img/istockphoto-499571158-612x612-1.webp)
 
 ### Caldera de gas
 
-La [caldera de gas](/decogas/calderas.html) es un sistema conocido por usar el **calor generado por la combustión**. Gracias a las canalizaciones, se introduce el gas que, tras combustionar, libera calor y que se transmite mediante un **intercambiador de calor** por el que circula el agua. Esto lo convierte en óptimo para calentar el agua sanitaria (aparte del ambiente del hogar).
+La [caldera de gas](/calderas.html) es un sistema conocido por usar el **calor generado por la combustión**. Gracias a las canalizaciones, se introduce el gas que, tras combustionar, libera calor y que se transmite mediante un **intercambiador de calor** por el que circula el agua. Esto lo convierte en óptimo para calentar el agua sanitaria (aparte del ambiente del hogar).
 
-En cuanto a su funcionamiento, algunos modelos permiten utilizar un **[acumulador en la caldera](/decogas/blog/caldera/instalar-acumulador-a-caldera/)** que mantiene el agua caliente que supone un ahorro considerable.
+En cuanto a su funcionamiento, algunos modelos permiten utilizar un **[acumulador en la caldera](/blog/caldera/instalar-acumulador-a-caldera/)** que mantiene el agua caliente que supone un ahorro considerable.
 
-![calefacción por caldera de gas](/decogas/blog-img/radiador.webp)
+![calefacción por caldera de gas](/blog-img/radiador.webp)
 
 ## Comparación: calefacción o bomba de calor
 
@@ -50,7 +50,7 @@ Por otro lado, la **caldera de gas es una alternativa más costosa**, ya que el 
 
 El consumo energético es importante, pero también lo es el coste o el desembolso en la instalación. **Ambos sistemas ocupan poco espacio** y necesitan áreas ventiladas. La caldera requiere de una instalación más cuidada para evitar fugas en las tuberías, mientras que la bomba de calor, en ese sentido, es más segura.
 
-En cuanto al coste, la bomba de calor ronda entre 2.000 a 6.000€ (sistema más mano de obra), mientras que la [caldera tiene un coste](/decogas/blog/caldera/cuanto-cuesta-una-caldera/) entre 1.000 a 2.000€.
+En cuanto al coste, la bomba de calor ronda entre 2.000 a 6.000€ (sistema más mano de obra), mientras que la [caldera tiene un coste](/blog/caldera/cuanto-cuesta-una-caldera/) entre 1.000 a 2.000€.
 
 ### Rendimiento
 
@@ -58,7 +58,7 @@ Si hablamos de rendimiento, la **bomba de calor gana por goleada**. Para hacerno
 
 Así mismo, la bomba de calor tiene deficiencias en los cambios en la temperatura. Por ejemplo, la **caldera no depende de la temperatura ambiente** para funcionar óptimamente, mientras que el otro sistema no puede funcionar a pleno rendimiento si la temperatura ambiente es menor de 5ºC o superior a 35ºC.
 
-![termostato para temperatura](/decogas/blog-img/termostato-1.webp)
+![termostato para temperatura](/blog-img/termostato-1.webp)
 
 ### Emisiones CO2
 
@@ -68,7 +68,7 @@ Las emisiones procedentes de una caldera doméstica de gas natural eficiente cre
 
 Al instalar un sistema en nuestra vivienda buscamos que nos dure por muchos años y que su **mantenimiento sea sencillo**. En este sentido, la bomba de calor no necesita un gran mantenimiento y puede durar décadas. Sin embargo, la caldera de gas requiere de un mantenimiento más complicado y continuado.
 
-Si no se realiza en la [caldera un mantenimiento](/decogas/blog/caldera/mantenimiento-calderas-gas/) óptimo, podría fallar y dejar sin abastecimiento de ACS y calefacción durante la época invernal, cuando su uso es mayor.
+Si no se realiza en la [caldera un mantenimiento](/blog/caldera/mantenimiento-calderas-gas/) óptimo, podría fallar y dejar sin abastecimiento de ACS y calefacción durante la época invernal, cuando su uso es mayor.
 
 ### Niveles de eficiencia
 

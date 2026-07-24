@@ -8,13 +8,13 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 7
 ---
-Las [calderas de gas](/decogas/calderas.html) podemos encontrarlas de muchos tipos y, según su funcionamiento, el rendimiento y consumo pueden permitirnos ahorrar, dar un mayor bienestar en casa y pueden ser más o menos contaminantes. Y aquí te vamos a **explicar cómo funciona una caldera de gas**.
+Las [calderas de gas](/calderas.html) podemos encontrarlas de muchos tipos y, según su funcionamiento, el rendimiento y consumo pueden permitirnos ahorrar, dar un mayor bienestar en casa y pueden ser más o menos contaminantes. Y aquí te vamos a **explicar cómo funciona una caldera de gas**.
 
 Estas instalaciones basadas en circuitos de agua tienen como componente principal la caldera y las de gas usan como combustibles elementos como gas natural o gas ciudad.
 
 Aunque no es el único tipo de combustible, también existen las de propano y butano que son usados para calentar el agua, pero el gas natural es el más práctico y seguro. Pero para saber más continúa leyendo.
 
-![Botones de control de caldera de gas](/decogas/blog-img/istockphoto-184404449-612x612-1.webp)
+![Botones de control de caldera de gas](/blog-img/istockphoto-184404449-612x612-1.webp)
 
 ## ¿Cómo funciona una caldera de gas?
 
@@ -26,7 +26,7 @@ De este modo, al abrir un grifo o radiador, el agua caliente sale de la caldera 
 
 ## Componentes de una caldera de gas
 
-La caldera de gas está formada por una **[serie de componentes](/decogas/blog/caldera/partes-caldera/)** que permiten que, en su conjunto, consiga calentar el agua:
+La caldera de gas está formada por una **[serie de componentes](/blog/caldera/partes-caldera/)** que permiten que, en su conjunto, consiga calentar el agua:
 
 -   **Cámara de combustión**. Se quema el combustible y se alcanzan temperaturas muy elevadas.
 -   **Quemador**. Es el apartado responsable de quemar el combustible (en este caso gas) produciendo una llama.
@@ -51,7 +51,7 @@ Por sistema de combustión nos referimos al lugar donde se realiza la combustió
 
 Podemos también dividir las calderas en función del **rendimiento, consumo y funcionamiento**. En este caso hablamos de las estancas al ser las calderas más usadas actualmente.
 
--   [**Caldera de condensación**](/decogas/blog/caldera/que-es-caldera-condensacion-funcionamiento/). Reutilizan de forma constante la energía de vapor de agua, provocando así un ahorro de consumo. Estas calderas son consideradas muy seguras, eficaces y permiten ahorrar en la factura de gas. El rendimiento es mayor que una caldera estanca estándar.
+-   [**Caldera de condensación**](/blog/caldera/que-es-caldera-condensacion-funcionamiento/). Reutilizan de forma constante la energía de vapor de agua, provocando así un ahorro de consumo. Estas calderas son consideradas muy seguras, eficaces y permiten ahorrar en la factura de gas. El rendimiento es mayor que una caldera estanca estándar.
 -   **Caldera estándar**. Este tipo de calderas necesitan consumir más energía que la de condensación y son las más antiguas que podemos encontrar en el mercado.
 -   **Caldera de gas de bajo NOx**. Son las calderas que emiten a la atmósfera una reducida cantidad de óxido de nitrógeno (NOx), pero su rendimiento es inferior que el de las calderas de condensación.
 
@@ -83,7 +83,7 @@ Las calderas de gas también tienen desventajas que hay que tener en cuenta.
 
 ## ¿Cómo usar una caldera de gas de forma eficiente?
 
-![caldera de gas en pared de azulejos](/decogas/blog-img/istockphoto-1143114691-612x612-1-280x280-1.webp)
+![caldera de gas en pared de azulejos](/blog-img/istockphoto-1143114691-612x612-1-280x280-1.webp)
 
 Podemos encontrar dos elementos que valorar para que una caldera de gas funcione de forma eficiente, pero que, ante su desconocimiento, hará que no podamos sacar el máximo provecho de lo que nos ofrece.
 

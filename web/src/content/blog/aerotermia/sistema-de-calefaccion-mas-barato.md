@@ -8,7 +8,7 @@ tagClass: "aerotermia"
 breadcrumb: "Aerotermia"
 readingTime: 4
 ---
-![calefactor en baño](/decogas/blog-img/calefaccion-mas-barata.webp)
+![calefactor en baño](/blog-img/calefaccion-mas-barata.webp)
 
 Elegir el sistema de calefacción más barato es fundamental para mantener el confort en el hogar sin sacrificar la eficiencia y el ahorro.
 
@@ -42,9 +42,9 @@ A pesar de su bajo coste de instalación, la calefacción eléctrica puede resul
 
 ### Calefacción de gas natural
 
-La [calefacción de gas natural](/decogas/calderas.html) es conocida por su alta eficiencia. Los sistemas modernos son capaces de **calentar espacios de manera rápida y uniforme**, lo que los hace ideales para hogares de mayor tamaño.
+La [calefacción de gas natural](/calderas.html) es conocida por su alta eficiencia. Los sistemas modernos son capaces de **calentar espacios de manera rápida y uniforme**, lo que los hace ideales para hogares de mayor tamaño.
 
-El consumo de gas natural suele ser más bajo en comparación con sistemas eléctricos, lo que se traduce en **facturas más económicas** y un menor impacto ambiental. Aquí te contamos cuáles son las [calderas de gas que menos consumen](/decogas/blog/caldera/calderas-que-menos-consumen/).
+El consumo de gas natural suele ser más bajo en comparación con sistemas eléctricos, lo que se traduce en **facturas más económicas** y un menor impacto ambiental. Aquí te contamos cuáles son las [calderas de gas que menos consumen](/blog/caldera/calderas-que-menos-consumen/).
 
 El mantenimiento regular es esencial para asegurar el funcionamiento eficiente y seguro del sistema. Aunque esto implica un costo adicional, a largo plazo puede significar **ahorros significativos en reparaciones y eficiencia energética**.
 
@@ -69,7 +69,7 @@ Reducir el gasto en calefacción es esencial para ahorrar dinero y energía. Aqu
 
 ## Elección del sistema de calefacción ideal
 
-![calefactor bajo una ventana](/decogas/blog-img/eleccion-del-sistema-de-calefaccion-ideal.webp)
+![calefactor bajo una ventana](/blog-img/eleccion-del-sistema-de-calefaccion-ideal.webp)
 
 Evaluar tus necesidades específicas y las características de tu hogar es el primer paso para elegir el sistema de calefacción más adecuado. Cada hogar es único, y lo que funciona para uno puede no ser la mejor opción para otro.
 

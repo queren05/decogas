@@ -8,7 +8,7 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 3
 ---
-**¿Has oído hablar de la válvula de seguridad de la caldera?** Se trata de una de las [partes principales que componen una caldera](/decogas/blog/caldera/partes-caldera/), pero ¿sabes qué es o para qué funciona? Tranquilo, en este post te vamos a explicar todos estos detalles para prevenir posibles accidentes y problemas que puedan sufrir tus instalaciones.
+**¿Has oído hablar de la válvula de seguridad de la caldera?** Se trata de una de las [partes principales que componen una caldera](/blog/caldera/partes-caldera/), pero ¿sabes qué es o para qué funciona? Tranquilo, en este post te vamos a explicar todos estos detalles para prevenir posibles accidentes y problemas que puedan sufrir tus instalaciones.
 
 ## ¿Por qué debes saber qué es la válvula de seguridad?
 
@@ -16,13 +16,13 @@ Las instalaciones de calefacción trabajan a presión y con volumen permanente d
 
 ## ¿Qué es una válvula de seguridad de caldera?
 
-La válvula de seguridad de las [calderas de gas](/decogas/calderas.html) (también conocida como válvula de alivio de presión) es **un instrumento que sirve para reducir la presión e intensidad del agua**. Ésta es obligatoria, ya que nos ayuda a no sufrir accidentes.
+La válvula de seguridad de las [calderas de gas](/calderas.html) (también conocida como válvula de alivio de presión) es **un instrumento que sirve para reducir la presión e intensidad del agua**. Ésta es obligatoria, ya que nos ayuda a no sufrir accidentes.
 
 ### ¿Características de las válvulas de seguridad?
 
 Deben estar hechas con **materiales apropiados que soporten los incrementos de presión y temperatura**. Además, tienen que ser resistentes a posibles corrosiones por el agua. Asimismo, la válvula de seguridad de una caldera tiene que estar creada de forma que las roturas de sus componentes no atranquen la expulsión del líquido.
 
-![válvula seguridad](/decogas/blog-img/valvula-seguridad-601x400-1.webp)
+![válvula seguridad](/blog-img/valvula-seguridad-601x400-1.webp)
 
 ### ¿Cómo funciona una válvula de seguridad?
 

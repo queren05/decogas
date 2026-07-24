@@ -8,11 +8,11 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 4
 ---
-Cuando salimos unos días de casa, ya sea por vacaciones u otro tipo de viajes, buscamos hacerlo con la mayor tranquilidad posible para no llevarnos sustos al volver a casa. Y, muchas personas, teniendo en cuenta esto, optan por apagar sus [calderas](/decogas/calderas.html) ya que creen que así ahorrarán energía o no tendrán accidentes por descuido. Por eso, es bueno saber si es **recomendable apagar la [caldera de gasoil](/decogas/calderas.html)**.
+Cuando salimos unos días de casa, ya sea por vacaciones u otro tipo de viajes, buscamos hacerlo con la mayor tranquilidad posible para no llevarnos sustos al volver a casa. Y, muchas personas, teniendo en cuenta esto, optan por apagar sus [calderas](/calderas.html) ya que creen que así ahorrarán energía o no tendrán accidentes por descuido. Por eso, es bueno saber si es **recomendable apagar la [caldera de gasoil](/calderas.html)**.
 
 La realidad es que, si mantenemos la caldera encendida no supone ningún riesgo en cuanto a si se puede o no averiar en nuestra ausencia, aunque es posible que, si hay una fuga de agua, el daño sea mayor cuando volvamos a casa y no podamos frenarlo a tiempo.
 
-![reiniciar caldera gasoil](/decogas/blog-img/istockphoto-899860798-612x612-1.webp)
+![reiniciar caldera gasoil](/blog-img/istockphoto-899860798-612x612-1.webp)
 
 ## ¿Es recomendable o no apagar la caldera de gasoil?
 
@@ -23,7 +23,7 @@ Aunque, si vamos a estar fuera de casa unos días o una temporada más o menos l
 Así que, si nos vamos de vacaciones o de viaje, tenemos que:
 
 -   Apagar la caldera o ponerla en **modo verano** (es decir, aunque el termostato haga saltar la caldera, esta no se pondrá en marcha).
--   [**Cortar el agua y el gas**](/decogas/blog/caldera/como-cortar-agua-caldera/). Cerrar la llave de gas y paso de agua.
+-   [**Cortar el agua y el gas**](/blog/caldera/como-cortar-agua-caldera/). Cerrar la llave de gas y paso de agua.
 -   **Bajar la temperatura del agua caliente** para ahorrar energía. Se ahorrará gasoil y se evitará que la caldera siga trabajando
 
 ## ¿En qué casos es recomendable apagar la caldera de gasoil?
@@ -44,7 +44,7 @@ Si nuestra instalación tiene radiadores, la recomendación es no cerrarlos dura
 
 Esto se recomienda ya que abrir y cerrar continuamente el paso del agua por los radiadores puede perjudicar el mecanismo y las válvulas. Por eso, es mejor poner el modo verano (si lo tenemos en la caldera) para evitar goteos o pérdidas.
 
-![válvula radiador](/decogas/blog-img/istockphoto-1166999686-612x612-1.webp)
+![válvula radiador](/blog-img/istockphoto-1166999686-612x612-1.webp)
 
 En consecuencia, si apagamos la caldera durante el verano, por ejemplo, tenemos que recordar **encenderla de nuevo cuando llegue el invierno**. En ciertos lugares, la temperatura puede descender tanto que puede aparecer el riesgo de congelación de agua. Aunque, por suerte, la mayoría de modelos disponen de **dispositivos que las protegen contra heladas o antihielo**, pero para que funcionen han de estar encendidos.
 
@@ -62,6 +62,6 @@ Aun así, los modelos más modernos e inteligentes permiten que se puedan progra
 
 ## ¿Qué consecuencias tiene sobre el consumo?
 
-Lo primero de todo, las calderas de hoy en día consumen hasta un 30% menos de energía. Por lo tanto, si la ausencia va a ser larga, aunque se ahorre es recomendable apagarla. Por el contrario, si somos dueños de una caldera vieja, podemos no apagarla, incluso si vamos a estar un mes, por ejemplo, fuera de casa (ya sea verano o invierno). Esto es así ya que perderemos la configuración del aparato y se [formarán depósitos en el sistema](/decogas/blog/caldera/mantenimiento-calderas-gas/).
+Lo primero de todo, las calderas de hoy en día consumen hasta un 30% menos de energía. Por lo tanto, si la ausencia va a ser larga, aunque se ahorre es recomendable apagarla. Por el contrario, si somos dueños de una caldera vieja, podemos no apagarla, incluso si vamos a estar un mes, por ejemplo, fuera de casa (ya sea verano o invierno). Esto es así ya que perderemos la configuración del aparato y se [formarán depósitos en el sistema](/blog/caldera/mantenimiento-calderas-gas/).
 
 En definitiva, no **es recomendable apagar la caldera de gasoil** para evitar un consumo más elevado posteriormente, por lo que es mejor poner el termostato a una temperatura entre 13 a 16ºC para evitar el aumento de consumo. Si es verano, podemos apagarla, pero en invierno nunca hemos de hacerlo por seguridad y evitar que el sistema tenga que trabajar más.

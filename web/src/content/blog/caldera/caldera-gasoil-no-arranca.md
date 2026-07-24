@@ -8,13 +8,13 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 7
 ---
-La [caldera](/decogas/calderas.html) es de los típicos electrodomésticos que nos acordamos que tenemos hasta que se [avería](/decogas/blog/caldera/principales-averias-calderas/). Algo que puede darse lugar si no le damos el adecuado mantenimiento. Si no sabes **por qué la caldera no arranca**, es mejor conocer las causas del por qué de este problema y cómo resolverlo.
+La [caldera](/calderas.html) es de los típicos electrodomésticos que nos acordamos que tenemos hasta que se [avería](/blog/caldera/principales-averias-calderas/). Algo que puede darse lugar si no le damos el adecuado mantenimiento. Si no sabes **por qué la caldera no arranca**, es mejor conocer las causas del por qué de este problema y cómo resolverlo.
 
-![chico bajo ducha agua fría](/decogas/blog-img/istockphoto-187248862-612x612-1.webp)
+![chico bajo ducha agua fría](/blog-img/istockphoto-187248862-612x612-1.webp)
 
 ## Causas porque la caldera de gasoil se detiene
 
-Que una [caldera de gasoil](/decogas/calderas.html) se apague sola antes de generar una temperatura ideal no es algo tan extraño, aunque puede ser un problema. Y, en caso de que ocurra, puede deberse a múltiples causas.
+Que una [caldera de gasoil](/calderas.html) se apague sola antes de generar una temperatura ideal no es algo tan extraño, aunque puede ser un problema. Y, en caso de que ocurra, puede deberse a múltiples causas.
 
 ### La caldera tiene falta de mantenimiento general
 
@@ -70,7 +70,7 @@ Si el problema es que en la **caldera no funciona el agua, pero sí la calefacci
 
 Este caso es contrario al anterior, donde hay **agua en los grifos, pero no en los radiadores**. La causa está vinculada con la **bomba de recirculación**. La bomba se encarga de mover el agua por el circuito de la caldera, radiadores y las conexiones y, en caso de que falle, el agua no circula correctamente y los radiadores no calientan.
 
-![Pantalla de caldera ](/decogas/blog-img/pantalla-lcd-caldera.webp)
+![Pantalla de caldera ](/blog-img/pantalla-lcd-caldera.webp)
 
 ## ¿Cuándo es normal que el quemador se encienda y se apague?
 
@@ -78,7 +78,7 @@ Es habitual que el quemador de la caldera de gasoil se apague y encienda. Esto e
 
 Otro caso es que la caldera se apague automáticamente cuando **se programa el termostato con una temperatura mucho más alta** que la ambiental (más de 10 ºC, por ejemplo) y, en ese entonces, la casa tarda más de un ciclo de apagado y encendido hasta que alcance la temperatura indicada.
 
-El agua de la caldera se calienta más rápido que el ambiente y que se apague, sobre todo si tiene incorporado un [acumulador de agua caliente](/decogas/blog/caldera/instalar-acumulador-a-caldera/).
+El agua de la caldera se calienta más rápido que el ambiente y que se apague, sobre todo si tiene incorporado un [acumulador de agua caliente](/blog/caldera/instalar-acumulador-a-caldera/).
 
 En especial, si la **caldera es modulante**, encenderse y apagarse es su rutina habitual para dar el confort necesario con la temperatura con el mínimo gasto energético posible.
 
@@ -94,7 +94,7 @@ A continuación, te damos pautas para que puedas reaccionar ante una avería en 
 -   **Botón Reset**. Para resetear, se presiona un botón ubicado en la parte delantera. En función del modelo, hay que dejar el botón presionando hasta que se reinicie o manejar ruedas selectoras. En caso de duda, consulta el manual del fabricante.
 -   **Cómo evitar que se pare la caldera de gasoil**. Se recomienda rellenar el depósito, cuando llega a los 200 l y apagar la caldera durante una hora y media. De esta forma, las impurezas del gasoil bajarán al fondo y no ensuciarán la caldera.
 
-![reparación caldera](/decogas/blog-img/reparacion-caldera.webp)
+![reparación caldera](/blog-img/reparacion-caldera.webp)
 
 ## Advertencias
 

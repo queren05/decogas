@@ -8,11 +8,11 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 6
 ---
-Si tu **[caldera](/decogas/calderas.html) pierde agua a chorros**, puede ser debido a varios problemas como pueden ser el exceso de presión, que se haya rajado el vaso de expansión, la válvula de seguridad esté averiada, los radiadores necesitan ser purgados o componentes picados, entre otros, muchos de los cuales suelen avisarse a través una [luz roja que se enciende en la caldera](/decogas/blog/caldera/se-enciende-luz-roja-en-caldera/).
+Si tu **[caldera](/calderas.html) pierde agua a chorros**, puede ser debido a varios problemas como pueden ser el exceso de presión, que se haya rajado el vaso de expansión, la válvula de seguridad esté averiada, los radiadores necesitan ser purgados o componentes picados, entre otros, muchos de los cuales suelen avisarse a través una [luz roja que se enciende en la caldera](/blog/caldera/se-enciende-luz-roja-en-caldera/).
 
 Muchas veces, cuando se estropea la caldera porque pierde mucha agua, nos preguntamos cuál puede ser el motivo. Por eso, en este artículo, os contamos todo lo que necesitas saber.
 
-![fugas de agua de caldera](/decogas/blog-img/istockphoto-1023951092-612x612-1.webp)
+![fugas de agua de caldera](/blog-img/istockphoto-1023951092-612x612-1.webp)
 
 ## Motivos por los que una caldera pierde agua
 
@@ -30,7 +30,7 @@ Si la presión es menor de 1 bar, es posible que la caldera pierde agua y presi�
 
 ### Componentes porosos o averiados
 
-Si una [parte de la caldera](/decogas/blog/caldera/partes-caldera/) está averiada, puede ser debido a que el mismo tenga una **fuga por estar agujereado o poroso**. Si sucede, la caldera no gotea, sino que expulsa agua a chorros.
+Si una [parte de la caldera](/blog/caldera/partes-caldera/) está averiada, puede ser debido a que el mismo tenga una **fuga por estar agujereado o poroso**. Si sucede, la caldera no gotea, sino que expulsa agua a chorros.
 
 ### El vaso de expansión
 
@@ -44,7 +44,7 @@ La mayoría de sistemas de calefacción usan el **sistema GFCS** (o sistema de i
 
 Las fugas de agua son debidas a que se **produce un desgaste de los materiales** del intercambiador de calor por la presión cambiante del agua en las tuberías. Para saber si tiene fugas, se han de sustituir los componentes defectuosos o desgastados del mismo.
 
-![salida de agua a chorros](/decogas/blog-img/istockphoto-1372564903-612x612-1.webp)
+![salida de agua a chorros](/blog-img/istockphoto-1372564903-612x612-1.webp)
 
 ## La caldera pierde agua a chorros
 
@@ -74,7 +74,7 @@ Siempre se recomienda **purgar los radiadores**. Se puede hacer al que esté má
 
 Es recomendable hacer esta acción una vez al año, ya que facilita que el agua caliente circule sin problemas por el sistema de calefacción.
 
-![fuga de agua de caldera](/decogas/blog-img/istockphoto-1061727682-612x612-1.webp)
+![fuga de agua de caldera](/blog-img/istockphoto-1061727682-612x612-1.webp)
 
 ### Problema limitado a la caldera y no a la instalación
 

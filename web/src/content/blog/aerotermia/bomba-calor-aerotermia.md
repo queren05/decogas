@@ -10,11 +10,11 @@ readingTime: 4
 ---
 **Aprende para qué sirve y cuál es el proceso de instalación de una bomba de calor con aerotermia** en tu hogar. Nuestro objetivo es brindarte la información necesaria para que puedas tomar decisiones informadas sobre la climatización de tu espacio.
 
-![bomba de calor aerotermia](/decogas/blog-img/bomba-de-calor-aerotermia.webp)
+![bomba de calor aerotermia](/blog-img/bomba-de-calor-aerotermia.webp)
 
 Una bomba de calor con aerotermia **es un sistema de calefacción y refrigeración que utiliza el calor del aire exterior para calentar o enfriar una casa.** Es una tecnología muy eficiente en términos de energía, lo que significa que puede ahorrarle dinero en sus facturas de calefacción y refrigeración.
 
-**Si está considerando instalar una bomba de calor con aerotermia,** te hablamos a continuación sobre sus funciones, beneficios, aplicaciones de este sistema de calefacción, que puedes combinar con enchufes inteligentes para tener un [control a distancia de tu calefacción](/decogas/blog/caldera/encender-calefaccion-distancia/).
+**Si está considerando instalar una bomba de calor con aerotermia,** te hablamos a continuación sobre sus funciones, beneficios, aplicaciones de este sistema de calefacción, que puedes combinar con enchufes inteligentes para tener un [control a distancia de tu calefacción](/blog/caldera/encender-calefaccion-distancia/).
 
 El **funcionamiento de una bomba de calor** con aerotermia es el siguiente:
 
@@ -84,4 +84,4 @@ En pocas palabras, **la duración de la instalación de una bomba de calor aerot
 
 Es importante destacar que la calidad de la instalación es crucial para lograr un rendimiento óptimo del sistema.
 
-Si estás pensando en tener [calefacción](/decogas/termos.html) o [aire acondicionado](/decogas/aires.html) mediante una bomba de calor, no dudes en contactarnos para obtener información detallada sobre [cómo funciona una bomba de calor](/decogas/blog/aire-acondicionado/como-funciona-bomba-de-calor/), las [diferencias entre un aire acondicionado y una bomba de calor](/decogas/blog/aire-acondicionado/diferencia-entre-bomba-calor-y-aire-acondicionado/), y para recibir asesoramiento personalizado. Estamos aquí para ayudarte en tu proyecto de climatización.
+Si estás pensando en tener [calefacción](/termos.html) o [aire acondicionado](/aires.html) mediante una bomba de calor, no dudes en contactarnos para obtener información detallada sobre [cómo funciona una bomba de calor](/blog/aire-acondicionado/como-funciona-bomba-de-calor/), las [diferencias entre un aire acondicionado y una bomba de calor](/blog/aire-acondicionado/diferencia-entre-bomba-calor-y-aire-acondicionado/), y para recibir asesoramiento personalizado. Estamos aquí para ayudarte en tu proyecto de climatización.

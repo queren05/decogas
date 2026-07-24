@@ -10,7 +10,7 @@ readingTime: 4
 ---
 ¿Te has preguntado **si es posible instalar una caldera de condensación en el exterior de tu hogar**? ¡Estás en el lugar indicado! En este artículo, **resolveremos todas tus dudas y te proporcionaremos la información necesaria** sobre este tema. Así que, si estás pensando en instalar una caldera de condensación fuera de tu casa, sigue leyendo para conocer todos los detalles.
 
-![Hombre reparando caldera.](/decogas/blog-img/trabajador-reparando-caldera.webp)
+![Hombre reparando caldera.](/blog-img/trabajador-reparando-caldera.webp)
 
 ## ¿Qué es una caldera de condensación y cómo funciona?
 

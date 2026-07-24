@@ -8,9 +8,9 @@ tagClass: "aire"
 breadcrumb: "Aire acondicionado"
 readingTime: 5
 ---
-![mujer encendiendo un aire acondicionado con deshumidificador](/decogas/blog-img/aire-acondicionado-con-deshumidificador-1.webp)
+![mujer encendiendo un aire acondicionado con deshumidificador](/blog-img/aire-acondicionado-con-deshumidificador-1.webp)
 
-Utilizar un [aire acondicionado](/decogas/aires.html) en verano con el calor es toda una ventaja, pero si además empleamos la **función deshumidificadora** entonces podremos disfrutar de un ambiente limpio y sin altas cotas de humedad en el hogar. Esta función es muy útil si vivimos en zonas muy húmedas y odiamos ese ambiente pegajoso que hace que no notamos grandes diferencias de ambiente si ponemos nuestro equipo. En este post te vamos a indicar todo sobre el **aire acondicionado con  deshumidificador**.
+Utilizar un [aire acondicionado](/aires.html) en verano con el calor es toda una ventaja, pero si además empleamos la **función deshumidificadora** entonces podremos disfrutar de un ambiente limpio y sin altas cotas de humedad en el hogar. Esta función es muy útil si vivimos en zonas muy húmedas y odiamos ese ambiente pegajoso que hace que no notamos grandes diferencias de ambiente si ponemos nuestro equipo. En este post te vamos a indicar todo sobre el **aire acondicionado con  deshumidificador**.
 
 ## Cómo calcular la humedad
 
@@ -26,7 +26,7 @@ Gracias a que contamos con avances tecnológicos, podemos prevenir o reducir la 
 
 La reducción del vapor dependerá, en gran parte, según las características de los aparatos, su tipología y la efectividad de los mismos.
 
-![palabra humedad escrita en la condensación del cristal](/decogas/blog-img/humedad.webp)
+![palabra humedad escrita en la condensación del cristal](/blog-img/humedad.webp)
 
 ## ¿Cómo funciona un aire acondicionado con deshumidificador?
 
@@ -48,7 +48,7 @@ Normalmente, suele estar representado con un símbolo que suele ilustrarse con u
 
 Al contrario de lo que se cree, activar este modo en el aparato supone un gran **ahorro energético** y, por consiguiente, una bajada en la factura de la luz.
 
-El consumo medio de un [aire acondicionado split](/decogas/aires.html) suele rondar los 1.000W en modelos de 3.000 frigorías que, si lo traducimos a la hora, sería 1W/h. Eso sí, recalcar que no enfría ni calienta por lo que es normal que suponga un **ahorro de hasta casi el 50%**.
+El consumo medio de un [aire acondicionado split](/aires.html) suele rondar los 1.000W en modelos de 3.000 frigorías que, si lo traducimos a la hora, sería 1W/h. Eso sí, recalcar que no enfría ni calienta por lo que es normal que suponga un **ahorro de hasta casi el 50%**.
 
 ## ¿Un aire acondicionado con deshumidificador es efectivo?
 
@@ -58,7 +58,7 @@ El funcionamiento de este tipo de aparatos es muy sencillo, puesto que con la fu
 
 De igual modo, tenemos que tener en cuenta la zona donde vivamos. Si la humedad es muy alta en la zona o tenemos familiares o inquilinos con problemas respiratorios, siempre es mejor combinar la deshumidificación del equipo con un deshumidificador.
 
-![aire acondicionado con control remoto](/decogas/blog-img/modo-dry-del-aire-acondicionado.webp)
+![aire acondicionado con control remoto](/blog-img/modo-dry-del-aire-acondicionado.webp)
 
 ## Beneficios de un aire acondicionado con deshumidificador
 
@@ -78,6 +78,6 @@ Si a lo largo del día el espacio a tratar es caliente, la humedad se puede lleg
 
 ### Ahorro en climatización
 
-Durante la temporada de calor buscamos siempre tener un ambiente fresco y en invierno, calor. Al bajar o subir la temperatura del equipo se incrementa el gasto de energía, por ello son muy recomendados los [equipos de aire acondicionado inverter](/decogas/aires.html). En este sentido, además, la función de deshumidificación reduce la humedad relativa, por lo que la climatización es más efectiva y se reduce el consumo energético.
+Durante la temporada de calor buscamos siempre tener un ambiente fresco y en invierno, calor. Al bajar o subir la temperatura del equipo se incrementa el gasto de energía, por ello son muy recomendados los [equipos de aire acondicionado inverter](/aires.html). En este sentido, además, la función de deshumidificación reduce la humedad relativa, por lo que la climatización es más efectiva y se reduce el consumo energético.
 
 En conclusión, que un aire **acondicionado con función deshumidificador** supone un gran beneficio al hogar, no solo a nivel de refrigeración, sino también en términos de salud y ahorro energético.

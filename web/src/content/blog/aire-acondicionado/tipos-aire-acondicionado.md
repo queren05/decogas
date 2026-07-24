@@ -16,7 +16,7 @@ El funcionamiento de un aire acondicionado es muy sencillo y se basa en los prin
 
 Este proceso consiste en extraer el calor del ambiente y transportarlo a otro lugar dejando, de este modo, un clima frío en la estancia. Normalmente, la refrigeración se lleva a cabo por un **sistema de compresión o de absorción**.
 
-![Familia en un dormitorio con un tipo de aire acondicionado](/decogas/blog-img/dormitorio-aire-acondicionado.webp)
+![Familia en un dormitorio con un tipo de aire acondicionado](/blog-img/dormitorio-aire-acondicionado.webp)
 
 ## ¿Qué tener en cuenta a la hora de elegir un aire acondicionado?
 
@@ -38,9 +38,9 @@ Por último, destacar que adquirir un modelo de aire acondicionado con más pote
 
 Una de las cosas más importantes a tener en cuenta es el número de salas que van a ser climatizadas con un mismo aparato de aire acondicionado. De esta manera, elegiremos un tipo de aire acondicionado si queremos:
 
--   Climatizar **una sala:** requerimos [equipos Split de 1×1](/decogas/aires.html), es decir, tienen una unidad interior y una exterior.
--   Climatizar **dos salas**: necesitaremos [equipos Split de 2×1](/decogas/aires.htmlsplit-2x1/), formados por dos unidades interiores y una exterior. Son perfectos para climatizar dos habitaciones contiguas o una habitación y el salón.
--   Climatizar **tres salas o más**: se utilizar [equipos Split de 3×1](/decogas/aires.htmlsplit-3x1/) o [equipos Split de 4×1](/decogas/aires.htmlsplit-4x1/)
+-   Climatizar **una sala:** requerimos [equipos Split de 1×1](/aires.html), es decir, tienen una unidad interior y una exterior.
+-   Climatizar **dos salas**: necesitaremos [equipos Split de 2×1](/aires.htmlsplit-2x1/), formados por dos unidades interiores y una exterior. Son perfectos para climatizar dos habitaciones contiguas o una habitación y el salón.
+-   Climatizar **tres salas o más**: se utilizar [equipos Split de 3×1](/aires.htmlsplit-3x1/) o [equipos Split de 4×1](/aires.htmlsplit-4x1/)
 
 ### Ruido
 
@@ -62,13 +62,13 @@ Algunos otros factores importantes a la hora de elegir tu aire acondicionado, so
 -   Extras (como el **control por Wifi**).
 -   **Garantía** que ofrece la marca.
 -   **Precio.**
--   [**Modos del aire acondicionado**](/decogas/blog/aire-acondicionado/modos-aire-acondicionado/) y funciones que adicionales.
+-   [**Modos del aire acondicionado**](/blog/aire-acondicionado/modos-aire-acondicionado/) y funciones que adicionales.
 
 ## Tipos de aire acondicionado
 
-En la actualidad, existen **muchos sistemas de refrigeración diferentes**. La principal diferencia entre ellos suele encontrarse en su instalación y su sistema de refrigeración. Además, existen modelos con incorporaciones tecnológicas, como pueden ser los [aires acondicionados con WiFi](/decogas/blog/aire-acondicionado/aire-acondicionado-wifi/). A continuación te vamos a mostrar cuáles son los tipos de aire acondicionado más habituales para que puedas comprobar sus características.
+En la actualidad, existen **muchos sistemas de refrigeración diferentes**. La principal diferencia entre ellos suele encontrarse en su instalación y su sistema de refrigeración. Además, existen modelos con incorporaciones tecnológicas, como pueden ser los [aires acondicionados con WiFi](/blog/aire-acondicionado/aire-acondicionado-wifi/). A continuación te vamos a mostrar cuáles son los tipos de aire acondicionado más habituales para que puedas comprobar sus características.
 
-Si, tras ello, te queda alguna duda, siempre puedes ponerte en [contacto con nosotros](/decogas/index.html#contacto). Nuestros especialistas estarán e**ncantados de ayudarte** a elegir el [mejor aire acondicionado](/decogas/aires.html) para tu vivienda.
+Si, tras ello, te queda alguna duda, siempre puedes ponerte en [contacto con nosotros](/index.html#contacto). Nuestros especialistas estarán e**ncantados de ayudarte** a elegir el [mejor aire acondicionado](/aires.html) para tu vivienda.
 
 ### Aire acondicionado unitario
 
@@ -82,7 +82,7 @@ El **único inconveniente** es que es menos eficiente energéticamente y es más
 
 Hay dos tipos principales de aires acondicionados portátiles: con tubo y sin tubo.
 
-**Los aires acondicionados portátiles con tubo** tienen una manguera que se conecta a una ventana o puerta para expulsar el aire caliente y húmedo. **Los** [aires acondicionados portátiles sin tubo](/decogas/blog/aire-acondicionado/aire-acondicionado-portatil-sin-tubo/) no tienen una manguera, sino que utilizan un compresor para expulsar el aire caliente y húmedo al exterior.
+**Los aires acondicionados portátiles con tubo** tienen una manguera que se conecta a una ventana o puerta para expulsar el aire caliente y húmedo. **Los** [aires acondicionados portátiles sin tubo](/blog/aire-acondicionado/aire-acondicionado-portatil-sin-tubo/) no tienen una manguera, sino que utilizan un compresor para expulsar el aire caliente y húmedo al exterior.
 
 En general, los aires acondicionados portátiles con tubo son una mejor opción **para las personas que quieren una refrigeración eficiente,** mientras que los aires acondicionados portátiles sin tubo son una mejor opción para las **personas que quieren una refrigeración fácil de instalar.**
 
@@ -90,21 +90,21 @@ En general, los aires acondicionados portátiles con tubo son una mejor opción 
 
 Estos sistemas de refrigeración incorporan un **evaporador y un condensador** dentro de una misma estructura. Los modelos partidos incluyen una unidad exterior, el condensador, y una interior, el evaporador. Ambas zonas están conectadas por sistemas de conducción frigorífica que permiten la circulación del aire refrigerado.
 
-![Familia en una vivienda con aire acondicionado](/decogas/blog-img/aire-acondicionado-familia.webp)
+![Familia en una vivienda con aire acondicionado](/blog-img/aire-acondicionado-familia.webp)
 
-Dentro de los tipos de aire acondicionado partido podemos encontrar **distintas opciones** que pueden obtener un mayor rendimiento energético, por lo que son la mejor forma de disponer de un [aire acondicionado de bajo consumo](/decogas/blog/aire-acondicionado/aire-acondicionado-de-bajo-consumo/).
+Dentro de los tipos de aire acondicionado partido podemos encontrar **distintas opciones** que pueden obtener un mayor rendimiento energético, por lo que son la mejor forma de disponer de un [aire acondicionado de bajo consumo](/blog/aire-acondicionado/aire-acondicionado-de-bajo-consumo/).
 
 #### Aire acondicionado split
 
-Este sistema es el más habitual y económico para una vivienda. Su instalación es muy sencilla y dispone de varias potencias. Además, son perfectos si lo que quieres es un [aire acondicionado silencioso](/decogas/blog/aire-acondicionado/nivel-sonoro-aire-acondicionado-silencioso/). El compresor, ubicado en la unidad exterior, se comunica con el interior mediante unos tubos. De este modo, el agujero que hay que realizar en la pared para instalar un [aire acondicionado split 1×1](/decogas/aires.html) es muy pequeño.
+Este sistema es el más habitual y económico para una vivienda. Su instalación es muy sencilla y dispone de varias potencias. Además, son perfectos si lo que quieres es un [aire acondicionado silencioso](/blog/aire-acondicionado/nivel-sonoro-aire-acondicionado-silencioso/). El compresor, ubicado en la unidad exterior, se comunica con el interior mediante unos tubos. De este modo, el agujero que hay que realizar en la pared para instalar un [aire acondicionado split 1×1](/aires.html) es muy pequeño.
 
 #### Aire acondicionado multisplit
 
-Equipo de varias unidades internas que se conectan al exterior. De esta manera, con un [aire acondicionado multisplit 4×1](/decogas/aires.htmlsplit-4x1/), dispones de más opciones para adaptar tu sistema de refrigeración a las características de tu vivienda o el local donde lo vayas a instalar.
+Equipo de varias unidades internas que se conectan al exterior. De esta manera, con un [aire acondicionado multisplit 4×1](/aires.htmlsplit-4x1/), dispones de más opciones para adaptar tu sistema de refrigeración a las características de tu vivienda o el local donde lo vayas a instalar.
 
 #### Aire acondicionado por conductos
 
-Se trata de un **sistema de aire acondicionado centralizado** y es perfecto para espacios grandes, por ello su instalación es más compleja. Se consideran métodos centralizados de distribución del aire y suelen instalarse en el falso techo de la estancia, lo que hace que sean más estéticos. Del mismo modo, los [aires acondicionados por conductos](/decogas/aires.htmlpor-conductos/) suelen incorporar un sistema de regulación que permite climatizar la estancia como desees.
+Se trata de un **sistema de aire acondicionado centralizado** y es perfecto para espacios grandes, por ello su instalación es más compleja. Se consideran métodos centralizados de distribución del aire y suelen instalarse en el falso techo de la estancia, lo que hace que sean más estéticos. Del mismo modo, los [aires acondicionados por conductos](/aires.htmlpor-conductos/) suelen incorporar un sistema de regulación que permite climatizar la estancia como desees.
 
 #### Aire acondicionado Split de techo o Cassette
 
@@ -124,7 +124,7 @@ No son considerados sistemas de aire acondicionado pero sirven para variar unos 
 
 Este tipo de aire acondicionado tiene integrado un sistema con tecnología Inverter que gracias a la regulación del compresor que realiza, consigue que estos trabajen de forma más constante. Esto supone un ahorro de hasta un 40% de la energía, respecto a un aire acondicionado sin esta tecnología.
 
-Es decir, en un [aire acondicionado inverter,](/decogas/aires.html) en lugar de arrancar y parar frecuentemente, su compresor gira continuamente, manteniendo constante la temperatura de la estancia.
+Es decir, en un [aire acondicionado inverter,](/aires.html) en lugar de arrancar y parar frecuentemente, su compresor gira continuamente, manteniendo constante la temperatura de la estancia.
 
 ## Ventajas de los sistemas de aire acondicionado más utilizados
 

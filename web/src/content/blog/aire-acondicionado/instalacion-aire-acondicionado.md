@@ -12,7 +12,7 @@ Bienvenido a nuestra **guía completa sobre cómo instalar un aire acondicionado
 
 En este artículo, **te proporcionaremos todos los pasos necesarios para realizar una instalación exitosa**, así como consejos y recomendaciones útiles para optimizar el proceso.
 
-![Instalación de aire acondicionado](/decogas/blog-img/instalacion-de-aire-acondicionado.webp)
+![Instalación de aire acondicionado](/blog-img/instalacion-de-aire-acondicionado.webp)
 
 ## Instalando un Aire Acondicionado para Mayor Comodidad
 
@@ -53,7 +53,7 @@ A continuación, **detallaremos los pasos generales para la instalación de un a
 
 Recuerda que estos pasos son una guía general y pueden variar según el tipo y la marca del equipo. Siempre sigue las instrucciones proporcionadas por el fabricante.
 
-Si lo que deseas es cambiar tu viejo aire acondicionado, el proceso es un poco diferente y en ese caso te recomendio visitar este articulo que explica como [cambiar tu aire acondicionado](/decogas/blog/aire-acondicionado/cambiar-aire-acondicionado/).
+Si lo que deseas es cambiar tu viejo aire acondicionado, el proceso es un poco diferente y en ese caso te recomendio visitar este articulo que explica como [cambiar tu aire acondicionado](/blog/aire-acondicionado/cambiar-aire-acondicionado/).
 
 Aquí están los pasos básicos a seguir para instalar o reintalar tu aire acondicionado:
 
@@ -106,7 +106,7 @@ Una vez que hayas completado la instalación de ambas unidades, realiza las sigu
 4.  **Realiza las pruebas de rendimiento** necesarias para verificar que el aire acondicionado enfríe adecuadamente el ambiente.
 5.  **Realiza cualquier ajuste adicional** según sea necesario para optimizar el rendimiento y la eficiencia del aire acondicionado.
 
-## ![Instalación de aire acondicionado y mantenimiento del mismo](/decogas/blog-img/instalacion-aire-acondicionado.webp)
+## ![Instalación de aire acondicionado y mantenimiento del mismo](/blog-img/instalacion-aire-acondicionado.webp)
 
 ## Cómo elegir un modelo más silencioso
 
@@ -125,11 +125,11 @@ Al elegir un modelo más silencioso, podrás disfrutar de la comodidad y el fres
 
 ## Instalar un aire acondicionado es más facil de lo que crees
 
-En cuanto la instalación de un [aire acondicionado](/decogas/aires.html) e**s un proceso crucial para disfrutar de un ambiente fresco y confortable en tu hogar.**
+En cuanto la instalación de un [aire acondicionado](/aires.html) e**s un proceso crucial para disfrutar de un ambiente fresco y confortable en tu hogar.**
 
-Durante este artículo, hemos abordado diferentes aspectos relacionados con la instalación, incluyendo el funcionamiento del aire acondicionado, los tipos de aires acondicionados disponibles, cómo elegir un [modelo más silencioso](/decogas/blog/aire-acondicionado/mejor-aire-acondicionado-silencioso/).
+Durante este artículo, hemos abordado diferentes aspectos relacionados con la instalación, incluyendo el funcionamiento del aire acondicionado, los tipos de aires acondicionados disponibles, cómo elegir un [modelo más silencioso](/blog/aire-acondicionado/mejor-aire-acondicionado-silencioso/).
 
-Es importante comprender el [funcionamiento del aire acondicionado](/decogas/blog/aire-acondicionado/funcionamiento-aire-acondicionado/) y sus [diferentes tipos](/decogas/blog/aire-acondicionado/tipos-aire-acondicionado/) para tomar una decisión informada al elegir el equipo adecuado para tus necesidades.
+Es importante comprender el [funcionamiento del aire acondicionado](/blog/aire-acondicionado/funcionamiento-aire-acondicionado/) y sus [diferentes tipos](/blog/aire-acondicionado/tipos-aire-acondicionado/) para tomar una decisión informada al elegir el equipo adecuado para tus necesidades.
 
 Asimismo, **si vives en Madrid**, es fundamental tener en cuenta las particularidades de esta ciudad al seleccionar un aire acondicionado.
 

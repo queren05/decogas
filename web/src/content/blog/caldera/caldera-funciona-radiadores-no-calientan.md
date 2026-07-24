@@ -8,11 +8,11 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 6
 ---
-Cuando llega el frío en los meses de invierno, nuestra calefacción se convierte en nuestro mejor aliado para soportar las bajas temperaturas en el hogar. Pero es posible que, de pronto, nos demos cuenta que **la [caldera](/decogas/calderas.html) funciona, pero los radiadores no calientan** nada o solo una parte.
+Cuando llega el frío en los meses de invierno, nuestra calefacción se convierte en nuestro mejor aliado para soportar las bajas temperaturas en el hogar. Pero es posible que, de pronto, nos demos cuenta que **la [caldera](/calderas.html) funciona, pero los radiadores no calientan** nada o solo una parte.
 
 Si la calefacción no funciona bien, entonces de poco sirve tenerla. Si el radiador o radiadores están averiados y no sabemos por qué no producen calor, es mejor repararlos o, bien, contactar con un técnico para que localice la avería y pueda arreglarla.
 
-![manos sobre radiador](/decogas/blog-img/istockphoto-1227636251-612x612-1.webp)
+![manos sobre radiador](/blog-img/istockphoto-1227636251-612x612-1.webp)
 
 Sin duda, con un radiador estropeado, se reduce la comodidad y el confort durante el invierno. Además, en nuestro consumo se seguirá reflejando el uso de una energía que realmente no estamos disfrutando y, por eso, reparar el sistema de calefacción o un radiador se vuelve una necesidad.
 
@@ -30,13 +30,13 @@ La **calefacción general solo se activa** en el momento en que se haya programa
 
 Igualmente, el cronotermostato también se puede **reiniciar en caso de que la caldera pierda energía** (corte de energía eléctrica) o se agoten las pilas del aparato, así como que pueda estar estropeado y sea necesario tener que sustituirlo por otro.
 
-![gato sobre radiador](/decogas/blog-img/istockphoto-474424655-612x612-1-533x400-1.webp)
+![gato sobre radiador](/blog-img/istockphoto-474424655-612x612-1-533x400-1.webp)
 
 ## Solución 3: Purgar el radiador
 
 Este problema es bastante común y, normalmente, es debido a un **bloqueo en el paso del agua caliente** ya que los radiadores de casa, por norma general, se calientan gracias al uso de agua caliente que pasa por sus circuitos. Por lo que el **bloqueo debido a aire en un tramo de la instalación o del radiador** puede hacer que estos dejen de calentar.
 
-La solución en este caso es [**purgar el radiador**](/decogas/blog/caldera/como-purgar-radiadores-pasos/), permitiendo que la masa de aire acumulada dentro del radiador salga al exterior y de nuevo el agua pueda circular y calentar el radiador nuevamente.
+La solución en este caso es [**purgar el radiador**](/blog/caldera/como-purgar-radiadores-pasos/), permitiendo que la masa de aire acumulada dentro del radiador salga al exterior y de nuevo el agua pueda circular y calentar el radiador nuevamente.
 
 Para hacerlo, es necesario tener el sistema de calefacción apagado y la llave de paso de agua al radiador cerrada. Tras esto, solo es necesario girar la válvula de purgado que poseen todos los radiadores en su parte superior y mantenerlo así hasta que comience a salir agua. Esto indica que todo el aire ya ha salido de dentro del radiador.
 
@@ -48,7 +48,7 @@ Si el problema no se debe a un radiador que no calienta bien, sino que no calien
 
 Cuando esta llave lleva **mucho tiempo sin usarse**, es posible que se quede bloqueada en el momento en que pongamos en uso el radiador y este no caliente. La solución es retirar el aparato del radiador y mover el pistón varias veces hasta que consigamos que el radiador comience a calentar.
 
-![llave termostática](/decogas/blog-img/istockphoto-1287466347-612x612-1.webp)
+![llave termostática](/blog-img/istockphoto-1287466347-612x612-1.webp)
 
 ## Limpiar un radiador sucio
 
@@ -74,7 +74,7 @@ No tendremos problema alguno en hacerlo si nos gusta realizar tareas de bricolaj
 -   Una vez enjuagado el radiador, lo volvemos a colocar sobre la pared y volvemos a activar el sistema abriendo la llave de paso de entrada a la caldera.
 -   Es posible que exista una llave de paso de entrada de agua externa o, bien, que la llave de paso sea interna. Si no estás seguro del tipo de llave, es mejor ponerse en contacto con un especialista.
 
-![hombre arreglando un radiador](/decogas/blog-img/istockphoto-1160012200-612x612-1.webp)
+![hombre arreglando un radiador](/blog-img/istockphoto-1160012200-612x612-1.webp)
 
 ## Tabla resumen de problemas y soluciones
 

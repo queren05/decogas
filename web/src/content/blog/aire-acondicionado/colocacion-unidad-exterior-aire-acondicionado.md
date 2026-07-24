@@ -12,9 +12,9 @@ Una de las dudas más frecuentes a la hora de instalar un sistema de refrigeraci
 
 ## Colocación del equipo de aire acondicionado
 
-Lo primero que debes hacer cuando vas a instalar el aire acondicionado en tu vivienda es elegir un sitio seguro, con una **distancia de unos 10 y 20 metros** entre la unidad interior y la exterior; además, es fundamental [realizar un mantenimiento](/decogas/blog/aire-acondicionado/mantenimiento-aire-acondicionado/) periódico para solventar posibles averías.
+Lo primero que debes hacer cuando vas a instalar el aire acondicionado en tu vivienda es elegir un sitio seguro, con una **distancia de unos 10 y 20 metros** entre la unidad interior y la exterior; además, es fundamental [realizar un mantenimiento](/blog/aire-acondicionado/mantenimiento-aire-acondicionado/) periódico para solventar posibles averías.
 
-![Instalación de una unidad exterior del aire acondicionado en el balcón](/decogas/blog-img/aire-acondicionado-instalado-balcon-1024x683-1.webp)
+![Instalación de una unidad exterior del aire acondicionado en el balcón](/blog-img/aire-acondicionado-instalado-balcon-1024x683-1.webp)
 
 Del mismo modo, debes seleccionar un espacio con **posibilidad de instalar un desagüe** y una red eléctrica; además, tiene que estar protegido de cualquier inclemencia meteorológica.
 
@@ -35,4 +35,4 @@ A continuación te mostramos los **pasos que debes seguir** la instalación de l
 3.  **Coloca el manguito de goma con tornillos de anclaje**: de esta forma, evitarás posibles vibraciones y podrás terminar la instalación correctamente.
 4.  **Si la instalación se hará en pared**, la unidad se puede montar de forma directa sobre los ángulos de tuercas y tornillos.
 
-Cómo ves, la instalación es muy fácil; ahora **solo tienes que elegir** dónde colocar la unidad exterior del aire acondicionado. Además, si aún no dispones de él, en Decogas tenemos la mayor variedad de [aires acondicionados](/decogas/aires.html) para ti.
+Cómo ves, la instalación es muy fácil; ahora **solo tienes que elegir** dónde colocar la unidad exterior del aire acondicionado. Además, si aún no dispones de él, en Decogas tenemos la mayor variedad de [aires acondicionados](/aires.html) para ti.

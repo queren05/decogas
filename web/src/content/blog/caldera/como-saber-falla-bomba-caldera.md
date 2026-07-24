@@ -8,7 +8,7 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 7
 ---
-![hombre reparando bomba de calor en caldera](/decogas/blog-img/como-saber-si-falla-la-bomba-de-la-caldera-1.webp)
+![hombre reparando bomba de calor en caldera](/blog-img/como-saber-si-falla-la-bomba-de-la-caldera-1.webp)
 
 Saber si **la bomba de tu caldera está fallando** puede evitarte grandes dolores de cabeza y gastos innecesarios. **Cuando la bomba no funciona bien, notarás que la calefacción no rinde como debería**. La presión del agua bajará, los radiadores no calentarán correctamente y, en algunos casos, incluso podrás oír ruidos extraños en el sistema. Estas señales son claves para identificar una falla en la bomba. En este artículo te explicamos cómo comprobar estos síntomas y cuándo deberías contactar a un técnico especializado.
 
@@ -18,11 +18,11 @@ La bomba de una caldera es uno de los componentes clave que asegura el correcto 
 
 Este elemento es fundamental para mantener el flujo continuo de agua a la temperatura adecuada. La bomba permite que el agua caliente llegue a todas las habitaciones, asegurando una distribución uniforme del calor. **Dependiendo del tipo de caldera que tengas, la bomba puede variar en tamaño y rendimiento**, por lo que es importante conocer el tipo de bomba que utiliza tu sistema.
 
-Conoce con más detalle [cómo funciona una bomba de calor](/decogas/blog/aire-acondicionado/como-funciona-bomba-de-calor/).
+Conoce con más detalle [cómo funciona una bomba de calor](/blog/aire-acondicionado/como-funciona-bomba-de-calor/).
 
 ## Señales comunes de que la bomba de la caldera está fallando
 
-Detectar una falla en la bomba de la caldera puede evitar problemas más serios y es una de las [averías más comunes en un sistema de calefacción](/decogas/blog/caldera/principales-averias-calderas/). Algunas señales pueden alertarte de que algo no funciona correctamente.
+Detectar una falla en la bomba de la caldera puede evitar problemas más serios y es una de las [averías más comunes en un sistema de calefacción](/blog/caldera/principales-averias-calderas/). Algunas señales pueden alertarte de que algo no funciona correctamente.
 
 ### Sonidos inusuales en la caldera
 
@@ -30,7 +30,7 @@ Un sonido inusual es una de las primeras señales que pueden indicar un fallo en
 
 ### Pérdida de presión y problemas de circulación de agua
 
-Una bomba defectuosa puede provocar que el sistema de calefacción pierda presión, lo que afecta la circulación del agua caliente por los radiadores. Esto se traduce en una **temperatura irregular en tu hogar**, con zonas que no reciben suficiente calor. Si observas que algunos radiadores están fríos mientras otros están calientes, la bomba podría estar fallando. La pérdida de [presión en la caldera](/decogas/blog/caldera/presion-caldera-adecuada/) es un síntoma claro de que algo no está funcionando correctamente.
+Una bomba defectuosa puede provocar que el sistema de calefacción pierda presión, lo que afecta la circulación del agua caliente por los radiadores. Esto se traduce en una **temperatura irregular en tu hogar**, con zonas que no reciben suficiente calor. Si observas que algunos radiadores están fríos mientras otros están calientes, la bomba podría estar fallando. La pérdida de [presión en la caldera](/blog/caldera/presion-caldera-adecuada/) es un síntoma claro de que algo no está funcionando correctamente.
 
 ### Radiadores que no calientan adecuadamente
 
@@ -46,7 +46,7 @@ Las fugas son particularmente peligrosas porque, si no se abordan de inmediato, 
 
 ## Cómo comprobar si la bomba de la caldera está funcionando correctamente
 
-![pareja sentada junto a sistema de calefacción](/decogas/blog-img/como-saber-si-falla-la-bomba-de-la-caldera-2.webp)
+![pareja sentada junto a sistema de calefacción](/blog-img/como-saber-si-falla-la-bomba-de-la-caldera-2.webp)
 
 Es importante realizar verificaciones regulares en la bomba de tu caldera para asegurarte de que está funcionando de forma óptima. Estas comprobaciones pueden prevenir fallos graves.
 
@@ -70,7 +70,7 @@ Para realizar este test, puedes usar un medidor de flujo que te indicará si la 
 
 ### Cuándo contactar a un técnico especializado
 
-Si después de realizar estas verificaciones notas que la bomba sigue presentando problemas, es recomendable contactar a un [técnico especializado en la reparación de calderas](/decogas/calderas.html).
+Si después de realizar estas verificaciones notas que la bomba sigue presentando problemas, es recomendable contactar a un [técnico especializado en la reparación de calderas](/calderas.html).
 
 Nuestros profesionales podrán hacer un **diagnóstico más detallado** y ofrecerte soluciones que quizás no sean evidentes en una revisión casera. Ignorar una falla persistente puede ocasionar un daño mayor en el sistema de calefacción, lo que se traduce en costes más altos a largo plazo.
 
@@ -88,7 +88,7 @@ Aunque las soluciones temporales pueden darte tiempo, no resolver el problema de
 
 ## ¿Qué hacer si la bomba de tu caldera necesita ser sustituida?
 
-![técnicos evaluando bomba de calor en caldera](/decogas/blog-img/como-saber-si-falla-la-bomba-de-la-caldera-3.webp)
+![técnicos evaluando bomba de calor en caldera](/blog-img/como-saber-si-falla-la-bomba-de-la-caldera-3.webp)
 
 Si tu bomba ha dejado de funcionar correctamente, será necesario reemplazarla para asegurar el buen rendimiento del sistema de calefacción.
 
@@ -98,7 +98,7 @@ La vida útil de una bomba de caldera suele ser de unos **10 a 15 años**. Si tu
 
 Problemas recurrentes, como **ruidos extraños o una disminución en la eficiencia**, son señales de que ha llegado el momento de hacer el cambio antes de que falle por completo.
 
-Aquí te contamos [cuánto dura una caldera de gas](/decogas/blog/caldera/cuanto-dura-una-caldera-de-gas/).
+Aquí te contamos [cuánto dura una caldera de gas](/blog/caldera/cuanto-dura-una-caldera-de-gas/).
 
 ### Opciones de bombas eficientes y sostenibles
 

@@ -8,9 +8,9 @@ tagClass: "aerotermia"
 breadcrumb: "Aerotermia"
 readingTime: 4
 ---
-![aerotermia con split](/decogas/blog-img/aerotermia-split.webp)
+![aerotermia con split](/blog-img/aerotermia-split.webp)
 
-Como sabes, en [Decogas](https://decogas.com) somos expertos en aerotermia, por lo que hoy vamos a abordar el funcionamiento de la aerotermia con split, un sistema de climatización muy eficiente y versátil. Como expertos en [aerotermia](/decogas/blog/que-es-la-aerotermia/), estamos aquí para proporcionarte información detallada sobre este tema. Sigue leyendo para descubrir las [ventajas de la aerotermia](/decogas/blog/aerotermia/aerotermia-ventajas/) y mucho más.
+Como sabes, en [Decogas](https://decogas.com) somos expertos en aerotermia, por lo que hoy vamos a abordar el funcionamiento de la aerotermia con split, un sistema de climatización muy eficiente y versátil. Como expertos en [aerotermia](/blog/que-es-la-aerotermia/), estamos aquí para proporcionarte información detallada sobre este tema. Sigue leyendo para descubrir las [ventajas de la aerotermia](/blog/aerotermia/aerotermia-ventajas/) y mucho más.
 
 ## ¿Qué es la aerotermia con split?
 
@@ -20,7 +20,7 @@ Este sistema es altamente eficiente y **versátil**, ya que permite controlar la
 
 ## Ventajas de la aerotermia con split
 
-Al igual que la [aerotermia con radiadores de aluminio](/decogas/blog/aerotermia/aerotermia-con-radiadores-de-aluminio/) la aerotermia con split ofrece numerosas ventajas en términos de eficiencia energética, confort y flexibilidad. A continuación, destacamos algunas de las ventajas más importantes:
+Al igual que la [aerotermia con radiadores de aluminio](/blog/aerotermia/aerotermia-con-radiadores-de-aluminio/) la aerotermia con split ofrece numerosas ventajas en términos de eficiencia energética, confort y flexibilidad. A continuación, destacamos algunas de las ventajas más importantes:
 
 -   **Alta eficiencia energética:** La aerotermia con split utiliza energía renovable del aire, lo que la convierte en un sistema altamente eficiente y respetuoso con el medio ambiente. Puede proporcionar un rendimiento energético superior en comparación con los sistemas tradicionales de calefacción y refrigeración.
 -   **Confort personalizado:** Gracias a las unidades interiores individuales, es posible controlar la temperatura de cada habitación de forma independiente. Esto permite ajustar el nivel de confort de acuerdo con las preferencias individuales y optimizar el consumo de energía en cada espacio.
@@ -51,4 +51,4 @@ Es recomendable contar con la asesoría de profesionales en la instalación de a
 
 La aerotermia con split es una opción eficiente, flexible y respetuosa con el medio ambiente para climatizar espacios de manera individualizada. Sus ventajas en términos de **eficiencia energética**, confort personalizado y ahorro económico la convierten en una solución atractiva para hogares y edificios de diferentes tamaños.
 
-Si estás considerando la aerotermia con split como sistema de climatización, puedes ponerte en [contacto](/decogas/index.html#contacto) con nosotros, estaremos encantados de asesorarte, ayudarte a elegir el equipo adecuado y realizar una instalación óptima. ¡No dudes en aprovechar los beneficios de la aerotermia con split y disfrutar de un ambiente confortable durante todo el año!
+Si estás considerando la aerotermia con split como sistema de climatización, puedes ponerte en [contacto](/index.html#contacto) con nosotros, estaremos encantados de asesorarte, ayudarte a elegir el equipo adecuado y realizar una instalación óptima. ¡No dudes en aprovechar los beneficios de la aerotermia con split y disfrutar de un ambiente confortable durante todo el año!

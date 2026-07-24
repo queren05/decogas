@@ -8,15 +8,15 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 4
 ---
-![calderas de gas estancas](/decogas/blog-img/calderas-de-gas-estancas.webp)
+![calderas de gas estancas](/blog-img/calderas-de-gas-estancas.webp)
 
-**¿No sabes si elegir una caldera estanca o una de condensación?** Es una duda más común de lo que parece, sobre todo si estás reformando tu vivienda o cambiando un sistema antiguo. Ambas opciones sirven para **calentar el agua y mantener el confort en casa**, y forman parte de los distintos [tipos de sistemas de calefacción](/decogas/blog/caldera/tipos-sistemas-calefaccion/) que puedes instalar hoy en día, según tus necesidades y el tipo de vivienda.
+**¿No sabes si elegir una caldera estanca o una de condensación?** Es una duda más común de lo que parece, sobre todo si estás reformando tu vivienda o cambiando un sistema antiguo. Ambas opciones sirven para **calentar el agua y mantener el confort en casa**, y forman parte de los distintos [tipos de sistemas de calefacción](/blog/caldera/tipos-sistemas-calefaccion/) que puedes instalar hoy en día, según tus necesidades y el tipo de vivienda.
 
 Si te preocupa **el** **consumo, la eficiencia o la normativa**, estás en el lugar adecuado. Aquí te explicamos de forma clara qué las diferencia y cuál te conviene más según tu caso.
 
 ## Cómo funcionan las calderas estancas y de condensación
 
-Las calderas estancas y las de [calderas condensación](/decogas/blog/caldera/mejores-calderas-condensacion/) cumplen la misma función: **generar agua caliente para calefacción y uso sanitario**. Sin embargo, su forma de hacerlo es muy distinta. La **caldera estanca** utiliza una cámara cerrada que toma el aire del exterior para la combustión y expulsa los gases hacia fuera a través de un conducto. Esto mejora la seguridad frente a modelos antiguos que usaban el aire interior. Su rendimiento es correcto, pero no aprovecha toda la energía disponible en el proceso.
+Las calderas estancas y las de [calderas condensación](/blog/caldera/mejores-calderas-condensacion/) cumplen la misma función: **generar agua caliente para calefacción y uso sanitario**. Sin embargo, su forma de hacerlo es muy distinta. La **caldera estanca** utiliza una cámara cerrada que toma el aire del exterior para la combustión y expulsa los gases hacia fuera a través de un conducto. Esto mejora la seguridad frente a modelos antiguos que usaban el aire interior. Su rendimiento es correcto, pero no aprovecha toda la energía disponible en el proceso.
 
 La **caldera de condensación** es un paso más allá. A diferencia de la estanca convencional, reutiliza el calor contenido en los humos que normalmente se perderían por la chimenea. Estos gases se enfrían hasta condensar el vapor de agua, liberando calor adicional. **Este sistema permite que se aproveche casi toda la energía del gas**, lo que se traduce en un menor consumo y menos emisiones. Funciona bien con radiadores de baja temperatura y sistemas de suelo radiante.
 
@@ -30,9 +30,9 @@ Las calderas estancas, aunque funcionales, no aprovechan el calor de los gases y
 
 Instalar una caldera estanca suele ser **más económico y rápido**, ya que no requiere desagüe ni materiales especiales.
 
-En cambio, la caldera de condensación necesita un sistema de evacuación adaptado y un punto de desagüe. Aunque **su instalación es más costosa**, el ahorro energético a medio plazo compensa la inversión inicial en muchos casos, especialmente si lo comparas con otros [sistemas de calefacción más baratos](/decogas/blog/aerotermia/sistema-de-calefaccion-mas-barato/) disponibles.
+En cambio, la caldera de condensación necesita un sistema de evacuación adaptado y un punto de desagüe. Aunque **su instalación es más costosa**, el ahorro energético a medio plazo compensa la inversión inicial en muchos casos, especialmente si lo comparas con otros [sistemas de calefacción más baratos](/blog/aerotermia/sistema-de-calefaccion-mas-barato/) disponibles.
 
-![hombre haciendo mantenimiento de calderas de gas estancas](/decogas/blog-img/mantenimiento-y-durabilidad-de-las-calderas-de-gas-estancas.webp)
+![hombre haciendo mantenimiento de calderas de gas estancas](/blog-img/mantenimiento-y-durabilidad-de-las-calderas-de-gas-estancas.webp)
 
 ## Normativa y regulación actual en España
 
@@ -74,7 +74,7 @@ Comparar estas características te ayudará a tomar una decisión más ajustada 
 
 ## Cuál elegir: recomendaciones según tu caso
 
-![padre e hija disfrutando las ventajas de las calderas de gas estancas](/decogas/blog-img/ventajas-de-las-calderas-de-gas-estancas-frente-a-otros-tipos.webp)
+![padre e hija disfrutando las ventajas de las calderas de gas estancas](/blog-img/ventajas-de-las-calderas-de-gas-estancas-frente-a-otros-tipos.webp)
 
 La mejor elección **depende del tipo de vivienda, el uso previsto y el presupuesto disponible**. En casas con varias plantas o donde la calefacción funciona muchas horas, una caldera de condensación ofrece mayor rendimiento y ahorro. El coste inicial se amortiza rápido.
 
@@ -87,4 +87,4 @@ En cambio, **si se trata de un piso pequeño**, con poco uso de calefacción, y 
 -   ¿Estás reformando o simplemente reemplazando la caldera?
 -   ¿Te interesa reducir el impacto ambiental?
 
-Elegir bien ahora puede ahorrarte muchos costes a futuro. Si tienes dudas, puedes [contactar con nosotros](/decogas/index.html#contacto). Estaremos encantados de orientarte.
+Elegir bien ahora puede ahorrarte muchos costes a futuro. Si tienes dudas, puedes [contactar con nosotros](/index.html#contacto). Estaremos encantados de orientarte.

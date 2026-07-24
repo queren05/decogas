@@ -8,15 +8,15 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 3
 ---
-Puede parecer un absurdo, pero **sin agua, la caldera, ya sea de condensación o de gasoil, no tendrá un funcionamiento óptimo**. Mantener la presión correcta resulta imprescindible si queremos contar con calefacción y agua caliente sanitaria. Aunque no siempre esta se mantiene estable. Esto puede suceder cuando [la caldera gotea agua](/decogas/blog/caldera/principales-averias-calderas/). Para saber qué ocurre correctamente, se debe cerrar el circuito. Te explicamos **cómo cortar el agua de la caldera y cuándo es conveniente hacerlo** para no comprometer la vida útil de tu aparato.
+Puede parecer un absurdo, pero **sin agua, la caldera, ya sea de condensación o de gasoil, no tendrá un funcionamiento óptimo**. Mantener la presión correcta resulta imprescindible si queremos contar con calefacción y agua caliente sanitaria. Aunque no siempre esta se mantiene estable. Esto puede suceder cuando [la caldera gotea agua](/blog/caldera/principales-averias-calderas/). Para saber qué ocurre correctamente, se debe cerrar el circuito. Te explicamos **cómo cortar el agua de la caldera y cuándo es conveniente hacerlo** para no comprometer la vida útil de tu aparato.
 
 ## Conoce el circuito de agua de tu caldera
 
-Sin entrar en terminología técnica, es importante que comprendas cuál es la función del agua en el circuito de la calefacción y el [agua caliente sanitaria](/decogas/blog/caldera/tiempo-calentar-termo-electrico/) respecto de la caldera para **identificar cuándo y cómo cortar el agua de la caldera**.
+Sin entrar en terminología técnica, es importante que comprendas cuál es la función del agua en el circuito de la calefacción y el [agua caliente sanitaria](/blog/caldera/tiempo-calentar-termo-electrico/) respecto de la caldera para **identificar cuándo y cómo cortar el agua de la caldera**.
 
 El sistema utiliza el agua para transportar calor a los radiadores y calienta el agua para proveernos de agua caliente. Esto hace que la **presión** aumente. A fin de evitar el fallo de la caldera, entra en acción el vaso de expansión, que absorbe la presión.
 
-![técnico caldera](/decogas/blog-img/tecnico-arreglando-una-caldera.webp)
+![técnico caldera](/blog-img/tecnico-arreglando-una-caldera.webp)
 
 En él, hay una pieza clave: la **válvula de seguridad**. Si está averiada, es probable que la caldera gotee agua, momento en el que habrá que actuar con rapidez y cerrar el circuito. A continuación veremos cómo cortar el agua de la caldera para que esta avería no vaya a más.
 
@@ -47,4 +47,4 @@ Para ello, debes saber **cómo cortar el agua de la caldera.** Existen 2 vías:
 
 Sea por el motivo que sea, al cerrar el agua de la caldera, es normal que durante unos instantes siga goteando. Esto ocurre hasta que **se vacía**.
 
-En las [**calderas Junkers**](/decogas/marcas/bosch.html), la llave del agua a cerrar suele tener forma de palanca negra; para cortar el agua en la **[caldera Saurnier Duval](/decogas/marcas/saunier-duval.html),** es una palomita, también negra.
+En las [**calderas Junkers**](/marcas/bosch.html), la llave del agua a cerrar suele tener forma de palanca negra; para cortar el agua en la **[caldera Saurnier Duval](/marcas/saunier-duval.html),** es una palomita, también negra.

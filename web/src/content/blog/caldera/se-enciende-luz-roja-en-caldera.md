@@ -8,9 +8,9 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 5
 ---
-Cada vez más vemos marcas y modelos, en cuanto a calefacción y climatización, que buscan **ser más eficientes y sencillos de usar**. Ya no es extraño que veamos paneles de mando de calderas con pantalla táctil e indicadores que facilitan increíblemente el trabajo de técnicos y usuarios. Aunque, en ocasiones, se puede dar lugar a que se produzcan [**problemas en las calderas**](/decogas/blog/caldera/principales-averias-calderas/) **que no sabemos de dónde proceden** ni qué podemos hacer. En este artículo vamos a intentar dar respuesta a la problemática de por qué **se enciende una luz roja en la [caldera](/decogas/calderas.html).**
+Cada vez más vemos marcas y modelos, en cuanto a calefacción y climatización, que buscan **ser más eficientes y sencillos de usar**. Ya no es extraño que veamos paneles de mando de calderas con pantalla táctil e indicadores que facilitan increíblemente el trabajo de técnicos y usuarios. Aunque, en ocasiones, se puede dar lugar a que se produzcan [**problemas en las calderas**](/blog/caldera/principales-averias-calderas/) **que no sabemos de dónde proceden** ni qué podemos hacer. En este artículo vamos a intentar dar respuesta a la problemática de por qué **se enciende una luz roja en la [caldera](/calderas.html).**
 
-![por qué se enciende la luz roja](/decogas/blog-img/6675153617-5c10fefef5-o.webp)
+![por qué se enciende la luz roja](/blog-img/6675153617-5c10fefef5-o.webp)
 
 ## ¿Por qué se enciende una luz roja en la caldera?
 
@@ -36,7 +36,7 @@ Normalmente, una **luz roja es sinónimo de bloqueo** debido a una avería que p
 
 Podemos encontrar que, en ciertas marcas de calderas, **la luz roja puede parpadear** y va acompañada de un **código de error en el display** (si lo tiene). Otras marcas **no incluyen la luz roja**, pero sí un código de error parpadeante. E, incluso, ciertos fabricantes en sus dispositivos añaden la luz roja pero **no en un foco LED**, sino en el color de la pantalla, que cambiará de luz verde a roja.
 
-![Código de error en caldera](/decogas/blog-img/como-puede-afectar-la-presion-del-agua-a-tu-caldera.webp)
+![Código de error en caldera](/blog-img/como-puede-afectar-la-presion-del-agua-a-tu-caldera.webp)
 
 ## ¿Qué hacer cuando se enciende una luz roja en la caldera?
 
@@ -46,7 +46,7 @@ El método para reiniciar la caldera **varía levemente de una marca a otra** de
 
 Cabe destacar que, a pesar de las diferencias en modelos de las marcas de calderas, su funcionamiento actual se ha vuelto usual en la comunicación entre el aparato y el técnico o usuario. La lógica en el uso es parecida en casi la totalidad de las marcas, que buscan diferenciarse y posicionarse en el mercado en cuanto al diseño y rendimiento, pero no tanto en el funcionamiento. La **simbología de los colores** como el verde o el rojo en la luz asemeja que todo va bien (verde) o hay problemas (rojo), así como en la manera de resetear el aparato.
 
-Podemos encontrar algunas variaciones, aunque la interpretación de los códigos es semejante entre marcas, es decir, significa lo mismo cuando se enciende la luz de una [caldera Junkers](/decogas/marcas/bosch.html) como en una [Ferroli](/decogas/calderas.html), [Ariston](/decogas/calderas.html), [Chaffoteaux](/decogas/calderas.htmlchaffoteaux/) y otras marcas.
+Podemos encontrar algunas variaciones, aunque la interpretación de los códigos es semejante entre marcas, es decir, significa lo mismo cuando se enciende la luz de una [caldera Junkers](/marcas/bosch.html) como en una [Ferroli](/calderas.html), [Ariston](/calderas.html), [Chaffoteaux](/calderas.htmlchaffoteaux/) y otras marcas.
 
 ### Corregir 2 tipos de averías
 

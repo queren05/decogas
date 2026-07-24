@@ -8,9 +8,9 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 6
 ---
-![técnico solucionando averías comunes en calderas saunier duval](/decogas/blog-img/saunier-duval-averias-frecuentes-1.webp)
+![técnico solucionando averías comunes en calderas saunier duval](/blog-img/saunier-duval-averias-frecuentes-1.webp)
 
-Cuando surgen problemas en las **[calderas Saunier Duval](/decogas/marcas/saunier-duval.html)**, puede ser frustrante y preocupante. Entender las **averías más comunes y cómo solucionarlas** ayuda a evitar contratiempos y asegura que tu sistema de calefacción funcione correctamente.
+Cuando surgen problemas en las **[calderas Saunier Duval](/marcas/saunier-duval.html)**, puede ser frustrante y preocupante. Entender las **averías más comunes y cómo solucionarlas** ayuda a evitar contratiempos y asegura que tu sistema de calefacción funcione correctamente.
 
 Para cada tipo de avería, conocerás las causas más frecuentes, las posibles soluciones y cuándo es necesario acudir al **servicio técnico**. Si te preocupa la seguridad, el coste de las reparaciones o el confort de tu hogar, aquí encontrarás toda la información necesaria para mantener tu caldera en óptimas condiciones.
 
@@ -22,7 +22,7 @@ Otro factor importante es **la instalación y el mantenimiento**. Si la caldera 
 
 ## Principales averías en calderas Saunier Duval
 
-Las calderas Saunier Duval, aunque son de gran calidad, pueden presentar ciertas averías recurrentes. Vamos a explorar las [principales averías en las calderas](/decogas/blog/caldera/principales-averias-calderas/) y sus soluciones prácticas.
+Las calderas Saunier Duval, aunque son de gran calidad, pueden presentar ciertas averías recurrentes. Vamos a explorar las [principales averías en las calderas](/blog/caldera/principales-averias-calderas/) y sus soluciones prácticas.
 
 ### Problemas en la membrana de agua caliente sanitaria (ACS)
 
@@ -36,25 +36,25 @@ Esta acumulación no solo afecta el rendimiento de la caldera, sino que puede re
 
 ### Goteos y problemas en el manómetro
 
-El manómetro controla la [presión del agua en la caldera](/decogas/blog/caldera/presion-caldera-adecuada/). Si presenta goteos, puede indicar un **desgaste en el capilar** o una **presión incorrecta**. Un capilar dañado puede hacer que la presión baje, afectando el rendimiento y causando problemas en el sistema. Inspeccionar y reemplazar el manómetro o el capilar si es necesario ayuda a mantener una presión estable.
+El manómetro controla la [presión del agua en la caldera](/blog/caldera/presion-caldera-adecuada/). Si presenta goteos, puede indicar un **desgaste en el capilar** o una **presión incorrecta**. Un capilar dañado puede hacer que la presión baje, afectando el rendimiento y causando problemas en el sistema. Inspeccionar y reemplazar el manómetro o el capilar si es necesario ayuda a mantener una presión estable.
 
-Conoce [cómo subir la presión de la caldera](/decogas/blog/caldera/subir-presion-caldera/).
+Conoce [cómo subir la presión de la caldera](/blog/caldera/subir-presion-caldera/).
 
 ### Fallos en la centralita
 
 La centralita actúa como el cerebro de la caldera, coordinando su funcionamiento. Cuando esta pieza presenta fallos, pueden aparecer **bloqueos en el sistema o fallos intermitentes**.
 
-Este tipo de problema suele requerir la intervención de un **técnico especializado en la [reparación de calderas](/decogas/calderas.html)**, ya que implica una evaluación y, en algunos casos, el reemplazo de componentes electrónicos para restaurar el rendimiento normal.
+Este tipo de problema suele requerir la intervención de un **técnico especializado en la [reparación de calderas](/calderas.html)**, ya que implica una evaluación y, en algunos casos, el reemplazo de componentes electrónicos para restaurar el rendimiento normal.
 
 ### Falsos contactos en tarjetas electrónicas
 
 Las tarjetas electrónicas son sensibles a cambios de temperatura o humedad, lo que puede generar falsos contactos. **Estos contactos interrumpen la comunicación entre los componentes de la caldera, afectando su eficiencia y fiabilidad**. Para solucionar este problema, es necesario revisar la tarjeta y realizar soldaduras o reemplazos, asegurando así que todos los componentes funcionen en perfecta sincronización.
 
-Si la eficiencia es una prioridad para ti, conoce [cómo ahorrar en calefacción](/decogas/blog/como-ahorrar-en-calefaccion/).
+Si la eficiencia es una prioridad para ti, conoce [cómo ahorrar en calefacción](/blog/como-ahorrar-en-calefaccion/).
 
 ## Códigos de error más comunes en calderas Saunier Duval
 
-![error a00 caldera baxiroca novanox](/decogas/blog-img/error-a00-caldera-baxiroca-novanox.webp)
+![error a00 caldera baxiroca novanox](/blog-img/error-a00-caldera-baxiroca-novanox.webp)
 
 Las calderas Saunier Duval muestran códigos de error específicos cuando detectan algún fallo. Conocer estos códigos ayuda a identificar problemas y soluciones.
 
@@ -64,11 +64,11 @@ El código F.22 **se activa cuando la caldera detecta una presión de agua insuf
 
 ### Códigos F.23 y F.24: exceso de temperatura por bomba bloqueada o aire
 
-Los códigos F.23 y F.24 **indican que hay un exceso de temperatura debido a una bomba bloqueada o a la presencia de aire en el circuito**. Este fallo afecta la circulación del agua y provoca sobrecalentamiento. [Purgar la caldera](/decogas/blog/caldera/como-purgar-radiadores-pasos/) y revisar el estado de la bomba ayuda a normalizar la temperatura y restaurar el flujo de agua.
+Los códigos F.23 y F.24 **indican que hay un exceso de temperatura debido a una bomba bloqueada o a la presencia de aire en el circuito**. Este fallo afecta la circulación del agua y provoca sobrecalentamiento. [Purgar la caldera](/blog/caldera/como-purgar-radiadores-pasos/) y revisar el estado de la bomba ayuda a normalizar la temperatura y restaurar el flujo de agua.
 
 ### Código F.28: fallo de encendido por múltiples causas
 
-El código F.28 **aparece cuando la caldera no consigue encenderse correctamente**, generalmente por problemas en la presión de gas o el sistema de encendido. Revisar el suministro de gas, así como los electrodos y las conexiones del encendido, es clave para resolver este fallo y asegurar que la caldera arranque correctamente. Aquí te contamos con detalle [cómo encender la caldera](/decogas/blog/caldera/como-encender-caldera/).
+El código F.28 **aparece cuando la caldera no consigue encenderse correctamente**, generalmente por problemas en la presión de gas o el sistema de encendido. Revisar el suministro de gas, así como los electrodos y las conexiones del encendido, es clave para resolver este fallo y asegurar que la caldera arranque correctamente. Aquí te contamos con detalle [cómo encender la caldera](/blog/caldera/como-encender-caldera/).
 
 ### Código F.29: fallo por falta de gas
 

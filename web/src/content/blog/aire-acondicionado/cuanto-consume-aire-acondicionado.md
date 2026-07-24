@@ -8,9 +8,9 @@ tagClass: "aire"
 breadcrumb: "Aire acondicionado"
 readingTime: 5
 ---
-Saber cuánto **consume un aire acondicionado** es una de las principales preocupaciones para compradores individuales como empresas; y es que, aunque hoy en día, la mayoría de los modelos de climatización están optimizados para que su consumo sea el más reducido posible. Aun así, conviene saber ciertas cuestiones para mejorar el rendimiento del equipo y sobre todo para saber [qué aire acondicionado de bajo consumo comprar](/decogas/blog/aire-acondicionado/aire-acondicionado-de-bajo-consumo/), si es que no lo tienes todavía.
+Saber cuánto **consume un aire acondicionado** es una de las principales preocupaciones para compradores individuales como empresas; y es que, aunque hoy en día, la mayoría de los modelos de climatización están optimizados para que su consumo sea el más reducido posible. Aun así, conviene saber ciertas cuestiones para mejorar el rendimiento del equipo y sobre todo para saber [qué aire acondicionado de bajo consumo comprar](/blog/aire-acondicionado/aire-acondicionado-de-bajo-consumo/), si es que no lo tienes todavía.
 
-![pareja disfrutando del aire acondicionado](/decogas/blog-img/istockphoto-1157958026-612x612-1.webp)
+![pareja disfrutando del aire acondicionado](/blog-img/istockphoto-1157958026-612x612-1.webp)
 
 ## ¿Es verdad que encender el aire acondicionado sale caro?
 
@@ -22,11 +22,11 @@ Actualmente, podemos comprobar como todos los electrodomésticos disponen de la 
 
 Escoger un modelo que consiga enfriar la estancia es más que suficiente para controlar la temperatura y, como consecuencia, el **gasto energético**.
 
-Además, si el aparato cuenta con [**tecnología inverter**](/decogas/blog/aire-acondicionado/ventajas-aire-acondicionado-inverter-madrid/), también estaremos consiguiendo un consumo más eficiente, puesto que mantendremos la temperatura de confort de manera estable y con menos ciclos de encendido y apagado.
+Además, si el aparato cuenta con [**tecnología inverter**](/blog/aire-acondicionado/ventajas-aire-acondicionado-inverter-madrid/), también estaremos consiguiendo un consumo más eficiente, puesto que mantendremos la temperatura de confort de manera estable y con menos ciclos de encendido y apagado.
 
 ## ¿Qué determina el bajo consumo de un aire acondicionado?
 
-A continuación, vamos a nombrar variables o factores que determinan el bajo consumo de un [aire acondicionado](/decogas/aires.html).
+A continuación, vamos a nombrar variables o factores que determinan el bajo consumo de un [aire acondicionado](/aires.html).
 
 ### Variables del consumo y el gasto
 
@@ -40,7 +40,7 @@ Todo esto da como resultado si podremos o no bajar varios grados nuestro sistema
 
 Este es un punto importante. Hoy en día los sistemas de aire acondicionado no consumen tanto como podemos pensar y como hacía años provocaban. La etiqueta de eficiencia energética nos ayudará a saber hasta qué punto consume el electrodoméstico. Actualmente, la **clasificación va desde la letra A hasta la letra G** (según la normativa aprobada el 1 de marzo de 2021), donde la A es la más eficiente.
 
-![eficiencia energética](/decogas/blog-img/eficiencia-energetica-712x400-1.webp)
+![eficiencia energética](/blog-img/eficiencia-energetica-712x400-1.webp)
 
 ## Cómo calcular la potencia para saber cuánto consume un aire acondicionado
 
@@ -82,7 +82,7 @@ Si lo ponemos durante 5 horas al día y el precio del kW es de 1€, el gasto se
 
 Para conseguir un cálculo certero, lo mejor es contar con un técnico experto en aires acondicionados, que nos realizará un estudio detallado y nos recomendará la solución más conveniente.
 
-![control de aire acondicionado mediante mando a distancia](/decogas/blog-img/istockphoto-1168365012-612x612-1.webp)
+![control de aire acondicionado mediante mando a distancia](/blog-img/istockphoto-1168365012-612x612-1.webp)
 
 ## Cómo mejorar el consumo del aire acondicionado
 

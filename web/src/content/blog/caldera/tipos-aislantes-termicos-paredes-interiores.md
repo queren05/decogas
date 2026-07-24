@@ -8,15 +8,15 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 4
 ---
-Los cambios meteorológicos hacen que nuestra vivienda pueda sufrir cambios de temperatura en su interior; por ello, es necesario disponer de una [caldera](/decogas/calderas.html) que garantice el mantenimiento del calor, o un [aire acondicionado](/decogas/aires.html) que lo haga del frío. Además, tienes que contar con un **buen aislante térmico** que garantice su protección ante estas variaciones atmosféricas. Por ello, en este _post_ te mostramos los **distintos tipos** de aislantes térmicos para paredes interiores y por qué su instalación es tan importante para que tu vivienda no pierda el calor.
+Los cambios meteorológicos hacen que nuestra vivienda pueda sufrir cambios de temperatura en su interior; por ello, es necesario disponer de una [caldera](/calderas.html) que garantice el mantenimiento del calor, o un [aire acondicionado](/aires.html) que lo haga del frío. Además, tienes que contar con un **buen aislante térmico** que garantice su protección ante estas variaciones atmosféricas. Por ello, en este _post_ te mostramos los **distintos tipos** de aislantes térmicos para paredes interiores y por qué su instalación es tan importante para que tu vivienda no pierda el calor.
 
 ## ¿Por qué es tan importante el aislamiento térmico en paredes interiores?
 
 En la actualidad, el 99% de los hogares en España pierden calor por no contar con un buen aislamiento térmico. Este desperdicio del calor se traduce en un **mayor gasto energético**, más emisiones de CO2 y un incremento en tu factura.
 
-Por eso, los aislantes térmicos para paredes interiores son la mejor opción para ahorrar dinero a final de mes. Se calcula que la instalación de un buen aislamiento térmico te permite un **ahorro de hasta un 70% de energía**; de ahí la importancia de elegir el [mejor aislante térmico para tu casa](/decogas/blog/caldera/mejor-aislante-termico-casa/).
+Por eso, los aislantes térmicos para paredes interiores son la mejor opción para ahorrar dinero a final de mes. Se calcula que la instalación de un buen aislamiento térmico te permite un **ahorro de hasta un 70% de energía**; de ahí la importancia de elegir el [mejor aislante térmico para tu casa](/blog/caldera/mejor-aislante-termico-casa/).
 
-![Vivienda con aislantes térmicos para paredes interiores](/decogas/blog-img/vivienda-aislante-termico-paredes-interires.webp)
+![Vivienda con aislantes térmicos para paredes interiores](/blog-img/vivienda-aislante-termico-paredes-interires.webp)
 
 ## Tipos de aislantes térmicos para paredes interiores
 
@@ -41,7 +41,7 @@ Los mejores aislantes térmicos para paredes interiores son aquellos que protege
 
 Los aislantes térmicos para paredes interiores **pueden aplicarse de distintas formas** para, sin tener que renunciar a tu fachada, puedas disfrutar de todos sus beneficios.
 
-![Aislamiento térmico interior por inyectado](/decogas/blog-img/aislamiento-termico-interior-inyectado.webp)
+![Aislamiento térmico interior por inyectado](/blog-img/aislamiento-termico-interior-inyectado.webp)
 
 ### Inyectado o insuflado
 
@@ -67,7 +67,7 @@ Esta opción tiene un **coste más elevado que el anterior** y, además, su inst
 
 Cuando ya has decidido utilizar un **aislante térmico para las paredes interiores** de tu vivienda, debes saber que has tomado la mejor decisión; a continuación te mostramos algunos de sus beneficios.
 
--   **Protege la vivienda del frío y el calor**: de esta forma, puedes elegir el [tipo de caldera](/decogas/blog/caldera/caldera-gas-elegir-comprar/) o de [aire acondicionado](/decogas/blog/aire-acondicionado/tipos-aire-acondicionado/) que desees y ahorrar al máximo en tu factura de la luz.
+-   **Protege la vivienda del frío y el calor**: de esta forma, puedes elegir el [tipo de caldera](/blog/caldera/caldera-gas-elegir-comprar/) o de [aire acondicionado](/blog/aire-acondicionado/tipos-aire-acondicionado/) que desees y ahorrar al máximo en tu factura de la luz.
 -   **Resistentes al calor**: consigue mantener la temperatura de la vivienda estable durante todo el año, evitando la entrada del calor durante los mese de verano.
 -   **Aislante acústico**: como hemos visto, algunos materiales también permiten absorber el ruido exterior.
 -   **Ignífugos**: los aislantes térmicos para paredes interiores sirven para proteger la vivienda contra el fuego.

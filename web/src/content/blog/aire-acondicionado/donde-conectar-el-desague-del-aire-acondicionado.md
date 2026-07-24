@@ -8,21 +8,21 @@ tagClass: "aire"
 breadcrumb: "Aire acondicionado"
 readingTime: 5
 ---
-Una de las problemáticas más comunes que se encuentran los usuarios que tienen una [instalación de aire acondicionado](/decogas/aires.html) es el goteo de agua. En muchas ocasiones, tener un aire acondicionado en la terraza puede suponer problemas con los vecinos, puesto que el vecino se acaba aquejando de tener humedades en el techo de su terraza o alguna habitación. Gran parte de este problema radica en la forma de **conectar el desagüe del aire acondicionado**.
+Una de las problemáticas más comunes que se encuentran los usuarios que tienen una [instalación de aire acondicionado](/aires.html) es el goteo de agua. En muchas ocasiones, tener un aire acondicionado en la terraza puede suponer problemas con los vecinos, puesto que el vecino se acaba aquejando de tener humedades en el techo de su terraza o alguna habitación. Gran parte de este problema radica en la forma de **conectar el desagüe del aire acondicionado**.
 
 Es decir, aunque no se vea a simple vista, el aire acondicionado produce un **goteo de agua** proveniente de la condensación del ambiente de nuestro hogar. Es más, se estima que, si dejamos el aire encendido continuamente, podremos extraer varios litros de agua que terminan en la calle.
 
 Esta cantidad de agua no puede simplemente caer al suelo o sobre otra propiedad, ya sea por seguridad o por estética, por lo que es necesario saber cómo y dónde conectar el desagüe del aire acondicionado.
 
-![fachada de edificio con unidad exterior de aire acondicionado](/decogas/blog-img/fachada-de-un-edificio-con-aire-acondicionado.webp)
+![fachada de edificio con unidad exterior de aire acondicionado](/blog-img/fachada-de-un-edificio-con-aire-acondicionado.webp)
 
 ## ¿Qué es el desagüe del aire acondicionado?
 
 El desagüe de un aire acondicionado nos permite **evacuar al exterior el agua** que genera el aparato.
 
-Durante el [funcionamiento del aire acondicionado](/decogas/blog/aire-acondicionado/funcionamiento-aire-acondicionado/), el gas refrigerante que utiliza enfría las tuberías, por lo tanto, el aire se enfrenta al choque de dos temperaturas y provoca su **condensación**. Es decir, se producen gotas de agua que se han de evacuar al exterior.
+Durante el [funcionamiento del aire acondicionado](/blog/aire-acondicionado/funcionamiento-aire-acondicionado/), el gas refrigerante que utiliza enfría las tuberías, por lo tanto, el aire se enfrenta al choque de dos temperaturas y provoca su **condensación**. Es decir, se producen gotas de agua que se han de evacuar al exterior.
 
-En este sentido, no es un problema que el [aire acondicionado genere un goteo](/decogas/blog/aire-acondicionado/gotea-agua-aire-acondicionado/), puesto que es algo normal, y tal y como sucede con otros aparatos como son los refrigeradores y otros equipos electrodomésticos. El problema con el agua se produce cuando esta **no se drena correctamente** y puede llegar a afectar negativamente al aparato.
+En este sentido, no es un problema que el [aire acondicionado genere un goteo](/blog/aire-acondicionado/gotea-agua-aire-acondicionado/), puesto que es algo normal, y tal y como sucede con otros aparatos como son los refrigeradores y otros equipos electrodomésticos. El problema con el agua se produce cuando esta **no se drena correctamente** y puede llegar a afectar negativamente al aparato.
 
 ## ¿Para qué sirve el desagüe de los sistemas de refrigeración?
 
@@ -30,11 +30,11 @@ El desagüe de un aire acondicionado nos **ayuda a expulsar el agua del equipo**
 
 Así mismo, cabe destacar que no todos los aires acondicionados disponen del mismo tipo de desagüe y de eso hablaremos en las siguientes líneas.
 
-![aire acondicionado expulsando agua por el desagüe a la calle](/decogas/blog-img/desague-del-aire-acondicionado.webp)
+![aire acondicionado expulsando agua por el desagüe a la calle](/blog-img/desague-del-aire-acondicionado.webp)
 
 ## Tipos de desagüe del aire acondicionado
 
-Podemos encontrar diferentes **tipos de desagüe** en función del [modelo de aire acondicionado](/decogas/blog/aire-acondicionado/tipos-aire-acondicionado/). Es importante saber esto para reconocer si su funcionamiento es óptimo y cómo realizar un mantenimiento adecuado.
+Podemos encontrar diferentes **tipos de desagüe** en función del [modelo de aire acondicionado](/blog/aire-acondicionado/tipos-aire-acondicionado/). Es importante saber esto para reconocer si su funcionamiento es óptimo y cómo realizar un mantenimiento adecuado.
 
 ### Desagüe split
 
@@ -58,7 +58,7 @@ El **modelo de ventana** tiene un orificio con una boquilla, por lo que basta so
 
 Por el contrario, el **sistema split** necesita contar con una tubería para el desagüe. Si la instalación es correcta, el agua bajará por la tubería llevada por la gravedad en una zona donde pueda fluir sin problemas o, bien, utilizando un envase para luego desecharla.
 
-![manguera de drenaje de aire acondicionado](/decogas/blog-img/manguera-para-aire-acondicionado.webp)
+![manguera de drenaje de aire acondicionado](/blog-img/manguera-para-aire-acondicionado.webp)
 
 ## ¿Y si tengo que cambiar el tubo de desagüe del aire acondicionado?
 

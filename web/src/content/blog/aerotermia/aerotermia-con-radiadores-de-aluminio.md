@@ -8,13 +8,13 @@ tagClass: "aerotermia"
 breadcrumb: "Aerotermia"
 readingTime: 3
 ---
-![aerotermia con radiadores](/decogas/blog-img/aerotermia-radiador.webp)
+![aerotermia con radiadores](/blog-img/aerotermia-radiador.webp)
 
-Hoy hablaremos de la combinación de la aerotermia con radiadores de aluminio. Como expertos en el tema, estamos aquí para resolver tus dudas y proporcionarte información valiosa sobre este sistema de climatización eficiente Sigue leyendo para descubrir las ventajas y razones para considerar la [aerotermia](/decogas/blog/que-es-la-aerotermia/).
+Hoy hablaremos de la combinación de la aerotermia con radiadores de aluminio. Como expertos en el tema, estamos aquí para resolver tus dudas y proporcionarte información valiosa sobre este sistema de climatización eficiente Sigue leyendo para descubrir las ventajas y razones para considerar la [aerotermia](/blog/que-es-la-aerotermia/).
 
 ## ¿Qué es la aerotermia con radiadores de aluminio?
 
-Tanto si te estás planteando instalar [aerotermia para una comunidad de vecinos](/decogas/blog/aerotermia/aerotermia-para-comunidades-de-vecinos/) como si es únicamente para tu vivienda, la aerotermia con radiadores de aluminio es un sistema que debes tener en cuenta. Se trata de un sistema de climatización que combina la tecnología de la aerotermia con la utilización de radiadores de aluminio como emisores de calor. La aerotermia utiliza el aire como fuente de energía renovable para **calentar el agua**, y luego los radiadores de aluminio distribuyen ese calor de manera eficiente en los espacios interiores.
+Tanto si te estás planteando instalar [aerotermia para una comunidad de vecinos](/blog/aerotermia/aerotermia-para-comunidades-de-vecinos/) como si es únicamente para tu vivienda, la aerotermia con radiadores de aluminio es un sistema que debes tener en cuenta. Se trata de un sistema de climatización que combina la tecnología de la aerotermia con la utilización de radiadores de aluminio como emisores de calor. La aerotermia utiliza el aire como fuente de energía renovable para **calentar el agua**, y luego los radiadores de aluminio distribuyen ese calor de manera eficiente en los espacios interiores.
 
 Los radiadores de aluminio son ideales para este sistema debido a su alta conductividad térmica y su capacidad para transferir rápidamente el calor generado por la aerotermia al ambiente. Además, el aluminio es un material ligero y resistente a la corrosión, lo que **garantiza la durabilidad** y eficiencia de los radiadores a lo largo del tiempo.
 

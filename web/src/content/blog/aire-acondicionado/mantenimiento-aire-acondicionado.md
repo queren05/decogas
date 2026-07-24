@@ -8,11 +8,11 @@ tagClass: "aire"
 breadcrumb: "Aire acondicionado"
 readingTime: 6
 ---
-El aire acondicionado es uno de los electrodomésticos **imprescindibles en una vivienda**; este equipo te permite mantener tu hogar fresco durante los meses de verano, lo que hace que el ambiente sea mucho más agradable. Por ello, si estás pensando en [comprar un equipo de refrigeración](/decogas/aires.html) debes saber cómo realizar el mantenimiento de tu aire acondicionado.
+El aire acondicionado es uno de los electrodomésticos **imprescindibles en una vivienda**; este equipo te permite mantener tu hogar fresco durante los meses de verano, lo que hace que el ambiente sea mucho más agradable. Por ello, si estás pensando en [comprar un equipo de refrigeración](/aires.html) debes saber cómo realizar el mantenimiento de tu aire acondicionado.
 
 ## ¿Qué tipos de mantenimiento podemos realizar en el aire acondicionado?
 
-En nuestro [aire acondicionado](/decogas/aires.html) podemos realizar diferentes tipos de mantenimientos como son el preventivo o el correctivo, cada uno de ellos con sus ventajas pertinentes.
+En nuestro [aire acondicionado](/aires.html) podemos realizar diferentes tipos de mantenimientos como son el preventivo o el correctivo, cada uno de ellos con sus ventajas pertinentes.
 
 ### Ventajas del mantenimiento preventivo del aire acondicionado
 
@@ -28,13 +28,13 @@ En nuestro [aire acondicionado](/decogas/aires.html) podemos realizar diferentes
 
 ## ¿Cómo se hace el mantenimiento del aire acondicionado?
 
-Si ya sabes qué [tipo de aire acondicionado](/decogas/blog/aire-acondicionado/tipos-aire-acondicionado/) deseas, es importante que sepas que, cada cierto tiempo, debes realizar **un mantenimiento** para asegurar que está funcionando correctamente del equipo y alargar así su vida útil.
+Si ya sabes qué [tipo de aire acondicionado](/blog/aire-acondicionado/tipos-aire-acondicionado/) deseas, es importante que sepas que, cada cierto tiempo, debes realizar **un mantenimiento** para asegurar que está funcionando correctamente del equipo y alargar así su vida útil.
 
 Lo mejor es dejar el **mantenimiento de la parte exterior** en manos de profesionales. Ellos son los indicados para verificar la instalación y el rendimiento de tu aparato. En este proceso, el especialista comprobará que no hay ningún elemento que pueda obstruir las salidas o que no existen fugas, entre otras acciones.
 
-![Haciendo el mantenimiento del aire acondicionado](/decogas/blog-img/mantenimiento-aire-acondicionado.webp)
+![Haciendo el mantenimiento del aire acondicionado](/blog-img/mantenimiento-aire-acondicionado.webp)
 
-Por el contrario, el **mantenimiento de la unidad interior** lo puedes realizar tú mismo; para ello, debes limpiar de forma periódica los filtros del aparato y limpiar el desagüe. De esta forma, evitas la acumulación de suciedad en el interior y el rendimiento de tu equipo no bajará en ningún momento. De esta manera, consigues que tu aire acondicionado de bajo consumo dure mucho más tiempo; además, este correcto mantenimiento facilita que el [nivel sonoro al que trabaja](/decogas/blog/aire-acondicionado/nivel-sonoro-aire-acondicionado-silencioso/) sea mucho más bajo.
+Por el contrario, el **mantenimiento de la unidad interior** lo puedes realizar tú mismo; para ello, debes limpiar de forma periódica los filtros del aparato y limpiar el desagüe. De esta forma, evitas la acumulación de suciedad en el interior y el rendimiento de tu equipo no bajará en ningún momento. De esta manera, consigues que tu aire acondicionado de bajo consumo dure mucho más tiempo; además, este correcto mantenimiento facilita que el [nivel sonoro al que trabaja](/blog/aire-acondicionado/nivel-sonoro-aire-acondicionado-silencioso/) sea mucho más bajo.
 
 ### Limpieza de los filtros del aire acondicionado
 
@@ -54,7 +54,7 @@ Si el **desagüe se ha atascado**, o sientes que está en mal estado, puedes sop
 
 Para que el aire acondicionado funcione correctamente, es esencial **evitar la proliferación de bacterias** y también mantener en buen estado la **estética del aparato** y, por ello, lo recomendable es realizar una limpieza superficial de la unidad interior usando **productos no abrasivos**. Un ejemplo es usar un 10% de lejía disuelto en agua en un pulverizador y un trapo con fibras sintéticas para retirar la suciedad.
 
-![Cómo realizar el mantenimiento de un aire acondicionado](/decogas/blog-img/realizar-mantenimiento-aire-acondicionado.webp)
+![Cómo realizar el mantenimiento de un aire acondicionado](/blog-img/realizar-mantenimiento-aire-acondicionado.webp)
 
 ## Mantenimiento de la unidad exterior
 
@@ -84,6 +84,6 @@ A continuación, te mostramos los **problemas** que te pueden aparecer si no rea
 -   **No funciona el control remoto**.
 -   **Producir mal olor**, a consecuencia de la aparición de bacterias o agua estancada producto de la humedad.
 
-> Por cierto, ya que estamos hablando del mantenimiento, seguro que te interesa saber [a qué temperatura debes poner el aire acondicionado](/decogas/blog/aire-acondicionado/temperatura-aire-acondicionado/). Si lo optimizas, además de ahorrar en la factura de la luz podrás alargar la vida de tu aparato
+> Por cierto, ya que estamos hablando del mantenimiento, seguro que te interesa saber [a qué temperatura debes poner el aire acondicionado](/blog/aire-acondicionado/temperatura-aire-acondicionado/). Si lo optimizas, además de ahorrar en la factura de la luz podrás alargar la vida de tu aparato
 
-De este modo, ya sabes cómo realizar el mantenimiento del aire acondicionado. Además, si tienes **cualquier duda** cuando vayas a adquirir tu equipo en Decogas, ya sea de la instalación, la correcta elección de tu aparato o su mantenimiento, nuestros profesionales están encantados de ayudarte. Por eso, no dudes en ponerte en [contacto con nosotros](/decogas/index.html#contacto) para realizar tu compra.
+De este modo, ya sabes cómo realizar el mantenimiento del aire acondicionado. Además, si tienes **cualquier duda** cuando vayas a adquirir tu equipo en Decogas, ya sea de la instalación, la correcta elección de tu aparato o su mantenimiento, nuestros profesionales están encantados de ayudarte. Por eso, no dudes en ponerte en [contacto con nosotros](/index.html#contacto) para realizar tu compra.

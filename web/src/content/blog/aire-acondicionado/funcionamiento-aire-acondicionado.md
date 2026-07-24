@@ -8,7 +8,7 @@ tagClass: "aire"
 breadcrumb: "Aire acondicionado"
 readingTime: 5
 ---
-¿Alguna vez te has preguntado cuál es el funcionamiento del [aire acondicionado](/decogas/aires.html)? En este _post_ te explicamos cuáles son los pasos que realiza este sistema para **extraer el calor de la estancia** y mantener el máximo confort en la vivienda.
+¿Alguna vez te has preguntado cuál es el funcionamiento del [aire acondicionado](/aires.html)? En este _post_ te explicamos cuáles son los pasos que realiza este sistema para **extraer el calor de la estancia** y mantener el máximo confort en la vivienda.
 
 ## Componentes del aire acondicionado
 
@@ -40,9 +40,9 @@ El circuito frigorífico emplea gas refrigerante al que se **deriva el exceso de
 
 Su principal función es la de regular el funcionamiento del equipo y apagarlo cuando se alcanza la temperatura escogida por el usuario. Es un componente fundamental para asegurar la eficiencia del aparato, puesto que hará que el sistema de climatización únicamente funcione cuando sea necesario. Podemos encontrar distintos tipos de termostato según su tecnología y funciones. Un buen uso de este aparato puede asegurar hasta un ahorro del 30%.
 
-![Mujer activando el funcionamiento del aire acondicionado](/decogas/blog-img/activando-funcionamiento-aire-acondiconado.webp)
+![Mujer activando el funcionamiento del aire acondicionado](/blog-img/activando-funcionamiento-aire-acondiconado.webp)
 
-Además, es **muy importante** realizar un buen [mantenimiento del aire acondicionado](/decogas/blog/aire-acondicionado/mantenimiento-aire-acondicionado/) para que estos componentes funcionen de la mejor forma posible.
+Además, es **muy importante** realizar un buen [mantenimiento del aire acondicionado](/blog/aire-acondicionado/mantenimiento-aire-acondicionado/) para que estos componentes funcionen de la mejor forma posible.
 
 ## ¿Cómo funciona el aire acondicionado?
 
@@ -60,7 +60,7 @@ Durante todo el funcionamiento del aire acondicionado, la **temperatura de la vi
 
 ## ¿Y un aparato con tecnología Inverter?
 
-En la actualidad existen muchos [tipos de aires acondicionados](/decogas/blog/aire-acondicionado/tipos-aire-acondicionado/); de todos ellos, aquellos que cuentan con la [tecnología _Inverter_](/decogas/blog/aire-acondicionado/ventajas-aire-acondicionado-inverter-madrid/) tienen un funcionamiento que se **regula por la velocidad del compresor**; es decir, por un cambio en la frecuencia del ciclo eléctrico.
+En la actualidad existen muchos [tipos de aires acondicionados](/blog/aire-acondicionado/tipos-aire-acondicionado/); de todos ellos, aquellos que cuentan con la [tecnología _Inverter_](/blog/aire-acondicionado/ventajas-aire-acondicionado-inverter-madrid/) tienen un funcionamiento que se **regula por la velocidad del compresor**; es decir, por un cambio en la frecuencia del ciclo eléctrico.
 
 La tecnología _Inverter_ lo que hace es permitir que el compresor gire constantemente; de esta forma, la sala **mantiene la temperatura de la sala de forma homogénea** y evitas que el aparato arranque y pare frecuentemente.
 
@@ -74,8 +74,8 @@ Por último, la **vida útil del aparato es más larga** si se compara a otros s
 
 No podemos terminar sin hablar sobre la bomba de calor que contienen muchos modelos de climatización. Es un sistema que nos permitirá utilizar el aire acondicionado también en invierno gracias a su capacidad de calefacción.
 
-Es considerado uno de los **sistemas más eficientes** debido a su [bajo consumo](/decogas/blog/aire-acondicionado/aire-acondicionado-de-bajo-consumo/), aunque no llega a los niveles de confort de otros sistemas de calefacción que podemos utilizar en los meses más fríos.
+Es considerado uno de los **sistemas más eficientes** debido a su [bajo consumo](/blog/aire-acondicionado/aire-acondicionado-de-bajo-consumo/), aunque no llega a los niveles de confort de otros sistemas de calefacción que podemos utilizar en los meses más fríos.
 
 Para generar el calor, el equipo invierte el ciclo gracias a la **válvula de inversión** y haciendo el efecto contrario al proceso de refrigeración. El calor generado por el compresor es pasado al líquido refrigerante que, al contacto con el aire ambiente, se enfría y el aire se calienta. Este aire caliente es expulsado al exterior.
 
-Ya sabes **cuál es el funcionamiento** del aire acondicionado ahora, ¿a qué esperas para hacerte con el tuyo? Además, en Decogas puedes encontrar la mayor variedad de aparatos, desde los [aires acondicionados más pequeños](/decogas/blog/aire-acondicionado/aire-acondicionado-pequeno-caracteristicas/) hasta los pensados para enfriar amplias estancias. No lo dudes más y compra el mejor aire acondicionado al precio más bajo en nuestra web.
+Ya sabes **cuál es el funcionamiento** del aire acondicionado ahora, ¿a qué esperas para hacerte con el tuyo? Además, en Decogas puedes encontrar la mayor variedad de aparatos, desde los [aires acondicionados más pequeños](/blog/aire-acondicionado/aire-acondicionado-pequeno-caracteristicas/) hasta los pensados para enfriar amplias estancias. No lo dudes más y compra el mejor aire acondicionado al precio más bajo en nuestra web.

@@ -8,9 +8,9 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 4
 ---
-![cuánto tiempo debe estar encendida una estufa de pellets](/decogas/blog-img/estufa-grande-de-pellets.webp)
+![cuánto tiempo debe estar encendida una estufa de pellets](/blog-img/estufa-grande-de-pellets.webp)
 
-Las chimeneas o [estufas de pellets](/decogas/index.html#contacto) son aparatos generadores de calor que emplean el **pellet o madera prensada** para conseguir la combustión dentro de un habitáculo cerrado y proporcionar calor a una estancia. El pellet es una fuente de energía renovable, pero también hay que tener cuidado con el **tiempo que puede estar encendida una estufa de pellets**.
+Las chimeneas o [estufas de pellets](/index.html#contacto) son aparatos generadores de calor que emplean el **pellet o madera prensada** para conseguir la combustión dentro de un habitáculo cerrado y proporcionar calor a una estancia. El pellet es una fuente de energía renovable, pero también hay que tener cuidado con el **tiempo que puede estar encendida una estufa de pellets**.
 
 En este artículo te contamos el tiempo recomendado para mantenerla encendida.
 
@@ -24,7 +24,7 @@ Los pellets tiene la ventaja de que, al estar en formato granulado, **ocupan poc
 
 Al ser un producto procesado, es importante que estén **alejados de fuentes de humedad**, ya que al humedecerse pierden eficiencia durante la combustión. Es importante guardarlos en un **lugar seco** y en el interior como son garajes o buhardillas.
 
-![pellets de madera](/decogas/blog-img/obtencion-de-pellets.webp)
+![pellets de madera](/blog-img/obtencion-de-pellets.webp)
 
 ## ¿Cómo funcionan las estufas de pellets?
 
@@ -46,7 +46,7 @@ Lo ideal es conseguir que la casa esté a una **temperatura de 21º o 22ºC** y 
 
 De media, **un depósito de hasta 15 kg de pellets tiene una autonomía de 8 y 16 horas**, en función de la intensidad de combustión y la calidad del pellet empleado.
 
-![estufa pellets negra](/decogas/blog-img/estufa-de-pellets.webp)
+![estufa pellets negra](/blog-img/estufa-de-pellets.webp)
 
 ## ¿Es recomendable dejar la estufa puesta toda la noche?
 

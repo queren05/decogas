@@ -8,13 +8,13 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 5
 ---
-Las **[estufas de pellets](/decogas/index.html#contacto) sin salida de humos** son una alternativa moderna para calentar el hogar sin necesidad de una chimenea tradicional. Estas estufas modernas son una opción cada vez más popular para aquellos que quieren calentar su hogar de forma eficiente y sin la necesidad de una salida de humos. Estas estufas funcionan con pellets, que son pequeñas bolitas de madera comprimida, y no emiten humo alguno. Esto significa que no hay necesidad de preocuparse por los humos dañinos para la salud o el medio ambiente.
+Las **[estufas de pellets](/index.html#contacto) sin salida de humos** son una alternativa moderna para calentar el hogar sin necesidad de una chimenea tradicional. Estas estufas modernas son una opción cada vez más popular para aquellos que quieren calentar su hogar de forma eficiente y sin la necesidad de una salida de humos. Estas estufas funcionan con pellets, que son pequeñas bolitas de madera comprimida, y no emiten humo alguno. Esto significa que no hay necesidad de preocuparse por los humos dañinos para la salud o el medio ambiente.
 
 Estas estufas son **más eficientes que las estufas de leña tradicionales**, ya que los pellets tienen una mayor densidad de energía que la leña. Esto significa que los pellets pueden producir una mayor cantidad de calor por unidad de peso. Además, los pellets son más fáciles de almacenar que la leña, lo que significa que no hay necesidad de preocuparse por el almacenamiento de la leña.
 
 Estas estufas de pellets han sido aprobadas por la Agencia Europea de Medio Ambiente como una forma segura y eficiente de calentar el hogar. Esto significa que estas estufas no emiten ningún tipo de contaminantes al medio ambiente, lo que las hace una excelente opción para aquellos que quieren calentar su hogar de forma segura y eficiente.
 
-## ![estufas de pellets sin salida de humos](/decogas/blog-img/estufas-de-pellets-sin-salida-de-humo.webp)Instalación de estufas de pellets sin salida de humos
+## ![estufas de pellets sin salida de humos](/blog-img/estufas-de-pellets-sin-salida-de-humo.webp)Instalación de estufas de pellets sin salida de humos
 
 Instalar **estufas de pellets sin salida de humos** es una excelente opción para aquellos que quieren **disfrutar del calor y la comodidad** de una estufa sin tener que preocuparse por los humos. Si estás pensando en instalar estas estufas hay cosas que necesitas saber:
 
@@ -37,7 +37,7 @@ Para obtener una estimación precisa de cuántas habitaciones puedes abastecer c
 
 Las estufas de pellets son una excelente opción para calentar nuestras casas en invierno. La duración de esta estufa encendida depende de varios factores, como el tamaño de la estufa, la cantidad y tipo de pellets y la temperatura deseada. En general, una estufa de pellets puede **durar entre 8 y 12 horas**. Esto significa que, si se enciende una estufa de pellets a las 8 de la mañana, se puede esperar que se apague a las 8 de la noche.
 
-![estufa de pellets encendida](/decogas/blog-img/estufa-pellets.webp)
+![estufa de pellets encendida](/blog-img/estufa-pellets.webp)
 
 Además, hay algunas estufas que cuentan con un **sistema de control de temperatura**. Es decir, se apagará automáticamente cuando se alcance la temperatura deseada. Esto es ideal para ahorrar energía y mantener una temperatura constante en la casa.
 
@@ -56,4 +56,4 @@ Es importante que el lugar elegido para la estufa de pellets cumpla con los requ
 
 ## Conclusión
 
-El uso de **estufas de pellets sin salida de humos** está en aumento, ya que ofrecen una alternativa eficiente para reducir el consumo de energía y la emisión de CO2. Además, su mantenimiento e instalación no son nada complicadas, por lo que son la opción ideal para tu hogar. Si quieres más información, [contacta con nosotros](/decogas/index.html).
+El uso de **estufas de pellets sin salida de humos** está en aumento, ya que ofrecen una alternativa eficiente para reducir el consumo de energía y la emisión de CO2. Además, su mantenimiento e instalación no son nada complicadas, por lo que son la opción ideal para tu hogar. Si quieres más información, [contacta con nosotros](/index.html).

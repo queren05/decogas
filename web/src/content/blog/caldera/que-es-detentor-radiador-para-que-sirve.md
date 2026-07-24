@@ -10,7 +10,7 @@ readingTime: 5
 ---
 En el mundo de la calefacción doméstica, comprender los componentes clave de nuestro sistema puede marcar una gran diferencia en su eficiencia y funcionamiento. Uno de estos componentes esenciales es el detentor. Pero, **¿qué es el detentor de un radiador exactamente?** En este artículo, desglosaremos su función, importancia y cómo mantenerlo para asegurar un hogar cálido y confortable.
 
-![vista cercana de un radiador blanco](/decogas/blog-img/22126-1.webp)
+![vista cercana de un radiador blanco](/blog-img/22126-1.webp)
 
 ## ¿Qué es un detentor y para qué sirve?
 
@@ -58,7 +58,7 @@ Si se observa alguno de estos síntomas, es nedesario realizar una inspección m
 
 Vamos a explorar soluciones efectivas para los inconvenientes más habituales que puedes encontrar con el detentor de tu radiador.
 
-![mano encendiendo un radiador](/decogas/blog-img/close-up-hand-turning-up-heater-1.webp)
+![mano encendiendo un radiador](/blog-img/close-up-hand-turning-up-heater-1.webp)
 
 ### Fugas de agua
 
@@ -70,7 +70,7 @@ Un bloqueo del detentor puede ocurrir por **acumulación de residuos** o por un 
 
 ### Desajuste en la temperatura
 
-El desajuste en la temperatura de los radiadores, donde algunos calientan más que otros, suele deberse a un **problema de equilibrado en el sistema**. Ajustar los detentores para regular el flujo de agua en cada radiador puede ayudar a distribuir el calor de manera más uniforme. Si el problema continúa, puedes [contactar a un especialista de Decogas](/decogas/index.html#contacto) y te ayudaremos con un equilibrado profesional del sistema.
+El desajuste en la temperatura de los radiadores, donde algunos calientan más que otros, suele deberse a un **problema de equilibrado en el sistema**. Ajustar los detentores para regular el flujo de agua en cada radiador puede ayudar a distribuir el calor de manera más uniforme. Si el problema continúa, puedes [contactar a un especialista de Decogas](/index.html#contacto) y te ayudaremos con un equilibrado profesional del sistema.
 
 ## Preguntas frecuentes
 

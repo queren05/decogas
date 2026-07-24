@@ -8,13 +8,13 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 4
 ---
-Las **[estufas de pellets](/decogas/index.html#contacto) sin electricidad** son una alternativa de calefacción eficiente y sostenible para aquellos que buscan una forma de calentar su hogar sin depender de la electricidad. Estas estufas funcionan quemando pellets de madera, un combustible renovable y económico y permiten ahorrar en la factura de electricidad y contribuir a la reducción de emisiones de dióxido de carbono.
+Las **[estufas de pellets](/index.html#contacto) sin electricidad** son una alternativa de calefacción eficiente y sostenible para aquellos que buscan una forma de calentar su hogar sin depender de la electricidad. Estas estufas funcionan quemando pellets de madera, un combustible renovable y económico y permiten ahorrar en la factura de electricidad y contribuir a la reducción de emisiones de dióxido de carbono.
 
 El **funcionamiento de estas estufas** es sencillo: los pellets se almacenan en un depósito, desde el cual se alimentan a una cámara de combustión. Esta cámara se calienta hasta alcanzar una temperatura de combustión óptima, lo que permite que los pellets se quemen de forma eficiente. El calor generado se distribuye por la casa a través de un sistema de tuberías.  Pueden ser controladas a través de un **termostato** para regular la temperatura deseada.
 
 Las estufas de pellets sin electricidad son una opción cada vez más popular en España: según los datos del Ministerio para la Transición Ecológica, el número de estufas de pellets sin electricidad instaladas en el país ha aumentado en un 20% en los últimos años.
 
-## ![estufas de pellets sin electricidad](/decogas/blog-img/estufas-de-pellets-sin-electricidad.webp)¿Cómo funciona una estufa de pellets sin electricidad?
+## ![estufas de pellets sin electricidad](/blog-img/estufas-de-pellets-sin-electricidad.webp)¿Cómo funciona una estufa de pellets sin electricidad?
 
 Las estufas de pellets sin electricidad funcionan con **[pellets de madera](https://es.wikipedia.org/wiki/Pellet_de_madera)**, que son pequeños trozos de madera comprimidos que se queman para producir calor. Estas estufas son muy eficientes y económicas, y pueden ser una buena opción para aquellos que viven en zonas rurales donde la electricidad no está disponible.
 
@@ -42,4 +42,4 @@ Además, el consumo de energía de una estufa de pellets también depende de la 
 
 ## Conclusión
 
-Las **estufas de pellets sin electricidad** son una opción práctica y segura para aquellos que no tienen acceso a la electricidad. Estas estufas son más eficientes, ecológicas, baratas y seguras que las estufas de gas, según varios estudios realizados por universidades de renombre. En Decogas puedes encontrar tu modelo de estufa de pellet sin electricidad, [contáctanos para saber más](/decogas/index.html#contacto).
+Las **estufas de pellets sin electricidad** son una opción práctica y segura para aquellos que no tienen acceso a la electricidad. Estas estufas son más eficientes, ecológicas, baratas y seguras que las estufas de gas, según varios estudios realizados por universidades de renombre. En Decogas puedes encontrar tu modelo de estufa de pellet sin electricidad, [contáctanos para saber más](/index.html#contacto).

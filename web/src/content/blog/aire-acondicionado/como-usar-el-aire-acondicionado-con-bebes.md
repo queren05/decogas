@@ -34,7 +34,7 @@ Por otro lado, **la humedad recomendada debe oscilar entre 30% y 50%**, agregand
 
 Sabemos que ahora tu prioridad es cuidar y proteger a ese bebé que tanto amas. Por eso, las siguientes sugerencias serán de gran ayuda para que sepas **cómo usar el aire acondicionado con bebés de forma adecuada y segura**.
 
-![bebe-durmiendo](/decogas/blog-img/cute-infant-sleeping-with-grey-crocheted-hat-and-with-toy-rabbit-1-600.webp)
+![bebe-durmiendo](/blog-img/cute-infant-sleeping-with-grey-crocheted-hat-and-with-toy-rabbit-1-600.webp)
 
 ### **Evita flujo de aire directo**
 

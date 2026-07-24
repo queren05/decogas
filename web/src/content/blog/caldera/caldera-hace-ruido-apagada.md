@@ -10,13 +10,13 @@ readingTime: 4
 ---
 Si alguna vez te has preguntado **por qué tu caldera hace ruido apagada**, has llegado al lugar adecuado. En este artículo, **abordaremos las posibles causas detrás de este molesto problema** y te **proporcionaremos soluciones prácticas** para que puedas disfrutar de un **funcionamiento silencioso y eficiente de tu caldera**. Entender las razones detrás de estos ruidos te ayudará a identificar y resolver el problema sin necesidad de recurrir a un técnico especializado. Acompáñanos mientras exploramos las causas y soluciones para el enigma de la caldera ruidosa apagada.
 
-![Mujer apagando la caldera.](/decogas/blog-img/mujer-apagando-caldera.webp)
+![Mujer apagando la caldera.](/blog-img/mujer-apagando-caldera.webp)
 
 ## Posibles causas de ruidos en una caldera apagada
 
 ### Hidrógeno atrapado en el sistema
 
-Uno de los **motivos más comunes** detrás del ruido persistente en una **[caldera](/decogas/calderas.html)** apagada es la **presencia de hidrógeno atrapado en el sistema**. Cuando el agua se calienta dentro de la caldera, pequeñas **cantidades de hidrógeno se liberan y tienden a acumularse en ciertas áreas del sistema**. Estas burbujas de gas **pueden liberar su energía después de apagar la caldera**, lo que **genera ruidos como chasquidos o golpeteos**. A este fenómeno se le conoce como «goteo de retorno».
+Uno de los **motivos más comunes** detrás del ruido persistente en una **[caldera](/calderas.html)** apagada es la **presencia de hidrógeno atrapado en el sistema**. Cuando el agua se calienta dentro de la caldera, pequeñas **cantidades de hidrógeno se liberan y tienden a acumularse en ciertas áreas del sistema**. Estas burbujas de gas **pueden liberar su energía después de apagar la caldera**, lo que **genera ruidos como chasquidos o golpeteos**. A este fenómeno se le conoce como «goteo de retorno».
 
 #### **Solución: Purga del sistema**
 
@@ -36,7 +36,7 @@ Con el tiempo, **es normal que se acumulen depósitos de sedimentos en el interi
 
 #### **Solución: Mantenimiento y limpieza**
 
-Realizar un **mantenimiento periódico y una limpieza adecuada** de tu caldera son prácticas **esenciales para prevenir la acumulación de sedimentos** y otros problemas que puedan causar ruidos. Limpia los componentes internos de la caldera y sigue las recomendaciones del fabricante para el [mantenimiento](/decogas/blog/caldera/mantenimiento-calderas-gas/) regular. Con un cuidado adecuado, tu caldera funcionará de manera óptima y silenciosa.
+Realizar un **mantenimiento periódico y una limpieza adecuada** de tu caldera son prácticas **esenciales para prevenir la acumulación de sedimentos** y otros problemas que puedan causar ruidos. Limpia los componentes internos de la caldera y sigue las recomendaciones del fabricante para el [mantenimiento](/blog/caldera/mantenimiento-calderas-gas/) regular. Con un cuidado adecuado, tu caldera funcionará de manera óptima y silenciosa.
 
 ## Soluciones adicionales para eliminar los ruidos
 

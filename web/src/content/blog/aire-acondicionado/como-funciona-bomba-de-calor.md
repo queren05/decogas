@@ -8,11 +8,11 @@ tagClass: "aire"
 breadcrumb: "Aire acondicionado"
 readingTime: 4
 ---
-Cada vez más se utiliza la [bomba de calor](/decogas/blog/aire-acondicionado/aire-acondicionado-con-bomba-de-calor/), pero hace poco que este sistema se ha demostrado como una óptima alternativa de climatización para conseguir un hogar más eficiente, seguro y sostenible. Pero para entenderlo, tenemos que saber **cómo funciona la bomba de calor**.
+Cada vez más se utiliza la [bomba de calor](/blog/aire-acondicionado/aire-acondicionado-con-bomba-de-calor/), pero hace poco que este sistema se ha demostrado como una óptima alternativa de climatización para conseguir un hogar más eficiente, seguro y sostenible. Pero para entenderlo, tenemos que saber **cómo funciona la bomba de calor**.
 
-En [Decogas](/decogas/index.html) te contamos todo lo que tienes que saber sobre cómo funcionan estos aparatos.
+En [Decogas](/index.html) te contamos todo lo que tienes que saber sobre cómo funcionan estos aparatos.
 
-![funciona la bomba de calor](/decogas/blog-img/bomba-de-calor-con-flores.webp)
+![funciona la bomba de calor](/blog-img/bomba-de-calor-con-flores.webp)
 
 ## Partes de una bomba de calor
 
@@ -32,7 +32,7 @@ Este aparato funciona mediante los **principios de la termodinámica** y podemos
 3.  El vapor se carga de energía. Circula por el **condensador** ubicado en el calderín donde va dando energía al agua acumulada y volviendo a su estado líquido.
 4.  Por último, el fluido pasa por la **válvula de expansión** para transformar el fluido en su estado inicial de baja presión y temperatura.
 
-![funcionamiento de una bomba de calor](/decogas/blog-img/istockphoto-504287273-612x612-1.webp)
+![funcionamiento de una bomba de calor](/blog-img/istockphoto-504287273-612x612-1.webp)
 
 ## Tipos de bomba de calor
 
@@ -43,7 +43,7 @@ Ahora que sabemos el funcionamiento básico de las bombas de calor, vamos a deta
 -   **Bomba de calor agua-agua**. Extrae la energía calorífica de bolsas de agua subterráneas y las envía al circuito de agua de la vivienda. Se sirve de la geotermia.
 -   **Bomba de calor suelo-agua**. Capta el calor del suelo empleando tuberías enterradas. Son instalaciones poco habituales, ya que son costosas y necesitan una gran superficie de terreno. También usa la geotermia.
 
-> También te puede interesar: [Diferencias entre sistemas aire-aire y aire-agua](/decogas/blog/aerotermia/diferencia-aire-agua-aire-aire-aerotermia/).
+> También te puede interesar: [Diferencias entre sistemas aire-aire y aire-agua](/blog/aerotermia/diferencia-aire-agua-aire-aire-aerotermia/).
 
 ## Aplicaciones para bombas de calor
 
@@ -59,7 +59,7 @@ No podemos hablar de cómo funciona una bomba de calor sin mencionar el rendimie
 
 ### El nivel de rendimiento óptimo
 
-La [eficiencia en una bomba de calor](/decogas/blog/aire-acondicionado/cuanto-gasta-aire-acondicionado-bomba-calor/) se mide mediante el **COP** (Coefficient of Perfommance o coeficiente de rendimiento). Es un cálculo donde se trata la **relación entre el calor cedido y la energía eléctrica consumida**, sobre todo, por el compresor.
+La [eficiencia en una bomba de calor](/blog/aire-acondicionado/cuanto-gasta-aire-acondicionado-bomba-calor/) se mide mediante el **COP** (Coefficient of Perfommance o coeficiente de rendimiento). Es un cálculo donde se trata la **relación entre el calor cedido y la energía eléctrica consumida**, sobre todo, por el compresor.
 
 Para que la bomba de calor sea eficiente y funcional ha de tener, como **mínimo entre 2 y máximo de 6**, en función de la diferencia entre las temperaturas de ambas unidades (interior y exterior). Es decir, un COP 3 indica un rendimiento del 300% o, lo que es lo mismo, para 1kWh consumido de energía eléctrica genera 3kWh de energía calorífica.
 
@@ -69,11 +69,11 @@ El [COP](https://es.wikipedia.org/wiki/Coeficiente_de_operatividad) puede variar
 
 Se define como el **coeficiente de rendimiento de la unidad** y que representa toda la temporada de calefacción designada (mientras el SCOP es la temporada de calefacción determinada). Se calcula dividiendo la demanda anual de calefacción por el consumo anual de electricidad aplicada en la calefacción.
 
-![unidades exterior de bomba de calor](/decogas/blog-img/equipos-de-fuera-de-bomba-de-calor.webp)
+![unidades exterior de bomba de calor](/blog-img/equipos-de-fuera-de-bomba-de-calor.webp)
 
 ## Bomba de calor para aire acondicionado
 
-Usualmente, se asocia el aire acondicionado con un sistema que combate las altas temperaturas del verano. Aunque también pueden ser de mucha ayuda durante el invierno mediante la [**tecnología inverter**](/decogas/blog/aire-acondicionado/que-es-inverter/).
+Usualmente, se asocia el aire acondicionado con un sistema que combate las altas temperaturas del verano. Aunque también pueden ser de mucha ayuda durante el invierno mediante la [**tecnología inverter**](/blog/aire-acondicionado/que-es-inverter/).
 
 La bomba de calor invierte el proceso de frío en el ambiente y lleva el calor del foco frío al caliente. Es decir, no crea energía, solo **aprovecha el aire ambiental** para climatizar los espacios.
 

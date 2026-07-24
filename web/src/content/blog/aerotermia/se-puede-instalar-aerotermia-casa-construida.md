@@ -8,9 +8,9 @@ tagClass: "aerotermia"
 breadcrumb: "Aerotermia"
 readingTime: 5
 ---
-![Unidad exterior de aerotermia en vivienda unifamiliar](/decogas/blog-img/se-puede-instalar-aerotermia-en-una-casa-ya-construida-1.webp)
+![Unidad exterior de aerotermia en vivienda unifamiliar](/blog-img/se-puede-instalar-aerotermia-en-una-casa-ya-construida-1.webp)
 
-**Instalar [aerotermia](/decogas/index.html#contacto) en una casa ya construida** es una decisión que puede transformar la forma en la que climatizas tu hogar y produces agua caliente sanitaria. Si buscas reducir tu factura energética y apostar por una solución más sostenible, es normal que te preguntes si esta tecnología es viable en una vivienda con años de uso.
+**Instalar [aerotermia](/index.html#contacto) en una casa ya construida** es una decisión que puede transformar la forma en la que climatizas tu hogar y produces agua caliente sanitaria. Si buscas reducir tu factura energética y apostar por una solución más sostenible, es normal que te preguntes si esta tecnología es viable en una vivienda con años de uso.
 
 En nuestra experiencia, sí es posible, pero hay factores clave que debes conocer. ¿Quieres descubrir cómo adaptar tu casa y aprovechar todas sus ventajas? ¡Sigue leyendo!
 
@@ -36,7 +36,7 @@ El aislamiento térmico de la vivienda influye directamente en el rendimiento de
 
 ### Evaluación de la compatibilidad con sistemas existentes
 
-Es posible que la aerotermia se integre con **[radiadores](/decogas/index.html#contacto)** o sistemas de calefacción previos, pero no siempre resulta la opción más eficiente. Los equipos funcionan mejor con sistemas de baja temperatura como el suelo radiante o radiadores adaptados.
+Es posible que la aerotermia se integre con **[radiadores](/index.html#contacto)** o sistemas de calefacción previos, pero no siempre resulta la opción más eficiente. Los equipos funcionan mejor con sistemas de baja temperatura como el suelo radiante o radiadores adaptados.
 
 **El técnico debe analizar:**
 
@@ -56,9 +56,9 @@ Un estudio previo permite **calcular la carga térmica de la vivienda y elegir l
 
 ## Opciones de instalación en viviendas ya construidas
 
-![Mujer en sofá con bebida caliente](/decogas/blog-img/se-puede-instalar-aerotermia-en-una-casa-ya-construida-2.webp)
+![Mujer en sofá con bebida caliente](/blog-img/se-puede-instalar-aerotermia-en-una-casa-ya-construida-2.webp)
 
-En casas ya habitadas, **la instalación puede realizarse adaptando el sistema a la estructura existente**. La colocación de la unidad exterior debe planificarse para garantizar una correcta ventilación y minimizar el ruido. Si estás considerando opciones para un entorno más compacto, quizás te interese saber si es viable poner [aerotermia en un piso](/decogas/blog/aerotermia/aerotermia-piso/).
+En casas ya habitadas, **la instalación puede realizarse adaptando el sistema a la estructura existente**. La colocación de la unidad exterior debe planificarse para garantizar una correcta ventilación y minimizar el ruido. Si estás considerando opciones para un entorno más compacto, quizás te interese saber si es viable poner [aerotermia en un piso](/blog/aerotermia/aerotermia-piso/).
 
 **La integración puede ser parcial o total**. En algunos casos, se conserva parte del sistema anterior como apoyo en picos de demanda, mientras que en otros se sustituye completamente para aprovechar todo el potencial de la aerotermia.
 
@@ -80,11 +80,11 @@ Aunque la inversión inicial es alta, **las ayudas públicas pueden reducirla ha
 
 ## Ventajas y desventajas de la aerotermia en casas construidas
 
-Instalar aerotermia en una vivienda existente puede ofrecer **grandes beneficios**, aunque también implica considerar ciertos aspectos técnicos y económicos antes de decidirse. Conocer en detalle las [ventajas de la aerotermia](/decogas/blog/aerotermia/aerotermia-ventajas/) ayuda a tomar una decisión informada y valorar si es la mejor opción para el hogar..
+Instalar aerotermia en una vivienda existente puede ofrecer **grandes beneficios**, aunque también implica considerar ciertos aspectos técnicos y económicos antes de decidirse. Conocer en detalle las [ventajas de la aerotermia](/blog/aerotermia/aerotermia-ventajas/) ayuda a tomar una decisión informada y valorar si es la mejor opción para el hogar..
 
 ### Beneficios en ahorro energético y sostenibilidad
 
-Un sistema de aerotermia **permite reducir el consumo energético** hasta un 50 % respecto a calderas de gas o gasóleo, ya que aprovecha energía renovable del aire. Este ahorro se traduce en facturas más bajas y en una menor dependencia de combustibles fósiles, siendo considerado por muchos como el [sistema de calefacción más barato](/decogas/blog/aerotermia/sistema-de-calefaccion-mas-barato/) para el hogar.
+Un sistema de aerotermia **permite reducir el consumo energético** hasta un 50 % respecto a calderas de gas o gasóleo, ya que aprovecha energía renovable del aire. Este ahorro se traduce en facturas más bajas y en una menor dependencia de combustibles fósiles, siendo considerado por muchos como el [sistema de calefacción más barato](/blog/aerotermia/sistema-de-calefaccion-mas-barato/) para el hogar.
 
 Además, la aerotermia **reduce notablemente las emisiones de CO****₂**, contribuyendo a combatir el cambio climático. Su eficiencia se mantiene estable todo el año y, al cubrir calefacción, refrigeración y agua caliente con un solo equipo, **optimiza el uso de recursos**. Esto convierte a la aerotermia en una solución eficiente y respetuosa con el medioambiente.
 
@@ -96,7 +96,7 @@ La **ubicación de la unidad exterior** también puede limitarse por espacio o n
 
 ## Mantenimiento y vida útil del sistema
 
-El mantenimiento de la aerotermia es **sencillo y de bajo coste**. Requiere limpiar filtros, revisar la presión del circuito y comprobar la carga de refrigerante, normalmente una vez al año. Contar con información práctica sobre [mantenimiento de aerotermia](/decogas/blog/aerotermia/mantenimiento-aerotermia/) permite anticiparse a problemas y asegurar que el sistema funcione de forma óptima con el paso del tiempo.
+El mantenimiento de la aerotermia es **sencillo y de bajo coste**. Requiere limpiar filtros, revisar la presión del circuito y comprobar la carga de refrigerante, normalmente una vez al año. Contar con información práctica sobre [mantenimiento de aerotermia](/blog/aerotermia/mantenimiento-aerotermia/) permite anticiparse a problemas y asegurar que el sistema funcione de forma óptima con el paso del tiempo.
 
 Con un uso correcto y revisiones periódicas, **la vida útil de una bomba de calor de aerotermia se sitúa entre 15 y 20 años**, manteniendo su eficiencia y garantizando un funcionamiento fiable durante toda su vida operativa.
 

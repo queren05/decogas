@@ -16,11 +16,11 @@ Antes de adquirir un aire acondicionado, es importante conocer **cuál es el niv
 
 Para que te hagas una idea, un modelo que trabajan a un bajo nivel de ruido son aquellos que **funcionan a unos 24dB**; además, el aire acondicionado más silencioso es aquel que no supera los 16dB. Del mismo modo, estos aparatos suelen tener una clasificación energética A++ y A+++; es decir, mientras trabaja te permite ahorrar en tu factura de la luz.
 
-![Técnico instalando un aire acondicionado silencioso](/decogas/blog-img/aire-acondicionado-instalacion.webp)
+![Técnico instalando un aire acondicionado silencioso](/blog-img/aire-acondicionado-instalacion.webp)
 
 Por otra parte, es necesario conocer el **lugar donde vas a instalar el aire acondicionado**; es decir, no es lo mismo que este electrodoméstico esté pensado para una oficina que para una biblioteca, el nivel de ruido al que trabaje en la segunda siempre debe ser menor.
 
-En Decogas disponemos de una [amplia variedad de productos](/decogas/aires.html) pensados para **mantener tu vivienda con un clima perfecto** los 12 meses del año. Además, al ser silenciosos suelen incluir la función _Sleep_ para disminuir, aún más, esta nivel de ruido.
+En Decogas disponemos de una [amplia variedad de productos](/aires.html) pensados para **mantener tu vivienda con un clima perfecto** los 12 meses del año. Además, al ser silenciosos suelen incluir la función _Sleep_ para disminuir, aún más, esta nivel de ruido.
 
 ## Características de un aire acondicionado silencioso
 
@@ -34,7 +34,7 @@ Estos aparatos suelen incluir la tecnología _Grosso modo_, encargada de **dismi
 
 Un aire acondicionado silencioso suele incluir la tecnología _Inverter_. Este sistema permite **regular el funcionamiento del motor** del electrodoméstico, lo que permite un ahorro de hasta el 40%.
 
-![Aire acondicionado silencioso con control remoto](/decogas/blog-img/aire-acondicionado-control-remoto.webp)
+![Aire acondicionado silencioso con control remoto](/blog-img/aire-acondicionado-control-remoto.webp)
 
 De esta manera, no solamente estarás ahorrando en la factura de la luz, este sistema regula la velocidad del compresor, evita los continuos arranques en ON/OFF, lo que hace que **disminuya el nivel de ruido al que trabaja**. De esta forma, la temperatura de la habitación se mantiene de forma constante y, al trabajar sin apenas ruido, el confort de la vivienda será mayor.
 
@@ -57,6 +57,6 @@ A continuación te damos una **serie de consejos** que pueden ayudarte a comprar
 
 En la actualidad, existe una gran variedad de aires acondicionados que trabajan a un bajo nivel sonoro. Por eso, en Decogas solamente trabajamos con los **mejores productos** para dar a tu vivienda el clima perfecto con el mayor confort posible.
 
-Como hemos visto, los modelos más silenciosos son aquellos que no superan los 24dB. [Saunier Duval](/decogas/aires.htmlsaunier-duval/), [Daikin](/decogas/marcas/daikin.html) o [Fujitsu](/decogas/marcas/fujitsu.html), entre otras, son algunas de las marcas más reconocidas por ofrecer los **aires acondicionados más silenciosos del mercado**.
+Como hemos visto, los modelos más silenciosos son aquellos que no superan los 24dB. [Saunier Duval](/aires.htmlsaunier-duval/), [Daikin](/marcas/daikin.html) o [Fujitsu](/marcas/fujitsu.html), entre otras, son algunas de las marcas más reconocidas por ofrecer los **aires acondicionados más silenciosos del mercado**.
 
-Lo mejor si quieres adquirir un aire acondicionado es que te pongas en [contacto con Decogas](/decogas/index.html#contacto). Nuestros trabajadores se encargarán de analizar tu situación y te **ayudarán a elegir el modelo** que mejor se adapta a tus necesidades.
+Lo mejor si quieres adquirir un aire acondicionado es que te pongas en [contacto con Decogas](/index.html#contacto). Nuestros trabajadores se encargarán de analizar tu situación y te **ayudarán a elegir el modelo** que mejor se adapta a tus necesidades.

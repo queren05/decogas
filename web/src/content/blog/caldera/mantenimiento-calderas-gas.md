@@ -8,7 +8,7 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 6
 ---
-¿Qué debes tener en cuenta en el **mantenimiento de calderas de gas**? Existen dos claves para garantizar el buen estado de las [calderas de gas](/decogas/calderas.html), las cuales que suelen confundirse:
+¿Qué debes tener en cuenta en el **mantenimiento de calderas de gas**? Existen dos claves para garantizar el buen estado de las [calderas de gas](/calderas.html), las cuales que suelen confundirse:
 
 – La inspección de la instalación de gas a calderas de gas
 
@@ -18,7 +18,7 @@ No te preocupes si no conoces bien cómo funcionan, te lo explicamos todo en est
 
 ## **Inspección de la instalación de gas a calderas de gas**
 
-Un operario de la distribuidora del suministro del gas **comprueba de manera integral el funcionamiento de la caldera** de gas: desde la estanqueidad hasta el estado del contador, tuberías, llaves o gomas. Es decir, todas las [partes principales que componen una caldera](/decogas/blog/caldera/partes-caldera/).
+Un operario de la distribuidora del suministro del gas **comprueba de manera integral el funcionamiento de la caldera** de gas: desde la estanqueidad hasta el estado del contador, tuberías, llaves o gomas. Es decir, todas las [partes principales que componen una caldera](/blog/caldera/partes-caldera/).
 
 Son las compañías las que tienen que garantizar que esta revisión se realiza adecuadamente y en el momento indicado. De modo que **te notificarán de ello con un mínimo de 5 días de antelación** (por carta o carteles en zonas comunes del edificio).
 
@@ -34,7 +34,7 @@ Sobre **el precio de la inspección de calderas de gas**, hay que saber que se c
 
 Se paga con la factura de gas de **la compañía comercializadora, no la compañía instaladora**. Por lo que debes negarte a pagar directamente al técnico inspector, ya que podría ser una práctica fraudulenta.
 
-![revisión caldera de gas](/decogas/blog-img/revision-caldera-de-gas-601x400-1.webp)
+![revisión caldera de gas](/blog-img/revision-caldera-de-gas-601x400-1.webp)
 
 ## **Revisión de calderas de gas**
 
@@ -83,7 +83,7 @@ Existen entidades que ofrecen esta clase de servicios, tanto por cuenta propia c
 
 Los profesionales que se dediquen al mantenimiento y reparación del equipo, tienen que poseer **la condición de instaladores de gas y agentes de puesta en marcha, mantenimiento y reparación de aparatos a gas** (APMR). De esta manera se cumple lo establecido en el RD 919/2006.
 
-![revisión caldera hogar](/decogas/blog-img/revision-caldera-hogar-599x400-1.webp)
+![revisión caldera hogar](/blog-img/revision-caldera-hogar-599x400-1.webp)
 
 ## **Precio de la revisión obligatoria de la caldera**
 
@@ -123,4 +123,4 @@ Son comunes los casos de instaladores no autorizados que proporcionan sus servic
 
 Esperamos haberte ayudado a resolver tus dudas sobre el **mantenimiento de calderas de gas**. Ya conoces qué es una inspección de la instalación de gas a calderas de gas, la revisión de las mismas y todo lo relacionado con ellas.
 
-Para más dudas, [siempre puedes preguntarnos directamente](/decogas/index.html#contacto).
+Para más dudas, [siempre puedes preguntarnos directamente](/index.html#contacto).

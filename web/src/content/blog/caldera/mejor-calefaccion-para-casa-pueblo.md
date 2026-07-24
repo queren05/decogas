@@ -8,7 +8,7 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 4
 ---
-![mujer joven sentada en el suelo frente a chimenea](/decogas/blog-img/calefaccion-en-casas-de-pueblo.webp)
+![mujer joven sentada en el suelo frente a chimenea](/blog-img/calefaccion-en-casas-de-pueblo.webp)
 
 La elección de la calefacción adecuada es crucial para garantizar el **confort en las casas de pueblo**. Estas viviendas, a menudo con características arquitectónicas únicas y ubicadas en entornos rurales, requieren sistemas de calefacción que se adapten a sus necesidades específicas.
 
@@ -32,7 +32,7 @@ Los sistemas más comunes incluyen radiadores eléctricos, suelo radiante, estuf
 
 ### **Calefacción por radiadores eléctricos**
 
-Los [radiadores eléctricos](/decogas/index.html#contacto) son una opción popular debido a su facilidad de instalación y uso. Son ideales para **calentar espacios específicos** y se pueden ajustar según las necesidades de cada habitación.
+Los [radiadores eléctricos](/index.html#contacto) son una opción popular debido a su facilidad de instalación y uso. Son ideales para **calentar espacios específicos** y se pueden ajustar según las necesidades de cada habitación.
 
 Sin embargo, su uso continuo puede resultar en facturas de electricidad más altas, especialmente en casas de pueblo más grandes. Es importante equilibrar la comodidad con la eficiencia energética al optar por este tipo de calefacción.
 
@@ -44,19 +44,19 @@ Aunque su instalación puede ser más costosa y compleja, el suelo radiante ofre
 
 ### **Estufas de pellets y leña**
 
-Las [estufas de pellets](/decogas/index.html#contacto) y de leña son opciones populares en casas de pueblo debido a su eficiencia y al **calor acogedor** que proporcionan. Son especialmente adecuadas para ambientes rurales y pueden complementar otros sistemas de calefacción.
+Las [estufas de pellets](/index.html#contacto) y de leña son opciones populares en casas de pueblo debido a su eficiencia y al **calor acogedor** que proporcionan. Son especialmente adecuadas para ambientes rurales y pueden complementar otros sistemas de calefacción.
 
 Estas estufas utilizan **combustibles renovables** como la madera o los pellets, lo que las convierte en una opción sostenible. Además, el calor que generan es ideal para crear un ambiente cálido y acogedor en los hogares rurales.
 
 ### **Calderas: gas, gasoil y biomasa**
 
-Las calderas son una solución robusta y eficiente para la calefacción en casas de pueblo. Existen diferentes tipos, incluyendo calderas de gas, [gasoil](/decogas/calderas.html) y biomasa, cada una con sus propias características y ventajas.
+Las calderas son una solución robusta y eficiente para la calefacción en casas de pueblo. Existen diferentes tipos, incluyendo calderas de gas, [gasoil](/calderas.html) y biomasa, cada una con sus propias características y ventajas.
 
 La elección entre estos tipos de calderas dependerá de factores como la **disponibilidad de combustible**, las necesidades de calefacción de la vivienda y las preferencias personales en cuanto a eficiencia y sostenibilidad.
 
-En este otro post te contamos todo acerca de [cuánto dura una caldera de gas](/decogas/blog/caldera/cuanto-dura-una-caldera-de-gas/).
+En este otro post te contamos todo acerca de [cuánto dura una caldera de gas](/blog/caldera/cuanto-dura-una-caldera-de-gas/).
 
-![hombre instalando sistema de calefacción en piso](/decogas/blog-img/elegir-calefaccion-casa-de-pueblo.webp)
+![hombre instalando sistema de calefacción en piso](/blog-img/elegir-calefaccion-casa-de-pueblo.webp)
 
 ## **Factores a considerar en la elección**
 

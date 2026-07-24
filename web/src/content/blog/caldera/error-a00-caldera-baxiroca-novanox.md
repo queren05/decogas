@@ -8,7 +8,7 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 5
 ---
-![error a00 caldera baxiroca novanox](/decogas/blog-img/error-a00-caldera-baxiroca-novanox.webp)
+![error a00 caldera baxiroca novanox](/blog-img/error-a00-caldera-baxiroca-novanox.webp)
 
 ¿Te has encontrado con el **error A00 en tu caldera BaxiRoca Novanox**? Este código no es realmente un error, sino una información valiosa sobre el funcionamiento de tu caldera. Comprender qué significa y cómo resolverlo puede ahorrarte tiempo y preocupaciones. Vamos a explorar juntos cómo **acceder y utilizar el código A00** para mantener tu caldera en perfecto estado y asegurar que tu hogar siga siendo cálido y acogedor.
 
@@ -18,7 +18,7 @@ El código A00 puede parecer desconcertante al principio, pero es una herramient
 
 ### Qué es el código A00
 
-El código A00 es un indicador informativo que aparece en el display de tu [caldera](/decogas/calderas.html). **Este código te muestra la temperatura del agua caliente sanitaria (ACS)**, permitiéndote monitorear y ajustar la caldera para asegurar un funcionamiento eficiente. Tener esta información a mano facilita la detección de cualquier desajuste y su corrección inmediata. Aquí te contamos [cómo encender una caldera](/decogas/blog/caldera/como-encender-caldera/).
+El código A00 es un indicador informativo que aparece en el display de tu [caldera](/calderas.html). **Este código te muestra la temperatura del agua caliente sanitaria (ACS)**, permitiéndote monitorear y ajustar la caldera para asegurar un funcionamiento eficiente. Tener esta información a mano facilita la detección de cualquier desajuste y su corrección inmediata. Aquí te contamos [cómo encender una caldera](/blog/caldera/como-encender-caldera/).
 
 ### Diferencias entre códigos de error y códigos informativos
 
@@ -26,7 +26,7 @@ Los códigos de error y los códigos informativos tienen funciones diferentes. L
 
 ### Importancia del código A00 en el funcionamiento de la caldera
 
-El código A00 juega un papel importante en el mantenimiento de la caldera. Al ofrecer información sobre la temperatura del agua caliente sanitaria, **te permite hacer ajustes precisos para mejorar la eficiencia**. Mantener un ojo en el código A00 ayuda a asegurar que tu caldera opere de manera segura y eficiente, prolongando su vida útil y garantizando que puedas [calentar tu hogar de forma eficiente](/decogas/blog/caldera/calentar-hogar-manera-eficiente/).
+El código A00 juega un papel importante en el mantenimiento de la caldera. Al ofrecer información sobre la temperatura del agua caliente sanitaria, **te permite hacer ajustes precisos para mejorar la eficiencia**. Mantener un ojo en el código A00 ayuda a asegurar que tu caldera opere de manera segura y eficiente, prolongando su vida útil y garantizando que puedas [calentar tu hogar de forma eficiente](/blog/caldera/calentar-hogar-manera-eficiente/).
 
 ## Soluciones para el código A00 en la caldera BaxiRoca Novanox
 
@@ -46,13 +46,13 @@ El mantenimiento regular es clave para evitar problemas como el código A00. **L
 
 ## Prevención de errores en la caldera BaxiRoca Novanox
 
-![técnico previniendo errores en la caldera BaxiRoca Novanox](/decogas/blog-img/prevencion-de-errores-en-la-caldera-baxiroca-novanox.webp)
+![técnico previniendo errores en la caldera BaxiRoca Novanox](/blog-img/prevencion-de-errores-en-la-caldera-baxiroca-novanox.webp)
 
 En tu caldera BaxiRoca Novanox es fundamental para mantener su rendimiento y prolongar su vida útil. Aquí te ofrecemos algunas estrategias efectivas.
 
 ### Programación de mantenimiento regular
 
-Programar un mantenimiento regular es esencial para evitar errores en tu caldera. Realiza inspecciones anuales para verificar el estado de todos los componentes, asegurándote de que funcionen correctamente. Durante estas inspecciones, **limpia el filtro de agua, revisa la sonda externa y ajusta los parámetros de temperatura y presión**. Este enfoque preventivo asegura un funcionamiento eficiente y reduce la posibilidad de fallos inesperados. Nosotros podemos ayudarte con el mantenimiento y la [reparación de tu caldera](/decogas/calderas.html).
+Programar un mantenimiento regular es esencial para evitar errores en tu caldera. Realiza inspecciones anuales para verificar el estado de todos los componentes, asegurándote de que funcionen correctamente. Durante estas inspecciones, **limpia el filtro de agua, revisa la sonda externa y ajusta los parámetros de temperatura y presión**. Este enfoque preventivo asegura un funcionamiento eficiente y reduce la posibilidad de fallos inesperados. Nosotros podemos ayudarte con el mantenimiento y la [reparación de tu caldera](/calderas.html).
 
 ### Uso de repuestos originales
 

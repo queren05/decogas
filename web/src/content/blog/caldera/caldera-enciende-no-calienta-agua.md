@@ -10,13 +10,13 @@ readingTime: 3
 ---
 **La caldera enciende, pero no calienta el agua**: lo peor que nos puede pasar si ya nos hemos metido en la ducha y encima hace frío. ¿Qué ha podido pasar? Te lo contamos en este post y, además, te explicamos cómo solucionarlo.
 
-Si tienes otro problema, te invitamos a consultar el resto de nuestros artículos. Por ejemplo, éste en el que explicamos [por qué mi calentador Junkers no enciende](/decogas/blog/caldera/por-que-calentador-junkers-no-enciende/).
+Si tienes otro problema, te invitamos a consultar el resto de nuestros artículos. Por ejemplo, éste en el que explicamos [por qué mi calentador Junkers no enciende](/blog/caldera/por-que-calentador-junkers-no-enciende/).
 
 ## ¿Qué hago si la caldera enciende, pero no calienta el agua?
 
 Para resolver este problema, en primer lugar, debes tranquilizarte. Puede ser un fallo realmente fácil de solucionar. Quizás sólo baste con comprobar:
 
-1.  Cuál es **la temperatura de las [calderas de gas](/decogas/calderas.html)** (si hace una temperatura baja, el agua más fría de la red llega más fría y el salto térmico tiene que hacer el sistema para calentarla es mayor.
+1.  Cuál es **la temperatura de las [calderas de gas](/calderas.html)** (si hace una temperatura baja, el agua más fría de la red llega más fría y el salto térmico tiene que hacer el sistema para calentarla es mayor.
 2.  Si hemos **cerrado la llave de paso del agua** (de la caldera y del hogar)
 3.  Si **el suministro de luz y gas funciona** adecuadamente.
 4.  Si **los niveles de presión** están entre los 1,2 y 1,5 bares.
@@ -28,7 +28,7 @@ Para resolver este problema, en primer lugar, debes tranquilizarte. Puede ser un
 
 Tras haber verificado los factores anteriores, te contamos **por qué la caldera enciende, pero no calienta el** **agua**, además de detallarte qué hacer dependiendo de cada caso:
 
-![agua fría caldera encendida](/decogas/blog-img/agua-fria-caldera-encendida-601x400-1.webp)
+![agua fría caldera encendida](/blog-img/agua-fria-caldera-encendida-601x400-1.webp)
 
 ### No sale agua caliente y se calientan los radiadores
 
@@ -64,4 +64,4 @@ Posiblemente haya un **problema con el intercambiador sanitario**. Éste cuenta 
 
 En este caso, habría que reemplazar esta pieza.
 
-Ya sabes por qué normalmente **la caldera enciende, pero no calienta el agua**. En Decogas, esperamos haberte ayudado a solucionar tus problemas. Si éstos persisten, lo mejor es que te hagas con una [caldera](/decogas/calderas.html) de calidad que funcione correctamente.
+Ya sabes por qué normalmente **la caldera enciende, pero no calienta el agua**. En Decogas, esperamos haberte ayudado a solucionar tus problemas. Si éstos persisten, lo mejor es que te hagas con una [caldera](/calderas.html) de calidad que funcione correctamente.

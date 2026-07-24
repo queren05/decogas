@@ -8,11 +8,11 @@ tagClass: "aire"
 breadcrumb: "Aire acondicionado"
 readingTime: 4
 ---
-Con el verano, el calor hace acto de presencia y, en muchos hogares, es necesario utilizar el [aire acondicionado](/decogas/aires.html). Aunque existe una proporción considerable de usuarios que desconocen por completo todas las ventajas que nos pueden ofrecer estos aparatos. Y una de ellas es el **modo Dry**.
+Con el verano, el calor hace acto de presencia y, en muchos hogares, es necesario utilizar el [aire acondicionado](/aires.html). Aunque existe una proporción considerable de usuarios que desconocen por completo todas las ventajas que nos pueden ofrecer estos aparatos. Y una de ellas es el **modo Dry**.
 
 Es obvio que cada negocio, hogar u estancia dispone de un ambiente diferente en función de su localización, distribución, orientación o amplitud. Y estas variables hay que tenerlas en cuenta a la hora de poner a funcionar nuestro equipo y, en este caso, también valorar la humedad presente en el ambiente.
 
-![aire acondicionado con control remoto](/decogas/blog-img/modo-dry-del-aire-acondicionado.webp)Aquí te vamos a contar qué es el modo Dry y qué ventajas nos ofrece al seleccionarlo en nuestro aire acondicionado.
+![aire acondicionado con control remoto](/blog-img/modo-dry-del-aire-acondicionado.webp)Aquí te vamos a contar qué es el modo Dry y qué ventajas nos ofrece al seleccionarlo en nuestro aire acondicionado.
 
 ## **¿Qué es el modo Dry?**
 
@@ -33,7 +33,7 @@ Además, nos ayuda a mejorar en salud, sobre todo cuando la humedad exterior sue
 -   Infecciones respiratorias, así como asma y alergias.
 -   Gran beneficio para personas que viven en zonas húmedas o que se sitúen cerca del mar.
 
-![modo Dry](/decogas/blog-img/modo-dry.webp)
+![modo Dry](/blog-img/modo-dry.webp)
 
 ## **Ventajas de modo Dry**
 
@@ -43,8 +43,8 @@ El que podamos utilizar el modo Dry en nuestro aire acondicionado nos da interes
 -   **Descontamina el espacio**. Al contar con la función de un deshumidificador, el aire será más saludable y fresco.
 -   **Beneficios para la salud**. Cuando la humedad del exterior es alta y hace calor, eso crea una sensación de bochorno dentro del hogar. Con el modo Dry, esto se elimina y se gana en confort y salud.
 -   **Mejor mantenimiento de la vivienda**. Al no existir humedad en el interior, se evita que los muebles sufran un mayor deterioro y las paredes no sufrirán daños por moho o desconchones.
--   [**Ahorro energético**](/decogas/blog/aire-acondicionado/aire-acondicionado-de-bajo-consumo/). Con el Dry, se consigue que la humedad descienda y, por ende, también la temperatura del interior, por lo que no será necesario abusar del aire acondicionado. Así mismo, funciona con ventilación baja, por lo que también en consumo energético será menor.
--   Se nota un importante **ahorro en la factura de la luz** gracias a un [menor consumo de energía](/decogas/blog/aire-acondicionado/cuanto-consume-aire-acondicionado/), ya que este modo es sostenible y usa una menor potencia durante su funcionamiento. Para hacernos una idea, se consigue reducir hasta un 50% de gasto.
+-   [**Ahorro energético**](/blog/aire-acondicionado/aire-acondicionado-de-bajo-consumo/). Con el Dry, se consigue que la humedad descienda y, por ende, también la temperatura del interior, por lo que no será necesario abusar del aire acondicionado. Así mismo, funciona con ventilación baja, por lo que también en consumo energético será menor.
+-   Se nota un importante **ahorro en la factura de la luz** gracias a un [menor consumo de energía](/blog/aire-acondicionado/cuanto-consume-aire-acondicionado/), ya que este modo es sostenible y usa una menor potencia durante su funcionamiento. Para hacernos una idea, se consigue reducir hasta un 50% de gasto.
 
 ## **¿Cómo ajustar el Dry en el aire acondicionado?**
 
@@ -58,11 +58,11 @@ La mejor forma de utilizar este modo es cuando la temperatura y el clima del ext
 
 Además, es importante no utilizarlo nunca cuando el ambiente en el interior sea seco, puesto que puede ser contraproducente su utilización. Es decir, puede llegar a causar problemas respiratorios y agravar otras enfermedades.
 
-![mujer valorando el aire acondicionado](/decogas/blog-img/mujer-valorando-el-aire-acondicionado.webp)
+![mujer valorando el aire acondicionado](/blog-img/mujer-valorando-el-aire-acondicionado.webp)
 
 ## **Modo Dry vs modo Cool**
 
-El [sistema cool](/decogas/blog/aire-acondicionado/boton-cool/) es una de las mejores opciones en nuestro aire acondicionado, ya que nos ayuda a reducir el calor en los meses de verano y combatir las altas temperaturas, aunque si usamos el modo Dry, este también tendrá sus ventajas.
+El [sistema cool](/blog/aire-acondicionado/boton-cool/) es una de las mejores opciones en nuestro aire acondicionado, ya que nos ayuda a reducir el calor en los meses de verano y combatir las altas temperaturas, aunque si usamos el modo Dry, este también tendrá sus ventajas.
 
 Como ya hemos señalado, el modo dry reduce el funcionamiento del ventilador y eso hace que **ahorremos energía**, así como conseguir que, con una menor humedad, el ambiente se enfríe más rápidamente y la sensación térmica sea menor.
 

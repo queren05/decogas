@@ -8,15 +8,15 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 4
 ---
-Las calderas de gas son los **acompañantes ideales** para mantener la temperatura que deseas en tu vivienda. Es normal que si decides instalar un modelo de estas características no sepas [qué caldera de gas elegir](/decogas/blog/caldera/caldera-gas-elegir-comprar/), aunque debes saber que las calderas de condensación son las más eficientes y demandadas en la actualidad.
+Las calderas de gas son los **acompañantes ideales** para mantener la temperatura que deseas en tu vivienda. Es normal que si decides instalar un modelo de estas características no sepas [qué caldera de gas elegir](/blog/caldera/caldera-gas-elegir-comprar/), aunque debes saber que las calderas de condensación son las más eficientes y demandadas en la actualidad.
 
 Pero, ¿sabes qué es una caldera de condensación? En este _post_ te vamos a explicar **todos los detalles** de esta forma de climatización para que sepas cómo funcionan y los beneficios que llevará a tu vivienda.
 
 ## ¿Qué es una caldera de condensación?
 
-Las calderas de condensación son el modo de climatización por gas más eficiente. Al contar con las últimas innovaciones tecnológicas, estas calderas son más respetuosas con el medio ambiente y ofrecen un **menor consumo de gas;** de hecho,las [mejores calderas de condensación](/decogas/blog/caldera/mejores-calderas-condensacion/) ofrecen un **ahorro del gas del 15 y el 30%.**
+Las calderas de condensación son el modo de climatización por gas más eficiente. Al contar con las últimas innovaciones tecnológicas, estas calderas son más respetuosas con el medio ambiente y ofrecen un **menor consumo de gas;** de hecho,las [mejores calderas de condensación](/blog/caldera/mejores-calderas-condensacion/) ofrecen un **ahorro del gas del 15 y el 30%.**
 
-![Caldera de condensación en una vivienda](/decogas/blog-img/caldera-condensacion.webp)
+![Caldera de condensación en una vivienda](/blog-img/caldera-condensacion.webp)
 
 Por otro lado, estas calderas de condensación pueden **instalarse en los radiadores o por suelo radiante**. Además, una de las principales características de estos generadores es que, cuanto más tiempo estén en funcionamiento más alta será su rentabilidad.
 
@@ -36,7 +36,7 @@ Estas son **otras ventajas** que podrás disfrutar si instalas una caldera de co
 -   **Compatibles:** no tienes que preocuparte, la instalación de una caldera de condensación es totalmente compatible con los sistemas que tengas en tu vivienda.
 -   **Personalizada:** lo mejor de las calderas de condensación es que pueden ajustarse a tus necesidades.
 
-[Te llamamos gratis](/decogas/index.html#contacto)
+[Te llamamos gratis](/index.html#contacto)
 
 ## ¿Cómo funciona una caldera de condensación?
 
@@ -46,13 +46,13 @@ A continuación te explicamos detalladamente **cómo funciona una caldera de con
 
 La instalación de las calderas de condensación tiene unas características específicas que la distingue de las convencionales; por eso, es necesario que este trabajo sea realizado por profesionales especializados, como los de Decogas, que garanticen el **acabado perfecto y la mayor seguridad**.
 
-Es **fundamental** que, cuando vayas a instalar una caldera de condensación, compruebes aspectos como la [potencia calorífica de la habitación](/decogas/blog/caldera/calcular-potencia-calorifica-habitacion/). Lo más recomendable es que dejes este trabajo en manos de profesionales; por eso, si quieres instalar una caldera de condensación, [pide presupuesto en Decogas.](/decogas/index.html)
+Es **fundamental** que, cuando vayas a instalar una caldera de condensación, compruebes aspectos como la [potencia calorífica de la habitación](/blog/caldera/calcular-potencia-calorifica-habitacion/). Lo más recomendable es que dejes este trabajo en manos de profesionales; por eso, si quieres instalar una caldera de condensación, [pide presupuesto en Decogas.](/index.html)
 
 ### Salida de gases
 
 Los modelos de condensación disponen de una **pendiente en la chimenea** de mayor tamaño y que va hacia la caldera; de esta forma, se recoge el calor condensado en forma de vapor y te permite aprovecharlo.
 
-![Radiador de caldera de condensación](/decogas/blog-img/radiador-caldera-condensacion.webp)
+![Radiador de caldera de condensación](/blog-img/radiador-caldera-condensacion.webp)
 
 En relación al **material de construcción**, la caldera estanca está fabricada en aluminio y la de condensación en polipropileno, previniendo que los vapores condensados corroan la chimenea; además, **evita posibles fugas.**
 
@@ -82,6 +82,6 @@ Ya sabes qué es y cómo funciona una caldera de condensación; a continuación 
 
 Ahora que ya sabes todo esto,  ¿sigues pensando que no necesitas una caldera de condensación?
 
-[Te llamamos gratis](/decogas/index.html#contacto)
+[Te llamamos gratis](/index.html#contacto)
 
 Desde Decogas tratamos de ayudar en la instalación de calderas, termos y aires acondicionados. Tenemos un equipo propio de instaladores especializados, para que no tengas ningún problema. Además, puedes venir a visitarnos a nuestra tienda física cuando quieras.

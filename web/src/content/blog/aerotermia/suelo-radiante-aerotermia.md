@@ -12,7 +12,7 @@ readingTime: 6
 
 Descubriremos cómo funciona esta tecnología, sus ventajas y desventajas, y responderemos las preguntas más comunes que surgen al considerar esta opción para tu hogar.
 
-![Hogar con instalación de aerotermia con suelo radiante](/decogas/blog-img/aerotermia-con-suelo-radiante.webp)
+![Hogar con instalación de aerotermia con suelo radiante](/blog-img/aerotermia-con-suelo-radiante.webp)
 
 ## ¿Qué es el suelo radiante con aerotermia?
 
@@ -73,7 +73,7 @@ Aquí hay una tabla que resume las principales diferencias entre el suelo radian
 
 ## Beneficios del suelo radiante con aerotermia en el hogar
 
-La combinación de suelo radiante y aerotermia ofrece numerosos beneficios para tu hogar. Algunas de sus [ventajas de la aerotermia](/decogas/blog/aerotermia/aerotermia-ventajas/) más destacadas son:
+La combinación de suelo radiante y aerotermia ofrece numerosos beneficios para tu hogar. Algunas de sus [ventajas de la aerotermia](/blog/aerotermia/aerotermia-ventajas/) más destacadas son:
 
 -   **Confort térmico:** El suelo radiante distribuye el calor de manera uniforme, creando una sensación de confort en todo el espacio. Además, la temperatura del suelo es agradable al tacto.
 -   **Ahorro energético:** La aerotermia es una tecnología eficiente que aprovecha la energía renovable del aire, lo que se traduce en un menor consumo energético y, por lo tanto, en ahorro en la factura de calefacción y refrigeración.
@@ -81,7 +81,7 @@ La combinación de suelo radiante y aerotermia ofrece numerosos beneficios para 
 -   **Diseño versátil:** El suelo radiante se instala debajo del suelo, lo que permite liberar espacio en las paredes y no interfiere con la decoración de tu hogar. Además, al no tener radiadores visibles, se obtiene una distribución del calor más homogénea y se eliminan las corrientes de aire.
 -   **Sistema silencioso:** Tanto la aerotermia como el suelo radiante son sistemas silenciosos, lo que contribuye a un ambiente tranquilo y sin ruidos molestos.
 
-![](/decogas/blog-img/aerotermia-con-suelo-radiante-1.webp)
+![](/blog-img/aerotermia-con-suelo-radiante-1.webp)
 
 Funcionamiento de la aerotermia con suelo radiante
 
@@ -105,12 +105,12 @@ En general, **el suelo radiante con aerotermia puede suponer una inversión inic
 
 **El sistema de suelo radiante con aerotermia ofrece una solución eficiente y confortable para climatizar tu hogar.** La combinación de estas dos tecnologías proporciona un calentamiento uniforme y un enfriamiento agradable, brindando un ambiente óptimo en cualquier época del año.
 
-Además, la aerotermia no solo es adecuada para la calefacción y refrigeración de espacios interiores, sino que **también puede ser aprovechada para otros usos,** como la climatización de [piscinas](/decogas/blog/aerotermia/aerotermia-para-piscinas/) o la producción de [agua caliente sanitaria](/decogas/blog/aerotermia/aerotermia-para-agua-caliente-sanitaria/). Esto brinda un enfoque integral y eficiente para cubrir todas las necesidades térmicas de tu hogar.
+Además, la aerotermia no solo es adecuada para la calefacción y refrigeración de espacios interiores, sino que **también puede ser aprovechada para otros usos,** como la climatización de [piscinas](/blog/aerotermia/aerotermia-para-piscinas/) o la producción de [agua caliente sanitaria](/blog/aerotermia/aerotermia-para-agua-caliente-sanitaria/). Esto brinda un enfoque integral y eficiente para cubrir todas las necesidades térmicas de tu hogar.
 
-Otra ventaja destacada es la compatibilidad de la aerotermia con [radiadores de aluminio](/decogas/blog/aerotermia/aerotermia-con-radiadores-de-aluminio/), lo que permite su integración en sistemas de calefacción existentes. De esta manera, puedes aprovechar la eficiencia de la aerotermia sin necesidad de realizar grandes cambios en tu instalación actual.
+Otra ventaja destacada es la compatibilidad de la aerotermia con [radiadores de aluminio](/blog/aerotermia/aerotermia-con-radiadores-de-aluminio/), lo que permite su integración en sistemas de calefacción existentes. De esta manera, puedes aprovechar la eficiencia de la aerotermia sin necesidad de realizar grandes cambios en tu instalación actual.
 
-En cuanto a la disponibilidad, la aerotermia con suelo radiante **está ampliamente disponible en Madrid y otras regiones,** lo que facilita su adquisición y acceso a servicios de instalación y [mantenimiento para tu aerotermia](/decogas/blog/aerotermia/mantenimiento-aerotermia/).
+En cuanto a la disponibilidad, la aerotermia con suelo radiante **está ampliamente disponible en Madrid y otras regiones,** lo que facilita su adquisición y acceso a servicios de instalación y [mantenimiento para tu aerotermia](/blog/aerotermia/mantenimiento-aerotermia/).
 
 En resumen, la combinación de suelo radiante y aerotermia es una opción eficiente, versátil y sostenible para climatizar tu hogar.
 
-**Proporciona un ambiente confortable, ahorro energético y múltiples aplicaciones.** Aprovecha las ventajas de esta tecnología de [aerotermia en  Madrid](/decogas/index.html#contacto) y disfruta de un hogar cómodo y eficiente energéticamente.
+**Proporciona un ambiente confortable, ahorro energético y múltiples aplicaciones.** Aprovecha las ventajas de esta tecnología de [aerotermia en  Madrid](/index.html#contacto) y disfruta de un hogar cómodo y eficiente energéticamente.

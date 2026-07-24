@@ -8,13 +8,13 @@ tagClass: "aire"
 breadcrumb: "Aire acondicionado"
 readingTime: 6
 ---
-Si disponemos de un sistema de climatización en casa o el trabajo seguro que, a la hora de limpiarlo, nos ha entrado las dudas de cómo hacerlo con los filtros de aire acondicionado. Y es que es una pregunta necesaria, ya que el [mantenimiento de los aires acondicionados](/decogas/blog/aire-acondicionado/mantenimiento-aire-acondicionado/) es una obligación para mantener el rendimiento del aparato en óptimas condiciones y por la propia salud de lo usuarios. Por eso, en este post os vamos a contar la forma de **limpiar los filtros del [aire acondicionado](/decogas/aires.html)**, tanto de modelos split como de [aires acondicionados por conductos](/decogas/aires.htmlpor-conductos/).
+Si disponemos de un sistema de climatización en casa o el trabajo seguro que, a la hora de limpiarlo, nos ha entrado las dudas de cómo hacerlo con los filtros de aire acondicionado. Y es que es una pregunta necesaria, ya que el [mantenimiento de los aires acondicionados](/blog/aire-acondicionado/mantenimiento-aire-acondicionado/) es una obligación para mantener el rendimiento del aparato en óptimas condiciones y por la propia salud de lo usuarios. Por eso, en este post os vamos a contar la forma de **limpiar los filtros del [aire acondicionado](/aires.html)**, tanto de modelos split como de [aires acondicionados por conductos](/aires.htmlpor-conductos/).
 
-![comparación filtros limpios y sucios](/decogas/blog-img/istockphoto-1292606122-612x612-1.webp)
+![comparación filtros limpios y sucios](/blog-img/istockphoto-1292606122-612x612-1.webp)
 
 ## ¿Qué mantenimiento necesita mi aire acondicionado?
 
-El mantenimiento del sistema de [climatización split](/decogas/aires.html) o por conductos comienza por realizar una **limpieza adecuada del aparato** y, dentro de la misma, tenemos que hacer hincapié en limpiar los **filtros del aire acondicionado, intercambiadores de frío/calor y limpieza del ventilador interior**. Estos al ensuciarse y obstruirse, evitan que pueda funcionar correctamente el intercambio de temperatura en la unidad interior como exterior, bajando así el rendimiento.
+El mantenimiento del sistema de [climatización split](/aires.html) o por conductos comienza por realizar una **limpieza adecuada del aparato** y, dentro de la misma, tenemos que hacer hincapié en limpiar los **filtros del aire acondicionado, intercambiadores de frío/calor y limpieza del ventilador interior**. Estos al ensuciarse y obstruirse, evitan que pueda funcionar correctamente el intercambio de temperatura en la unidad interior como exterior, bajando así el rendimiento.
 
 Esto conlleva a que aumente el consumo eléctrico al tener que forzar el funcionamiento y reduciendo, como consecuencia, la vida útil del dispositivo.
 
@@ -27,7 +27,7 @@ Sea o no los filtros, el mantenimiento es esencial para el buen funcionamiento d
 -   **Rendimiento**. La acumulación de polvo y otras partículas en los filtros empeora el flujo de aire. El equipo tiene que realizar un sobreesfuerzo para funcionar correctamente, provocando un aumento del consumo. Ese consumo no solo afecta a la economía, sino que también acorta la vida útil del equipo.
 -   **Calidad del aire**. Cuando los filtros no tienen mantenimiento, aparecen malos olores. Si no se limpian de forma correcta, pierden capacidad para atrapar las partículas y alérgenos en el aire.
 
-![chica comprobando el flujo de aire frío de un aire acondicionado](/decogas/blog-img/istockphoto-1325708905-612x612-1.webp)
+![chica comprobando el flujo de aire frío de un aire acondicionado](/blog-img/istockphoto-1325708905-612x612-1.webp)
 
 ## ¿Cada cuánto hay que limpiar los filtros del aire acondicionado?
 
@@ -37,9 +37,9 @@ Si el equipo dispone de **función reversible** y da calor en inverno, la limpie
 
 Si nos centramos en los modelos splits, la mayoría de fabricantes recomiendan la limpieza de filtros **cada 2 semanas o menos** y, si el aparato ha estado sin usar durante mucho tiempo, es recomendable realizar una comprobación antes de ponerlo a funcionar de forma habitual.
 
-Un aire acondicionado sucio no podrá funcionar de manera correcta en cada uno de los [modos del aire acondicionado](/decogas/blog/aire-acondicionado/modos-aire-acondicionado/), impidiéndote controlar la temperatura del lugar de forma adecuada.
+Un aire acondicionado sucio no podrá funcionar de manera correcta en cada uno de los [modos del aire acondicionado](/blog/aire-acondicionado/modos-aire-acondicionado/), impidiéndote controlar la temperatura del lugar de forma adecuada.
 
-![Chica limpiando filtro de aire acondicionado](/decogas/blog-img/istockphoto-1358089581-612x612-1.webp)
+![Chica limpiando filtro de aire acondicionado](/blog-img/istockphoto-1358089581-612x612-1.webp)
 
 ## Cómo limpiar los filtros del aire acondicionado split
 
@@ -67,7 +67,7 @@ Lo dejamos secar al aire libre y con papel absorbente. Los tubos situados tras l
 
 Introducimos de nuevo los filtros en el aparato y cerramos la tapa. Pasamos un trapo por el aparato para eliminar restos de polvo y volvemos a conectar el aire acondicionado.
 
-![limpiando filtro de aire acondicionado](/decogas/blog-img/istockphoto-1321143449-612x612-1.webp)
+![limpiando filtro de aire acondicionado](/blog-img/istockphoto-1321143449-612x612-1.webp)
 
 ## Cómo limpiar los filtros del aire acondicionado por conductos
 

@@ -8,11 +8,11 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 3
 ---
-¿Buscas la mejor forma de **limpiar los tubos de las estufas de pellets**? Si es así, estás en el lugar adecuado. En este artículo, te mostraremos cómo limpiar y mantener correctamente tu [estufa de pellets](/decogas/index.html#contacto) para garantizar su funcionamiento y seguridad en tu hogar.
+¿Buscas la mejor forma de **limpiar los tubos de las estufas de pellets**? Si es así, estás en el lugar adecuado. En este artículo, te mostraremos cómo limpiar y mantener correctamente tu [estufa de pellets](/index.html#contacto) para garantizar su funcionamiento y seguridad en tu hogar.
 
-Limpiar y mantener tu [estufa](/decogas/blog/caldera/como-canalizar-una-estufa-de-pellets/) de pellets no es tan complicado como parece. Para limpiar correctamente tu estufa de pellets, necesitarás las siguientes **herramientas**: limpiacristales, desincrustante, un aspirador de cenizas, detergente o producto de limpieza no abrasivo, un paño, guantes de látex, un cepillo, un juego de destornilladores, una mascarilla y un kit para limpiar estufas de pellets.
+Limpiar y mantener tu [estufa](/blog/caldera/como-canalizar-una-estufa-de-pellets/) de pellets no es tan complicado como parece. Para limpiar correctamente tu estufa de pellets, necesitarás las siguientes **herramientas**: limpiacristales, desincrustante, un aspirador de cenizas, detergente o producto de limpieza no abrasivo, un paño, guantes de látex, un cepillo, un juego de destornilladores, una mascarilla y un kit para limpiar estufas de pellets.
 
-![pellets para una estufa con una casita](/decogas/blog-img/limpieza-de-los-tubos-de-estufa-de-pellets.webp)
+![pellets para una estufa con una casita](/blog-img/limpieza-de-los-tubos-de-estufa-de-pellets.webp)
 
 ¿Cuándo y con qué frecuencia debes limpiar tu estufa de pellets? En primer lugar, siempre debes asegurarte de **desconectar el cable de alimentación antes de limpiar** o realizar cualquier tarea de mantenimiento en tu estufa. Dependiendo del uso que le des, debes realizar una limpieza a fondo cada 2 o 3 días para limpiar el cajón de la ceniza y el cristal. Éste se encuentra debajo del quemador y para limpiarlo tienes que abrir la puerta y eliminar todos los residuos con un aspirador.
 
@@ -44,7 +44,7 @@ La limpieza periódica de la estufa de pellets **depende de la calidad de los pe
 
 La limpieza periódica debe hacerse **una vez al mes o cada dos meses**, según el uso que se haga de la estufa. Para esta tarea, es aconsejable utilizar un aspirador con un cepillo diseñado específicamente para limpiar los pellets. Esto garantizará que el sistema funcione correctamente.
 
-> No dejes de leer nuestro post sobre [cuánto tiempo puede estar encendida la estufa de pellets](/decogas/blog/caldera/cuanto-tiempo-puede-estar-encendida-una-estufa-de-pellets/). Así, podrás calcular mucho mejor cada cuánto tiempo tienes que limpiar la estufa.
+> No dejes de leer nuestro post sobre [cuánto tiempo puede estar encendida la estufa de pellets](/blog/caldera/cuanto-tiempo-puede-estar-encendida-una-estufa-de-pellets/). Así, podrás calcular mucho mejor cada cuánto tiempo tienes que limpiar la estufa.
 
 Para **limpiar los tubos de las estufas de pellets** es importarte hacerlo una vez al año, para garantizar la correcta extracción de los humos. Contrata a un técnico experimentado para esta actividad, para asegurarte de que se hace correctamente y con seguridad.
 
@@ -52,4 +52,4 @@ Para **limpiar los tubos de las estufas de pellets** es importarte hacerlo una v
 
 En conclusión, mantener y **limpiar los tubos de las estufas de pellets** no es difícil. Sólo necesitas las herramientas adecuadas y algo de paciencia para asegurarte de que tu estufa funciona correctamente y con seguridad.
 
-Esperamos desde [Decogas](/decogas/index.html#contacto) que este artículo te haya sido útil y te ayude a mantener tu estufa de pellets funcionando de forma segura y adecuada.
+Esperamos desde [Decogas](/index.html#contacto) que este artículo te haya sido útil y te ayude a mantener tu estufa de pellets funcionando de forma segura y adecuada.

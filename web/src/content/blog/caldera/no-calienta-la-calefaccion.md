@@ -8,9 +8,9 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 6
 ---
-![osito sobre radiador](/decogas/blog-img/osito-sobre-radiador.webp)
+![osito sobre radiador](/blog-img/osito-sobre-radiador.webp)
 
-Con la llegada del frío, la calefacción y el agua caliente se convierten en un elemento básico del hogar. Tener la casa a una temperatura confortable es una prioridad para muchas familias durante el invierno, aunque esto puede no ser así si, de pronto, no funciona la calefacción. O tal vez funciona mal o lo hace por intervalos de tiempo y en ciertas zonas únicamente. Y eso hace que nos preguntemos **por qué la [caldera](/decogas/calderas.html) calienta el agua, pero no calienta la calefacción**.
+Con la llegada del frío, la calefacción y el agua caliente se convierten en un elemento básico del hogar. Tener la casa a una temperatura confortable es una prioridad para muchas familias durante el invierno, aunque esto puede no ser así si, de pronto, no funciona la calefacción. O tal vez funciona mal o lo hace por intervalos de tiempo y en ciertas zonas únicamente. Y eso hace que nos preguntemos **por qué la [caldera](/calderas.html) calienta el agua, pero no calienta la calefacción**.
 
 > En ocasiones, la causa del problema es evidente y solo basta con regular bien la caldera y el termostato, pero en otras, no es tan sencillo y necesita un poco más de esfuerzo para averiguarlo. O, sencillamente, la mejor opción es contar con un técnico experto.
 
@@ -27,18 +27,18 @@ Para comprobar el funcionamiento de la caldera, tenemos que tener la caldera con
 -   Aumenta el selector de temperatura hasta que salte. Si es programable, comprueba el modo de programación, la temperatura superior a la que salta, la hora, entre otros.
 -   Si es digital, comprueba que no aparezca el icono de batería baja (o que el LCD no esté perdiendo intensidad por falta de energía). Cambia las pilas del termostato.
 
-![termostato](/decogas/blog-img/termostato.webp)
+![termostato](/blog-img/termostato.webp)
 
 ### **Verificar que en la caldera aparezca un icono de la calefacción**
 
 -   No tenemos que olvidar que la caldera debe estar en “modo invierno”.
 -   **Si no aparece un indicativo** (símbolo de radiador, LED que parpadea, etc.) en la caldera y esta no hace nada. Esto puede ser resultado de un fallo del termostato o que un cable de la conexión se haya roto o desconectado.
--   La **caldera detecta el termostato** y arranca, pero no calienta la calefacción o los [radiadores](/decogas/index.html#contacto). Esto es síntoma de que el problema está en las válvulas de 3 vías, que se habrá quedado atascada en el agua caliente y no va hacia los radiadores.
+-   La **caldera detecta el termostato** y arranca, pero no calienta la calefacción o los [radiadores](/index.html#contacto). Esto es síntoma de que el problema está en las válvulas de 3 vías, que se habrá quedado atascada en el agua caliente y no va hacia los radiadores.
 -   Otro posible caso es que los radiadores o las l**laves de la calefacción estén cerradas**. Se han de abrir para que el agua circule correctamente por el circuito.
 
 ## **No funciona la calefacción: el origen del problema**
 
-![caldera en funcionamiento](/decogas/blog-img/caldera-calienta-agua-peron-no-la-calefaccion-300x400-1.webp)
+![caldera en funcionamiento](/blog-img/caldera-calienta-agua-peron-no-la-calefaccion-300x400-1.webp)
 
 Lo primero que tenemos que hacer en caso de que no funcione la calefacción es encontrar las causas del problema. Pueden ser varias y estar **ubicadas en diferentes puntos del sistema**, ya sea en la caldera, el termostato, los radiadores o las tuberías del circuito.
 
@@ -48,7 +48,7 @@ Por eso, cuando la calefacción aparente funcione y sentimos que algo no va bien
 
 ## **La caldera no enciende**
 
-El problema más evidente lo encontramos cuando se activa el termostato para controlar la caldera y no ocurre nada o [no se enciende la caldera de gasoil](/decogas/blog/caldera/caldera-gasoil-no-arranca/) o de gas. No se escucha el click si el aparato es analógico o no aparece el icono de llama si es digital. En este caso, el problema está en el **termostato, su conexión a la caldera o en la propia caldera**.
+El problema más evidente lo encontramos cuando se activa el termostato para controlar la caldera y no ocurre nada o [no se enciende la caldera de gasoil](/blog/caldera/caldera-gasoil-no-arranca/) o de gas. No se escucha el click si el aparato es analógico o no aparece el icono de llama si es digital. En este caso, el problema está en el **termostato, su conexión a la caldera o en la propia caldera**.
 
 Es posible que la calefacción no tenga ningún problema o que no funcione porque no se ha señalado el modo adecuado. Este fallo es algo común, sobre todo cuando comienza el frío. Si la caldera no está en “modo frío” (modo que calienta el agua y los radiadores), la caldera no funciona.
 
@@ -60,11 +60,11 @@ Otra opción es que las llaves que tiene y regula el funcionamiento de la calefa
 
 ## **Problemas con circuito o radiadores**
 
-Otro problema es el estado de los **radiadores y el circuito**. Si la calefacción funciona, pero pierde presión, sube los niveles de **presión de la caldera**. Si se pierde con rapidez o la presión desciende a cero, eso significa una fuga. En el caso de **fuga de gas**, es mejor [apagar la caldera para evitar un problema mayor](/decogas/blog/caldera/apagar-caldera-de-gasoil/). Sin embargo, será más evidente si es de agua, puesto que comenzarán a salir humedades en la zona cercana a la fuga.
+Otro problema es el estado de los **radiadores y el circuito**. Si la calefacción funciona, pero pierde presión, sube los niveles de **presión de la caldera**. Si se pierde con rapidez o la presión desciende a cero, eso significa una fuga. En el caso de **fuga de gas**, es mejor [apagar la caldera para evitar un problema mayor](/blog/caldera/apagar-caldera-de-gasoil/). Sin embargo, será más evidente si es de agua, puesto que comenzarán a salir humedades en la zona cercana a la fuga.
 
-Los radiadores también pueden causar problemas, sobre todo si hay **aire en el circuito**. En este caso, no calienta la calefacción correctamente. La mejor opción en este caso es [purgar los radiadores](/decogas/blog/caldera/como-purgar-radiadores-pasos/).
+Los radiadores también pueden causar problemas, sobre todo si hay **aire en el circuito**. En este caso, no calienta la calefacción correctamente. La mejor opción en este caso es [purgar los radiadores](/blog/caldera/como-purgar-radiadores-pasos/).
 
-![regular el radiador](/decogas/blog-img/termostato-en-radiador.webp)
+![regular el radiador](/blog-img/termostato-en-radiador.webp)
 
 ## **Otras razones por las que funciona el agua caliente, pero no calienta la calefacción**
 
@@ -84,8 +84,8 @@ Esta pieza puede causar uno de los fallos más habituales en las calderas y deja
 
 ### **Caudal de agua**
 
-Cuando [encendemos la caldera](/decogas/blog/caldera/como-encender-caldera/), tenemos que estar seguros de que el agua disponga de suficiente causal para poder recorrer todo el circuito. Si no es así, veremos que no calienta la calefacción. La mejor solución es regular la entrada de agua para que el problema acabe.
+Cuando [encendemos la caldera](/blog/caldera/como-encender-caldera/), tenemos que estar seguros de que el agua disponga de suficiente causal para poder recorrer todo el circuito. Si no es así, veremos que no calienta la calefacción. La mejor solución es regular la entrada de agua para que el problema acabe.
 
-![regular la caldera](/decogas/blog-img/caldera-1.webp)
+![regular la caldera](/blog-img/caldera-1.webp)
 
 En conclusión, pueden ser bastantes los motivos por los que la caldera calienta la temperatura del agua, pero **no calienta la calefacción**. Antes de tomar cualquier acción impulsiva, debemos respirar hondo, descubrir dónde está el problema y, a partir de este, actuar para solucionarlo. Ya sea que lo resolvamos nosotros mismos o un técnico especialista.

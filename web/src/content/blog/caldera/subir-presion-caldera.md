@@ -10,17 +10,17 @@ readingTime: 3
 ---
 Cuando llega el invierno, es importante tener preparada la calefacción, por lo que hay que realizar las revisiones necesarias para que la caldera funcione en óptimas condiciones.
 
-Pero puede ocurrir que, de pronto, la presión de la [caldera](/decogas/calderas.html) esté baja y sea necesario subirla. Por esta razón, vamos a mostrarte **cómo subir la presión del a caldera**.
+Pero puede ocurrir que, de pronto, la presión de la [caldera](/calderas.html) esté baja y sea necesario subirla. Por esta razón, vamos a mostrarte **cómo subir la presión del a caldera**.
 
-## ![mujer mirando presión de caldera](/decogas/blog-img/istockphoto-1276391963-612x612-1.webp)
+## ![mujer mirando presión de caldera](/blog-img/istockphoto-1276391963-612x612-1.webp)
 
 ## ¿Por qué baja la presión de la caldera?
 
-Existen motivos por el que puede [**bajar la presión de una caldera**](/decogas/blog/caldera/como-bajar-presion-caldera/). El más habitual es debido a una **fuga en el circuito** o que haya entrado aire en el aparato. En el primer caso, si la pérdida es constante, es posible que tengas que localizar la fuga y repararla. En algunos casos, la fuga se encuentra en la llave de vaciado de circuito, por lo que no hay problema alguno, ya que no hay realizar ningún tipo de obra.
+Existen motivos por el que puede [**bajar la presión de una caldera**](/blog/caldera/como-bajar-presion-caldera/). El más habitual es debido a una **fuga en el circuito** o que haya entrado aire en el aparato. En el primer caso, si la pérdida es constante, es posible que tengas que localizar la fuga y repararla. En algunos casos, la fuga se encuentra en la llave de vaciado de circuito, por lo que no hay problema alguno, ya que no hay realizar ningún tipo de obra.
 
 En el segundo caso, ante la **entrada de aire en el circuito**, es necesario purgar los radiadores.
 
-Igualmente, puede suceder que la avería se produzca por un problema técnico como que el vaso de expansión no funcione bien o que la **[válvula de seguridad](/decogas/blog/caldera/valvula-seguridad-caldera/) tenga pérdida**.
+Igualmente, puede suceder que la avería se produzca por un problema técnico como que el vaso de expansión no funcione bien o que la **[válvula de seguridad](/blog/caldera/valvula-seguridad-caldera/) tenga pérdida**.
 
 ## ¿Cuál ha de ser la presión correcta de una caldera?
 

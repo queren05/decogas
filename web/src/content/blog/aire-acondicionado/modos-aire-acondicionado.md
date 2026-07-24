@@ -8,7 +8,7 @@ tagClass: "aire"
 breadcrumb: "Aire acondicionado"
 readingTime: 11
 ---
-¡Bienvenidos nuestra **guía completa sobre los modos de aire acondicionado**! Si estás buscando información sobre cómo maximizar el rendimiento y la comodidad de tu sistema de climatización, estás en el lugar adecuado, somos expetos en [aire acondicionados](/decogas/aires.html) y sistemas de [calefaccción](/decogas/termos.html).
+¡Bienvenidos nuestra **guía completa sobre los modos de aire acondicionado**! Si estás buscando información sobre cómo maximizar el rendimiento y la comodidad de tu sistema de climatización, estás en el lugar adecuado, somos expetos en [aire acondicionados](/aires.html) y sistemas de [calefaccción](/termos.html).
 
 En este artículo, **exploraremos los diferentes modos de funcionamiento del aire acondicionado y cómo aprovechar al máximo cada uno de ellos,** para sacarles el mayor provecho.
 
@@ -16,7 +16,7 @@ Descubre las opciones disponibles, desde el modo de refrigeración hasta el modo
 
 > ¡Sigue leyendo para obtener consejos prácticos y valiosos!
 
-![modos aire acondicionado](/decogas/blog-img/modos-aire-acondicionado.webp)
+![modos aire acondicionado](/blog-img/modos-aire-acondicionado.webp)
 
 ## Modo de Refrigeración: Mantén el Frescor en los Días Calurosos
 
@@ -98,7 +98,7 @@ En el modo automático inteligente, **el aire acondicionado va más allá de sim
 
 **Estas son algunas características destacadas del modo automático eco:**
 
--   **Ajuste inteligente de la temperatura:** El aire acondicionado en modo automático eco ajusta la [temperatura del aire acondicionado](/decogas/blog/aire-acondicionado/temperatura-aire-acondicionado/) de manera inteligente para mantener un equilibrio entre el confort y el ahorro energético. Evita el enfriamiento o calentamiento excesivo, ajustando la temperatura unos grados más alta en el modo de refrigeración y unos grados más baja en el modo de calefacción.
+-   **Ajuste inteligente de la temperatura:** El aire acondicionado en modo automático eco ajusta la [temperatura del aire acondicionado](/blog/aire-acondicionado/temperatura-aire-acondicionado/) de manera inteligente para mantener un equilibrio entre el confort y el ahorro energético. Evita el enfriamiento o calentamiento excesivo, ajustando la temperatura unos grados más alta en el modo de refrigeración y unos grados más baja en el modo de calefacción.
 -   **Programación horaria:** En el modo automático eco, puedes programar horarios específicos en los que deseas que el aire acondicionado funcione a pleno rendimiento y otros momentos en los que se reduzca la intensidad para ahorrar energía. Esto es especialmente útil cuando no estás en casa o durante las horas de sueño.
 -   **Apagado automático:** Para evitar un consumo innecesario de energía, el modo automático eco puede apagar automáticamente el aire acondicionado cuando se alcanza la temperatura deseada o cuando no hay presencia detectada en la habitación durante un período de tiempo determinado.
 
@@ -110,7 +110,7 @@ Además de utilizar los diferentes modos de aire acondicionado de manera eficien
 
 -   **Mantén un buen aislamiento:** Asegúrate de que las puertas y ventanas estén bien selladas para evitar fugas de aire. Esto ayudará a mantener la temperatura interior y evitará que el aire acondicionado tenga que trabajar más para compensar las filtraciones de aire.
 -   **Realiza un mantenimiento regular:** Limpia o reemplaza los filtros del aire acondicionado según las recomendaciones del fabricante. Los filtros obstruidos pueden afectar el rendimiento y la eficiencia del aire acondicionado. También verifica y limpia regularmente las bobinas y las salidas de aire para mantener un flujo de aire óptimo.
--   **Utiliza termostatos programables:** Si tu aire acondicionado cuenta con esta función, aprovecha los para conocer la [**función de los termostatos**](/decogas/blog/aire-acondicionado/como-funciona-termostato-aire-acondicionado/) programables para establecer horarios y temperaturas específicas. Esto te permitirá ahorrar energía al evitar el enfriamiento o calentamiento innecesario cuando no estés en casa.
+-   **Utiliza termostatos programables:** Si tu aire acondicionado cuenta con esta función, aprovecha los para conocer la [**función de los termostatos**](/blog/aire-acondicionado/como-funciona-termostato-aire-acondicionado/) programables para establecer horarios y temperaturas específicas. Esto te permitirá ahorrar energía al evitar el enfriamiento o calentamiento innecesario cuando no estés en casa.
 -   **Aprovecha la ventilación natural:** En momentos en que la temperatura exterior es agradable, apaga el aire acondicionado y aprovecha la ventilación natural abriendo puertas y ventanas. Esto te permitirá ahorrar energía y disfrutar del aire fresco.
 -   **Ajusta la temperatura de manera adecuada:** Evita establecer temperaturas demasiado bajas en el modo de refrigeración o demasiado altas en el modo de calefacción. Ajusta la temperatura de acuerdo con tus necesidades y preferencias, manteniendo un equilibrio entre el confort y la eficiencia energética.
 
@@ -118,7 +118,7 @@ Recuerda que **la eficiencia y el rendimiento del aire acondicionado pueden vari
 
 ### Símbolos de los aires acondicionados
 
-![modos aire acondicionado](/decogas/blog-img/modos-aire-acondicionado-2.webp)
+![modos aire acondicionado](/blog-img/modos-aire-acondicionado-2.webp)
 
 ---
 
@@ -149,15 +149,15 @@ Al usar los diferentes modos de aire acondicionado correctamente, puede ahorrar 
 
 ---
 
-En conclusión, los diferentes modos de [aire acondicionado](/decogas/aires.html) ofrecen una variedad de opciones para adaptarse a tus necesidades de confort y eficiencia energética.
+En conclusión, los diferentes modos de [aire acondicionado](/aires.html) ofrecen una variedad de opciones para adaptarse a tus necesidades de confort y eficiencia energética.
 
 El **modo de refrigeración** te permite mantener el frescor en los días calurosos, mientras que el modo de calefacción te brinda un calor confortable en los días fríos. El **modo de ventilación** circula el aire fresco sin acondicionamiento adicional, y el **modo de deshumidificación** controla la humedad y el ambiente.
 
 Además, el **modo automático** proporciona una comodidad inteligente y eficiente al ajustar automáticamente los parámetros según las condiciones del entorno.
 
-Al utilizar el [aire acondicionado con modo de deshumidificador,](/decogas/blog/aire-acondicionado/aire-acondicionado-con-deshumidificador/) podrás eliminar el exceso de humedad del ambiente, lo que no solo contribuirá a tu confort, sino que también puede prevenir la proliferación de moho y la aparición de malos olores.
+Al utilizar el [aire acondicionado con modo de deshumidificador,](/blog/aire-acondicionado/aire-acondicionado-con-deshumidificador/) podrás eliminar el exceso de humedad del ambiente, lo que no solo contribuirá a tu confort, sino que también puede prevenir la proliferación de moho y la aparición de malos olores.
 
-Es importante mencionar que [cubrir el compresor del aire acondicionado](/decogas/blog/aire-acondicionado/cubrir-el-compresor-aire-acondicionado/) puede ayudar a protegerlo de los elementos externos, como la lluvia y la suciedad, prolongando su vida útil y garantizando un rendimiento óptimo.
+Es importante mencionar que [cubrir el compresor del aire acondicionado](/blog/aire-acondicionado/cubrir-el-compresor-aire-acondicionado/) puede ayudar a protegerlo de los elementos externos, como la lluvia y la suciedad, prolongando su vida útil y garantizando un rendimiento óptimo.
 
 **Recuerda seguir los consejos para optimizar el uso de los modos de aire acondicionado**, como mantener un buen aislamiento, realizar un mantenimiento regular, utilizar termostatos programables y aprovechar la ventilación natural cuando sea posible.
 

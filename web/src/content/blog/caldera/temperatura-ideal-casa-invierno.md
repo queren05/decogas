@@ -8,7 +8,7 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 6
 ---
-![modelo de casa con un gorro de invierno](/decogas/blog-img/temperatura-ideal-casa-invierno-1.webp)
+![modelo de casa con un gorro de invierno](/blog-img/temperatura-ideal-casa-invierno-1.webp)
 
 ¿Sabías que la temperatura de tu hogar en **invierno** puede marcar la diferencia entre el confort y un gasto energético excesivo? Mantener una **temperatura ideal** no solo aporta bienestar, sino que también ayuda a ahorrar en calefacción y a reducir la huella de carbono.
 
@@ -36,13 +36,13 @@ Cada habitación de la casa tiene necesidades específicas de temperatura para o
 
 ### Temperatura ideal en salón y zonas comunes
 
-En el salón y las zonas comunes, la temperatura ideal es de **20 a 22 grados**. Este rango proporciona un ambiente cálido y confortable para relajarse o pasar tiempo en familia. Mantener esta temperatura constante [evita sobrecalentamientos](/decogas/blog/caldera/sobrecalentamiento-caldera/) y ayuda a que el sistema de calefacción funcione de forma eficiente, optimizando el uso de energía.
+En el salón y las zonas comunes, la temperatura ideal es de **20 a 22 grados**. Este rango proporciona un ambiente cálido y confortable para relajarse o pasar tiempo en familia. Mantener esta temperatura constante [evita sobrecalentamientos](/blog/caldera/sobrecalentamiento-caldera/) y ayuda a que el sistema de calefacción funcione de forma eficiente, optimizando el uso de energía.
 
 ### Temperatura óptima en el dormitorio
 
 Para el dormitorio, se recomienda una temperatura de **16 a 18 grados**. Este rango es ideal para promover un sueño reparador, ya que el cuerpo descansa mejor en ambientes frescos. Mantener esta temperatura permite un descanso profundo y reduce la sequedad del ambiente, evitando la necesidad de humificadores o calefacción en exceso.
 
-Conoce más acerca de la [temperatura ideal para un sueño reparador](/decogas/blog/aire-acondicionado/temperatura-ideal-para-sueno/).
+Conoce más acerca de la [temperatura ideal para un sueño reparador](/blog/aire-acondicionado/temperatura-ideal-para-sueno/).
 
 ### Condiciones para cocinas y baños
 
@@ -54,7 +54,7 @@ Durante el día, en las estancias principales, la temperatura ideal oscila entre
 
 ## Factores que influyen en la temperatura ideal en invierno
 
-![pareja calentando sus pies en chimenea](/decogas/blog-img/temperatura-ideal-casa-invierno-3.webp)
+![pareja calentando sus pies en chimenea](/blog-img/temperatura-ideal-casa-invierno-3.webp)
 
 Diversos factores afectan la temperatura interior del hogar en invierno. Conocerlos permite regular mejor el confort y optimizar el uso de la calefacción.
 
@@ -68,9 +68,9 @@ El nivel de aislamiento y los materiales empleados en la construcción de la cas
 
 ### Tipo de calefacción y energía usada
 
-El tipo de sistema de calefacción (eléctrico, de gas, biomasa, etc.) y la fuente de energía utilizada influyen en la eficiencia del calentamiento. Por ejemplo, el **suelo radiante** ofrece un calor uniforme, mientras que los **[radiadores](/decogas/index.html#contacto)** calientan rápidamente áreas específicas. Adaptar el sistema a las necesidades del hogar mejora el confort y el ahorro.
+El tipo de sistema de calefacción (eléctrico, de gas, biomasa, etc.) y la fuente de energía utilizada influyen en la eficiencia del calentamiento. Por ejemplo, el **suelo radiante** ofrece un calor uniforme, mientras que los **[radiadores](/index.html#contacto)** calientan rápidamente áreas específicas. Adaptar el sistema a las necesidades del hogar mejora el confort y el ahorro.
 
-Conoce [qué tipo de caldera necesitas para una casa de 100 m2](/decogas/blog/caldera/calderas-casas-100-m2/).
+Conoce [qué tipo de caldera necesitas para una casa de 100 m2](/blog/caldera/calderas-casas-100-m2/).
 
 ### Humedad y su impacto en la sensación térmica
 
@@ -89,7 +89,7 @@ Mantener una temperatura confortable en casa no implica necesariamente un alto c
 
 ## Recomendaciones para ahorrar energía y mantener el confort
 
-![mujer trabajando en casa durante el invierno](/decogas/blog-img/temperatura-ideal-casa-invierno-2.webp)
+![mujer trabajando en casa durante el invierno](/blog-img/temperatura-ideal-casa-invierno-2.webp)
 
 Ahorrar energía en invierno es posible sin sacrificar el confort. Estos consejos ayudan a reducir el consumo manteniendo el hogar cálido y agradable.
 

@@ -12,15 +12,15 @@ Saca el máximo provecho al sistema con **aerotermia con paneles solares** para 
 
 La aerotermia **es un tipo de energía renovable que utiliza el calor del sol para enfriar la casa.** Funciona mediante un intercambiador de calor que transfiere el calor del aire exterior al interior de la vivienda.
 
-Este proceso es mucho más eficiente que el uso del [aire acondicionado](/decogas/aires.html) tradicional y **puede ahorrarle dinero en sus facturas de energía.**
+Este proceso es mucho más eficiente que el uso del [aire acondicionado](/aires.html) tradicional y **puede ahorrarle dinero en sus facturas de energía.**
 
 Aquí hablaremos de **cómo utilizar la aerotermia con paneles solares** para mantenerse fresco en verano. También le daremos algunos consejos sobre cómo elegir el sistema adecuado para su hogar.
 
-![Equipo de aerotermia con paneles solares](/decogas/blog-img/aerotermia-con-placas-solares.webp)
+![Equipo de aerotermia con paneles solares](/blog-img/aerotermia-con-placas-solares.webp)
 
 ## Aerotermia y energía solar: principios del sistema
 
-La [aerotermia](/decogas/blog/que-es-la-aerotermia/) **es un tipo de energía renovable que utiliza el calor del sol para refrigerar su hogar.** Funciona mediante un intercambiador de calor que transfiere el calor del aire exterior al interior de la vivienda.
+La [aerotermia](/blog/que-es-la-aerotermia/) **es un tipo de energía renovable que utiliza el calor del sol para refrigerar su hogar.** Funciona mediante un intercambiador de calor que transfiere el calor del aire exterior al interior de la vivienda.
 
 Este proceso es mucho más eficaz que el aire acondicionado tradicional y puede ahorrarle dinero en la factura de la luz.
 
@@ -53,7 +53,7 @@ Aquí hay algunos beneficios de usar aerotermia con paneles solares:
 -   Es una opción de **energía limpia.**
 -   Es una opción de **energía eficiente.**
 
-Estas son algunas de las [ventajas de la aerotermia](/decogas/blog/aerotermia/aerotermia-ventajas/) que puedes considerar si deseas instalarla, debe consultar con un profesional para obtener más información sobre los costos, beneficios y requisitos de instalación.
+Estas son algunas de las [ventajas de la aerotermia](/blog/aerotermia/aerotermia-ventajas/) que puedes considerar si deseas instalarla, debe consultar con un profesional para obtener más información sobre los costos, beneficios y requisitos de instalación.
 
 ## Cómo elegir el sistema de energía aerotérmica adecuado para su hogar
 
@@ -82,4 +82,4 @@ Espero que este artículo le haya sido útil. Si tiene más preguntas, no dude e
 
 La energía aerotérmica **es una manera más eficiente y rentable de refrescar su hogar** que el aire acondicionado tradicional. Si está buscando una forma de mantenerse fresco en verano sin arruinarse, debería considerar el uso de la aerotermia con paneles solares.
 
-Si te interesa este tema de la aerotermia puedes también ver los artículos sobre [aerotermia para piscinas](/decogas/blog/aerotermia/aerotermia-para-piscinas/), [aerotermia para agua caliente](/decogas/blog/aerotermia/aerotermia-para-agua-caliente-sanitaria/), [aerotermia con split](/decogas/blog/aerotermia/aerotermia-con-split/) y aerotermia [con radiadores de aluminio](/decogas/blog/aerotermia/aerotermia-con-radiadores-de-aluminio/).
+Si te interesa este tema de la aerotermia puedes también ver los artículos sobre [aerotermia para piscinas](/blog/aerotermia/aerotermia-para-piscinas/), [aerotermia para agua caliente](/blog/aerotermia/aerotermia-para-agua-caliente-sanitaria/), [aerotermia con split](/blog/aerotermia/aerotermia-con-split/) y aerotermia [con radiadores de aluminio](/blog/aerotermia/aerotermia-con-radiadores-de-aluminio/).

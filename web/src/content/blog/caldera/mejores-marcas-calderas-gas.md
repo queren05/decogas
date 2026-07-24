@@ -8,9 +8,9 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 6
 ---
-![caldera de gas sobre pared azul](/decogas/blog-img/mejores-marcas-de-calderas-de-gas-1.webp)
+![caldera de gas sobre pared azul](/blog-img/mejores-marcas-de-calderas-de-gas-1.webp)
 
-**Elegir una buena [caldera de gas](/decogas/calderas.html) puede marcar una gran diferencia en el ahorro y la eficiencia de tu sistema de calefacción.** Con tantas marcas en el mercado, cada una con sus propias ventajas y especificaciones, es fácil sentirse abrumado.
+**Elegir una buena [caldera de gas](/calderas.html) puede marcar una gran diferencia en el ahorro y la eficiencia de tu sistema de calefacción.** Con tantas marcas en el mercado, cada una con sus propias ventajas y especificaciones, es fácil sentirse abrumado.
 
 Por eso, aquí analizaremos las **marcas de calderas de gas más destacadas**, para que puedas hacer una elección informada. Descubre qué fabricantes ofrecen la mejor calidad, eficiencia energética y durabilidad, y cuáles se ajustan mejor a tus necesidades y presupuesto.
 
@@ -26,15 +26,15 @@ Elegir la caldera de gas adecuada puede hacer la diferencia en eficiencia, segur
 
 ### Tipos de calderas de gas
 
-Existen diferentes tipos de calderas, cada una diseñada para necesidades específicas. Las **[calderas de condensación](/decogas/blog/caldera/mejores-calderas-condensacion/)**, por ejemplo, son altamente eficientes porque aprovechan el calor de los gases de escape, reduciendo el consumo.
+Existen diferentes tipos de calderas, cada una diseñada para necesidades específicas. Las **[calderas de condensación](/blog/caldera/mejores-calderas-condensacion/)**, por ejemplo, son altamente eficientes porque aprovechan el calor de los gases de escape, reduciendo el consumo.
 
 Las **calderas estándar**, aunque menos eficientes, son adecuadas para climas moderados y espacios donde el presupuesto es un factor clave.
 
 ### Aspectos clave: eficiencia, mantenimiento y seguridad
 
-Comprar una de las [calderas de gas que menos consumen](/decogas/blog/caldera/calderas-que-menos-consumen/) se traduce en **ahorro y menor impacto ambiental**. Un mantenimiento adecuado es fundamental para asegurar un funcionamiento óptimo y evitar averías inesperadas.
+Comprar una de las [calderas de gas que menos consumen](/blog/caldera/calderas-que-menos-consumen/) se traduce en **ahorro y menor impacto ambiental**. Un mantenimiento adecuado es fundamental para asegurar un funcionamiento óptimo y evitar averías inesperadas.
 
-La seguridad también es prioritaria: una [instalación profesional](/decogas/calderas.html) y revisiones periódicas son necesarias para prevenir fugas y garantizar el uso seguro del equipo.
+La seguridad también es prioritaria: una [instalación profesional](/calderas.html) y revisiones periódicas son necesarias para prevenir fugas y garantizar el uso seguro del equipo.
 
 ## Comparativa de las mejores marcas de calderas de gas
 
@@ -42,39 +42,39 @@ Para facilitar tu elección, aquí evaluamos las características más destacada
 
 ### Daikin
 
-La **[caldera de gas Daikin](/decogas/marcas/daikin.html)** es sinónimo de **innovación y tecnología avanzada**. Este tipo de calderas de condensación se caracteriza por una alta eficiencia energética y un funcionamiento silencioso, ideal para quienes buscan confort sin distracciones.
+La **[caldera de gas Daikin](/marcas/daikin.html)** es sinónimo de **innovación y tecnología avanzada**. Este tipo de calderas de condensación se caracteriza por una alta eficiencia energética y un funcionamiento silencioso, ideal para quienes buscan confort sin distracciones.
 
 Además, Daikin incluye **sistemas de control digital**, que permiten ajustar y optimizar el consumo de gas para maximizar el ahorro energético en distintos tipos de entornos.
 
 ### Ferroli
 
-La **[caldera de gas Ferroli](/decogas/calderas.html)** destaca por su **excelente relación calidad-precio**, ofreciendo un rendimiento sólido a un precio accesible.
+La **[caldera de gas Ferroli](/calderas.html)** destaca por su **excelente relación calidad-precio**, ofreciendo un rendimiento sólido a un precio accesible.
 
 Los modelos de calderas de condensación de Ferroli brindan una eficiencia destacable y **son fáciles de operar**, lo que las convierte en una opción ideal para negocios que valoran la simplicidad y el ahorro. Esta marca es confiable para quienes buscan un equipo funcional sin necesidad de grandes inversiones iniciales.
 
 ### Junkers
 
-Junkers, del grupo Bosch, es una marca reconocida por la durabilidad de su **[caldera de gas Junkers](/decogas/marcas/bosch.html)** y sus **innovaciones tecnológicas**. Sus calderas son energéticamente eficientes y ofrecen funciones avanzadas, como la conectividad WiFi, que permite gestionar la calefacción a distancia.
+Junkers, del grupo Bosch, es una marca reconocida por la durabilidad de su **[caldera de gas Junkers](/marcas/bosch.html)** y sus **innovaciones tecnológicas**. Sus calderas son energéticamente eficientes y ofrecen funciones avanzadas, como la conectividad WiFi, que permite gestionar la calefacción a distancia.
 
 Esto es perfecto para empresas que desean optimizar el consumo de sus instalaciones y controlar la temperatura remotamente con facilidad.
 
-Aquí te dejamos algunos tips para [solucionar el error EA en calderas Junkers](/decogas/blog/caldera/error-ea-caldera-junkers/).
+Aquí te dejamos algunos tips para [solucionar el error EA en calderas Junkers](/blog/caldera/error-ea-caldera-junkers/).
 
 ### Mitsubishi
 
-Aunque conocida en el sector industrial, la **[caldera de gas Mitsubishi](/decogas/marcas/mitsubishi-electric.html)** también es una opción robusta para uso comercial. **Sus calderas de gas están diseñadas para operar en condiciones exigentes**, lo que las convierte en una elección ideal para amplios espacios comerciales.
+Aunque conocida en el sector industrial, la **[caldera de gas Mitsubishi](/marcas/mitsubishi-electric.html)** también es una opción robusta para uso comercial. **Sus calderas de gas están diseñadas para operar en condiciones exigentes**, lo que las convierte en una elección ideal para amplios espacios comerciales.
 
 Mitsubishi también ofrece un servicio postventa confiable y opciones de financiamiento, lo cual es atractivo para empresas que buscan durabilidad y soporte técnico de calidad.
 
 ### Vaillant
 
-La **[caldera de gas Vaillant](/decogas/marcas/vaillant.html)** representa **calidad y compromiso con el medio ambiente**. Diseñada con tecnología de condensación avanzada, garantiza un consumo de gas eficiente y **reduce las emisiones de CO****₂**.
+La **[caldera de gas Vaillant](/marcas/vaillant.html)** representa **calidad y compromiso con el medio ambiente**. Diseñada con tecnología de condensación avanzada, garantiza un consumo de gas eficiente y **reduce las emisiones de CO****₂**.
 
 Vaillant utiliza materiales reciclables y tecnologías sostenibles en sus productos, siendo una opción ideal para quienes valoran la eficiencia energética y buscan minimizar su impacto ambiental sin renunciar a la comodidad.
 
 ## Recomendaciones de calderas para autónomos y pequeñas empresas
 
-![pareja calentando sus manos en calefacción](/decogas/blog-img/mejores-marcas-de-calderas-de-gas-2.webp)
+![pareja calentando sus manos en calefacción](/blog-img/mejores-marcas-de-calderas-de-gas-2.webp)
 
 Para autónomos y pequeñas empresas, elegir la caldera adecuada puede marcar una gran diferencia en eficiencia, confort y ahorro económico.
 
@@ -98,7 +98,7 @@ Implementar buenas prácticas de ahorro energético en tu negocio puede marcar u
 
 ### ¿Cuánto cuesta instalar una caldera de gas?
 
-El coste de instalar una caldera de gas puede variar **entre 800 y 2.500 euros**, dependiendo del tipo de caldera y las necesidades de instalación. Otros factores que influyen en el precio incluyen el tamaño del sistema, la complejidad de la instalación y el tipo de vivienda o local donde se instalará. También debes considerar [cuánto cuesta una caldera](/decogas/blog/caldera/cuanto-cuesta-una-caldera/).
+El coste de instalar una caldera de gas puede variar **entre 800 y 2.500 euros**, dependiendo del tipo de caldera y las necesidades de instalación. Otros factores que influyen en el precio incluyen el tamaño del sistema, la complejidad de la instalación y el tipo de vivienda o local donde se instalará. También debes considerar [cuánto cuesta una caldera](/blog/caldera/cuanto-cuesta-una-caldera/).
 
 ### ¿Qué vida útil tiene una caldera de gas?
 

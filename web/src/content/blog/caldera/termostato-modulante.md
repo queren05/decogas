@@ -10,13 +10,13 @@ readingTime: 4
 ---
 En la búsqueda constante de optimizar el consumo energético y mejorar la eficiencia en nuestros hogares, la tecnología ha dado grandes pasos. Dentro de esta evolución, los **termostatos modulantes** han emergido como una de las soluciones más prometedoras para gestionar sistemas de calefacción de manera inteligente.
 
-Estos dispositivos, más allá de ser un simple interruptor de encendido y apagado, tienen la capacidad de **adaptar el funcionamiento de la caldera a las necesidades específicas de calor del ambiente.** Así, no sólo garantizan un mayor confort, sino que también se convierten en aliados clave para el ahorro energético. Como [expertos en la instalación de calderas en Madrid](/decogas/calderas.html), nos sumergiremos en su funcionamiento, ventajas y aspectos a considerar para su instalación.
+Estos dispositivos, más allá de ser un simple interruptor de encendido y apagado, tienen la capacidad de **adaptar el funcionamiento de la caldera a las necesidades específicas de calor del ambiente.** Así, no sólo garantizan un mayor confort, sino que también se convierten en aliados clave para el ahorro energético. Como [expertos en la instalación de calderas en Madrid](/calderas.html), nos sumergiremos en su funcionamiento, ventajas y aspectos a considerar para su instalación.
 
-![termostasto modulante](/decogas/blog-img/prevision-meteorologica-monitor-domotico.webp)
+![termostasto modulante](/blog-img/prevision-meteorologica-monitor-domotico.webp)
 
 ## ¿Qué es un termostato modulante?
 
-El termostato modulante no es solo otro termostato, representa un salto tecnológico en el control y la [regulación de la potencia de la caldera](/decogas/blog/caldera/regular-potencia-caldera/) en nuestros hogares. Pero, ¿en qué consiste exactamente y cómo se diferencia de un termostato convencional? Vamos a desglosarlo.
+El termostato modulante no es solo otro termostato, representa un salto tecnológico en el control y la [regulación de la potencia de la caldera](/blog/caldera/regular-potencia-caldera/) en nuestros hogares. Pero, ¿en qué consiste exactamente y cómo se diferencia de un termostato convencional? Vamos a desglosarlo.
 
 ### Definición y características principales
 
@@ -28,7 +28,7 @@ Gracias a esta capacidad, el termostato modulante puede **mantener una temperatu
 
 La modulación se refiere al ajuste continuo y preciso de la potencia de la caldera. En lugar de funcionar al 100% de su capacidad y luego apagarse completamente, **una caldera con control modulante puede operar, por ejemplo, al 60% o al 30% de su capacidad,** dependiendo de las necesidades de calor del hogar en un momento determinado.
 
-Este funcionamiento más suave y adaptativo no solo es más eficiente energéticamente, sino que también **reduce el desgaste del equipo,** lo que ayudará a tener un mejor [mantenimiento de la caldera](/decogas/blog/caldera/mantenimiento-calderas-gas/), ya que evita los constantes ciclos de encendido y apagado que sufren las calderas con termostatos tradicionales.
+Este funcionamiento más suave y adaptativo no solo es más eficiente energéticamente, sino que también **reduce el desgaste del equipo,** lo que ayudará a tener un mejor [mantenimiento de la caldera](/blog/caldera/mantenimiento-calderas-gas/), ya que evita los constantes ciclos de encendido y apagado que sufren las calderas con termostatos tradicionales.
 
 ### ¿Cómo se diferencia de otros termostatos?
 

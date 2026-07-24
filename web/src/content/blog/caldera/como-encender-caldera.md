@@ -8,11 +8,11 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 5
 ---
-Es necesario conocer **cómo encender una [caldera](/decogas/calderas.html)** de manera segura y aquí te lo vamos a contar. Cuando llegan las bajas temperaturas, hemos de volver a [iniciar el sistema de calefacción](/decogas/blog/caldera/apagar-caldera-de-gasoil/) y comprobar que todo esté correcto para disfrutar de nuevo de la comodidad en nuestro hogar.
+Es necesario conocer **cómo encender una [caldera](/calderas.html)** de manera segura y aquí te lo vamos a contar. Cuando llegan las bajas temperaturas, hemos de volver a [iniciar el sistema de calefacción](/blog/caldera/apagar-caldera-de-gasoil/) y comprobar que todo esté correcto para disfrutar de nuevo de la comodidad en nuestro hogar.
 
 Tras varios meses sin usar la calefacción, es recomendable tener de seguro que no tengamos problemas o alguna avería en la caldera.  Pero, para saber si funciona bien, tenemos que tener en cuenta ciertos elementos.
 
-![encender una caldera](/decogas/blog-img/istockphoto-1277585123-612x612-1-1.webp)
+![encender una caldera](/blog-img/istockphoto-1277585123-612x612-1-1.webp)
 
 ## Revisión oficial de la caldera
 
@@ -28,10 +28,10 @@ Cuando llega el frío o volvemos de vacaciones nos toca encender la caldera. Par
 -   Tenemos que **comprobar que la caldera esté conectada a la corriente eléctrica**. Este es siempre el paso inicial a seguir. Tenemos que recordar que, hasta que la caldera no esté enchufada, no podrá comenzar a funcionar.
 -   Asegurarnos de que la **llave del gas esté abierta** como segundo paso que hemos de llevar a cabo. Siempre tenemos que ver si está abierta para que pueda iniciarse el recorrido por todo el sistema de calefacción del hogar.
 -   Lo siguiente, **es comprobar que el selector de la caldera esté en modo invierno**. Esto es importante, puesto que iniciar este modo en la caldera permite que el sistema de calefacción pueda alcanzar los grados deseados y funcione correctamente.
--   Revisamos que la **presión del barómetro está entre 1 y 1.5 bares** de presión. En caso contrario, tenemos que abrir la llave de llenado hasta que la aguja se sitúe dentro de este intervalo de bares. Ten en cuenta que la [presión de la caldera sube con la calefacción](/decogas/blog/caldera/presion-caldera-sube-calefaccion/).
+-   Revisamos que la **presión del barómetro está entre 1 y 1.5 bares** de presión. En caso contrario, tenemos que abrir la llave de llenado hasta que la aguja se sitúe dentro de este intervalo de bares. Ten en cuenta que la [presión de la caldera sube con la calefacción](/blog/caldera/presion-caldera-sube-calefaccion/).
 -   Asegurarnos de que el **termostato funciona de manera correcta**. Hemos de realizar una revisión de la totalidad de los elementos que forman parte del sistema de calefacción para asegurarnos de que, al encender la caldera, el hogar permanecerá con la temperatura real sin incidencias.
 
-![panel de control de una caldera](/decogas/blog-img/istockphoto-489945884-612x612-1.webp)
+![panel de control de una caldera](/blog-img/istockphoto-489945884-612x612-1.webp)
 
 ## Otros consejos a tener en cuenta
 
@@ -48,7 +48,7 @@ Aparte de los pasos anteriormente mencionados, también tenemos que tener en cue
 
 Ahora ya sabemos cómo encender una caldera, pero también es importante conocer ciertos trucos que nos ayudarán a **conseguir un mejor funcionamiento y eficiencia** en el sistema de calefacción, así como ahorrar gastos.
 
-Así que, para optimizar el rendimiento de la caldera, tenemos que realizar los siguientes consejos, que son básicos para un correcto [mantenimiento de la caldera](/decogas/blog/caldera/mantenimiento-calderas-gas/):
+Así que, para optimizar el rendimiento de la caldera, tenemos que realizar los siguientes consejos, que son básicos para un correcto [mantenimiento de la caldera](/blog/caldera/mantenimiento-calderas-gas/):
 
 ### Limpieza
 
@@ -70,7 +70,7 @@ En caso de que la **presión sea mayor**, entonces tenemos que bajar la presión
 
 Como en el caso de los bares, también es esencial tener en cuenta la temperatura para poder ganar en comodidad y en el gasto energético. La recomendación es siempre tener una temperatura constante y que ronde los **21ºC** y, por la noche, apagarla o bajar a los 17ºC. Se estima que por cada grado que se sube, es aumenta el gasto energético en torno un 7%.
 
-![fijar la temperatura máxima](/decogas/blog-img/istockphoto-1171353535-612x612-1.webp)
+![fijar la temperatura máxima](/blog-img/istockphoto-1171353535-612x612-1.webp)
 
 ### Purgar los radiadores
 

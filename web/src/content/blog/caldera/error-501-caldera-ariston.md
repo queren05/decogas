@@ -8,9 +8,9 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 6
 ---
-![caldera ariston con error 501](/decogas/blog-img/error-501-caldera-ariston-1.webp)
+![caldera ariston con error 501](/blog-img/error-501-caldera-ariston-1.webp)
 
-El **error 501 en tu** **[**caldera Ariston**](/decogas/calderas.html)** puede parecer un problema grave, pero suele estar relacionado con la falta de llama durante el encendido. Este código indica que la caldera ha intentado encenderse sin éxito, lo que provoca un bloqueo de seguridad. Las causas más comunes incluyen **falta de gas**, obstrucciones en la **salida de humos** o problemas con el suministro. No te preocupes, en este artículo te explicamos las **soluciones** **más eficaces** para resolver este fallo y prevenir futuros errores en tu caldera.
+El **error 501 en tu** **[**caldera Ariston**](/calderas.html)** puede parecer un problema grave, pero suele estar relacionado con la falta de llama durante el encendido. Este código indica que la caldera ha intentado encenderse sin éxito, lo que provoca un bloqueo de seguridad. Las causas más comunes incluyen **falta de gas**, obstrucciones en la **salida de humos** o problemas con el suministro. No te preocupes, en este artículo te explicamos las **soluciones** **más eficaces** para resolver este fallo y prevenir futuros errores en tu caldera.
 
 ## ¿Qué significa el error 501 en una caldera Ariston?
 
@@ -18,7 +18,7 @@ El **error 501 en una caldera Ariston** es una señal de que algo no ha funciona
 
 El **error 501** pertenece a los códigos no volátiles, lo que significa que no se corregirá automáticamente. Tendrás que **identificar la causa exacta** y resolverla para volver a poner en marcha tu caldera. Aunque este error puede parecer complejo, las soluciones suelen estar a tu alcance y, con una intervención rápida, puedes resolverlo sin la necesidad inmediata de asistencia técnica.
 
-También te contamos [cómo solucionar el error 108 en una caldera Ariston](/decogas/blog/caldera/error-108-caldera-ariston/).
+También te contamos [cómo solucionar el error 108 en una caldera Ariston](/blog/caldera/error-108-caldera-ariston/).
 
 ## Causas principales del error 501 en caldera Ariston
 
@@ -36,7 +36,7 @@ El encendido de la caldera depende de que la llama se mantenga estable. **Si la 
 
 Si hay algún problema en la entrada de gas, como **una obstrucción o una presión baja**, la caldera no podrá recibir el combustible necesario para encenderse. Esto provocará un bloqueo inmediato. En este caso, conviene revisar las conexiones del gas y comprobar que no haya ningún tipo de bloqueo en las tuberías que impida el flujo normal del gas.
 
-Aquí te contamos [cómo subir la presión de la caldera](/decogas/blog/caldera/subir-presion-caldera/).
+Aquí te contamos [cómo subir la presión de la caldera](/blog/caldera/subir-presion-caldera/).
 
 ### Obstrucciones en la salida de humos
 
@@ -56,7 +56,7 @@ Los bloqueos en la salida de humos **no permiten la correcta evacuación de los 
 
 ## Soluciones para el error 501 en calderas Ariston
 
-![mujer tomando café junto a calefacción](/decogas/blog-img/error-501-caldera-ariston-2.webp)
+![mujer tomando café junto a calefacción](/blog-img/error-501-caldera-ariston-2.webp)
 
 Existen varias soluciones que puedes aplicar para resolver el error 501 en tu caldera Ariston. Aquí te explicamos los pasos más efectivos.
 
@@ -68,11 +68,11 @@ Cuando veas el error 501 en tu caldera, el primer paso es intentar reiniciarla. 
 
 El proceso de resetear la caldera debe hacerse con cuidado. Primero, **asegúrate de que haya suficiente gas y de que la salida de humos esté despejada**. Luego, presiona el botón de reinicio y espera unos segundos mientras la caldera intenta encenderse. Si el error vuelve a aparecer tras varios intentos, es recomendable no insistir para evitar daños mayores.
 
-Conoce con más detalle [cómo encender una caldera](/decogas/blog/caldera/como-encender-caldera/).
+Conoce con más detalle [cómo encender una caldera](/blog/caldera/como-encender-caldera/).
 
 ### ¿Cuándo es necesario contactar con un técnico?
 
-Si el error 501 no se soluciona con un reinicio o limpieza básica, es momento de contactar a un [técnico especializado en la reparación de calderas](/decogas/calderas.html). Algunos problemas como **fallos en el sistema de ignición o sensores defectuosos** requieren de una intervención especializada. No debes intentar reparar componentes internos si no tienes experiencia, ya que esto podría empeorar la situación y aumentar los costes de reparación.
+Si el error 501 no se soluciona con un reinicio o limpieza básica, es momento de contactar a un [técnico especializado en la reparación de calderas](/calderas.html). Algunos problemas como **fallos en el sistema de ignición o sensores defectuosos** requieren de una intervención especializada. No debes intentar reparar componentes internos si no tienes experiencia, ya que esto podría empeorar la situación y aumentar los costes de reparación.
 
 ### Reinicio manual de la caldera Ariston
 

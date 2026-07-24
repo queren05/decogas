@@ -8,7 +8,7 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 7
 ---
-![hombre leyendo contador individual de calefacción](/decogas/blog-img/cuando-es-obligatorio-poner-contadores-individuales-de-calefaccion.webp)
+![hombre leyendo contador individual de calefacción](/blog-img/cuando-es-obligatorio-poner-contadores-individuales-de-calefaccion.webp)
 
 Es posible que te preguntes **cuándo es obligatorio instalar contadores individuales de calefacción** en tu edificio, ya que cada vez es más común escuchar sobre esta normativa.
 
@@ -34,11 +34,11 @@ En general, para las zonas más frías, como las zonas C, D y E, **los plazos ha
 
 No todos los edificios están obligados a cumplir con la instalación de contadores individuales. **Las excepciones incluyen aquellos situados en** **zonas climáticas A y B**, donde el consumo de calefacción es muy bajo, así como edificios con instalaciones técnicas específicas, como los sistemas de calefacción monotubo en serie. Además, si un estudio económico demuestra que el coste de instalación no se recuperará en un plazo de cuatro años, también se puede solicitar una exención.
 
-Si estás considerando otras opciones de calefacción, te contamos [sobre los tipos de sistemas de calefacción](/decogas/blog/caldera/tipos-sistemas-calefaccion/).
+Si estás considerando otras opciones de calefacción, te contamos [sobre los tipos de sistemas de calefacción](/blog/caldera/tipos-sistemas-calefaccion/).
 
 ## Zonas climáticas y su impacto en la obligación de instalar contadores
 
-![hombre leyendo termostato](/decogas/blog-img/zonas-climaticas-y-su-impacto-en-la-obligacion-de-instalar-contadores.webp)
+![hombre leyendo termostato](/blog-img/zonas-climaticas-y-su-impacto-en-la-obligacion-de-instalar-contadores.webp)
 
 La normativa sobre la instalación de contadores individuales varía según la zona climática en la que se encuentre tu edificio. Las necesidades de calefacción dependen mucho del clima de la región, y esto influye directamente en las obligaciones.
 
@@ -82,7 +82,7 @@ La diferencia más significativa entre los contadores de calefacción y los repa
 
 En cuanto a costes**, los repartidores son más baratos**, tanto en instalación como en mantenimiento, pero pueden generar ligeras diferencias en la facturación entre viviendas con diferentes exposiciones al frío.
 
-Si quieres optimizar el uso de tu calefacción, aquí te contamos la [fórmula para calcular la potencia calorífica de una habitación](/decogas/blog/caldera/calcular-potencia-calorifica-habitacion/).
+Si quieres optimizar el uso de tu calefacción, aquí te contamos la [fórmula para calcular la potencia calorífica de una habitación](/blog/caldera/calcular-potencia-calorifica-habitacion/).
 
 ## ¿Cómo saber si tu edificio necesita contadores individuales?
 
@@ -92,7 +92,7 @@ Luego, **considera si la normativa del Real Decreto 736/2020 aplica en tu zona c
 
 ## Proceso de instalación de contadores individuales
 
-![hombre manipulando tablet en casa](/decogas/blog-img/proceso-de-instalacion-de-contadores-individuales.webp)
+![hombre manipulando tablet en casa](/blog-img/proceso-de-instalacion-de-contadores-individuales.webp)
 
 El proceso para instalar contadores individuales de calefacción en un edificio con sistema centralizado implica varios pasos importantes. Es esencial seguir un orden adecuado para garantizar el cumplimiento de la normativa y maximizar los beneficios.
 
@@ -110,7 +110,7 @@ No cumplir con los plazos establecidos para la instalación de contadores indivi
 
 Si no instalas los contadores individuales dentro de los plazos establecidos, te expones a **sanciones impuestas** por las autoridades competentes. Estas multas pueden variar según la gravedad del incumplimiento y la normativa aplicable en tu comunidad autónoma. Además, la comunidad de vecinos también puede enfrentar **multas colectivas** si el edificio no cumple con las exigencias de eficiencia energética.
 
-Conoce en este artículo [cómo mejorar la eficiencia energética en edificios](/decogas/blog/caldera/mejorar-eficiencia-energetica-edificios/).
+Conoce en este artículo [cómo mejorar la eficiencia energética en edificios](/blog/caldera/mejorar-eficiencia-energetica-edificios/).
 
 ### Impacto económico a largo plazo por no adaptarse
 

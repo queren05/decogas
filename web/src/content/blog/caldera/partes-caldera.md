@@ -8,7 +8,7 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 4
 ---
-Si alguna vez has abierto el panel frontal de tu equipo o has escuchado un ruido extraño proveniente de él, es probable que te hayas preguntado qué hay dentro. Entender las **partes de una [caldera](/decogas/calderas.html)** no solo es útil para los técnicos; para ti, como usuario, es la mejor forma de saber por qué sube la presión, por qué no sale agua caliente o cómo optimizar el consumo de gas.
+Si alguna vez has abierto el panel frontal de tu equipo o has escuchado un ruido extraño proveniente de él, es probable que te hayas preguntado qué hay dentro. Entender las **partes de una [caldera](/calderas.html)** no solo es útil para los técnicos; para ti, como usuario, es la mejor forma de saber por qué sube la presión, por qué no sale agua caliente o cómo optimizar el consumo de gas.
 
 En este artículo, desglosamos la anatomía de estos equipos, desde el corazón donde se genera la llama hasta los sistemas electrónicos que garantizan tu seguridad.
 
@@ -48,13 +48,13 @@ Su función es impulsar el agua caliente a través de toda la instalación de la
 
 Cuando el agua se calienta, se expande y ocupa más espacio. El vaso de expansión es un depósito con una membrana elástica que absorbe ese aumento de volumen para que la presión de la caldera se mantenga estable (normalmente entre 1.2 y 1.5 bares).
 
-### 5\. [Válvula de seguridad](/decogas/blog/caldera/valvula-seguridad-caldera/)
+### 5\. [Válvula de seguridad](/blog/caldera/valvula-seguridad-caldera/)
 
 Es un mecanismo de alivio. Si la presión del sistema supera los 3 bares, esta válvula se abre automáticamente para dejar salir agua y evitar que el circuito sufra daños estructurales. Si tu caldera gotea constantemente por un tubito, esta pieza suele ser la responsable.
 
 ### 6\. Salida de humos: ventilación y seguridad
 
-![componentes de una caldera](/decogas/blog-img/componentes-de-una-caldera-601x400-1.webp)
+![componentes de una caldera](/blog-img/componentes-de-una-caldera-601x400-1.webp)
 
 Es el conducto (chimenea) por donde se expulsan los gases resultantes de la combustión. En los modelos actuales, se utilizan sistemas de doble flujo o coaxiales para asegurar que los gases nocivos no se filtren en la vivienda.
 
@@ -75,7 +75,7 @@ Tras años analizando el rendimiento de sistemas de calefacción, hemos comproba
 
 _Nuestra experiencia de más de una década en mantenimiento preventivo indica que el 40% de las averías en el intercambiador se deben a la acumulación de cal, algo que se puede evitar con limpiezas periódicas._
 
-![quemador parte de una caldera](/decogas/blog-img/quemador-parte-de-una-caldera-602x400-1.webp)
+![quemador parte de una caldera](/blog-img/quemador-parte-de-una-caldera-602x400-1.webp)
 
 -   **Si la presión sube sola:** Es probable que la llave de llenado esté mal cerrada o que el vaso de expansión haya perdido su carga de aire.
 -   **Si la caldera hace ruidos de «ebullición»:** Suele indicar que el intercambiador está obstruido por cal o suciedad, impidiendo que el agua circule libremente.
@@ -88,4 +88,4 @@ _Nuestra experiencia de más de una década en mantenimiento preventivo indica q
 
 Entender las **partes de una caldera** te permite comunicarte mejor con tu técnico y realizar un mantenimiento básico preventivo. Recuerda que, por normativa y seguridad, cualquier manipulación interna debe ser realizada por un profesional autorizado.
 
-Esperamos que este artículo te haya sido útil para conocer las **partes de una caldera**. No te olvides de [contactar con nosotros](/decogas/index.html#contacto) si necesitaras saber algo más sobre la estructura de la caldera que desees comprar.
+Esperamos que este artículo te haya sido útil para conocer las **partes de una caldera**. No te olvides de [contactar con nosotros](/index.html#contacto) si necesitaras saber algo más sobre la estructura de la caldera que desees comprar.

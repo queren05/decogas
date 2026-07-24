@@ -12,9 +12,9 @@ A día de hoy, cuando se vaya a elegir un sistema generador de calefacción y ag
 
 Es decir, debes conocer **la normativa de salida de humos para calderas de condensación** si quieres comprar este tipo de equipo.
 
-Lee este artículo para descubrir cuáles son los requisitos del **Reglamento de las Instalaciones Térmicas en los Edificios** ([Certificado RITE](/decogas/blog/caldera/certificado-rite/)) al respecto.
+Lee este artículo para descubrir cuáles son los requisitos del **Reglamento de las Instalaciones Térmicas en los Edificios** ([Certificado RITE](/blog/caldera/certificado-rite/)) al respecto.
 
-**Asegúrate de que cumples con la ley** antes de instalar tus [calderas en Madrid](/decogas/calderas.html) o en cualquier lugar ¡y déjate de sustos!
+**Asegúrate de que cumples con la ley** antes de instalar tus [calderas en Madrid](/calderas.html) o en cualquier lugar ¡y déjate de sustos!
 
 ## **¿Qué es la salida de humos de la caldera de condensación?**
 
@@ -26,7 +26,7 @@ De esta manera, cabe recalcar que la normativa establece que la salida de humos 
 
 Por ello, a la hora de instalar la caldera, hay que considerar dónde poner el terminal de salida de humos.
 
-![reglamento salida de humos calderas de condensación](/decogas/blog-img/reglamento-salida-de-humos-calderas-de-condensacion-601x400-1.webp)
+![reglamento salida de humos calderas de condensación](/blog-img/reglamento-salida-de-humos-calderas-de-condensacion-601x400-1.webp)
 
 ## **Tipos de salidas de humos para calderas de condensación**
 
@@ -72,7 +72,7 @@ En resumen, esto es lo que debes saber:
 -   **Para viviendas unifamiliares independientes**: la salida del tubo de humos puede hacerse en fachadas o cubiertas, siempre que se cumpla el mínimo de 3 metros de distancia con los vecinos.
 -   **Para bloques de piso o casas adosadas**: las salidas de humos en la fachada tienen que estar aprobadas por la comunidad.
 
-![humos caldera de condensacion](/decogas/blog-img/humo-caldera-de-condensacion-600x400-1.webp)
+![humos caldera de condensacion](/blog-img/humo-caldera-de-condensacion-600x400-1.webp)
 
 ### **Aspectos a tener en cuenta**
 
@@ -98,4 +98,4 @@ Los objetivos que persigue, a grandes rasgos, son:
 -   Asegurar **medidas de seguridad**.
 -   Garantizar un **control de la higiene y el bienestar** cuando se utilizan estos sistemas.
 
-Ahora que conoces la normativa sobre salida de humos para calderas de condensación, ya puedes hacerte con una [en nuestra tienda](/decogas/index.html).
+Ahora que conoces la normativa sobre salida de humos para calderas de condensación, ya puedes hacerte con una [en nuestra tienda](/index.html).

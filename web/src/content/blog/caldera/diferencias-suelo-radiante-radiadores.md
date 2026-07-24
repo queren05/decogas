@@ -8,13 +8,13 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 3
 ---
-El sistema de calefacción perfecto es aquel que te ofrece, al mejor precio, la **mayor comodidad y confort**. Antes de elegir entre suelo radiante o [radiadores](/decogas/index.html#contacto), lo mejor es que analices todas sus características, ventajas e inconvenientes.
+El sistema de calefacción perfecto es aquel que te ofrece, al mejor precio, la **mayor comodidad y confort**. Antes de elegir entre suelo radiante o [radiadores](/index.html#contacto), lo mejor es que analices todas sus características, ventajas e inconvenientes.
 
 ## Diferencias para elegir entre suelo radiante o radiadores
 
-Ambos sistemas de calefacción se pueden emplear en [calderas de gas](/decogas/calderas.html), de [Gasóil](/decogas/calderas.html) o de [pellet](/decogas/index.html#contacto), entre otras, para climatizar un espacio. Aun así, existen **diferencias** que pueden ayudarte a elegir.
+Ambos sistemas de calefacción se pueden emplear en [calderas de gas](/calderas.html), de [Gasóil](/calderas.html) o de [pellet](/index.html#contacto), entre otras, para climatizar un espacio. Aun así, existen **diferencias** que pueden ayudarte a elegir.
 
-También se puede comparar la eficiencia de estos dos sistemas con el [suelo radiante con aerotermia](/decogas/blog/aerotermia/suelo-radiante-aerotermia/)
+También se puede comparar la eficiencia de estos dos sistemas con el [suelo radiante con aerotermia](/blog/aerotermia/suelo-radiante-aerotermia/)
 
 | Factor | Suelo radiante | Radiadores | Suelo radiante con aerotermia |
 | --- | --- | --- | --- |
@@ -33,19 +33,19 @@ También se puede comparar la eficiencia de estos dos sistemas con el [suelo rad
 
 Es **más eficiente** y funciona por un sistema de tuberías que lleva el agua, caliente o fría, por toda la vivienda, lo que permite calentar el espacio de forma constante y uniforme; además, lo hace sin variar la humedad relativa del aire y sin alteraciones bruscas de temperatura.
 
-Puedes instalarlo la [aerotermia en tu piso](/decogas/blog/aerotermia/aerotermia-piso/) o en tu casa, sin ningún problema.
+Puedes instalarlo la [aerotermia en tu piso](/blog/aerotermia/aerotermia-piso/) o en tu casa, sin ningún problema.
 
-![Suelo radiante en una vivienda](/decogas/blog-img/suelo-radiante.webp)
+![Suelo radiante en una vivienda](/blog-img/suelo-radiante.webp)
 
 El suelo radiante suele combinarse con una bomba de calor y, gracias a su funcionamiento a baja temperatura, permite un **mayor confort térmico** que asegura un ahorro energético. En este sistema de calefacción, la temperatura ideal para un funcionamiento óptimo se encuentra entre los 30ºC y los 40ºC.
 
-Además, ofrece un mayor [aislamiento térmico](/decogas/blog/caldera/mejor-aislante-termico-casa/) en el suelo, para poder [mejorar la eficiencia energética](/decogas/blog/caldera/mejorar-eficiencia-energetica-edificios/), incluso en edificios. Su **precio** es algo más elevado que los radiadores y necesitan realizarse obras en la vivienda para poder instalarlo; por ello, es perfecto para obras nuevas y rehabilitaciones.
+Además, ofrece un mayor [aislamiento térmico](/blog/caldera/mejor-aislante-termico-casa/) en el suelo, para poder [mejorar la eficiencia energética](/blog/caldera/mejorar-eficiencia-energetica-edificios/), incluso en edificios. Su **precio** es algo más elevado que los radiadores y necesitan realizarse obras en la vivienda para poder instalarlo; por ello, es perfecto para obras nuevas y rehabilitaciones.
 
 ### Características de los radiadores
 
 Son los **más populares para climatizar una vivienda**. En este caso, el agua tiene que alcanzar una temperatura cercana a los 80ºC para calentar la estancia, por lo que su utilización supone un mayor gasto energético. Por otro lado, pueden existir radiadores que trabajen a una baja temperatura, pero **necesitará entre 55ºC y 60ºC para climatizar el ambiente**, superior a la necesaria en el caso del suelo radiante.
 
-![Salón de una casa con suelo radiante](/decogas/blog-img/casa-suelo-radiantec.webp)
+![Salón de una casa con suelo radiante](/blog-img/casa-suelo-radiantec.webp)
 
 También es importante señalar el espacio que ocupan, puesto que **se encuentran siempre visibles**; por el contrario, a diferencia del suelo radiante, no es necesario realizar grandes obras de instalación para poder disfrutar de ellos.
 
@@ -66,4 +66,4 @@ A continuación te mostramos unos **consejos** que te ayudarán a elegir entre s
 -   **Uso habitual**: lo mejor es instalar suelo radiante porque te permite disfrutar de una temperatura homogénea y constante todo el día.
 -   **Utilización puntual**: si solamente estás unas horas en tu vivienda, lo mejor es optar por los radiadores.
 
-Cómo ves, la elección **depende de tu vivienda y tus necesidades**; además, si tienes alguna duda, puedes ponerte en [contacto con nosotros](/decogas/index.html#contacto) y nuestros profesionales te ayudarán.
+Cómo ves, la elección **depende de tu vivienda y tus necesidades**; además, si tienes alguna duda, puedes ponerte en [contacto con nosotros](/index.html#contacto) y nuestros profesionales te ayudarán.

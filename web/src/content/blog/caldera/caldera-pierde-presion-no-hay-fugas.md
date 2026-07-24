@@ -8,11 +8,11 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 5
 ---
-Por lo general, una [caldera](/decogas/calderas.html) que no tiene una **presión de agua adecuada y constante** podría no funcionar de forma tan eficiente como cabría esperar, de hecho es una de las [averías frecuentes de las calderas](/decogas/blog/caldera/principales-averias-calderas/). La baja presión a menudo puede ser un indicador de que existe un problema en el sistema, por lo que es importante conocer la causa y buscar la solución.
+Por lo general, una [caldera](/calderas.html) que no tiene una **presión de agua adecuada y constante** podría no funcionar de forma tan eficiente como cabría esperar, de hecho es una de las [averías frecuentes de las calderas](/blog/caldera/principales-averias-calderas/). La baja presión a menudo puede ser un indicador de que existe un problema en el sistema, por lo que es importante conocer la causa y buscar la solución.
 
 Por eso, a continuación, te hablaremos del caso en que tu **caldera pierde presión y no hay fugas**. Te daremos los motivos de por qué pierde presión y posibles soluciones para que tomes nota si sufres este tipo de problema en tu caldera.
 
-![Controlar los botones de una caldera](/decogas/blog-img/istockphoto-995521752-612x612-1.webp)
+![Controlar los botones de una caldera](/blog-img/istockphoto-995521752-612x612-1.webp)
 
 ## ¿Por qué pierde presión la caldera?
 
@@ -37,11 +37,11 @@ Para comprobar esto, podemos cerrar las llaves (ida y retorno) de la calefacció
 -   **El manómetro baja de presión**. Por lo que la causante de la bajada de presión es la caldera debido a un goteo por alguna pieza o de la válvula de seguridad.
 -   **El manómetro no ha bajado de presión**. Cuando abras las llaves de nuevo, la presión del manómetro baja de golpe, indicando que la pérdida procede del circuito de calefacción. En este caso solo te falta ya saber dónde está la fuga.
 
-![Manipulación de una caldera](/decogas/blog-img/istockphoto-1277585123-612x612-1.webp)
+![Manipulación de una caldera](/blog-img/istockphoto-1277585123-612x612-1.webp)
 
 ## Sistema de seguridad de las calderas
 
-Las calderas añaden un [**sistema de seguridad**](/decogas/blog/caldera/valvula-seguridad-caldera/) que nos permite regular la presión. Saber usarlo de forma adecuada es importante, porque deberemos subir o bajar la presión en función de cómo reaccione la caldera.
+Las calderas añaden un [**sistema de seguridad**](/blog/caldera/valvula-seguridad-caldera/) que nos permite regular la presión. Saber usarlo de forma adecuada es importante, porque deberemos subir o bajar la presión en función de cómo reaccione la caldera.
 
 ### **Si la presión es muy baja**
 
@@ -58,7 +58,7 @@ La situación es algo más complicada si notamos que la presión baja pero no te
 -   **Llave de vaciado**. Esta llave controla el agua contenida en el circuito de calefacción, pero si se deteriora puede provocar bajadas de presión. Para solucionarlo basta con cambiar la goma de la llave, pero si no se soluciona, será necesario picar el suelo y sustituir la llave afectada, asegurándonos también que no existen fugas en otro lugar de la casa.
 -   **Circuito de calefacción**. Es posible que haya una fuga en el circuito, pero no lo hayamos detectado. La única forma de saber el origen de la avería es buscar manchas o humedades en la pared que son indicativo de dónde está situada la fuga.
 
-![controlando la presión de una caldera](/decogas/blog-img/istockphoto-1320642166-612x612-1.webp)
+![controlando la presión de una caldera](/blog-img/istockphoto-1320642166-612x612-1.webp)
 
 ## Resetear el sistema en 8 pasos
 

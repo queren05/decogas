@@ -8,9 +8,9 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 6
 ---
-![Mejores calderas de condensación](/decogas/blog-img/mejores-calderas-coondensacion-1.webp)
+![Mejores calderas de condensación](/blog-img/mejores-calderas-coondensacion-1.webp)
 
-**¿Estás pensando en cambiar tu [caldera](/decogas/calderas.html) pero no sabes por dónde empezar?** Elegir una **caldera de condensación** puede ayudarte a ahorrar en la factura del gas y a mejorar el confort de tu hogar. Pero entre tantas marcas, precios y características, tomar una decisión se vuelve complicado.
+**¿Estás pensando en cambiar tu [caldera](/calderas.html) pero no sabes por dónde empezar?** Elegir una **caldera de condensación** puede ayudarte a ahorrar en la factura del gas y a mejorar el confort de tu hogar. Pero entre tantas marcas, precios y características, tomar una decisión se vuelve complicado.
 
 ¿Cuál consume menos? ¿Cuál es más fiable? En esta guía te explicamos cuáles son las **mejores calderas de condensación** del momento, y en qué debes fijarte para acertar. Te lo cuento con palabras claras, sin tecnicismos ni rodeos.
 
@@ -34,13 +34,13 @@ Esta flexibilidad **es útil si vives en una zona sin conexión a red o si plane
 
 Cuanto mayor sea la eficiencia, menor será el consumo. **Las calderas de condensación con etiqueta A o A+** aprovechan mejor el calor y generan menos residuos.
 
-Esto no solo impacta en la factura, también en el medio ambiente. Una buena etiqueta energética es sinónimo de **ahorro a largo plazo y mayor rendimiento** con la misma cantidad de gas. Puedes ver una selección de las [calderas que menos consumen](/decogas/blog/caldera/calderas-que-menos-consumen/) y compararlas por eficiencia real.
+Esto no solo impacta en la factura, también en el medio ambiente. Una buena etiqueta energética es sinónimo de **ahorro a largo plazo y mayor rendimiento** con la misma cantidad de gas. Puedes ver una selección de las [calderas que menos consumen](/blog/caldera/calderas-que-menos-consumen/) y compararlas por eficiencia real.
 
 ### Capacidad de producción y tamaño del hogar
 
 No todas las calderas sirven para todas las viviendas. En una **casa grande** con varios baños, necesitas más potencia que en un piso pequeño.
 
-Si eliges un modelo con poca capacidad, notarás falta de agua caliente cuando haya más de un grifo abierto. Lo ideal es que el **caudal de ACS** se adapte a la demanda real de tu hogar. También conviene revisar la [temperatura del agua en calderas de condensación](/decogas/blog/caldera/temperatura-agua-en-calderas-condensacion/) y cómo influye en rendimiento y confort.
+Si eliges un modelo con poca capacidad, notarás falta de agua caliente cuando haya más de un grifo abierto. Lo ideal es que el **caudal de ACS** se adapte a la demanda real de tu hogar. También conviene revisar la [temperatura del agua en calderas de condensación](/blog/caldera/temperatura-agua-en-calderas-condensacion/) y cómo influye en rendimiento y confort.
 
 ### Facilidad de instalación y mantenimiento
 
@@ -64,29 +64,29 @@ Estos modelos combinan **buen rendimiento, un consumo ajustado y funciones intel
 
 ## Mejores marcas de calderas de condensación
 
-![Calderas de condensación](/decogas/blog-img/calderas-condensacion-1-1-1.webp)
+![Calderas de condensación](/blog-img/calderas-condensacion-1-1-1.webp)
 
 Conocer las marcas más fiables del mercado ayuda a tomar decisiones con más confianza. La reputación, el soporte técnico y la durabilidad marcan la diferencia.
 
 ### Vaillant
 
-[Vaillant](/decogas/marcas/vaillant.html) es una marca alemana reconocida por su **fiabilidad y eficiencia energética**. Sus calderas ofrecen un funcionamiento silencioso y consumos bajos. Muchos instaladores la recomiendan por su tecnología avanzada y el buen servicio postventa que mantiene en todo el país.
+[Vaillant](/marcas/vaillant.html) es una marca alemana reconocida por su **fiabilidad y eficiencia energética**. Sus calderas ofrecen un funcionamiento silencioso y consumos bajos. Muchos instaladores la recomiendan por su tecnología avanzada y el buen servicio postventa que mantiene en todo el país.
 
 ### Junkers
 
-Junkers, parte del grupo [Bosch](/decogas/marcas/bosch.html), combina **innovación y experiencia**. Sus modelos tienen una excelente relación entre rendimiento y durabilidad. Destaca por la facilidad de uso y una buena red de soporte técnico, algo que da mucha tranquilidad en el día a día. Si ya tienes una y has notado fallos, puedes consultar las [averías comunes en calderas Junkers](/decogas/blog/caldera/calderas-junkers-averias-comunes/) y cómo resolverlas.
+Junkers, parte del grupo [Bosch](/marcas/bosch.html), combina **innovación y experiencia**. Sus modelos tienen una excelente relación entre rendimiento y durabilidad. Destaca por la facilidad de uso y una buena red de soporte técnico, algo que da mucha tranquilidad en el día a día. Si ya tienes una y has notado fallos, puedes consultar las [averías comunes en calderas Junkers](/blog/caldera/calderas-junkers-averias-comunes/) y cómo resolverlas.
 
 ### Baxi
 
-[Baxi](/decogas/calderas.htmlbaxi/) es una opción muy elegida en viviendas familiares. Sus calderas destacan por ser **compactas, fiables y eficientes**. Ofrece soluciones para todo tipo de hogares, y su atención técnica está muy bien valorada por profesionales del sector.
+[Baxi](/calderas.htmlbaxi/) es una opción muy elegida en viviendas familiares. Sus calderas destacan por ser **compactas, fiables y eficientes**. Ofrece soluciones para todo tipo de hogares, y su atención técnica está muy bien valorada por profesionales del sector.
 
 ### Saunier Duval
 
-[Saunier Duval](/decogas/marcas/saunier-duval.html) fabrica calderas con alto rendimiento y diseños pensados para el usuario. Sus **modelos con microacumulación** mejoran la respuesta de agua caliente. Es una de las marcas con mejor presencia en viviendas nuevas y reformas integrales.
+[Saunier Duval](/marcas/saunier-duval.html) fabrica calderas con alto rendimiento y diseños pensados para el usuario. Sus **modelos con microacumulación** mejoran la respuesta de agua caliente. Es una de las marcas con mejor presencia en viviendas nuevas y reformas integrales.
 
 ### Ariston
 
-[Ariston](/decogas/calderas.html) apuesta por el **diseño y la conectividad**. Sus calderas permiten control remoto mediante app y ofrecen ajustes automáticos de temperatura. Es una buena elección si valoras la tecnología y el control digital desde el móvil.
+[Ariston](/calderas.html) apuesta por el **diseño y la conectividad**. Sus calderas permiten control remoto mediante app y ofrecen ajustes automáticos de temperatura. Es una buena elección si valoras la tecnología y el control digital desde el móvil.
 
 ## Precios orientativos y gasto a largo plazo
 
@@ -108,4 +108,4 @@ Las revisiones anuales suelen costar **entre 80 € y 120 €**, dependiendo
 
 En cuanto a garantías, **la mayoría de marcas ofrecen dos años**, aunque algunas amplían a cinco si se realiza el mantenimiento oficial. Una buena instalación también es esencial: reduce el riesgo de fallos y asegura el máximo rendimiento desde el primer día.
 
-Elegir una buena **caldera de condensación** puede marcar la diferencia en confort y ahorro. Si necesitas ayuda para decidir o quieres conocer el precio de instalación en tu vivienda, **[contáctanos](/decogas/index.html#contacto) sin compromiso**. Estaremos encantados de asesorarte y prepararte un presupuesto ajustado a tus necesidades.
+Elegir una buena **caldera de condensación** puede marcar la diferencia en confort y ahorro. Si necesitas ayuda para decidir o quieres conocer el precio de instalación en tu vivienda, **[contáctanos](/index.html#contacto) sin compromiso**. Estaremos encantados de asesorarte y prepararte un presupuesto ajustado a tus necesidades.

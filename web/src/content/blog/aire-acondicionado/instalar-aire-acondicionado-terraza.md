@@ -8,7 +8,7 @@ tagClass: "aire"
 breadcrumb: "Aire acondicionado"
 readingTime: 5
 ---
-![unidades de aire acondicionado instaladas en terraza](/decogas/blog-img/close-up-heat-pump-outside-home-1.webp)
+![unidades de aire acondicionado instaladas en terraza](/blog-img/close-up-heat-pump-outside-home-1.webp)
 
 **Instalar un aire acondicionado en la terraza** puede ser una solución ideal para disfrutar de confort térmico sin ocupar espacio interior. Sin embargo, este proyecto conlleva consideraciones importantes más allá de la simple instalación.
 
@@ -18,7 +18,7 @@ Este artículo aborda los aspectos clave a considerar, garantizando que la insta
 
 ## La importancia de informarse antes de instalar
 
-Antes de tomar la decisión de **[instalar un aire acondicionado](/decogas/aires.html) en la terraza**, es necesario informarse adecuadamente sobre los requisitos y restricciones existentes. Esta preparación previa puede ahorrar tiempo, dinero y evitar posibles conflictos con la comunidad de propietarios.
+Antes de tomar la decisión de **[instalar un aire acondicionado](/aires.html) en la terraza**, es necesario informarse adecuadamente sobre los requisitos y restricciones existentes. Esta preparación previa puede ahorrar tiempo, dinero y evitar posibles conflictos con la comunidad de propietarios.
 
 La correcta instalación no solo depende de aspectos técnicos, sino también de normativas y permisos necesarios que varían según la localización y el tipo de edificio.
 
@@ -39,7 +39,7 @@ Al considerar la **instalación de un aire acondicionado** en la terraza, es ese
 
 ## Requisitos legales y normativas: Estatutos de la comunidad
 
-![sistema de aire acondicionado instalado en terraza](/decogas/blog-img/close-up-ventilation-system-1.webp)
+![sistema de aire acondicionado instalado en terraza](/blog-img/close-up-ventilation-system-1.webp)
 
 Los estatutos de la comunidad de propietarios juegan un papel crucial en la determinación de si se puede instalar un aire acondicionado en la terraza. Estos documentos pueden contener **restricciones específicas** sobre la modificación de espacios comunes o la fachada del edificio. Por ello, es imprescindible revisarlos detenidamente antes de proceder.
 
@@ -57,7 +57,7 @@ Al abordar la instalación de un aire acondicionado en la terraza, las considera
 
 Es esencial elegir el **tipo de aire acondicionado más adecuado para el entorno**, considerando factores como el tamaño de la terraza, la exposición al sol y las necesidades específicas de climatización.
 
-La **eficiencia energética** del equipo no solo impacta en el consumo eléctrico y la factura de luz, sino también en la huella ambiental del hogar, por lo que optar por [aires acondicionados A+++](/decogas/aires.html) es recomendable.
+La **eficiencia energética** del equipo no solo impacta en el consumo eléctrico y la factura de luz, sino también en la huella ambiental del hogar, por lo que optar por [aires acondicionados A+++](/aires.html) es recomendable.
 
 Además, la ubicación del equipo debe permitir una **óptima circulación del aire** y estar anclada de manera segura para evitar accidentes, teniendo en cuenta la protección contra la intemperie y garantizando que el montaje no comprometa la estructura de la terraza.
 

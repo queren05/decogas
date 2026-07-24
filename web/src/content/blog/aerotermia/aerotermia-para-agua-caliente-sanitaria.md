@@ -8,7 +8,7 @@ tagClass: "aerotermia"
 breadcrumb: "Aerotermia"
 readingTime: 3
 ---
-![acs con aerotermia](/decogas/blog-img/ducha-bano.webp)
+![acs con aerotermia](/blog-img/ducha-bano.webp)
 
 En este artículo, nos vamos a enfocar en la **instalación de aerotermia para el suministro de agua caliente sanitaria**, su instalación, los beneficios que supone y algunos consejos útiles. ¿Te estás planteando su instalación? ¡Sigue leyendo para obtener toda la información que necesitas!
 
@@ -36,7 +36,7 @@ La aerotermia se adapta a diferentes necesidades y situaciones. Puede utilizarse
 
 ## ¿Cómo se instala la aerotermia para agua caliente sanitaria?
 
-La instalación de un sistema de aerotermia para agua caliente sanitaria requiere de profesionales especializados en el área. Aunque los detalles pueden variar según las características de cada proyecto, ya que no es lo mismo instalar aerotermia en una casa concreta a instalar [aerotermia en una comunidad de vecinos](/decogas/blog/aerotermia/aerotermia-para-comunidades-de-vecinos/), por ejemplo. Sin embargo, podemos distinguir unos pasos generales:
+La instalación de un sistema de aerotermia para agua caliente sanitaria requiere de profesionales especializados en el área. Aunque los detalles pueden variar según las características de cada proyecto, ya que no es lo mismo instalar aerotermia en una casa concreta a instalar [aerotermia en una comunidad de vecinos](/blog/aerotermia/aerotermia-para-comunidades-de-vecinos/), por ejemplo. Sin embargo, podemos distinguir unos pasos generales:
 
 ### Evaluación del lugar y diseño del sistema
 
@@ -52,4 +52,4 @@ Una vez instaladas las unidades, se realizan las conexiones eléctricas y de fon
 
 ## Conclusión
 
-La aerotermia para agua caliente sanitaria es una opción cada vez más popular y eficiente para satisfacer nuestras necesidades diarias de agua caliente. Sus beneficios ambientales, su eficiencia energética y su versatilidad la convierten en una alternativa atractiva frente a otros sistemas convencionales. Si estás considerando instalar un sistema de aerotermia para calentar agua sanitaria, puedes contactar con nosotros. En [Decogas](/decogas/index.html), somos **expertos en aerotermia** y estaremos encantados de asesorarte y responder todas tus dudas ¡Aprovecha las ventajas de la aerotermia y contribuye al cuidado del medio ambiente!
+La aerotermia para agua caliente sanitaria es una opción cada vez más popular y eficiente para satisfacer nuestras necesidades diarias de agua caliente. Sus beneficios ambientales, su eficiencia energética y su versatilidad la convierten en una alternativa atractiva frente a otros sistemas convencionales. Si estás considerando instalar un sistema de aerotermia para calentar agua sanitaria, puedes contactar con nosotros. En [Decogas](/index.html), somos **expertos en aerotermia** y estaremos encantados de asesorarte y responder todas tus dudas ¡Aprovecha las ventajas de la aerotermia y contribuye al cuidado del medio ambiente!

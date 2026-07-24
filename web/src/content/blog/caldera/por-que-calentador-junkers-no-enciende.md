@@ -18,9 +18,9 @@ El encendido constituye uno de los momentos más críticos para el sistema. Que 
 
 Cualquiera de estos fallos que inducen a que el **calentador Junkers no enciende** requiere la asistencia de un técnico homologado.
 
-Ahora bien, los usuarios de los [calentadores Junkers](/decogas/termos.htmljunkers/) reportan algunos fallos más específicos respecto al encendido del sistema. **¿Qué hacer en cada caso?**
+Ahora bien, los usuarios de los [calentadores Junkers](/termos.htmljunkers/) reportan algunos fallos más específicos respecto al encendido del sistema. **¿Qué hacer en cada caso?**
 
-![Calentador Junkers no enciende](/decogas/blog-img/l-hydrocompact.webp)
+![Calentador Junkers no enciende](/blog-img/l-hydrocompact.webp)
 
 ## Calentador Junkers no enciende chispa
 

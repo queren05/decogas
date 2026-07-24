@@ -8,9 +8,9 @@ tagClass: "aerotermia"
 breadcrumb: "Aerotermia"
 readingTime: 4
 ---
-![Instalación de bomba de calor aerotérmica en vivienda](/decogas/blog-img/aerotermia-que-es-1.webp)
+![Instalación de bomba de calor aerotérmica en vivienda](/blog-img/aerotermia-que-es-1.webp)
 
-La **[aerotermia](/decogas/index.html#contacto)** es una tecnología que aprovecha la energía del aire para climatizar y producir agua caliente de forma eficiente. No se trata solo de una tendencia, sino de una solución que combina confort y ahorro a largo plazo.
+La **[aerotermia](/index.html#contacto)** es una tecnología que aprovecha la energía del aire para climatizar y producir agua caliente de forma eficiente. No se trata solo de una tendencia, sino de una solución que combina confort y ahorro a largo plazo.
 
  ¿Te imaginas reducir tu factura energética sin renunciar a una temperatura agradable todo el año? En este artículo descubrirás **cómo funciona, qué ventajas ofrece y si realmente se adapta a tu vivienda**. La clave está en entender bien su sistema antes de tomar cualquier decisión.
 
@@ -40,17 +40,17 @@ En viviendas en altura, **la aerotermia suele instalarse con una unidad exterior
 
 Las casas disponen de más espacio para instalar la unidad exterior, lo que **facilita su ubicación óptima** y la incorporación de depósitos de gran capacidad para ACS. Esta flexibilidad permite dimensionar el sistema de forma más precisa según la superficie y la demanda energética.
 
-En viviendas unifamiliares, es habitual **combinar la aerotermia con sistemas de energía solar térmica o fotovoltaica**, reduciendo aún más el consumo eléctrico y aumentando la autosuficiencia energética. Para conocer cómo funciona específicamente en pisos, consulta nuestra guía sobre [aerotermia en un piso](/decogas/blog/aerotermia/aerotermia-piso/) y descubre su viabilidad según el tipo de vivienda.
+En viviendas unifamiliares, es habitual **combinar la aerotermia con sistemas de energía solar térmica o fotovoltaica**, reduciendo aún más el consumo eléctrico y aumentando la autosuficiencia energética. Para conocer cómo funciona específicamente en pisos, consulta nuestra guía sobre [aerotermia en un piso](/blog/aerotermia/aerotermia-piso/) y descubre su viabilidad según el tipo de vivienda.
 
 ### Instalaciones en obra nueva frente a reformas
 
 En obra nueva, **la aerotermia se integra desde el diseño**, optimizando el espacio para la unidad exterior, el circuito de distribución y el aislamiento. Esto permite aprovechar al máximo su rendimiento y reducir costes de instalación.
 
-En reformas, el reto está en adaptar el sistema existente. **Puede requerir sustituir emisores, mejorar el aislamiento o reforzar la instalación eléctrica**. La viabilidad dependerá de un estudio previo, como el que explicamos en nuestro artículo sobre [instalación de aerotermia en casas ya construidas](/decogas/blog/se-puede-instalar-aerotermia-casa-construida), que te ayuda a valorar si es más rentable una instalación completa o una adaptación parcial.
+En reformas, el reto está en adaptar el sistema existente. **Puede requerir sustituir emisores, mejorar el aislamiento o reforzar la instalación eléctrica**. La viabilidad dependerá de un estudio previo, como el que explicamos en nuestro artículo sobre [instalación de aerotermia en casas ya construidas](/blog/se-puede-instalar-aerotermia-casa-construida), que te ayuda a valorar si es más rentable una instalación completa o una adaptación parcial.
 
 ## Ventajas y beneficios de la aerotermia
 
-![Mujer ajustando la temperatura en termostato](/decogas/blog-img/geotermia-o-aerotermia-1.webp)
+![Mujer ajustando la temperatura en termostato](/blog-img/geotermia-o-aerotermia-1.webp)
 
 Este sistema destaca por su alta eficiencia energética: por cada kilovatio consumido, puede generar hasta cuatro kilovatios de calor. Esto se traduce en un ahorro significativo en la factura.
 
@@ -71,6 +71,6 @@ Factores a considerar:
 -   **Espacio disponible**: especialmente para el equipo exterior y el depósito de ACS.
 -   **Consumo esperado**: dimensionar correctamente evita sobrecostes y pérdidas de eficiencia.
 
-**La aerotermia es una solución eficiente, versátil y sostenible para climatizar cualquier vivienda y obtener agua caliente todo el año**. Su capacidad para aprovechar la energía del aire permite reducir costes y emisiones sin sacrificar confort. Un sistema bien dimensionado, acompañado de un correcto [mantenimiento de aerotermia](/decogas/blog/aerotermia/mantenimiento-aerotermia/), ofrece resultados desde el primer día y se adapta a diferentes tipos de vivienda.
+**La aerotermia es una solución eficiente, versátil y sostenible para climatizar cualquier vivienda y obtener agua caliente todo el año**. Su capacidad para aprovechar la energía del aire permite reducir costes y emisiones sin sacrificar confort. Un sistema bien dimensionado, acompañado de un correcto [mantenimiento de aerotermia](/blog/aerotermia/mantenimiento-aerotermia/), ofrece resultados desde el primer día y se adapta a diferentes tipos de vivienda.
 
-Si quieres saber cuál es la mejor opción para tu hogar, **podemos ayudarte a diseñar e instalar el sistema de aerotermia ideal para tus necesidades**. [Contacta con nosotros](/decogas/index.html#contacto) y solicita tu presupuesto sin compromiso.
+Si quieres saber cuál es la mejor opción para tu hogar, **podemos ayudarte a diseñar e instalar el sistema de aerotermia ideal para tus necesidades**. [Contacta con nosotros](/index.html#contacto) y solicita tu presupuesto sin compromiso.

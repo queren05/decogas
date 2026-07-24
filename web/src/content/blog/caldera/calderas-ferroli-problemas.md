@@ -8,9 +8,9 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 9
 ---
-![técnico reparando problemas en calderas ferroli](/decogas/blog-img/plumber-looking-book-while-inspecting-heating-system-1048944-18467089.webp)
+![técnico reparando problemas en calderas ferroli](/blog-img/plumber-looking-book-while-inspecting-heating-system-1048944-18467089.webp)
 
-Las [calderas Ferroli](/decogas/calderas.html) son conocidas por su eficiencia y fiabilidad, pero como cualquier equipo, pueden presentar problemas con el tiempo. En este artículo hablaremos sobre los **problemas más comunes de las calderas Ferroli** y te brindaremos soluciones prácticas. Desde problemas de encendido hasta fallos en la presión, humos y quemadores, aquí encontrarás guías detalladas y consejos útiles para mantener tu caldera en perfecto funcionamiento. Descubre cómo identificar y resolver estos problemas para asegurar el confort en tu hogar.
+Las [calderas Ferroli](/calderas.html) son conocidas por su eficiencia y fiabilidad, pero como cualquier equipo, pueden presentar problemas con el tiempo. En este artículo hablaremos sobre los **problemas más comunes de las calderas Ferroli** y te brindaremos soluciones prácticas. Desde problemas de encendido hasta fallos en la presión, humos y quemadores, aquí encontrarás guías detalladas y consejos útiles para mantener tu caldera en perfecto funcionamiento. Descubre cómo identificar y resolver estos problemas para asegurar el confort en tu hogar.
 
 ## Importancia de las calderas Ferroli en el hogar
 
@@ -42,11 +42,11 @@ La falta de gas es otra causa común de problemas de encendido. Esto puede ser e
 -   **Inspeccionar la válvula de gas**: Reemplaza la válvula si está defectuosa o bloqueada.
 -   **Comprobar las conexiones de gas**: Asegúrate de que todas las conexiones estén seguras y sin fugas.
 
-Si aún no das con la solución, aquí te contamos con más detalle [cómo encender una caldera](/decogas/blog/caldera/como-encender-caldera/).
+Si aún no das con la solución, aquí te contamos con más detalle [cómo encender una caldera](/blog/caldera/como-encender-caldera/).
 
 ### Presión de la caldera
 
-![técnico reparando problemas de presión en caldera Ferroli](/decogas/blog-img/26539-1.webp)
+![técnico reparando problemas de presión en caldera Ferroli](/blog-img/26539-1.webp)
 
 La presión de la caldera es vital para su funcionamiento. Si la presión es demasiado baja o demasiado alta, la caldera no funcionará correctamente y puede sufrir daños.
 
@@ -58,7 +58,7 @@ La presión baja en una caldera Ferroli puede causar que el sistema de calefacci
 -   **Agregar agua al sistema**: Usa la válvula de llenado para aumentar la presión hasta el nivel recomendado.
 -   **Purgar los radiadores correctamente**: Asegúrate de que la purga se realice de manera adecuada para evitar la pérdida excesiva de presión.
 
-Aquí te dejamos otros consejos útiles para [subir la presión de la caldera](/decogas/blog/caldera/subir-presion-caldera/).
+Aquí te dejamos otros consejos útiles para [subir la presión de la caldera](/blog/caldera/subir-presion-caldera/).
 
 #### Presión alta
 
@@ -110,7 +110,7 @@ El ventilador de una caldera Ferroli es fundamental para la expulsión adecuada 
 
 ### Problemas con el quemador
 
-![técnico reparando problemas con el quemador en caldera Ferroli](/decogas/blog-img/2149334225-1.webp)
+![técnico reparando problemas con el quemador en caldera Ferroli](/blog-img/2149334225-1.webp)
 
 Los problemas con el quemador pueden afectar significativamente el funcionamiento de una caldera Ferroli. Averías en el quemador o electrodos desalineados pueden impedir que la caldera encienda correctamente y proporcione el calor necesario.
 
@@ -170,11 +170,11 @@ Un sello de la bomba dañado puede causar fugas de agua y afectar el rendimiento
 -   **Verificar la instalación del sello**: Asegúrate de que el nuevo sello esté instalado correctamente y sin fugas.
 -   **Realizar pruebas de funcionamiento**: Después de la sustitución, prueba la caldera para asegurar que no haya más fugas.
 
-En este otro post ampliamos la información sobre [qué hacer si la caldera pierde agua a chorros](/decogas/blog/caldera/caldera-pierde-agua-a-chorros/).
+En este otro post ampliamos la información sobre [qué hacer si la caldera pierde agua a chorros](/blog/caldera/caldera-pierde-agua-a-chorros/).
 
 ## Problemas con la circulación del agua
 
-![técnico reparando una caldera Ferroli](/decogas/blog-img/man-repairing-boiler-medical-mask-93200-4099-1.webp)
+![técnico reparando una caldera Ferroli](/blog-img/man-repairing-boiler-medical-mask-93200-4099-1.webp)
 
 La circulación adecuada del agua es vital para el funcionamiento de una caldera Ferroli. Problemas como el bloqueo de la bomba de recirculación o una llave de entrada averiada pueden impedir la correcta circulación del agua.
 
@@ -194,4 +194,4 @@ Una llave de entrada averiada puede impedir que el agua entre correctamente en e
 -   **Verificar la correcta instalación de la llave**: Asegúrate de que la nueva llave esté instalada correctamente y sin fugas.
 -   **Realizar pruebas de funcionamiento**: Después de la sustitución, prueba el sistema para asegurar que el agua fluya correctamente.
 
-En **Decogas**, sabemos que mantener tu caldera Ferroli en óptimas condiciones es fundamental para el confort y seguridad de tu hogar. Identificar y solucionar problemas comunes garantiza un funcionamiento eficiente y prolonga la vida útil del equipo. Confía en nuestros expertos para el mantenimiento y [reparación de tu caldera](/decogas/calderas.html), asegurando un servicio de calidad y confianza.
+En **Decogas**, sabemos que mantener tu caldera Ferroli en óptimas condiciones es fundamental para el confort y seguridad de tu hogar. Identificar y solucionar problemas comunes garantiza un funcionamiento eficiente y prolonga la vida útil del equipo. Confía en nuestros expertos para el mantenimiento y [reparación de tu caldera](/calderas.html), asegurando un servicio de calidad y confianza.

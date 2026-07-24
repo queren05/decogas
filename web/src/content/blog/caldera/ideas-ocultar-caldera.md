@@ -8,9 +8,9 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 5
 ---
-![caldera oculta en mueble](/decogas/blog-img/istockphoto-1049213560-612x612-1-267x400-1.webp)
+![caldera oculta en mueble](/blog-img/istockphoto-1049213560-612x612-1-267x400-1.webp)
 
-Las [calderas](/decogas/calderas.html) son un elemento esencial hoy en día en los hogares, sobre todo, para tener agua caliente y calentar el ambiente gracias a la calefacción. Muchas veces las vemos en terrazas y balcones o en la cocina. Incluso los más afortunados pueden llegar a instalarlas en sus garajes o sótanos. Pero normalmente nos faltan **ideas para ocultar una caldera**.
+Las [calderas](/calderas.html) son un elemento esencial hoy en día en los hogares, sobre todo, para tener agua caliente y calentar el ambiente gracias a la calefacción. Muchas veces las vemos en terrazas y balcones o en la cocina. Incluso los más afortunados pueden llegar a instalarlas en sus garajes o sótanos. Pero normalmente nos faltan **ideas para ocultar una caldera**.
 
 Aunque en este tipo de aparatos lo que importan es la eficiencia, que tenga un rendimiento óptimo para que dé fallos y nos permita ahorrar en consumo de gas y la factura, la realidad es que intentamos también que tengan un aspecto más agradable y que se integren de forma armónica con el resto de electrodomésticos o decoración.
 
@@ -22,7 +22,7 @@ Vamos a mostrarte **5 ideas geniales para que puedas ocultar tu caldera** a la v
 
 ### Encofrado de madera
 
-Si eres todo un manitas y te gusta realizar pequeños trabajos de bricolaje con madera y tornillos, así como usar herramientas para este tipo de material, puedes esconder l[a caldera y todas sus partes](/decogas/blog/caldera/partes-caldera/), como son los tubos y válvulas.
+Si eres todo un manitas y te gusta realizar pequeños trabajos de bricolaje con madera y tornillos, así como usar herramientas para este tipo de material, puedes esconder l[a caldera y todas sus partes](/blog/caldera/partes-caldera/), como son los tubos y válvulas.
 
 Para conseguir esto, puedes crear un armario donde encajar la caldera, de composición simple y pudiendo escoger entre que tenga puertas o no las tenga según tu gusto. Aunque si lo que quieres es ocultarla, entonces es conveniente poner una o dos puertas.
 
@@ -44,7 +44,7 @@ Igualmente, recuerda que hay elementos que nunca se han de cubrir ni pintar como
 
 ### Un armario
 
-![carpinteros montando muebles en una cocina](/decogas/blog-img/istockphoto-1093917492-612x612-1-600x400-1.webp)
+![carpinteros montando muebles en una cocina](/blog-img/istockphoto-1093917492-612x612-1-600x400-1.webp)
 
 Para mantener la estética del lugar donde esté instalada la caldera, puedes usar uno de los armarios que componen la cocina para ocultar la caldera. De esta forma, mantendrás la uniformidad dentro de la estancia y pasará desapercibida para ojos ajenos fuera de casa.
 
@@ -70,7 +70,7 @@ La ventaja del vinilo es que ya viene pintado o impreso y puedes encontrar millo
 
 Es la forma más sencilla de tapar una caldera, aunque no siempre vale para todos los casos, aunque puedes intentar ocultar tu caldera con una mampara o estor de ojos indiscretos.
 
-Puedes encontrar pantallas creadas a base de bambú, madera, metal, decoradas o no, y que puede servir para ocultar de forma eficiente la caldera. Aunque siempre que permita manejar de forma eficiente la caldera, ya sea para su [**mantenimiento**](/decogas/blog/caldera/mantenimiento-calderas-gas/), puesta en marcha o cuando llega el momento de las revisiones.
+Puedes encontrar pantallas creadas a base de bambú, madera, metal, decoradas o no, y que puede servir para ocultar de forma eficiente la caldera. Aunque siempre que permita manejar de forma eficiente la caldera, ya sea para su [**mantenimiento**](/blog/caldera/mantenimiento-calderas-gas/), puesta en marcha o cuando llega el momento de las revisiones.
 
 Unas persianas venecianas, paneles japoneses, una pizarra donde anotar cualquier dato para la compra o lista de tareas… las formas de poner mamparas o estores son ilimitadas.
 

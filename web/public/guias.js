@@ -10,7 +10,7 @@
   var CAT = "", Q = "";
 
   // Las URLs de las guías vienen sin el prefijo del sitio ("/blog/...").
-  // Se lo anteponemos con la base real (window.DECOGAS_BASE = "/decogas/" en
+  // Se lo anteponemos con la base real (window.DECOGAS_BASE = "/" en
   // GitHub Pages, "/" en decogas.com) para que no den 404.
   var BASE = (window.DECOGAS_BASE || "/");
   function fullUrl(u) { return BASE + String(u).replace(/^\/+/, ""); }

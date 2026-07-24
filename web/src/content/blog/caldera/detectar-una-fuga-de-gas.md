@@ -8,9 +8,9 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 6
 ---
-![detectar una fuga de gas](/decogas/blog-img/presion-de-gas.webp)
+![detectar una fuga de gas](/blog-img/presion-de-gas.webp)
 
-Si tenemos una [caldera de gas](/decogas/calderas.html) en casa debemos vigilar con regularidad su funcionamiento y estar alerta ante cualquier dato que pueda señalar un problema. Una **fuga en la caldera de gas** puede ser un problema bastante grave, pudiendo llegar a ocasionar incendios o grandes explosiones. Por ello, es esencial saber **cómo detectar fugas de gas en la caldera**.
+Si tenemos una [caldera de gas](/calderas.html) en casa debemos vigilar con regularidad su funcionamiento y estar alerta ante cualquier dato que pueda señalar un problema. Una **fuga en la caldera de gas** puede ser un problema bastante grave, pudiendo llegar a ocasionar incendios o grandes explosiones. Por ello, es esencial saber **cómo detectar fugas de gas en la caldera**.
 
 Además, el gas conlleva otros peligros como respirar sustancias nocivas y tóxicas como el monóxido de carbono (que puede llegar a producir graves lesiones físicas).
 
@@ -18,7 +18,7 @@ Para evitar todos estos problemas, es conveniente saber **cómo detectar las fug
 
 ## ¿Cuáles son los riesgos de un escape de gas?
 
-Los escapes de gas pueden crear **daños materiales** producto de las explosiones o incendios que se pueden producir normalmente por causa de  [averías en las calderas](/decogas/blog/caldera/principales-averias-calderas/), aunque uno de los mayores riesgos ante una fuga de gas son los **daños personales** (incluso llegando a ser mortales).
+Los escapes de gas pueden crear **daños materiales** producto de las explosiones o incendios que se pueden producir normalmente por causa de  [averías en las calderas](/blog/caldera/principales-averias-calderas/), aunque uno de los mayores riesgos ante una fuga de gas son los **daños personales** (incluso llegando a ser mortales).
 
 Uno de los efectos que puede producir el gas en una persona es la asfixia (por monóxido) y que puede hacer que pierda la consciencia e, incluso, la muerte. En otros casos, el escape libera **vapor, compuestos químicos y gases** que acceden al sistema respiratorio y pueden generar afecciones respiratorias
 
@@ -37,9 +37,9 @@ Nos tenemos que asegurar de dónde viene el olor a gas. En el siguiente punto se
 Para indicar donde están los puntos de gas más habituales, vamos a agrupar en función de la instalación o de la caldera independiente.
 
 -   **Exterior de la caldera** (instalación y conductos). Producto de un poro creado en la tubería o en una soldadura, así como una deteriorada, un escape en una llave, el regulador o el contador de gas.
--   **Dentro de la caldera**. En un poro de la tubería de gas, un escape en la [válvula de gas](/decogas/blog/caldera/valvula-seguridad-caldera/), una junta cuarteada o por efecto del revoco (calderas atmosféricas).
+-   **Dentro de la caldera**. En un poro de la tubería de gas, un escape en la [válvula de gas](/blog/caldera/valvula-seguridad-caldera/), una junta cuarteada o por efecto del revoco (calderas atmosféricas).
 
-![accidente provocado por explosión de gas](/decogas/blog-img/accidente-provocado-por-explosion-de-gas.webp)
+![accidente provocado por explosión de gas](/blog-img/accidente-provocado-por-explosion-de-gas.webp)
 
 ## Cómo sé si hay una fuga de gas en mi caldera
 
@@ -61,7 +61,7 @@ El gas es conocido por ser un producto nocivo para la salud. Si notamos síntoma
 
 Cuando hay una fuga de gas en el hogar eso **altera los consumos energéticos normales**. Al gas que usamos de forma habitual en casa para lo que necesitemos, se sumará todo el flujo de gas que se está perdiendo por medio del escape. Y eso se verá reflejado en la factura a final de mes con un incremento en el consumo.
 
-![válvula de seguridad](/decogas/blog-img/valvula-de-gas.webp)
+![válvula de seguridad](/blog-img/valvula-de-gas.webp)
 
 ## ¿Cómo actuar ante un escape de gas?
 
@@ -97,11 +97,11 @@ Lo mejor en esta ocasión es **no encender ninguna luz y bajar los “plomos”*
 
 ## ¿Cómo prevenir una fuga de gas?
 
-Dentro de las instalaciones de gas, como en cualquier otro tipo y modo de instalación, lo importante para evitar estos problemas es hacer un buen [mantenimiento y control de la caldera](/decogas/blog/caldera/mantenimiento-calderas-gas/). Es mejor que se haga una revisión de la caldera, al menos cada 5 años, por parte de los profesionales.
+Dentro de las instalaciones de gas, como en cualquier otro tipo y modo de instalación, lo importante para evitar estos problemas es hacer un buen [mantenimiento y control de la caldera](/blog/caldera/mantenimiento-calderas-gas/). Es mejor que se haga una revisión de la caldera, al menos cada 5 años, por parte de los profesionales.
 
 La **limpieza** también es un elemento crucial para un correcto funcionamiento de las instalaciones de gas, así como instalar ciertos puntos de ventilación o cerrar la llave de paso cuando estemos bastante tiempo fuera de casa
 
-![caldera de gas y técnico](/decogas/blog-img/caldera-de-gas-y-tecnico.webp)
+![caldera de gas y técnico](/blog-img/caldera-de-gas-y-tecnico.webp)
 
 ## Consejos para el mantenimiento de la caldera
 
@@ -112,4 +112,4 @@ Podemos seguir algunos consejos para conseguir un mejor control en el mantenimie
 
 En conclusión, **detectar una fuga de gas en la caldera** nos ahorrará muchos problemas de índole físico y de salud. Pero mejor es tener una caldera de calidad y que disponga del mantenimiento periódico necesario para evitar que aparezcan los problemas.
 
-\[button text=»Solicita tu presupuesto» color=»secondary» padding=»0px 30px 0px 30px» radius=»13″ depth=»0″ expand=»0″ link=»/decogas/index.html#contacto»\]
+\[button text=»Solicita tu presupuesto» color=»secondary» padding=»0px 30px 0px 30px» radius=»13″ depth=»0″ expand=»0″ link=»/index.html#contacto»\]

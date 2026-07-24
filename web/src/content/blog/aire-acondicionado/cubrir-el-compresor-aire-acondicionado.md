@@ -8,19 +8,19 @@ tagClass: "aire"
 breadcrumb: "Aire acondicionado"
 readingTime: 5
 ---
-![funda para tapar aire acondicionado](/decogas/blog-img/funda-aire-acondicionado.webp)
+![funda para tapar aire acondicionado](/blog-img/funda-aire-acondicionado.webp)
 
-El [aire acondicionado](/decogas/aires.html) es un elemento esencial durante los días de mayor calor durante el verano y nos permite disfrutar del mayor confort en el hogar, independientemente de la temperatura que exista en el exterior. Pero, cuando llega la temporada de frío y si no tiene [bomba de calor](/decogas/blog/aire-acondicionado/aire-acondicionado-con-bomba-de-calor/), se deja de usar y necesita cierta protección contra la suciedad. Además, es un aparato grande que, en muchas ocasiones, no sabemos muy bien cómo integrar en la decoración del hogar o fachada del edificio. Pero si no es posible ocultarlo a la vista de forma sencilla, podemos siempre **cubrir el compresor del aire acondicionado** con innovadoras ideas. En este artículo os mostramos geniales ideas para conseguir que el aparato luzca también con estilo.
+El [aire acondicionado](/aires.html) es un elemento esencial durante los días de mayor calor durante el verano y nos permite disfrutar del mayor confort en el hogar, independientemente de la temperatura que exista en el exterior. Pero, cuando llega la temporada de frío y si no tiene [bomba de calor](/blog/aire-acondicionado/aire-acondicionado-con-bomba-de-calor/), se deja de usar y necesita cierta protección contra la suciedad. Además, es un aparato grande que, en muchas ocasiones, no sabemos muy bien cómo integrar en la decoración del hogar o fachada del edificio. Pero si no es posible ocultarlo a la vista de forma sencilla, podemos siempre **cubrir el compresor del aire acondicionado** con innovadoras ideas. En este artículo os mostramos geniales ideas para conseguir que el aparato luzca también con estilo.
 
 ## ¿Cómo y cuándo cubrir el compresor del aire acondicionado?
 
-La forma más sencilla de ocultar o cubrir la [unidad exterior del aire acondicionado](/decogas/blog/aire-acondicionado/colocacion-unidad-exterior-aire-acondicionado/) que se instala en la fachada o terraza es **al terminar el periodo de verano**. Para ello, podemos encontrar útiles elementos, desde **fundas** para unidades exteriores que las **protege de la suciedad y el agua**, entre otros. De esta forma, nos aseguraremos de que el aparato tenga un óptimo rendimiento, puesto que no tendrá impurezas y el radiador estará en óptimas condiciones para ser utilizado de nuevo cuando regrese el calor.
+La forma más sencilla de ocultar o cubrir la [unidad exterior del aire acondicionado](/blog/aire-acondicionado/colocacion-unidad-exterior-aire-acondicionado/) que se instala en la fachada o terraza es **al terminar el periodo de verano**. Para ello, podemos encontrar útiles elementos, desde **fundas** para unidades exteriores que las **protege de la suciedad y el agua**, entre otros. De esta forma, nos aseguraremos de que el aparato tenga un óptimo rendimiento, puesto que no tendrá impurezas y el radiador estará en óptimas condiciones para ser utilizado de nuevo cuando regrese el calor.
 
 > De igual modo, podemos encontrar **otras opciones** para mantener protegido y cubierto el aparato exterior aparte de las fundas que pueden dar un estilo y diseño más acorde con la decoración del hogar.
 
-Si bien es cierto que estas máquinas están preparadas para un uso exterior, nunca viene mal tomar otras medidas para **mejorar el [mantenimiento del aire acondicionado](/decogas/blog/aire-acondicionado/mantenimiento-aire-acondicionado/) y su correcto funcionamiento** y, por consiguiente, lograr ampliar su vida útil por más tiempo.
+Si bien es cierto que estas máquinas están preparadas para un uso exterior, nunca viene mal tomar otras medidas para **mejorar el [mantenimiento del aire acondicionado](/blog/aire-acondicionado/mantenimiento-aire-acondicionado/) y su correcto funcionamiento** y, por consiguiente, lograr ampliar su vida útil por más tiempo.
 
-![cubrir el compresor del aire acondiconado al aire libre](/decogas/blog-img/caseta-para-aire-acondicionado.webp)
+![cubrir el compresor del aire acondiconado al aire libre](/blog-img/caseta-para-aire-acondicionado.webp)
 
 ## Ideas para cubrir el compresor del aire acondicionado
 
@@ -52,7 +52,7 @@ Por el contrario, si buscamos dar un uso mucho más decorativo, una idea es hace
 
 Una idea totalmente original y con estilo claramente vegetal, es camuflar la unidad exterior con rejillas metálicas e incorporar plantas artificiales para lograr una ilusión de que estamos ante una **enredadera** y no dar la sensación que bajo ella hay una parte del aire acondicionado.
 
-![aires acondicionados tapados en fachada](/decogas/blog-img/tapar-aire-acondicionado-rejilla.webp)
+![aires acondicionados tapados en fachada](/blog-img/tapar-aire-acondicionado-rejilla.webp)
 
 ### Modo banco
 

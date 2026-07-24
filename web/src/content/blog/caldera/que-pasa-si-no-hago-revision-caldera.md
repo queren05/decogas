@@ -8,13 +8,13 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 5
 ---
-La revisión de tu caldera de gas es **fundamental y obligatoria.** La misión de realizar esta labor es comprobar que la emisión de gases y la eficiencia energética de tu modelo es el adecuado; además, garantiza el confort y seguridad de tu vivienda para que la [potencia calorífica](/decogas/blog/caldera/calcular-potencia-calorifica-habitacion/) de tu estancia sea perfecta.
+La revisión de tu caldera de gas es **fundamental y obligatoria.** La misión de realizar esta labor es comprobar que la emisión de gases y la eficiencia energética de tu modelo es el adecuado; además, garantiza el confort y seguridad de tu vivienda para que la [potencia calorífica](/blog/caldera/calcular-potencia-calorifica-habitacion/) de tu estancia sea perfecta.
 
 ## Normativa de las calderas de gas
 
-La revisión de las calderas de gas viene regulada en el **Reglamento de las Instalaciones Térmicas en los Edificios, RITE**. En esta legislación se incluyen las condiciones que tiene que cumplir tu instalación climática, sea cual sea el [tipo de caldera que tengas](/decogas/blog/caldera/caldera-gas-elegir-comprar/). Esta revisión **debe realizarse cada dos años** y, en el caso de [calentadores de agua](/decogas/termos.html), cada 5 años.
+La revisión de las calderas de gas viene regulada en el **Reglamento de las Instalaciones Térmicas en los Edificios, RITE**. En esta legislación se incluyen las condiciones que tiene que cumplir tu instalación climática, sea cual sea el [tipo de caldera que tengas](/blog/caldera/caldera-gas-elegir-comprar/). Esta revisión **debe realizarse cada dos años** y, en el caso de [calentadores de agua](/termos.html), cada 5 años.
 
-![Revisión caldera de gas](/decogas/blog-img/control-caldera-gas-alcobendas-1.webp)
+![Revisión caldera de gas](/blog-img/control-caldera-gas-alcobendas-1.webp)
 
 ## ¿En qué consiste la inspección periódica reglamentaria de la instalación de gas natural?
 
@@ -33,7 +33,7 @@ La **inspección periódica** puede realizarse por cualquier profesional que se 
 -   **Fabricante** de la propia caldera.
 -   **Profesional independiente**.
 
-[Te llamamos gratis](/decogas/index.html#contacto)
+[Te llamamos gratis](/index.html#contacto)
 
 ## ¿Cuánto cuesta la revisión de la caldera?
 
@@ -41,11 +41,11 @@ La revisión de una caldera de gas no tiene un **precio estipulado** y es la pro
 
 ## ¿Es necesario realizar la revisión obligatoria de la caldera cada año?
 
-Si, es **obligatorio**. Cualquier vivienda que tenga [instalada una caldera de gas](/decogas/calderas.html) debe **revisarla cada 2 años**; de esta forma, se garantiza la eficiencia energética y el correcto mantenimiento de tu caldera.
+Si, es **obligatorio**. Cualquier vivienda que tenga [instalada una caldera de gas](/calderas.html) debe **revisarla cada 2 años**; de esta forma, se garantiza la eficiencia energética y el correcto mantenimiento de tu caldera.
 
-También es importante recordar que las [calderas de gasóil](/decogas/calderas.html) y propano, entre otras, al emplear otro tipo de energía como combustión tienen que **revisarse anualmente**. En el caso de los calentadores de agua, la revisión es cada 5 años y el gas butano es de forma anual. Esta revisión no tiene nada que ver con la **inspección reglamentaria** que tiene que realizarse cada 5 años, 4 si vives en el País Vasco
+También es importante recordar que las [calderas de gasóil](/calderas.html) y propano, entre otras, al emplear otro tipo de energía como combustión tienen que **revisarse anualmente**. En el caso de los calentadores de agua, la revisión es cada 5 años y el gas butano es de forma anual. Esta revisión no tiene nada que ver con la **inspección reglamentaria** que tiene que realizarse cada 5 años, 4 si vives en el País Vasco
 
-![Caldera de gas en la cocina de una casa](/decogas/blog-img/caldera-gas-hogar-1.webp)
+![Caldera de gas en la cocina de una casa](/blog-img/caldera-gas-hogar-1.webp)
 
 ## ¿Qué pasa si no haces la revisión de la caldera?
 
@@ -69,7 +69,7 @@ Si no puedes estar en tu domicilio en el momento de la inspección, por algún i
 
 Los engaños han llevado a mucha gente a no fiarse cuando acude un profesional a realizar la revisión de su caldera. Es fundamental que, en estos casos, **sepas distinguirlos**; los estafadores suelen acudir a personas que viven solas y, por la supuesta revisión piden una cantidad económica en efectivo.
 
-![Técnico revisando una caldera de gas](/decogas/blog-img/hombre-instalando-caldera-gas-1.webp)
+![Técnico revisando una caldera de gas](/blog-img/hombre-instalando-caldera-gas-1.webp)
 
 Por su parte, un **técnico autorizado nunca te pedirá dinero** porque el coste se incluye en la factura del siguiente mes. En caso de duda, lo primero que debes hacer es solicitar al profesional que se identifique con sus credenciales: el número de instalador certificado y su número otorgado por la dirección general de industria.
 
@@ -85,6 +85,6 @@ Si la inspección no es positiva debes **dirigirte a tu empresa** **de suministr
 
 El **técnico no puede reparar estos problemas**, él solo está capacitado para identificarlos. Por eso, si ocurre que tu caldera de gas tiene cualquier problema, deberás seguir el procedimiento comentado anteriormente.
 
-[Te llamamos gratis](/decogas/index.html#contacto)
+[Te llamamos gratis](/index.html#contacto)
 
 Desde Decogas tratamos de ayudar en la instalación de calderas, termos y aires acondicionados. Tenemos un equipo propio de instaladores especializados, para que no tengas ningún problema. Además, puedes venir a visitarnos a nuestra tienda física cuando quieras.

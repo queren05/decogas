@@ -10,15 +10,15 @@ readingTime: 5
 ---
 Disponer de un termostato es importante para ayudarnos a ahorrar energía y disfrutar de un ambiente con la temperatura ideal en el hogar. **Cómo instalar un termostato en una caldera de gasoil** nos puede servir para sacar el mejor rendimiento a la calefacción del hogar.
 
-Saber [como funciona la calefacción](/decogas/blog/caldera/como-funciona-caldera-de-gas/) puede ayudarnos a la hora de ahorrar, ya que es uno de los elementos que más energía consume en el hogar, sobre todo en zonas climáticas más frías. Sin embargo, esa parte de consumo energético se puede reducir si recurrimos a un termostato.
+Saber [como funciona la calefacción](/blog/caldera/como-funciona-caldera-de-gas/) puede ayudarnos a la hora de ahorrar, ya que es uno de los elementos que más energía consume en el hogar, sobre todo en zonas climáticas más frías. Sin embargo, esa parte de consumo energético se puede reducir si recurrimos a un termostato.
 
-## ![termostato digital](/decogas/blog-img/istockphoto-621588062-612x612-1.webp)Qué es y cómo funciona un termostato
+## ![termostato digital](/blog-img/istockphoto-621588062-612x612-1.webp)Qué es y cómo funciona un termostato
 
-Este dispositivo dispone de un sistema que **regula la temperatura de la [caldera](/decogas/calderas.html)** en función de la necesidad. Para ello, cuenta con un termómetro de ambiente que **mide la temperatura del ambiente** de la estancia donde está instalado. Una vez que actúa, compara la temperatura del lugar con la programada y lleva una monitorización continua de la misma.
+Este dispositivo dispone de un sistema que **regula la temperatura de la [caldera](/calderas.html)** en función de la necesidad. Para ello, cuenta con un termómetro de ambiente que **mide la temperatura del ambiente** de la estancia donde está instalado. Una vez que actúa, compara la temperatura del lugar con la programada y lleva una monitorización continua de la misma.
 
-El termostato suele conectarse al **circuito eléctrico de un equipo de climatización** (aquí hablamos del funcionamiento del termostato de una [caldera de gasoil](/decogas/calderas.html)).
+El termostato suele conectarse al **circuito eléctrico de un equipo de climatización** (aquí hablamos del funcionamiento del termostato de una [caldera de gasoil](/calderas.html)).
 
-Con independencia de que esté conectado a la calefacción o al [aire acondicionado](/decogas/aires.html), el termostato funciona de la siguiente manera:
+Con independencia de que esté conectado a la calefacción o al [aire acondicionado](/aires.html), el termostato funciona de la siguiente manera:
 
 -   Recibe la programación que el usuario indica o registra la temperatura.
 -   Detecta que el ambiente alcanzó la temperatura programada, abre el circuito y el equipo se apaga.
@@ -33,7 +33,7 @@ Podemos encontrar modelos inalámbricos que funcionan mediante tecnología digit
 
 Suelen disponer de una **mayor variedad de funciones**. Por ejemplo, se puede escoger la hora de encendido y apagado de la calefacción que siempre mantenga una temperatura determinada, así como memoria para establecer de forma automática una temperatura diferente para el día y para la noche. E, incluso, si cuenta con sensores el poder detectar cuando hay personas en la estancia encenderse o apagarse si se da cuenta que se abre una ventana.
 
-![hombre configurando termostato](/decogas/blog-img/istockphoto-104507784-612x612-1-597x400-1.webp)
+![hombre configurando termostato](/blog-img/istockphoto-104507784-612x612-1-597x400-1.webp)
 
 ## Antes de saber cómo instalar un termostato
 
@@ -61,11 +61,11 @@ Para vincularlos, se ha de utilizar la **combinación de botones** proporcionada
 
 ### Comprobar el funcionamiento
 
-Encendemos el termostato y la unidad de cohesión. Ponemos el termostato en modo manual y **elegimos una temperatura más alta** de la que hay en el ambiente. Si todo quedo bien instalado, en la unidad de conexión se ha de encender una luz verde y la [caldera se encenderá](/decogas/blog/caldera/como-encender-caldera/)16.
+Encendemos el termostato y la unidad de cohesión. Ponemos el termostato en modo manual y **elegimos una temperatura más alta** de la que hay en el ambiente. Si todo quedo bien instalado, en la unidad de conexión se ha de encender una luz verde y la [caldera se encenderá](/blog/caldera/como-encender-caldera/)16.
 
 Ya podemos emplazar la unidad de conexión a la pared cerca de la caldera y el termostato en una pared interior del hogar o sobre la mesa (si es inalámbrico).
 
-![técnico configurando termostato](/decogas/blog-img/istockphoto-465444524-612x612-1-600x400-1.webp)
+![técnico configurando termostato](/blog-img/istockphoto-465444524-612x612-1-600x400-1.webp)
 
 ## ¿Dónde es mejor colocar el termostato?
 

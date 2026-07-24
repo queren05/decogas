@@ -18,10 +18,10 @@ Para un funcionamiento óptimo, la presión ideal debe oscilar entre **1 y 1,5 
 
 #### Consecuencias de una presión inadecuada
 
--   **Presión demasiado baja:** La [caldera de gas](/decogas/blog/caldera/caldera-gas-elegir-comprar/) puede dejar de encenderse o bloquearse por seguridad, dejándote sin calefacción ni agua caliente.
+-   **Presión demasiado baja:** La [caldera de gas](/blog/caldera/caldera-gas-elegir-comprar/) puede dejar de encenderse o bloquearse por seguridad, dejándote sin calefacción ni agua caliente.
 -   **Presión demasiado alta:** Puede causar fugas de agua, goteos constantes en la válvula de seguridad y daños estructurales en el intercambiador de placas o el vaso de expansión.
 
-![radiador con termostato para reducir la presión de la caldera](/decogas/blog-img/radiator-250558-1280-1-602x400-1.webp)
+![radiador con termostato para reducir la presión de la caldera](/blog-img/radiator-250558-1280-1-602x400-1.webp)
 
 ### El rol vital del vaso de expansión
 
@@ -39,7 +39,7 @@ Es la forma más controlada y segura de liberar presión eliminando el aire y el
 2.  Abre la válvula del radiador más cercano a la caldera hasta que el manómetro baje al nivel deseado.
 3.  Cierra la válvula firmemente una vez alcances los **1,2 bares**.
 
-En este otro post te contamos [cómo purgar los radiadores con la caldera encendida](/decogas/blog/caldera/purgar-radiadores-con-caldera-encendida/).
+En este otro post te contamos [cómo purgar los radiadores con la caldera encendida](/blog/caldera/purgar-radiadores-con-caldera-encendida/).
 
 #### 2\. Uso de la llave de vaciado
 
@@ -59,7 +59,7 @@ Si tras bajar la presión esta vuelve a subir sin que hayas tocado nada, las cau
 -   **Llave de llenado defectuosa:** Si la llave no sella bien, entra agua del flujo sanitario al circuito de calefacción constantemente, elevando la aguja de forma imparable.
 -   **Avería en el intercambiador de placas:** Una fisura interna en este componente permite el paso de agua entre circuitos. En Decogas, tras dos décadas instalando soluciones de climatización, identificamos este fallo como uno de los más críticos para la vida útil de la caldera.
 
-![radiador con llave para el purgado de radiadores](/decogas/blog-img/heating-radiator-5436087-1280-1-533x800-1.webp)
+![radiador con llave para el purgado de radiadores](/blog-img/heating-radiator-5436087-1280-1-533x800-1.webp)
 
 ### Procedimientos específicos para calderas Junkers y Bosch
 

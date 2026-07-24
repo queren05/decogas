@@ -8,9 +8,9 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 5
 ---
-![hombre solucionando averías comunes en calderas Junker](/decogas/blog-img/26529-1.webp)
+![hombre solucionando averías comunes en calderas Junker](/blog-img/26529-1.webp)
 
-[Las calderas Junkers](/decogas/marcas/bosch.html) son reconocidas por su eficiencia y durabilidad, pero como cualquier equipo, pueden presentar averías. En este artículo te ofrecemos una guía completa sobre las **averías comunes en calderas Junkers** y sus soluciones. Aprenderás a identificar problemas de presión, errores comunes y fallos en componentes clave. Mantén tu caldera en perfecto estado con nuestros consejos de mantenimiento preventivo y conoce cuándo es necesario contactar a un profesional.
+[Las calderas Junkers](/marcas/bosch.html) son reconocidas por su eficiencia y durabilidad, pero como cualquier equipo, pueden presentar averías. En este artículo te ofrecemos una guía completa sobre las **averías comunes en calderas Junkers** y sus soluciones. Aprenderás a identificar problemas de presión, errores comunes y fallos en componentes clave. Mantén tu caldera en perfecto estado con nuestros consejos de mantenimiento preventivo y conoce cuándo es necesario contactar a un profesional.
 
 ## Problemas y averías comunes en calderas Junkers
 
@@ -35,9 +35,9 @@ La presión inadecuada es uno de los problemas más comunes en las calderas Junk
 La presión baja en una caldera puede deberse a diversas causas, como fugas en el sistema o purgas recientes. Una caldera con baja presión puede no funcionar correctamente, lo que puede resultar en una calefacción ineficiente o incluso en la parada total del sistema.
 
 -   **Fugas en el sistema**: Las fugas de agua pueden disminuir la presión. Solución: localizar y reparar las fugas.
--   **Purgas recientes**: Después de [purgar los radiadores](/decogas/blog/caldera/como-purgar-radiadores-pasos/#:~:text=Abre%20la%20llave%3A%20usa%20un,ya%20ha%20salido%20el%20aire.), la presión puede disminuir. Solución: rellenar el sistema de agua hasta alcanzar la presión recomendada.
+-   **Purgas recientes**: Después de [purgar los radiadores](/blog/caldera/como-purgar-radiadores-pasos/#:~:text=Abre%20la%20llave%3A%20usa%20un,ya%20ha%20salido%20el%20aire.), la presión puede disminuir. Solución: rellenar el sistema de agua hasta alcanzar la presión recomendada.
 
-En este otro post conseguirás más consejos sobre [cómo subir la presión de la caldera](/decogas/blog/caldera/subir-presion-caldera/).
+En este otro post conseguirás más consejos sobre [cómo subir la presión de la caldera](/blog/caldera/subir-presion-caldera/).
 
 #### Presión alta: causas y soluciones
 
@@ -65,7 +65,7 @@ Para solucionar los fallos de encendido, es importante seguir estos pasos:
 -   **Verificación de electrodos**: Inspeccionar los electrodos y reemplazarlos si están dañados.
 -   **Revisión del suministro de gas**: Asegurarse de que el suministro de gas sea adecuado y que no haya interrupciones.
 
-Si aún no sabes [cómo encender una caldera](/decogas/blog/caldera/como-encender-caldera/), en este otro post te lo explicamos paso a paso.
+Si aún no sabes [cómo encender una caldera](/blog/caldera/como-encender-caldera/), en este otro post te lo explicamos paso a paso.
 
 #### Apagado repentino de la caldera
 
@@ -76,7 +76,7 @@ El apagado repentino de la caldera puede ser causado por problemas de sobrecalen
 
 ### Códigos de error en calderas Junkers
 
-![técnico analizando código de error en caldera Junker](/decogas/blog-img/2149334228-2-1.webp)
+![técnico analizando código de error en caldera Junker](/blog-img/2149334228-2-1.webp)
 
 Las calderas Junkers están equipadas con sistemas de diagnóstico que muestran códigos de error en caso de problemas. Estos códigos ayudan a identificar rápidamente el problema específico y tomar medidas correctivas adecuadas.
 
@@ -106,4 +106,4 @@ El mantenimiento preventivo es esencial para prolongar la vida útil de las cald
 -   **Detección temprana de averías**: Un técnico especializado puede identificar problemas potenciales antes de que se conviertan en averías mayores, ahorrando tiempo y costos de reparación.
 -   **Mantenimiento del vaso de expansión**: Revisar el vaso de expansión y drenar el exceso de agua para evitar daños internos y problemas de sobrecalentamiento.
 
-Mantener las calderas Junkers en buen estado es necesario para asegurar su eficiencia y durabilidad. Conocer los problemas comunes y sus soluciones permite a los usuarios tomar medidas preventivas y correctivas efectivas. Un mantenimiento regular y la atención a los detalles pueden prevenir la mayoría de las averías y prolongar la vida útil de la caldera. En **Decogas** podemos ayudarte con la [reparación de calderas](/decogas/calderas.html). [Contacta con nosotros](/decogas/index.html#contacto) y te brindaremos la solución que necesitas.
+Mantener las calderas Junkers en buen estado es necesario para asegurar su eficiencia y durabilidad. Conocer los problemas comunes y sus soluciones permite a los usuarios tomar medidas preventivas y correctivas efectivas. Un mantenimiento regular y la atención a los detalles pueden prevenir la mayoría de las averías y prolongar la vida útil de la caldera. En **Decogas** podemos ayudarte con la [reparación de calderas](/calderas.html). [Contacta con nosotros](/index.html#contacto) y te brindaremos la solución que necesitas.

@@ -8,7 +8,7 @@ tagClass: "aerotermia"
 breadcrumb: "Aerotermia"
 readingTime: 5
 ---
-![Pareja joven y sonriente sentada en apartamento](/decogas/blog-img/mejor-sistema-de-calefaccion-para-pisos.webp)
+![Pareja joven y sonriente sentada en apartamento](/blog-img/mejor-sistema-de-calefaccion-para-pisos.webp)
 
 La elección del sistema de calefacción es crucial para garantizar el confort en cualquier vivienda, especialmente en los pisos. La **diversidad de opciones** disponibles puede ser abrumadora, pero entender las necesidades específicas de tu espacio es el primer paso para tomar una decisión informada.
 
@@ -38,7 +38,7 @@ La geotermia representa una de las opciones más eficientes y sostenibles para l
 
 Además de su eficiencia, la geotermia es notable por su **bajo impacto ambiental**. Al utilizar energía del subsuelo, reduce significativamente la dependencia de combustibles fósiles y la emisión de gases de efecto invernadero.
 
-El funcionamiento de la geotermia se basa en la extracción del calor del subsuelo mediante [**bombas de calor**](/decogas/blog/aire-acondicionado/como-funciona-bomba-de-calor/). Estas bombas transfieren el calor a la vivienda, proporcionando una calefacción eficiente incluso en los días más fríos.
+El funcionamiento de la geotermia se basa en la extracción del calor del subsuelo mediante [**bombas de calor**](/blog/aire-acondicionado/como-funciona-bomba-de-calor/). Estas bombas transfieren el calor a la vivienda, proporcionando una calefacción eficiente incluso en los días más fríos.
 
 A pesar de requerir una **inversión inicial más alta**, la geotermia ofrece un ahorro significativo en el consumo energético a largo plazo. Esto la convierte en una opción atractiva para aquellos que buscan una solución sostenible y económica.
 
@@ -50,7 +50,7 @@ Las calderas de biomasa son especialmente adecuadas para aquellos que buscan red
 
 ## **Aerotermia: Innovación y ahorro**
 
-La [aerotermia](/decogas/index.html#contacto) es una tecnología innovadora que ofrece una solución de **calefacción eficiente y económica para pisos**. Utiliza la energía del aire exterior para calentar el hogar, lo que la convierte en una opción sostenible.
+La [aerotermia](/index.html#contacto) es una tecnología innovadora que ofrece una solución de **calefacción eficiente y económica para pisos**. Utiliza la energía del aire exterior para calentar el hogar, lo que la convierte en una opción sostenible.
 
 Este sistema es particularmente atractivo por su capacidad para proporcionar tanto calefacción como refrigeración, lo que lo hace versátil y adecuado para uso durante todo el año.
 
@@ -60,7 +60,7 @@ Otro aspecto a destacar es la **eficiencia energética** de la aerotermia. Al ut
 
 ## **Calderas de gas: Tradición y modernidad**
 
-Las [calderas de gas](/decogas/calderas.html) combinan tradición y modernidad, siendo una de las opciones más comunes para la calefacción en pisos. Su popularidad se debe a su eficiencia, fiabilidad y **facilidad de uso**.
+Las [calderas de gas](/calderas.html) combinan tradición y modernidad, siendo una de las opciones más comunes para la calefacción en pisos. Su popularidad se debe a su eficiencia, fiabilidad y **facilidad de uso**.
 
 Las calderas de gas modernas, especialmente las de condensación, ofrecen una mayor eficiencia energética en comparación con los modelos más antiguos. Esto se traduce en un **ahorro significativo en las facturas de gas** y una reducción en las emisiones de CO2.
 
@@ -72,7 +72,7 @@ Además de su confort, el suelo radiante es **altamente eficiente** desde el pun
 
 ## **Factores clave en la elección de calefacción**
 
-![manos cerca de calefactor](/decogas/blog-img/eleccion-de-calefaccion.webp)
+![manos cerca de calefactor](/blog-img/eleccion-de-calefaccion.webp)
 
 Al elegir el sistema de calefacción ideal para tu piso, considera estos aspectos cruciales:
 

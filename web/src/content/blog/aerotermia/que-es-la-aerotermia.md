@@ -8,13 +8,13 @@ tagClass: "aerotermia"
 breadcrumb: "Aerotermia"
 readingTime: 6
 ---
-Si estás buscando una solución eficiente y sostenible para climatizar tu hogar en [Madrid](/decogas/index.html#contacto), la aerotermia es una opción que debes considerar. En este artículo, exploraremos en detalle **qué es la aerotermia, sus ventajas y beneficios.**
+Si estás buscando una solución eficiente y sostenible para climatizar tu hogar en [Madrid](/index.html#contacto), la aerotermia es una opción que debes considerar. En este artículo, exploraremos en detalle **qué es la aerotermia, sus ventajas y beneficios.**
 
 También veremos cómo la aerotermia puede proporcionar una solución ideal para mantener tu hogar cálido.
 
 > ¡Sigue leyendo para descubrir todo lo que necesitas saber sobre esta innovadora tecnología de climatización!
 
-![que es la aerotermia](/decogas/blog-img/que-es-la-aerotermia.webp)
+![que es la aerotermia](/blog-img/que-es-la-aerotermia.webp)
 
 ## Aerotermia: definición, funcionamiento y aplicaciones
 
@@ -34,13 +34,13 @@ Este proceso se basa en el principio de aprovechamiento de la energía ambiental
 -   **Versatilidad y flexibilidad:** La aerotermia con split permite controlar la temperatura de cada estancia de forma independiente, lo que brinda una mayor comodidad y ahorro energético.
 -   **Ahorro económico:** Gracias a su eficiencia energética y a la reducción en el consumo de combustibles fósiles, la aerotermia puede suponer un ahorro considerable en la factura energética a largo plazo.
 -   Es una inversión a largo plazo, puede durar hasta 20 años.
--   [Mantenimiento de la aerotemia](/decogas/blog/aerotermia/mantenimiento-aerotermia/) relativamente sencillo
+-   [Mantenimiento de la aerotemia](/blog/aerotermia/mantenimiento-aerotermia/) relativamente sencillo
 
 ---
 
 ## Diferencia entre los sistemas de agua y aire y la aerotermia
 
-Es importante destacar las [diferencias clave entre los sistemas de agua y aire y la aerotermia](/decogas/blog/aerotermia/diferencia-aire-agua-aire-aire-aerotermia/):
+Es importante destacar las [diferencias clave entre los sistemas de agua y aire y la aerotermia](/blog/aerotermia/diferencia-aire-agua-aire-aire-aerotermia/):
 
 **Los sistemas de agua utilizan una caldera y radiadores para calentar el agua que circula por el sistema de calefacción,** mientras que l**a aerotermia extrae calor del aire para calentar directamente el aire que se distribuye en la vivienda.**
 
@@ -59,11 +59,11 @@ Esta diferencia fundamental en la forma de generación de calor **hace que la ae
 Aquí hay algunos ejemplos de lugares donde se puede usar la aerotermia en el hogar:
 
 -   **Casas:** Las aerotermias se pueden utilizar para calentar y enfriar las casas, así como para proporcionar agua caliente sanitaria.
--   **Pisos:** Las [aerotermias en el piso](/decogas/blog/aerotermia/aerotermia-piso/) se pueden utilizar para calentar y enfriar los pisos, así como para proporcionar agua caliente sanitaria.
+-   **Pisos:** Las [aerotermias en el piso](/blog/aerotermia/aerotermia-piso/) se pueden utilizar para calentar y enfriar los pisos, así como para proporcionar agua caliente sanitaria.
 -   **Apartamentos:** Las aerotermias se pueden utilizar para calentar y enfriar los apartamentos, así como para proporcionar agua caliente sanitaria.
 -   **Oficinas:** Las aerotermias se pueden utilizar para calentar y enfriar las oficinas, así como para proporcionar agua caliente sanitaria.
 -   **Locales comerciales:** Las aerotermias se pueden utilizar para calentar y enfriar los locales comerciales, así como para proporcionar agua caliente sanitaria.
--   **Piscinas:** Las [aerotermias en piscinas](/decogas/blog/aerotermia/aerotermia-para-piscinas/) se pueden utilizar para calentar y enfriar las piscinas.
+-   **Piscinas:** Las [aerotermias en piscinas](/blog/aerotermia/aerotermia-para-piscinas/) se pueden utilizar para calentar y enfriar las piscinas.
 
 La aerotermia es una tecnología versátil que puede utilizarse en una variedad de lugares. Si estás buscando un sistema de calefacción y refrigeración eficiente, respetuoso con el medio ambiente y versátil, la aerotermia es una buena opción para ti.
 
@@ -95,7 +95,7 @@ El ahorro que puedes conseguir con una aerotermia varía en función de tu consu
 
 **Existen varias subvenciones para la instalación de aerotermia, que varían en función de la comunidad autónoma.** En general, las subvenciones pueden cubrir hasta el 50% del coste de la instalación.
 
-Asimismo, la [aerotermia con split](/decogas/blog/aerotermia/aerotermia-con-split/) ofrece una solución ideal [para comunidades de vecinos](/decogas/blog/aerotermia/aerotermia-para-comunidades-de-vecinos/), ya que permite climatizar de forma independiente cada vivienda.
+Asimismo, la [aerotermia con split](/blog/aerotermia/aerotermia-con-split/) ofrece una solución ideal [para comunidades de vecinos](/blog/aerotermia/aerotermia-para-comunidades-de-vecinos/), ya que permite climatizar de forma independiente cada vivienda.
 
 Esto significa que cada propietario puede controlar la temperatura de su hogar de manera individual, lo que se traduce en un mayor confort y ahorro energético para todos los residentes.
 

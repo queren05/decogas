@@ -14,7 +14,7 @@ Entendemos que el tema de la instalación de un aire acondicionado despierta gra
 
 Por esta razón, nuestro objetivo es proporcionarte toda la información necesaria para que puedas abordar este proceso de manera efectiva.
 
-![Instalador de aire acondicionado ](/decogas/blog-img/cuanto-se-tarda-en-instalar-un-aire-acondicionado.webp)
+![Instalador de aire acondicionado ](/blog-img/cuanto-se-tarda-en-instalar-un-aire-acondicionado.webp)
 
 ## Factores que influyen en el tiempo de instalación
 
@@ -100,9 +100,9 @@ Aquí hay algunas **cosas a tener en cuenta al elegir un instalador** de aire ac
 
 Al tener en cuenta estos factores, puede asegurarse de elegir un instalador de aire acondicionado con experiencia que pueda instalar su aire acondicionado correctamente y de manera segura.
 
-Además te recomendamos preguntarle a tu instalador si tambien realiza el [mantenimiento del aire acondicionado](/decogas/blog/aire-acondicionado/mantenimiento-aire-acondicionado/) y cada cuanto tiempo tienes que hacerlo.
+Además te recomendamos preguntarle a tu instalador si tambien realiza el [mantenimiento del aire acondicionado](/blog/aire-acondicionado/mantenimiento-aire-acondicionado/) y cada cuanto tiempo tienes que hacerlo.
 
-![Profesional en la instalación de aires acondicionados](/decogas/blog-img/instalar-aire-acondicionado.webp)
+![Profesional en la instalación de aires acondicionados](/blog-img/instalar-aire-acondicionado.webp)
 
 ## Tiempos estimados de instalación
 
@@ -127,7 +127,7 @@ Recuerda que estos tiempos son solo una guía general y pueden variar según las
 
 ## Decide cuando instalar tu aire acondicionado
 
-En resumen, **el tiempo de instalación de un [aire acondicionado](/decogas/aires.html) varía según varios factores**, como el tipo de sistema, la capacidad del equipo y las condiciones del lugar.
+En resumen, **el tiempo de instalación de un [aire acondicionado](/aires.html) varía según varios factores**, como el tipo de sistema, la capacidad del equipo y las condiciones del lugar.
 
 Es fundamental realizar una preparación adecuada y contar con un instalador experimentado para garantizar una instalación exitosa en el menor tiempo posible.
 
@@ -135,6 +135,6 @@ Además, te hemos proporcionado consejos para gestionar eficientemente tu tiempo
 
 Esperamos que este artículo haya sido informativo y te haya brindado la información que necesitabas. Recuerda que la instalación de un aire acondicionado **es un proceso importante y conviene contar con profesionales capacitados** para llevarlo a cabo.
 
-Si tienes alguna pregunta adicional o necesitas asesoramiento personalizado, no dudes en contactarnos. Estamos aquí para ayudarte en todo lo que necesites para [comprar aire acondicionados en Madrid](/decogas/blog/aire-acondicionado/comprar-aire-acondicionado-a-madrid/) y toda España.
+Si tienes alguna pregunta adicional o necesitas asesoramiento personalizado, no dudes en contactarnos. Estamos aquí para ayudarte en todo lo que necesites para [comprar aire acondicionados en Madrid](/blog/aire-acondicionado/comprar-aire-acondicionado-a-madrid/) y toda España.
 
 ¡Disfruta de un ambiente fresco y confortable en tu hogar o lugar de trabajo con tu nuevo aire acondicionado!

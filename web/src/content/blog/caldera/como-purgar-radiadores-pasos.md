@@ -8,7 +8,7 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 6
 ---
-¿Notas que tus [radiadores](/decogas/index.html#contacto) no calientan bien o hacen ruidos extraños? No siempre es un fallo técnico: puede que solo necesiten una purga. Aprender **cómo purgar los radiadores** te ayudará a mejorar la eficiencia de tu calefacción, ahorrar energía y evitar molestias innecesarias en casa.
+¿Notas que tus [radiadores](/index.html#contacto) no calientan bien o hacen ruidos extraños? No siempre es un fallo técnico: puede que solo necesiten una purga. Aprender **cómo purgar los radiadores** te ayudará a mejorar la eficiencia de tu calefacción, ahorrar energía y evitar molestias innecesarias en casa.
 
 Aunque parezca complicado, **es un proceso que puedes hacer tú mismo** en pocos minutos y con herramientas básicas. En esta guía práctica te explicamos todo lo que necesitas saber para hacerlo bien desde el principio.
 
@@ -51,23 +51,23 @@ Hay que tener a mano algunas herramientas básicas para hacer la purga sin ensuc
 -   **Paños o papel absorbente:** para limpiar posibles salpicaduras.
 -   **Guantes:** no son imprescindibles, pero ayudan a manipular piezas húmedas o frías.
 
-También conviene **revisar el manómetro antes de comenzar**, anotando el valor de presión del sistema para ajustarlo después, si fuera necesario. Tener la [presión adecuada de la caldera](/decogas/blog/caldera/presion-caldera-adecuada/) es fundamental para asegurar el correcto funcionamiento durante la purga.
+También conviene **revisar el manómetro antes de comenzar**, anotando el valor de presión del sistema para ajustarlo después, si fuera necesario. Tener la [presión adecuada de la caldera](/blog/caldera/presion-caldera-adecuada/) es fundamental para asegurar el correcto funcionamiento durante la purga.
 
 ## Cómo realizar el proceso de purga paso a paso
 
-![Pasos para purgar tu radiador](/decogas/blog-img/pasos-purgar-radiador.webp)
+![Pasos para purgar tu radiador](/blog-img/pasos-purgar-radiador.webp)
 
 Purgar los radiadores es un procedimiento sencillo que puedes hacer tú mismo si sigues unos pasos claros y con cuidado.
 
 ### Paso 1: Apagar la caldera y esperar al enfriamiento
 
-Es imprescindible **cortar la calefacción y dejar que el agua dentro del circuito pierda temperatura**. Intentar **[purgar los radiadores con la caldera encendida](/decogas/blog/caldera/purgar-radiadores-con-caldera-encendida/)** puede provocar quemaduras o dañar la instalación por la presión del agua caliente.
+Es imprescindible **cortar la calefacción y dejar que el agua dentro del circuito pierda temperatura**. Intentar **[purgar los radiadores con la caldera encendida](/blog/caldera/purgar-radiadores-con-caldera-encendida/)** puede provocar quemaduras o dañar la instalación por la presión del agua caliente.
 
 Cuando el circuito esté frío, **asegúrate de que la presión del sistema esté dentro del rango normal**. Si la presión está muy baja o muy alta, es recomendable corregirla antes de purgar.
 
 ### Paso 2: Colocar el recipiente bajo la válvula
 
-![Purgando un radiador con un recipiente debajo](/decogas/blog-img/purgando-radiador-recipiente.webp)
+![Purgando un radiador con un recipiente debajo](/blog-img/purgando-radiador-recipiente.webp)
 
 **Sitúa el recipiente justo debajo de la válvula de purga**. Suele estar en un lateral del radiador, en la parte superior. Este paso es importante para evitar que el agua que salga manche el suelo o las paredes.
 
@@ -87,7 +87,7 @@ En ese momento, vuelve a girar la válvula en sentido horario para cerrarla comp
 
 ### Paso 5: Cerrar la válvula y revisar la presión
 
-Una vez cerrada la válvula, **revisa la presión del sistema en el manómetro**. Si ha bajado, abre ligeramente el grifo de llenado de la caldera hasta recuperar el valor recomendado (normalmente entre 1 y 1,5 bares). No hacerlo podría provocar que **[la caldera se quede sin agua](/decogas/blog/caldera/que-pasa-caldera-queda-sin-agua/)** y deje de funcionar correctamente.
+Una vez cerrada la válvula, **revisa la presión del sistema en el manómetro**. Si ha bajado, abre ligeramente el grifo de llenado de la caldera hasta recuperar el valor recomendado (normalmente entre 1 y 1,5 bares). No hacerlo podría provocar que **[la caldera se quede sin agua](/blog/caldera/que-pasa-caldera-queda-sin-agua/)** y deje de funcionar correctamente.
 
 Cuando la presión esté dentro del rango correcto, puedes encender la calefacción y comprobar si el radiador ya se calienta de forma uniforme.
 
@@ -95,7 +95,7 @@ Cuando la presión esté dentro del rango correcto, puedes encender la calefacci
 
 Después de purgar todos los radiadores, es fundamental **revisar el estado general del sistema**. Camina por cada estancia y asegúrate de que todos los radiadores funcionan bien, sin zonas frías ni ruidos extraños.
 
-Si alguno sigue dando problemas, puede que necesite una segunda purga o que haya un **[fallo en la bomba de la caldera](/decogas/blog/caldera/como-saber-falla-bomba-caldera/)** que requiera atención profesional. No lo ignores.
+Si alguno sigue dando problemas, puede que necesite una segunda purga o que haya un **[fallo en la bomba de la caldera](/blog/caldera/como-saber-falla-bomba-caldera/)** que requiera atención profesional. No lo ignores.
 
 También es importante **anotar cuándo hiciste la purga**. Así podrás repetirla al cabo de unos meses o al inicio de cada temporada de frío. Llevar ese control evitará sorpresas desagradables cuando más necesites calefacción.
 
@@ -108,4 +108,4 @@ Para evitar averías y prolongar la vida útil de tu instalación, hay algunas a
 -   **Limpieza externa de los radiadores:** elimina el polvo acumulado para facilitar la difusión del calor.
 -   **Contrata una revisión profesional anual:** detectará posibles fallos antes de que se conviertan en problemas costosos.
 
-Purgar los radiadores es una tarea sencilla que mejora el rendimiento de tu calefacción y evita problemas mayores. Con unos pocos pasos puedes recuperar el confort en casa, reducir el consumo y alargar la vida de tu caldera. Realizar una **[revisión obligatoria de la caldera](/decogas/blog/caldera/revision-caldera-obligatoria/)** marca la diferencia en eficiencia y bienestar.
+Purgar los radiadores es una tarea sencilla que mejora el rendimiento de tu calefacción y evita problemas mayores. Con unos pocos pasos puedes recuperar el confort en casa, reducir el consumo y alargar la vida de tu caldera. Realizar una **[revisión obligatoria de la caldera](/blog/caldera/revision-caldera-obligatoria/)** marca la diferencia en eficiencia y bienestar.

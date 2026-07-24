@@ -16,7 +16,7 @@ Para quienes no estén pensando en comprar y vender, tampoco cabe duda de que la
 
 La eficiencia energética **mide el consumo de energía** que se necesita para satisfacer una demanda, ya sea de una vivienda o de un edificio. Su objetivo es reducir el consumo de energía para producir más utilizando los menores recursos.
 
-![eficiencia energetica hogares](/decogas/blog-img/eficiencia-energetica-712x400-1.webp)
+![eficiencia energetica hogares](/blog-img/eficiencia-energetica-712x400-1.webp)
 
 ### Cómo se calcula la eficiencia energética en edificios
 
@@ -34,11 +34,11 @@ De esta forma, un edificio con una **mayor clasificación energética ahorrará 
 
 Además, es un certificado obligatorio que, exceptuando casos muy puntuales, deben aportarse por los propietarios de un inmueble cuando la vivienda se va a alquilar o se va a realizar una compraventa.
 
-![Calculando cómo mejorar la eficiencia energética en edificos](/decogas/blog-img/calculadora-gastos-edificio.webp)
+![Calculando cómo mejorar la eficiencia energética en edificos](/blog-img/calculadora-gastos-edificio.webp)
 
 ## Mejorar la eficiencia energética en los edificios
 
-El mejor momento para realizar una mejora en la eficiencia energética en edificios es cuando se van a llevar a cabo **obras o reparaciones**. El [aislamiento térmico](/decogas/blog/caldera/mejor-aislante-termico-casa/) es una buena opción para que, de esta forma, los vecinos se puedan ahorrar un 50% de energía. A continuación te mostramos **cómo mejorar la eficiencia energética** en edificios.
+El mejor momento para realizar una mejora en la eficiencia energética en edificios es cuando se van a llevar a cabo **obras o reparaciones**. El [aislamiento térmico](/blog/caldera/mejor-aislante-termico-casa/) es una buena opción para que, de esta forma, los vecinos se puedan ahorrar un 50% de energía. A continuación te mostramos **cómo mejorar la eficiencia energética** en edificios.
 
 -   **Rehabilitación de carpinterías**: es fundamental que las viviendas dispongan de los materiales necesarios para carpintería y vidrio. Una acción tan sencilla como reemplazar los cristales simples por dobles puede suponer a tu edificio un ahorro energético del 8%.
 -   **Rehabilitación de cubiertas**: para que te hagas una idea, un edificio de 6 plantas que aislar térmicamente su cubierta tendrá una reducción energética del 4%.
@@ -47,11 +47,11 @@ El mejor momento para realizar una mejora en la eficiencia energética en edific
 -   **Prevención**: la mejor forma de mantener una instalación eficiente es instalando aquellos elementos que te ayudarán a adelantarte a los problemas.
 -   **Sustitución del ascensor**: este aparato supone entre un 5 y un 10% del gasto energético anual de un edificio. Por eso, escoger modelos eficientes os ayudará a vuestra comunidad a ahorrar cerca de un 30%.
 -   **Renovación de la iluminación por un sistema LED**: este tipo de luz te permite ahorrar entre un 60 y un 80% con respecto a los modelos convencionales.
--   **Renovación de los sistemas de climatización**: en la actualidad, existen opciones ecológicas y con un menor consumo. Por ello, en Decogas trabajamos con las [calderas](/decogas/calderas.html) y [aires acondicionados](/decogas/aires.html) más eficientes.
+-   **Renovación de los sistemas de climatización**: en la actualidad, existen opciones ecológicas y con un menor consumo. Por ello, en Decogas trabajamos con las [calderas](/calderas.html) y [aires acondicionados](/aires.html) más eficientes.
 -   **Sustitución del Agua Caliente Sanitario por otro más eficiente**.
 -   **Mantenimiento de los sistemas de climatización**: su renovación es fundamental, pero su buen mantenimiento lo es aun más.
 
-![Ahorro gracias a una buena eficiencia energética en edificos](/decogas/blog-img/ahorro-energia-edificio.webp)
+![Ahorro gracias a una buena eficiencia energética en edificos](/blog-img/ahorro-energia-edificio.webp)
 
 ## Otros consejos para ahorrar energía
 
@@ -60,6 +60,6 @@ Una vez se han llevado a cabo estas acciones, el gasto energético será menor. 
 -   **Integración de renovables**: se puede optar por utilizar energía solar térmica o geotermia, entre otras, para ahorrar energía y reducir las emisiones de CO2.
 -   **Aprovecha la luz natural**: lo más recomendable es no encender la luz artificial cuando aún se puede disfrutar de la luz solar.
 -   **Ventilación**: las zonas comunes, así como tu vivienda, necesitan ser ventiladas con frecuencia, al menos una vez al día. En estos casos, lo más recomendable es utilizar las horas más frías para realizar este proceso. De esta manera, el procedimiento durará poco tiempo y no habrá una gran variación de temperaturas.
--   **Elección de aislamiento interior**: como hemos visto, la mejor forma de reducir el consumo es con el aislamiento térmico. Además, esta disminución de energía puede aumentar, aún más, si se opta por un [aislamiento térmico para paredes interiores](/decogas/blog/caldera/tipos-aislantes-termicos-paredes-interiores/).
+-   **Elección de aislamiento interior**: como hemos visto, la mejor forma de reducir el consumo es con el aislamiento térmico. Además, esta disminución de energía puede aumentar, aún más, si se opta por un [aislamiento térmico para paredes interiores](/blog/caldera/tipos-aislantes-termicos-paredes-interiores/).
 
 Si realizas todas estas acciones, lo más probable es que la eficiencia energética de tu edificio u hogar **mejore con rapidez** y, en pocos meses, empecéis a notar una disminución de los gastos de las zonas comunes.

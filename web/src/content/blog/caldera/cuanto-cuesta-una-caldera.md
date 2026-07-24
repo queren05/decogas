@@ -8,7 +8,7 @@ tagClass: "caldera"
 breadcrumb: "Calderas"
 readingTime: 5
 ---
-![Caldera de gas junto a billetes](/decogas/blog-img/cuanto-cuesta-una-caldera-1.webp)
+![Caldera de gas junto a billetes](/blog-img/cuanto-cuesta-una-caldera-1.webp)
 
 No hay una única respuesta a la pregunta de **cuánto cuesta una caldera**. Todo depende del tipo, la marca y el nivel de eficiencia energética que busques. En el mercado actual, los precios pueden variar desde **600 € hasta más de 2.500 €**, sin contar la instalación.
 
@@ -20,7 +20,7 @@ Varios elementos determinan cuánto vas a pagar por una caldera. No se trata sol
 
 ### Tipo de caldera: condensación, gas natural o propano
 
-El **tipo de combustible** marca una diferencia importante en el precio. Las [**calderas de condensación**](/decogas/blog/caldera/condensacion-ventajas-inconvenientes/) son más caras, pero también más eficientes y rentables a largo plazo. Si todavía no tienes claro cuál te conviene, puedes consultar esta guía sobre los [tipos de caldera de gas](/decogas/blog/caldera/tipos-caldera-gas/) para comparar características y usos habituales.
+El **tipo de combustible** marca una diferencia importante en el precio. Las [**calderas de condensación**](/blog/caldera/condensacion-ventajas-inconvenientes/) son más caras, pero también más eficientes y rentables a largo plazo. Si todavía no tienes claro cuál te conviene, puedes consultar esta guía sobre los [tipos de caldera de gas](/blog/caldera/tipos-caldera-gas/) para comparar características y usos habituales.
 
 Las **calderas de gas natural** suelen ser más económicas y están indicadas para viviendas con conexión directa a la red. En cambio, las **calderas de propano** son útiles en zonas sin gas natural, aunque el combustible resulta más costoso y requiere espacio para el depósito.
 
@@ -38,7 +38,7 @@ Además, las **normativas actuales** premian la instalación de equipos más efi
 
 ### Marca y reputación del fabricante
 
-No todas las marcas ofrecen el mismo nivel de fiabilidad ni la misma disponibilidad de piezas o servicio técnico. Una marca reconocida suele tener mejor **soporte postventa**, más repuestos y mayor durabilidad en el tiempo. Para ayudarte a elegir, puedes consultar esta guía de las [mejores marcas de calderas de gas](/decogas/blog/caldera/mejores-marcas-calderas-gas/), que incluye opiniones de usuarios y comparativas basadas en rendimiento real.
+No todas las marcas ofrecen el mismo nivel de fiabilidad ni la misma disponibilidad de piezas o servicio técnico. Una marca reconocida suele tener mejor **soporte postventa**, más repuestos y mayor durabilidad en el tiempo. Para ayudarte a elegir, puedes consultar esta guía de las [mejores marcas de calderas de gas](/blog/caldera/mejores-marcas-calderas-gas/), que incluye opiniones de usuarios y comparativas basadas en rendimiento real.
 
 Aunque el precio sea más alto que el de marcas menos conocidas, a menudo compensa por la **reducción de averías** y la **tranquilidad que ofrece** tener una buena garantía y atención profesional.
 
@@ -64,7 +64,7 @@ Las calderas de gas natural son una opción muy extendida en zonas urbanas. Su v
 
 Los precios suelen rondar **entre 700 € y 1.800 €**. Aunque algunas son de tipo convencional, hoy en día casi todas las nuevas instalaciones usan modelos de condensación, ya que la normativa vigente limita el uso de las antiguas calderas atmosféricas.
 
-![Mujer calentando sus manos en caldera de gas](/decogas/blog-img/cuanto-cuesta-una-caldera-2.webp)
+![Mujer calentando sus manos en caldera de gas](/blog-img/cuanto-cuesta-una-caldera-2.webp)
 
 ### Calderas de gas propano
 
@@ -100,6 +100,6 @@ Reducir el gasto sin comprometer la calidad es posible. Para conseguirlo, **conv
 -   Buscar calderas con clasificación energética A o superior, compatibles con termostatos inteligentes.
 -   Valorar promociones que incluyan instalación o mantenimiento gratuito el primer año.
 
-Si buscas consejos adicionales sobre cómo reducir tu consumo energético y calefactar tu hogar con menor factura, visita nuestra guía sobre [cómo ahorrar en calefacción.](/decogas/blog/como-ahorrar-en-calefaccion/)
+Si buscas consejos adicionales sobre cómo reducir tu consumo energético y calefactar tu hogar con menor factura, visita nuestra guía sobre [cómo ahorrar en calefacción.](/blog/como-ahorrar-en-calefaccion/)
 
 Un gasto bien planificado hoy se convierte en ahorro real durante años. Eligiendo con criterio, se evitan sorpresas desagradables y se mejora el confort del hogar. **¿Quieres**

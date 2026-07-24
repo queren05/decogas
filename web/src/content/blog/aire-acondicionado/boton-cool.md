@@ -16,7 +16,7 @@ El modo _Cool_, también conocido como **modo de refrigeración**, es una de las
 
 Esta denominación deriva del término en inglés _Cool Down_ que en castellano se traduce como ‘enfriarse’. Es decir, esta función hace que el aire acondicionado **emita aire frío** para que la habitación alcance la temperatura que has programado con anterioridad. Es fácil de ubicar en el mando a distancia, puesto que suele venir señalado con el símbolo de un copo de nieve o la denominación “_cool_” (no confundir con _dry_, que tiene un símbolo de gota y se refiere a la función de deshumidificar).
 
-![Aire acondicionado con función Cool](/decogas/blog-img/aire-acondicionado-cool.webp)
+![Aire acondicionado con función Cool](/blog-img/aire-acondicionado-cool.webp)
 
 Debido a esto, se aconseja activar esta función durante los meses de verano, una época donde es necesario refrigerar el interior de la estancia. Así mismo, conseguiremos establecer una temperatura predeterminada que no causará un gran impacto climático y nos ayudará a ahorrar energía.
 
@@ -24,7 +24,7 @@ También podemos programar esta función para que, cuando lleguemos a casa, esta
 
 De esta forma, **no variará demasiado la temperatura** de la estancia, por lo que no costará tanto volver a activar el aire acondicionado. Además, te permite que, cuando llegues a casa del exterior, la vivienda tenga el clima adecuado.
 
-Por ello, si deseas comprar un [aire acondicionado](/decogas/aires.html), lo mejor es que te **pongas en manos de profesionales** como los de Decogas; ponte en [contacto con nosotros](/decogas/index.html#contacto) y nuestros trabajadores te ayudarán a elegir el aire acondicionado perfecto para ti.
+Por ello, si deseas comprar un [aire acondicionado](/aires.html), lo mejor es que te **pongas en manos de profesionales** como los de Decogas; ponte en [contacto con nosotros](/index.html#contacto) y nuestros trabajadores te ayudarán a elegir el aire acondicionado perfecto para ti.
 
 ### Cómo saber si tu aire acondicionado tiene el botón Cool
 
@@ -34,9 +34,9 @@ De no ser así, puedes **analizar la ficha técnica**, que se muestra con la des
 
 ## Temperatura ideal de un aire acondicionado en verano
 
-Siempre se recomienda que la **[temperatura de refrigeración](/decogas/blog/aire-acondicionado/temperatura-aire-acondicionado/) sea entre 21º a 24ºC** y que no exista una **diferencia de 12º C respecto a la temperatura del exterior** del hogar. De esta forma, no tendremos problemas de salud, no habrá tanto cambio brusco de temperatura y llevaremos a cabo un funcionamiento más eficiente.
+Siempre se recomienda que la **[temperatura de refrigeración](/blog/aire-acondicionado/temperatura-aire-acondicionado/) sea entre 21º a 24ºC** y que no exista una **diferencia de 12º C respecto a la temperatura del exterior** del hogar. De esta forma, no tendremos problemas de salud, no habrá tanto cambio brusco de temperatura y llevaremos a cabo un funcionamiento más eficiente.
 
-Para saber qué [potencia es la que necesitamos en nuestro aire acondicionado](/decogas/blog/aire-acondicionado/cuanto-consume-aire-acondicionado/) y climatice de forma eficiente la estancia donde está instalado, tenemos que **tener en cuenta las frigorías** que contiene el aparato. Tan solo bastará con calcular los m2 de la estancia por las frigorías por cada m2. Lo habitual en un aparato convencional es de 6.000 frigorías.
+Para saber qué [potencia es la que necesitamos en nuestro aire acondicionado](/blog/aire-acondicionado/cuanto-consume-aire-acondicionado/) y climatice de forma eficiente la estancia donde está instalado, tenemos que **tener en cuenta las frigorías** que contiene el aparato. Tan solo bastará con calcular los m2 de la estancia por las frigorías por cada m2. Lo habitual en un aparato convencional es de 6.000 frigorías.
 
 Este cálculo es importante, puesto que, si el aire acondicionado dispone de poca potencia, no refrigerará lo necesario de acuerdo al tamaño de la estancia. Por el contrario, si tiene demasiada potencia, alcanzará rápido la temperatura, pero eso puede conllevar un gasto energético mayor que se traduce en un aumento en la factura de la luz.
 

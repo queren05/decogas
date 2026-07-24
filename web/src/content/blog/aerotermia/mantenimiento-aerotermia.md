@@ -8,11 +8,11 @@ tagClass: "aerotermia"
 breadcrumb: "Aerotermia"
 readingTime: 6
 ---
-Si tienes un sistema de [aerotermia](/decogas/blog/que-es-la-aerotermia/) en tu hogar, es importante entender la **importancia del mantenimiento de la aerotermia** para garantizar su correcto funcionamiento y prolongar su vida útil.
+Si tienes un sistema de [aerotermia](/blog/que-es-la-aerotermia/) en tu hogar, es importante entender la **importancia del mantenimiento de la aerotermia** para garantizar su correcto funcionamiento y prolongar su vida útil.
 
 En este artículo, te proporcionaremos **toda la información necesaria sobre el mantenimiento de la aerotermia,** desde contratos de mantenimiento que puedes gestionar contactándonos, hasta consejos prácticos para mantener tu equipo en óptimas condiciones.
 
-![mantenimiento aerotermia](/decogas/blog-img/mantenimiento-aerotermia.webp)
+![mantenimiento aerotermia](/blog-img/mantenimiento-aerotermia.webp)
 
 ## ¿Qué es el mantenimiento de la aerotermia?
 
@@ -62,7 +62,7 @@ Es recomendable **optar por contratos que incluyan visitas periódicas de manten
 
 De esta manera, podrás disfrutar de un sistema eficiente y evitar posibles averías o pérdidas de rendimiento.
 
-![mantenimiento aerotermia precio mantenimiento aerotermia aerotermia mantenimiento mantenimiento aerotermia daikin contrato mantenimiento aerotermia mantenimiento aerotermia mitsubishi mantenimiento aerotermia panasonic mantenimiento aerotermia madrid ](/decogas/blog-img/mantenimiento-aerotermia-1.webp)
+![mantenimiento aerotermia precio mantenimiento aerotermia aerotermia mantenimiento mantenimiento aerotermia daikin contrato mantenimiento aerotermia mantenimiento aerotermia mitsubishi mantenimiento aerotermia panasonic mantenimiento aerotermia madrid ](/blog-img/mantenimiento-aerotermia-1.webp)
 
 ## Preguntas Frecuentes:
 
@@ -103,7 +103,7 @@ Los beneficios de realizar el mantenimiento de una aerotermia incluyen:
 
 El suelo radiante no requiere un mantenimiento especial, pero **es importante realizar una limpieza periódica de las tuberías para evitar la acumulación de suciedad o cal.**
 
-En cuento al mantenimiento de un [suelo radiante con aerotermia](/decogas/blog/aerotermia/suelo-radiante-aerotermia/) no es demasiado complicado. Sin embargo, es importante seguir algunas pautas para garantizar que el sistema funcione correctamente y dure muchos años.
+En cuento al mantenimiento de un [suelo radiante con aerotermia](/blog/aerotermia/suelo-radiante-aerotermia/) no es demasiado complicado. Sin embargo, es importante seguir algunas pautas para garantizar que el sistema funcione correctamente y dure muchos años.
 
 ### ¿Cuánto se tarda en calentar una casa con aerotermia?
 
@@ -124,9 +124,9 @@ Siguiendo estos consejos, puedes calentar tu casa con aerotermia más rápidamen
 
 En resumen, **el mantenimiento adecuado de la aerotermia es esencial para garantizar su óptimo funcionamiento y prolongar su vida útil.**
 
-Asimismo, es importante comprender la [diferencia entre una bomba de calor y un aire acondicionado](/decogas/blog/aire-acondicionado/diferencia-entre-bomba-calor-y-aire-acondicionado/), ya que cada uno tiene características y usos distintos. Además, si experimentas [problemas con la calefacción de tu hogar](/decogas/blog/caldera/no-calienta-la-calefaccion/), es crucial identificar las posibles razones por las cuales la caldera no calienta.
+Asimismo, es importante comprender la [diferencia entre una bomba de calor y un aire acondicionado](/blog/aire-acondicionado/diferencia-entre-bomba-calor-y-aire-acondicionado/), ya que cada uno tiene características y usos distintos. Además, si experimentas [problemas con la calefacción de tu hogar](/blog/caldera/no-calienta-la-calefaccion/), es crucial identificar las posibles razones por las cuales la caldera no calienta.
 
-En este sentido, en Decogas **ofrecemos servicios de mantenimiento de** [aerotermia en Madrid](/decogas/index.html#contacto), brindando la experiencia y conocimientos necesarios para asegurar el correcto funcionamiento de tu sistema.
+En este sentido, en Decogas **ofrecemos servicios de mantenimiento de** [aerotermia en Madrid](/index.html#contacto), brindando la experiencia y conocimientos necesarios para asegurar el correcto funcionamiento de tu sistema.
 
 **Podemos ayudarte a resolver cualquier problema relacionado con la aerotermia** y ofrecerte asesoramiento personalizado.
 
